@@ -1,6 +1,6 @@
 # District of Columbia v. Wesby
 
-138 S. Ct. 577 (2018)
+583 U.S. 48, 138 S. Ct. 577 (2018)
 
 Supreme Court of the United States
 
