@@ -76,6 +76,7 @@
 * [5. Search Incident to Lawful Arrest (SILA)](5.-search-incident-to-lawful-arrest-sila/README.md)
   * [Cases](5.-search-incident-to-lawful-arrest-sila/cases/README.md)
     * [Chimel v. California](5.-search-incident-to-lawful-arrest-sila/cases/chimel-v.-california.md)
+    * [United States v. Robinson](5.-search-incident-to-lawful-arrest-sila/cases/united-states-v.-robinson.md)
     * [Knowles v. Iowa](5.-search-incident-to-lawful-arrest-sila/cases/knowles-v.-iowa.md)
 * [The Automobile Exception (and More on Searches Incident to Lawful Arrest)](the-automobile-exception-and-more-on-searches-incident-to-lawful-arrest/README.md)
   * [Cases](the-automobile-exception-and-more-on-searches-incident-to-lawful-arrest/cases/README.md)
