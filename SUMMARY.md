@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-* [Introduction to Courts & the Law](README.md)
+* [Introduction to Law and the Courts](README.md)
   * [Law & Its Functions](introduction/readme/law-and-its-functions.md)
   * [Modern Legal Systems](introduction/readme/modern-legal-systems.md)
   * [Basic Classifications of Law](introduction/readme/basic-classifications-of-law.md)
