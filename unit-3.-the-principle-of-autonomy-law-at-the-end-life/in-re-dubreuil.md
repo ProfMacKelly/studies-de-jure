@@ -1,0 +1,185 @@
+# In re Dubreuil
+
+{% hint style="info" %}
+Note: This case focuses on whether a married but separated person who chooses not to receive a blood transfusion for religious reasons can be compelled to receive medical treatment on the basis that their death would cause the abandonment of four minor children.
+{% endhint %}
+
+629 So.2d 819 (Fla. 1993)&#x20;
+
+Supreme Court of Florida
+
+**In re Matter of Patricia Dubreuil.**
+
+\[...]
+
+BARKETT, Chief Judge.
+
+We review \[an appellate decision], which held that a married but separated woman who chose not to receive a blood transfusion for religious reasons could be compelled to receive medical treatment because her death would cause the abandonment of four minor children. We quash the district court's decision because there was no abandonment proved in this case to override the patient's constitutional rights.[\[1\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[1])
+
+## I. _The Facts_
+
+The parties have agreed on the essential facts in this case. In the late evening of Thursday, April 5, 1990, Patricia Dubreuil was admitted to Memorial Hospital in Hollywood, Florida, through its emergency room.[\[2\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[2]) Patricia was in an "advanced stage" of pregnancy. At the time of her admission, she did not have a private attending physician, so Memorial Hospital assigned an obstetrician from its staff to render necessary obstetrical services. Upon admission, Patricia signed a standard consent form agreeing to the infusion of blood if it were to become necessary.
+
+By the early morning hours of April 6, physicians determined that Patricia was ready to deliver her child and that a Caesarean section delivery would be appropriate. She consented to the Caesarean section, but notwithstanding the routine consent form she had signed, she withheld consent to the transfusion of blood on the basis of her values and religious convictions as a Jehovah's Witness.[\[3\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[3]) Michael Dubreuil was subsequently delivered by Caesarean section at approximately 5:30 a.m. on April 6.
+
+At the time of delivery Patricia experienced a significant loss of blood because of a severe blood condition that prevents her blood from clotting properly. Attending physicians determined that a blood transfusion was required to save her life, but Patricia still refused to consent. Because of the extreme medical emergency that existed on the morning of April 6, medical authorities, with police assistance, contacted Luc Dubreuil, Patricia's estranged husband. He had not accompanied Patricia when she went to the hospital hours earlier. When Luc arrived shortly thereafter, he consented to the blood transfusion. Physicians relied upon Luc's written consent and transfused a quantity of blood into Patricia during the morning of April 6.
+
+Luc and Patricia were still married but were separated and living apart when this incident arose. They are the natural parents of the newborn infant, Michael, and three other minor children, Cary, Tina, and Tracy, who at the time, respectively, were twelve, six, and four years old and living with their mother. Luc was not a Jehovah's Witness. Luc's consent was supported by Patricia's two brothers, who were not Jehovah's Witnesses, while Patricia's mother, who is a Jehovah's Witness, backed her daughter's decision.
+
+After the transfusion early on April 6, physicians apparently believed that transfusions would continue to be needed. Unsure of its legal obligations and responsibilities under these circumstances, the hospital petitioned the circuit court for an emergency declaratory judgment hearing to determine the hospital's authority or duty to administer blood transfusions to Patricia over her objections.[\[4\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[4]) A hearing was scheduled for 3 p.m. on April 6. The parties do not know whether the trial court was aware that a transfusion had already been given at the time of the hearing, but they believe the trial court was aware that transfusions would continue to be needed throughout the day.
+
+The trial court conducted the hearing as scheduled, attended by counsel representing Patricia and the hospital. No testimony was taken, but during the hearing the hospital's counsel received a telephone call advising that Patricia, who had been unconscious, had just become conscious, appeared lucid, and was able to communicate. When asked at that time whether she would consent to a blood transfusion, Patricia again refused.
+
+At 3:30 p.m. on April 6, the trial court orally announced judgment in favor of the hospital, allowing it to administer blood as physicians deemed necessary. Subsequently, according to an affidavit later executed by Patricia, the hospital continued to administer blood, and Patricia survived.
+
+The trial court issued a written order on April 11, concluding that
+
+> there has been no suggestion as to the means or methods of caring for the four minor children of Patricia Dubreuil, if she should die. In the absence of some suggestion or showing as to the availability of proper care and custody of the four minor children, in the event of the death of Patricia Dubreuil, this court believes that the demands of the state (and society) outweigh the wishes of Patricia Dubreuil and that every medical effort should be made to prolong her life so that she can care for her four minor children until their respective majorities. \[...][^1]
+
+Patricia moved for rehearing, indicating that she continued to object to blood transfusion and that she had an "extended family as well as friends who are willing to assist in the rearing of \[her] minor children in the event of her demise." The Circuit Court denied rehearing on April 12. The Fourth District affirmed by a 2-1 vote.
+
+Patricia sought [discretionary review](https://www.law.cornell.edu/wex/discretionary) here, arguing that the decision below violates her state and federal constitutional rights of privacy, bodily self-determination, and religious freedom. We recognize that the present case is [moot ](https://www.law.cornell.edu/wex/moot)given that Patricia received blood and was released from the hospital. However, we accept jurisdiction because the issue is one of great public importance, is capable of repetition, and otherwise might evade review. \[...][^2]
+
+## II. _The Rights of Privacy and Free Exercise of Religion_
+
+We begin our analysis with the overarching principle that article I, section 23 of the Florida Constitution guarantees that "a competent person has the constitutional right to choose or refuse medical treatment, and that right extends to all relevant decisions concerning one's health." \[...][^3] In cases like this one, the privacy right overlaps with the right to freely exercise one's religion to protect the right of a person to refuse a blood transfusion because of religious convictions. \[...][^4][\[5\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[5])
+
+In cases where these rights are litigated, a party generally seeks to invoke the power of the State, through the exercise of the court's judicial power, either to enforce the patient's rights or to prevent the patient from exercising those rights. We have set forth the following guiding principles:
+
+> The state has a duty to assure that a person's wishes regarding medical treatment are respected. That obligation serves to protect the rights of the individual from intrusion by the state unless the state has a compelling interest great enough to override this constitutional right. The means to carry out any such compelling state interest must be narrowly tailored in the least intrusive manner possible to safeguard the rights of the individual. \[...][^5]
+
+Among the factors we have identified that could be considered in determining whether to give force to a patient's right to refrain from medical treatment is the protection of innocent third parties, _see, e.g.,_ [_Browning,_ 568 So.2d at 14,](https://scholar.google.com/scholar_case?case=11166009688037016057\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#p14) often discussed in terms of "abandonment." \[...][^6][\[6\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[6])
+
+The arguments made in this Court present two basic issues. First, we must determine whether it is appropriate for a hospital to assert the state interests in an attempt to defeat a patient's decision to forgo emergency medical treatment. Second, assuming the state interests were properly presented in this case, we must decide whether Patricia's rejection of a blood transfusion constituted, as the district court found, abandonment of the couple's minor children and amounted to a state interest that was compelling enough to override her constitutional rights of privacy and religious freedom, by the least intrusive means available.
+
+## III. _Asserting the State Interests_
+
+Patricia argues that Memorial Hospital should not have intervened in her private decision to refuse a blood transfusion. She claims that the "State" has never been a party in this action, has not asserted any interest, and that the hospital has no authority to assume the State's responsibilities. The hospital argues in its brief that as a public health care facility owned and operated by a special taxing district established under Florida law, it acted as a unit of local government and stood in the shoes of the State for the purposes of asserting the state interests. However, at oral argument, the hospital expressed substantial discomfort in assuming the role of the State in such proceedings. Consequently, both parties agreed that a procedure should be established by which the State can properly intervene if there is reason to do so.
+
+In most prior Florida decisions where state interests were asserted under analogous medical emergency situations, the State Attorney joined as a party at some point in the proceedings. \[...][^7][\[7\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[7])
+
+One noteworthy exception is [_Public Health Trust of Dade County v. Wons,_ 541 So.2d 96 (Fla. 1989),](https://scholar.google.com/scholar_case?case=13209699111876816736\&q=629+So.2d+819\&hl=en\&as_sdt=6,50) where, as in this case, the state interests were argued by a public health care provider without further intervention of the State. In discussing the need for court proceedings and the requisite burden of proof, we said "it will be necessary for hospitals that wish to contest a patient's refusal of treatment to commence court proceedings and sustain the heavy burden of proof that the state's interest outweighs the patient's constitutional rights." [_Id._ at 98](https://scholar.google.com/scholar_case?case=13209699111876816736\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#p98). We merely assumed, based on the facts in that case, that the health care provider would raise the state interests. Until today, we were not asked to determine whether it is appropriate for a health care provider, as opposed to another party, to assert the state interests in the first instance.
+
+We conclude that a health care provider must not be forced into the awkward position of having to argue zealously against the wishes of its own patient, seeking deference to the wishes or interests of nonpatients — in this case Patricia's husband, her brothers, the children, and the State itself. Patients do not lose their right to make decisions affecting their lives simply by entering a health care facility. Despite concededly good intentions, a health care provider's function is to provide medical treatment in accordance with the patient's wishes and best interests, not as a "substitute parent" supervening the wishes of a competent adult. Accordingly, a health care provider must comply with the wishes of a patient to refuse medical treatment unless ordered to do otherwise by a court of competent jurisdiction. A health care provider cannot act on behalf of the State to assert the state interests in these circumstances. This is an appropriate role for the State to play directly, not through the legal artifice of a special taxing district.
+
+"Additionally, it should be recognized that in many instances, the hospital's agents will understandably be primarily interested in protecting the hospital's interests, and may not represent all of the factors recognized in _Wons._" \[...][^8] Moreover, placing the State's burden on the health care provider would be even more inappropriate where the health care provider is a private, rather than public, entity.
+
+Therefore, we recede from _Wons_ to the extent that it may be read to put any burden of proof on the health care provider with respect to asserting the state interests. That heavy burden must be borne directly by the State.
+
+We recognize that in situations like these, health care providers generally have sought judicial intervention to determine their rights and obligations to avoid liability. In [_John F. Kennedy Mem. Hosp., Inc. v. Bludworth_ ](https://scholar.google.com/scholar_case?case=15285176903291092996\&q=629+So.2d+819\&hl=en\&as_sdt=6,50)\[...][^9] , we held that health care providers, when terminating life support in accordance with their patient's wishes, are relieved of potential civil and criminal liability as long as they act in good faith, and that no prior court approval of the health care provider's action is required. We believe the same principles apply here. When a health care provider, acting in good faith, follows the wishes of a competent and informed patient to refuse medical treatment, the health care provider is acting appropriately and cannot be subjected to civil or criminal liability.
+
+Although this procedure absolves the health care facility of any obligation to go to court, we recognize the need for the State and interested parties to have the opportunity to seek judicial intervention if appropriate. Accordingly, a health care provider wishing to override a patient's decision to refuse medical treatment must immediately provide notice to the State Attorney presiding in the circuit where the controversy arises, and to interested third parties known to the health care provider. The extent to which the State Attorney chooses to engage in a legal action, if any, is discretionary based on the law and facts of each case. This procedure should eliminate needless litigation by health care providers while honoring the patient's wishes and giving other interested parties the right to intervene if there is a good faith reason to do so. \[...][^10]
+
+Even though the State did not properly join this action, the hospital followed _Wons_ and stood in the State's shoes, assuming the heavy burden of proving that the prevention of abandonment outweighed Patricia Dubreuil's constitutional right to refuse medical treatment. The court below accepted the hospital's argument and adjudicated the case on the merits. Accordingly, we address the merits of the district court's decision.
+
+## IV. _Protecting Innocent Third Parties_
+
+The state interest raised in this case is the protection of innocent third parties, which the parties and courts in other jurisdictions under similar circumstances have termed the prevention of abandonment of minor children. Until _Dubreuil,_ no other reported Florida appellate decision had found abandonment in this context. The case most closely on point in this Court's jurisprudence is _Wons,_ where abandonment was discussed but not found.[\[8\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[8])
+
+Norma Wons, a 38-year-old woman, had been suffering from dysfunctional uterine bleeding, and physicians said she could die without a blood transfusion. However, she refused based on her religious convictions as a Jehovah's Witness. Norma lived with her husband Henrich and their two minor children, who were twelve and fourteen years of age. Henrich was also a Jehovah's Witness and supported Norma's decision. Henrich worked to support the family, and during Norma's illness the children had been cared for in Henrich's absence by Norma's sixty-two-year-old mother, who was in good health. Testimony established that if Norma were to die, her mother and two brothers, who also were Jehovah's Witnesses, would assist in taking care of the children. The trial court ruled that Norma's refusal would deny the children the intangible right to be reared by two loving parents, and the state interest in protecting the two minor children overrode Norma's right to refuse lifesaving medical treatment. The Third District reversed, finding that there was no showing of an abandonment of the minor children to override Norma's constitutional rights. The district court said that
+
+> the societal interest in protecting Mrs. Wons' two minor children as recognized in \[[_Satz v. Perlmutter_ ](https://scholar.google.com/scholar_case?case=16955207479377222497\&q=Satz+v.+Perlmutter,+379+So.2d+359\&hl=en\&as_sdt=6,50) {...}[^11]] — although a vital and troubling consideration in this case — cannot, in our view, override Mrs. Wons' constitutional right to refuse a blood transfusion under the circumstances of this case. This is so because, simply put, Mrs. Wons' probable, but not certain, demise by refusing the subject blood transfusions will not result in an abandonment of her two minor children. According to the undisputed testimony below, she has a tightly knit family unit, all practicing Jehovah's Witnesses, all of whom fully support her decision to refuse a blood transfusion, all of whom will care for and rear the two minor children in the event she dies. Her husband will, plainly, continue supporting the two children with the aid of her two brothers; her mother, a sixty-two-year-old woman in good health, will also care for the children while her husband is at work. Without dispute, these children will not become wards of the state and will be reared by a loving family. [_Wons,_ 500 So.2d at 688](https://scholar.google.com/scholar_case?case=8135014301999828869\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#p688).
+
+This Court generally approved the district court's rationale and held that the state interest in maintaining a home with two parents for the minor children does not override a patient's constitutional rights of privacy and religion to refuse a potentially lifesaving blood transfusion. [_Wons,_ 541 So.2d at 98](https://scholar.google.com/scholar_case?case=13209699111876816736\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#p98).
+
+Significantly, as then-Chief Justice Ehrlich noted, there was no abandonment proved in that case, so the protection of innocent third parties could not have been a "compelling interest sufficient to override the competent patient's right to refuse treatment." \[...][^12] Because there was no abandonment in _Wons,_ we did not decide in that case "whether evidence of abandonment alone would be sufficient in itself to override the competent patient's constitutional rights." \[...][^13]
+
+The trial court in _Dubreuil_ found abandonment and held it to be an overriding state interest. The court distinguished _Wons,_ noting that Luc no longer lived with Patricia and the children; Luc was not a Jehovah's Witness and consented to the transfusion; and Patricia presented no evidence of how the children would be cared for in the event of her death.
+
+In a split decision, the district court affirmed by reasoning that _Wons_ put the burden on the hospital to prove abandonment, and under the emergency circumstances and limited evidence presented, the hospital carried its burden. The district court focused on the fact that no evidence was presented about Luc, his ability to care for the couple's children, or the ability or willingness of any others to help care for the children in the event of Patricia's death. The court rejected the argument that a presumption against finding abandonment should exist in the absence of firsthand evidence to the contrary, suggesting that if any presumption were to apply, it would be a presumption in favor of finding abandonment given the ages of the children and the preexisting custody conditions.
+
+The district court concluded that because there was no showing that the children of tender years would be protected in the event of their parent's death, the trial court did not abuse its discretion by concluding that "there was an overriding interest in the state as [parens patriae](https://www.law.cornell.edu/wex/parens_patriae) that out-balances the mother's free exercise and privacy right to reject the transfusion." \[...][^14]
+
+In dissent, Judge Warner observed that Luc, as the natural father, is the children's legal guardian and is responsible for their care as a matter of Florida law \[...][^15]. Judge Warner relied on our decision in _Wons_ to conclude that because the hospital failed to present compelling evidence that abandonment would result from the rejection of medical treatment, no compelling state interest was established to override Patricia's decision. \[...][^16]
+
+In her argument to this Court, Patricia urges us to eliminate from this line of cases any consideration given to the state interest in protecting innocent third parties from abandonment, claiming that it is inherently unsound and dangerous and cannot be consistently applied. She argues, for example, that it will lead beyond blood transfusions to major medical procedures ranging from Caesarean sections to heart bypass surgery; or it will allow courts to compel a pregnant Catholic woman who is the single parent of a minor child to have an abortion against her religious beliefs if taking the pregnancy to term would endanger the mother's life. She also argues that the rule eventually will go well beyond the protection of minor children, compelling a single adult, who cares for her dependent elderly parent or grandparent, to receive unwanted medical treatment in order to advance the state interest in protecting the elderly dependent.
+
+Patricia's argument has some merit. Parenthood, in and of itself, does not deprive one of living in accord with one's own beliefs. Society does not, for example, disparage or preclude one from performing an act of bravery resulting in the loss of that person's life simply because that person has parental responsibilities.[\[9\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[9])
+
+Nonetheless, we decline at this time to rule out the possibility that some case not yet before us may present a compelling interest to prevent abandonment.[\[10\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[10]) Therefore, we think the better course is the one we took in _Wons,_ where we held that "these cases demand individual attention" and cannot be covered by a blanket rule. \[...][^17]
+
+Next, Patricia argues that even if the prevention of abandonment may be a valid state interest, there was no proof in this record that an abandonment would have occurred had Patricia died after refusing medical treatment. We agree.
+
+Both the circuit and district courts failed to properly consider the father of the four children, Luc Dubreuil. Under Florida law, as Judge Warner's dissent correctly observed, a child with _two_ living natural parents has _two_ natural guardians who share equally the responsibilities of parenting. "If one parent dies, the natural guardianship shall pass to the surviving parent, and the right shall continue even though the surviving parent remarries. If the marriage between the parents is dissolved, the natural guardianship shall belong to the parent to whom the custody of the child is awarded." \[...][^18] Thus, Florida law unambiguously presumes that had Patricia died under these circumstances, Luc would have become the sole legal guardian of the couple's four minor children and would have been given full responsibility for their care in the absence of any contravening legal agreement or order.[\[11\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[11])
+
+The State could rebut this strong legal presumption only by presenting clear and convincing evidence that Luc would not properly assume responsibility for the children under the circumstances.[\[12\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[12]) \[...][^19] However, there was absolutely no such evidence presented in this case, as the record is silent as to Luc's ability or desire to care for the children. The record shows only that Luc and Patricia were married but separated, their minor children were under Patricia's care, Luc did not accompany his wife to the hospital, he was readily available when called to Patricia's bedside on the morning of April 6, and he was available to "consent"[\[13\]](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50#\[13]) to an emergency treatment for Patricia.
+
+Likewise, there was no evidence presented as to whether anyone else, including the families of Luc and Patricia, would take responsibility for the children. To the contrary, Patricia said in an affidavit on rehearing that extended family members and friends were willing to assist in raising the children in the event of Patricia's death.
+
+Moreover, we do not know if Luc or any other interested party was given the opportunity to address these issues. According to the parties' stipulation, neither Luc nor any other family members attended the emergency hearing, and the record contains no evidence that notice of the hearing was provided. \[...][^20]
+
+We conclude that the district court erred in holding that sufficient evidence was presented to satisfy the heavy burden required to override the patient's constitutional right to refuse medical treatment. The State alone bore that burden, which the hospital, standing in the State's shoes, did not carry.
+
+Moreover, the district court erred by suggesting that absent firsthand proof, the law should presume abandonment under these circumstances. To the contrary, the law presumes that when one parent is no longer able to care for the couple's children, the other parent will do so. The district court's decision effectively presumed that Luc had abandoned his children when he separated from his wife. That presumption is unacceptable. The state cannot disparage a person's parental rights nor excuse a person's parental responsibilities based on martial status alone. \[...][^21]
+
+Likewise, although not intended by the district court, its rationale could be read by some to perpetuate the damaging stereotype that a mother's role is one of caregiver, and the father's role is that of an apathetic, irresponsible, or unfit parent. \[...][^22] We do not want the district court's rationale misinterpreted to reinforce these outdated ideas in a manner that effectively denies a woman her constitutional right to refuse medical treatment as guaranteed by \[...] the Florida Constitution. Such an interpretation would also undermine the principle of shared parental responsibility, to which this state adheres. \[...][^23]
+
+For the foregoing reasons, we quash the district court's decision.
+
+It is so ordered.
+
+\[Dissent omitted.]
+
+***
+
+Tags: autonomy, self-determination, informed consent, free exercise of religion, constitutional rights, right of privacy, blood transfusion, right to refuse treatment, right to refuse medical treatment
+
+***
+
+<details>
+
+<summary><mark style="color:red;"><strong>Attributions and Licensing</strong></mark></summary>
+
+Editing to the [original](https://scholar.google.com/scholar_case?case=15697828236376872986\&q=629+So.2d+819\&hl=en\&as_sdt=6,50), excluding any original footnotes (hyperlinked or otherwise), by Matthew L. Mac Kelly. Judicial decisions are not subject to copyright protection and are in the public domain. _See Georgia v. Public.Resource.Org, Inc_., [140 S.Ct. 1498](https://scholar.google.com/scholar_case?case=8288711378870515248\&q=Georgia+et+al.+v.+Public.Resource.Org,+Inc.\&hl=en\&as_sdt=6,50) (2020). This page is in the public domain.
+
+</details>
+
+
+
+
+
+[^1]: _In re Dubreuil,_ No. 90-10561(21), Order at 10 (Fla. 17th Cir.Ct., Apr. 11, 1990).&#x20;
+
+[^2]: _See In re Guardianship of Browning,_ 568 So.2d 4, 8 n. 1 (Fla. 1990); _In re T.W.,_ 551 So.2d 1186, 1189 (Fla. 1989); _Holly v. Auld,_ 450 So.2d 217, 218 n. 1 (Fla. 1984); _In re Dubreuil,_ 603 So.2d at 540; _Wons v. Public Health Trust of Dade County,_ 500 So.2d 679, 684 (Fla. 3d DCA 1987), _approved,_ 541 So.2d 96 (Fla. 1989).
+
+[^3]: _In re Guardianship of Browning,_ 568 So.2d 4, 11 (Fla. 1990); _see also In re T.W.,_ 551 So.2d 1186 (Fla. 1989); _Public Health Trust of Dade County v. Wons,_ 541 So.2d 96 (Fla. 1989)
+
+[^4]: Art. I, §§ 3, 23, Fla. Const.; _Wons._
+
+[^5]: _Browning,_ 568 So.2d at 13-14 (footnote omitted); _see also Wons,_ 541 So.2d at 96; _In re T.W.,_ 551 So.2d at 1192-93.&#x20;
+
+[^6]: &#x20;_See, e.g.,_ _Wons,_ 541 So.2d at 97 (Ehrlich, C.J., concurring specially).
+
+[^7]: _See_ _In re Guardianship of Browning,_ 568 So.2d 4 (Fla. 1990); _John F. Kennedy Memorial Hosp., Inc. v. Bludworth,_ 452 So.2d 921 (Fla. 1984); _Satz v. Perlmutter,_ 379 So.2d 359 (Fla. 1980); _In re Guardianship of Barry,_ 445 So.2d 365 (Fla. 2d DCA 1984); _St. Mary's Hosp. v. Ramsey,_ 465 So.2d 666 (Fla. 4th DCA 1985).
+
+[^8]: &#x20;[_Dubreuil,_ 603 So.2d at 541](https://scholar.google.com/scholar_case?case=11366489029086154274\&q=629+So.2d+819\&hl=en\&as_sdt=6,50).&#x20;
+
+[^9]: [452 So.2d 921, 926 (Fla. 1984)](https://scholar.google.com/scholar_case?case=15285176903291092996\&q=629+So.2d+819\&hl=en\&as_sdt=6,50)
+
+[^10]: _Cf._ _In re Guardianship of Browning,_ 568 So.2d 4, 16 (Fla. 1990) (courts are open to adjudicate legitimate questions pertaining to written or oral instructions expressing a patient's wishes).
+
+[^11]: [379 So.2d 359](https://scholar.google.com/scholar_case?case=16955207479377222497\&q=Satz+v.+Perlmutter,+379+So.2d+359\&hl=en\&as_sdt=6,50) (Fla. 1980). _Cf. In re Guardianship of Browning,_ 568 So.2d 4, 16 (Fla. 1990) (courts are open to adjudicate legitimate questions pertaining to written or oral instructions expressing a patient's wishes).
+
+[^12]: _Id._ at 99 (Ehrlich, C.J., concurring specially).
+
+[^13]: _Id._ at 99 n. 2 (Ehrlich, C.J., concurring specially).
+
+[^14]: [_Dubreuil,_ 603 So.2d at 541](https://scholar.google.com/scholar_case?case=11366489029086154274\&q=629+So.2d+819\&hl=en\&as_sdt=6,50).
+
+[^15]: under section 744.301, Florida Statutes (1991)
+
+[^16]: &#x20;[603 So.2d at 546](https://scholar.google.com/scholar_case?case=11366489029086154274\&q=629+So.2d+819\&hl=en\&as_sdt=6,50)
+
+[^17]: &#x20;[_Wons,_ 541 So.2d at 98](https://scholar.google.com/scholar_case?case=13209699111876816736\&q=629+So.2d+819\&hl=en\&as_sdt=6,50).
+
+[^18]: § 744.301(1), Fla. Stat. (1991).&#x20;
+
+[^19]: _Cf. Padgett v. Department of Health & Rehabilitative Servs.,_ 577 So.2d 565, 571 (Fla. 1991) (parental rights may be permanently terminated under Florida law upon showing of clear and convincing evidence that parent abused, neglected, or abandoned a child)
+
+[^20]: _Cf. Fosmire v. Nicoleau,_ 75 N.Y.2d 218, 551 N.Y.S.2d 876, 879, 551 N.E.2d 77, 80 (N.Y. 1990) (trial court erred by signing _ex parte_ order compelling blood transfusion without giving patient or her husband notice and the opportunity to be heard even though only three hours lapsed between making the application and signing of the order, and an additional six hours before the order was executed).
+
+[^21]: _See_ _Stanley v. Illinois,_ 405 U.S. 645, 651, 92 S.Ct. 1208, 1213, 31 L.Ed.2d 551 (1972).
+
+[^22]: _See, e.g.,_ Sylvia A. Law, _Rethinking Sex and the Constitution,_ 132 U.Pa.L.Rev. 955, 995-98 (1984); _see also Frontiero v. Richardson,_ 411 U.S. 677, 685, 93 S.Ct. 1764, 1769, 36 L.Ed.2d 583 (1973) (recognizing that "gross, stereotyped distinctions between the sexes" in the law effectively discriminate against the rights of women). The law has evolved to move away from inappropriate gender-based distinctions. _See, e.g., Caban v. Mohammed,_ 441 U.S. 380, 99 S.Ct. 1760, 60 L.Ed.2d 297 (1979) (holding unconstitutional a state statute that treated parental rights of unwed men and unwed women differently); _Frontiero_ (holding unconstitutional a federal statute that treated husbands and wives of military service personnel differently).
+
+[^23]: § 61.13(2)(b), Fla. Stat. (1991); _see, e.g., Mize v. Mize,_ 621 So.2d 417 (Fla. 1993).
