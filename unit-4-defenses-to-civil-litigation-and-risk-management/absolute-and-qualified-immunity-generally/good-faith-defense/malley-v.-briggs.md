@@ -1,6 +1,6 @@
 # Malley v. Briggs
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/111611/malley-v-briggs/?type=o\&q=\&type=o\&order\_by=score%20desc\&stat\_Precedential=on\&citation=475%20U.S.%20335).]
+\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/111611/malley-v-briggs/?type=o\&q=\&type=o\&order_by=score%20desc\&stat_Precedential=on\&citation=475%20U.S.%20335).]
 
 ***
 
@@ -108,12 +108,11 @@ _**It is so ordered.**_
 
 [^2]: This is the federal trial court in Rhode Island (which only has one federal trial court).
 
-[^3]: Latin for "among other things."[](https://www.law.cornell.edu/wex/inter\_alia)
+[^3]: Latin for "among other things."[](https://www.law.cornell.edu/wex/inter_alia)
 
-[^4]: A directed verdict is a ruling entered by a trial judge after determining that there is no legally sufficient [evidentiary](https://www.law.cornell.edu/wex/evidentiary) basis for a [reasonable](https://www.law.cornell.edu/wex/reasonable) [jury](https://www.law.cornell.edu/wex/jury) to reach a different conclusion.[\[\*\]](https://www.law.cornell.edu/wex/directed\_verdict)
+[^4]: A directed verdict is a ruling entered by a trial judge after determining that there is no legally sufficient [evidentiary](https://www.law.cornell.edu/wex/evidentiary) basis for a [reasonable](https://www.law.cornell.edu/wex/reasonable) [jury](https://www.law.cornell.edu/wex/jury) to reach a different conclusion.[\[\*\]](https://www.law.cornell.edu/wex/directed_verdict)
 
-    \
-
+    <br>
 
 [^5]: This is the federal intermediate appellate court overseeing appeals from federal trial court decisions arising from Rhode Island, Maine, Massachusetts, New Hampshire, and Puerto Rico.
 
@@ -123,7 +122,7 @@ _**It is so ordered.**_
 
 [^8]: This is how the Supreme Court defined a "complaining witness" in 1992. _Wyatt v. Cole_, [504 U.S. 158](https://www.courtlistener.com/opinion/112733/wyatt-v-cole/), 164-165 (1992). Thus, a complaining witness is not the same as an ordinary witness (such as witnesses in grand jury or trial proceedings, who receive absolute immunity).
 
-[^9]: A summary judgment is a judgment entered by a court for one party and against another party without a full trial.[\[\*\]](https://www.law.cornell.edu/wex/summary\_judgment)
+[^9]: A summary judgment is a judgment entered by a court for one party and against another party without a full trial.[\[\*\]](https://www.law.cornell.edu/wex/summary_judgment)
 
 [^10]: _Briscoe_ v. _LaHue,_ [460 U.S. 325](https://www.courtlistener.com/opinion/110885/briscoe-v-lahue/), 334-335 (1983)
 

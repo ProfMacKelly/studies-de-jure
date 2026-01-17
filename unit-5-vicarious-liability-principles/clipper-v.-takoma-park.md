@@ -1,6 +1,6 @@
 # Clipper v. Takoma Park
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/8978913/clipper-v-takoma-park/?q=\&type=o\&order\_by=score%20desc\&citation=876%20f.2d%2017).]
+\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/8978913/clipper-v-takoma-park/?q=\&type=o\&order_by=score%20desc\&citation=876%20f.2d%2017).]
 
 ***
 
@@ -42,7 +42,7 @@ In [_Wellington v. Daniels_](#user-content-fn-7)[^7]_,_ we declined to adopt the
 
 > Only those deficiencies in police training policies that result from policymaker fault of at least the degree of deliberate indifference to or reckless disregard to the constitutional rights of persons within police force jurisdiction can give rise to municipal liability.
 
-\[\*][^11] In a recent decision, [_City of Canton v. Harris_](#user-content-fn-12)[^12]_, t_he Supreme Court adopted the “deliberate indifference” standard for determining when a municipality may be held liable in “failure to train” cases.
+\[\*][^11] In a recent decision, [_City of Canton v. Harris_](#user-content-fn-12)[^12]_, &#x74;_&#x68;e Supreme Court adopted the “deliberate indifference” standard for determining when a municipality may be held liable in “failure to train” cases.
 
 The district court in the case we now consider carefully instructed the jury that:
 

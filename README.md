@@ -39,7 +39,7 @@ Also, instead of traditional footnotes or endnotes, many references and citation
 To find specific topics or keywords within the sourcebook, use the **Ask or Search** bar, usually located in the top-right corner of each page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using Gitbook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>** **<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
+<mark style="color:red;">**Click the link to learn more about using Gitbook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
 {% endhint %}
 
 #### AI Functionality
@@ -64,7 +64,7 @@ At the bottom of the page, usually in the lower-right side, you may toggle betwe
 
 [<img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-zero.f5450231.svg" alt="" data-size="line">](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
 
-This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [Gitbook](https://www.gitbook.com/?utm\_source=content\&utm\_medium=trademark\&utm\_campaign=NkEGS7hzeqa35sMXQZ4X). Portions of the [How to Use This Sourcebook](./#how-to-use-this-sourcebook) section were written with the aid of [GitBook AI](https://docs.gitbook.com/content-editor/editing-content/write-and-edit-with-ai).
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [Gitbook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X). Portions of the [How to Use This Sourcebook](./#how-to-use-this-sourcebook) section were written with the aid of [GitBook AI](https://docs.gitbook.com/content-editor/editing-content/write-and-edit-with-ai).
 
 </details>
 

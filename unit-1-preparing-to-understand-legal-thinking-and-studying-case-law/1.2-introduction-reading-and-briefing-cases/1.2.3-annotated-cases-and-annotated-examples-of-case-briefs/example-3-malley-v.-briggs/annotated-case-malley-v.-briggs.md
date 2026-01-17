@@ -1,6 +1,6 @@
 # Annotated Case: Malley v. Briggs
 
-_\[Note: Edited from the_ [_<mark style="color:blue;">original</mark>_](https://www.courtlistener.com/opinion/111611/malley-v-briggs/?type=o\&q=\&type=o\&order\_by=score%20desc\&stat\_Precedential=on\&citation=475%20U.S.%20335)_. This case is not fully annotated like the previous two cases. Here, highlights are hints related to particular portions of the case brief.]_
+_\[Note: Edited from the_ [_<mark style="color:blue;">original</mark>_](https://www.courtlistener.com/opinion/111611/malley-v-briggs/?type=o\&q=\&type=o\&order_by=score%20desc\&stat_Precedential=on\&citation=475%20U.S.%20335)_. This case is not fully annotated like the previous two cases. Here, highlights are hints related to particular portions of the case brief.]_
 
 ***
 
@@ -122,18 +122,17 @@ So, the Supreme Court remanding "the case ... for further proceedings consistent
 
 [^1]: The respondent is the party against whom a petition is filed, especially one on appeal. The respondent can be either the [plaintiff](https://www.law.cornell.edu/Plaintiff) or the [defendant](https://www.law.cornell.edu/Defendant) from the court below, as either party can appeal the decision thereby making themselves the petitioner and their adversary the respondent.[\[\*\]](https://www.law.cornell.edu/wex/respondent)
 
-[^2]: The petitioner is the [party](https://www.law.cornell.edu/wex/party) who presents a [petition](https://www.law.cornell.edu/wex/petition) or [motion](https://www.law.cornell.edu/wex/motion) to the [court](https://www.law.cornell.edu/wex/court). The term is frequently used to describe the [appellant](https://www.law.cornell.edu/wex/appellant) in an [appeal](https://www.law.cornell.edu/wex/appeal), where the petitioner is usually the party who lost in the [lower court](https://www.law.cornell.edu/wex/lower\_court). This can be either the [plaintiff](https://www.law.cornell.edu/wex/plaintiff) or [defendant](https://www.law.cornell.edu/wex/defendant) from the court below, as either of the parties can present the case to a higher court for further [proceedings](https://www.law.cornell.edu/wex/proceeding). The opposite of the petitioner is the [respondent](https://www.law.cornell.edu/wex/respondent), against whom a petition or motion is filed.[\[\*\]](https://www.law.cornell.edu/wex/petitioner)
+[^2]: The petitioner is the [party](https://www.law.cornell.edu/wex/party) who presents a [petition](https://www.law.cornell.edu/wex/petition) or [motion](https://www.law.cornell.edu/wex/motion) to the [court](https://www.law.cornell.edu/wex/court). The term is frequently used to describe the [appellant](https://www.law.cornell.edu/wex/appellant) in an [appeal](https://www.law.cornell.edu/wex/appeal), where the petitioner is usually the party who lost in the [lower court](https://www.law.cornell.edu/wex/lower_court). This can be either the [plaintiff](https://www.law.cornell.edu/wex/plaintiff) or [defendant](https://www.law.cornell.edu/wex/defendant) from the court below, as either of the parties can present the case to a higher court for further [proceedings](https://www.law.cornell.edu/wex/proceeding). The opposite of the petitioner is the [respondent](https://www.law.cornell.edu/wex/respondent), against whom a petition or motion is filed.[\[\*\]](https://www.law.cornell.edu/wex/petitioner)
 
 [^3]: This is a state-level (i.e., not federal) trial court in Rhode Island).
 
 [^4]: This is the federal trial court in Rhode Island (which only has one federal trial court).
 
-[^5]: Latin for "among other things."[](https://www.law.cornell.edu/wex/inter\_alia)
+[^5]: Latin for "among other things."[](https://www.law.cornell.edu/wex/inter_alia)
 
-[^6]: A directed verdict is a ruling entered by a trial judge after determining that there is no legally sufficient [evidentiary](https://www.law.cornell.edu/wex/evidentiary) basis for a [reasonable](https://www.law.cornell.edu/wex/reasonable) [jury](https://www.law.cornell.edu/wex/jury) to reach a different conclusion.[\[\*\]](https://www.law.cornell.edu/wex/directed\_verdict)
+[^6]: A directed verdict is a ruling entered by a trial judge after determining that there is no legally sufficient [evidentiary](https://www.law.cornell.edu/wex/evidentiary) basis for a [reasonable](https://www.law.cornell.edu/wex/reasonable) [jury](https://www.law.cornell.edu/wex/jury) to reach a different conclusion.[\[\*\]](https://www.law.cornell.edu/wex/directed_verdict)
 
-    \
-
+    <br>
 
 [^7]: This is the federal intermediate appellate court overseeing appeals from federal trial court decisions arising from Rhode Island, Maine, Massachusetts, New Hampshire, and Puerto Rico.
 
@@ -141,7 +140,7 @@ So, the Supreme Court remanding "the case ... for further proceedings consistent
 
 [^9]: A Latin term meaning "above".  A word often used in legal writing to refer the reader to a portion that comes in earlier part of the document, case, or book.  The opposite of [infra](https://www.law.cornell.edu/wex/infra).[\[\*\]](https://www.law.cornell.edu/wex/supra)
 
-[^10]: A summary judgment is a judgment entered by a court for one party and against another party without a full trial.[\[\*\]](https://www.law.cornell.edu/wex/summary\_judgment)
+[^10]: A summary judgment is a judgment entered by a court for one party and against another party without a full trial.[\[\*\]](https://www.law.cornell.edu/wex/summary_judgment)
 
 [^11]: _Briscoe_ v. _LaHue,_ [460 U.S. 325](https://www.courtlistener.com/opinion/110885/briscoe-v-lahue/), 334-335 (1983)
 
