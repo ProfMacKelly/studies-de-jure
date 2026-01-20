@@ -1,2 +1,6 @@
-# 4. Arrests
+---
+hidden: true
+---
+
+# Arrests
 

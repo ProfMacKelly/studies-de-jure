@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Miranda Issues
 
 ### **Cases for Class Discussion**
