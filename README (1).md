@@ -1,5 +1,7 @@
 # 1. Introduction
 
+## Contents
+
 {% stepper %}
 {% step %}
 {% content-ref url="1.-introduction/key-constitutional-text.md" %}
