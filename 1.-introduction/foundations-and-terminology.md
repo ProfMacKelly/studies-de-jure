@@ -10,7 +10,7 @@ Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezpr
 * Watch: "Reasonable Expectation of Privacy," below.
 
 {% embed url="https://youtu.be/5rT7G_11lSs" %}
-Reasonable Expectation of Privacy. [See video transcript here](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).
+[_Reasonable Expectation of Privacy_](https://youtu.be/5rT7G_11lSs) by [LawShelf](https://www.youtube.com/@LawShelf). (See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)&#x20;
 {% endembed %}
 
 ## Introduction to Probable Cause
@@ -22,7 +22,7 @@ The Fourth Amendment provides that “no Warrant shall issue but upon probable c
 Watch: "The Fourth Amendment: The Requirement of Probable Cause," below.
 
 {% embed url="https://www.youtube.com/watch?index=14&list=PL47Z0ywCYIyx8wrmuCJxqBL8HeUpNQrc7&pp=iAQB&v=xCFwt_HQ_MU" %}
-The Fourth Amendment: The Requirement of Probable Cause. [See video transcript here](https://www.lawshelf.com/shortvideoscontentview/the-fourth-amendment-the-requirement-of-probable-cause).
+[_The Fourth Amendment: The Requirement of Probable Cause_](https://youtu.be/xCFwt_HQ_MU) by [LawShelf](https://www.youtube.com/@LawShelf). (See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)
 {% endembed %}
 
 ### Defining Probable Cause
