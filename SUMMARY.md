@@ -63,3 +63,4 @@
 ***
 
 * [BACK MATTER](back-matter.md)
+* [Glossary](glossary.md)
