@@ -1,6 +1,6 @@
 # Business Law I: A Sourcebook
 
-_Business Law I: A Sourcebook_ is an [open educational resource](#user-content-fn-1)[^1] that serves as a brief survey of legal principles that business professionals must appreciate because of the interdependent relationship between the law and business decisions. The resource is intended for undergraduate students enrolled in Business Law I at [Concordia University Wisconsin](https://www.cuw.edu/). Depending on an institution's prescribed learning objectives, this resource may fit the needs of undergraduate courses in business law and the legal environment of business.
+_Business Law I: A Sourcebook_ is an [open educational resource](#user-content-fn-1)[^1] that serves as a brief survey of legal principles that business professionals must appreciate because of the interdependent relationship between the law and business decisions. The resource is intended for undergraduate students. Depending on an institution's prescribed learning objectives, this resource may fit the needs of undergraduate courses in business law and the legal environment of business.
 
 {% stepper %}
 {% step %}
