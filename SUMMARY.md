@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Business Law I: A Sourcebook](README.md)
+* [Front Matter](front-matter.md)
 * [Attributions/Licensing, Hints, Videos ...](attributions-licensing-hints-videos-....md)
 * [1. Introduction](introduction/README.md)
   * [1.2 Preparing to Understand Legal Thinking, Reasoning & Analysis](introduction/1.2-preparing-to-understand-legal-thinking-reasoning-and-analysis/README.md)
@@ -10,7 +11,7 @@
     * [1.2.4 Avoid Bald Assertions](introduction/1.2-preparing-to-understand-legal-thinking-reasoning-and-analysis/1.2.4-avoid-bald-assertions.md)
     * [1.2.5 Issue Spotting](introduction/1.2-preparing-to-understand-legal-thinking-reasoning-and-analysis/1.2.5-issue-spotting.md)
   * [Endnotes: Landing Page, Preface & Introduction](introduction/endnotes-landing-page-and-introduction.md)
-* [Introduction to the Law and Legal Systems](introduction-to-american-law-and-the-legal-system/README.md)
+* [Introduction to the Law & Legal Systems](introduction-to-american-law-and-the-legal-system/README.md)
   * [courts?](introduction-to-american-law-and-the-legal-system/courts.md)
   * [Why Legal Literacy is Fundamental to Business Success](introduction-to-american-law-and-the-legal-system/1.1-the-relationship-between-business-and-law.md)
   * [Law and Its Functions](introduction-to-american-law-and-the-legal-system/2.2-law-and-its-functions.md)
