@@ -53,7 +53,7 @@ Also, many references and citations to original source content are located in th
 To find specific topics or keywords within the sourcebook, use the **Search** bar, usually located in the top-right corner of each page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using Gitbook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
+<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
 {% endhint %}
 
 ### Day/Night Mode
@@ -67,6 +67,18 @@ At the bottom of the page, usually in the lower-right side, you may toggle betwe
 {% hint style="danger" %}
 _**This book contains legal information intended for educational purposes only and should not be construed as legal advice; please consult a qualified legal professional before making legal decisions.**_
 {% endhint %}
+
+***
+
+<details>
+
+<summary>License</summary>
+
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).&#x20;
+
+</details>
+
+
 
 [^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)). 
 
