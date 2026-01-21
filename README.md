@@ -1,6 +1,8 @@
 # Criminal Procedure: A Sourcebook
 
-_Criminal Procedure: A Sourcebook_ is an [open educational resource](#user-content-fn-1)[^1] that serves as a brief survey of legal principles that business professionals must appreciate because of the interdependent relationship between the law and business decisions. The resource is intended for undergraduate students. Depending on an institution's prescribed learning objectives, this resource may fit the needs of undergraduate courses in business law and the legal environment of business.
+_Criminal Procedure: A Sourcebook_ is an [open educational resource](#user-content-fn-1)[^1], focusing on the balance between the public interest in controlling, investigating, and prosecuting criminal conduct and the private interest of individuals in protecting their reasonable expectation of privacy and protecting against arbitrary government deprivations of liberty and property.
+
+The resource is intended for undergraduate students. Depending on an institution's prescribed learning objectives, this resource may fit the needs of undergraduate courses criminal procedure and constitutional law in criminal justice.
 
 {% stepper %}
 {% step %}
