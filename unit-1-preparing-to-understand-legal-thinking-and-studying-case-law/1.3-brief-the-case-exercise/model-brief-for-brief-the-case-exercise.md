@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Model Brief for "Brief the Case" Exercise
 
 ## _Estate of Cavanaugh v. Andrade_, 202 Wis.2d 290, 550 N.W.2d 103 (1996)&#x20;
@@ -45,7 +41,7 @@ hidden: true
 ## **Holding**
 
 * The city is not immune from liability because Wis. Stat. § 346.03(6) creates a ministerial duty. Andrade’s decision to initiate or continue a high-speed pursuit was discretionary, so he is entitled to immunity for the discretionary act. However, Andrade is not immune with respect to the safety of his driving; Wis. Stat. § 346.03(5) creates a ministerial duty to operate the vehicle with “due regard for the safety of others.”
-* The city is liable. Andrade is not liable.
+* Neither the city nor Andrade caused the harm.
 
 ## **Rule(s)**
 
@@ -77,7 +73,7 @@ hidden: true
 * **Negligence: Causation.** There was no evidence that Andrade’s operation of the vehicle (e.g., management and control, following too closely, failure to maintain proper lookout) was causally connected to the harm due to the facts that (a) Andrade was one-and-a-half blocks away from the accident and (b) never made physical contact with anything.
 
 {% hint style="info" %}
-Note to Students: You probably observed that the rationale regarding the city, the court included reasoning about whether the city breached a duty, but that did not occur here regarding Andrade. The court chose to focus the negligence analysis on whether there was evidence that Andrade’s operation of the vehicle (negligent or otherwise) played a causal role (i.e., a substantial factor) in the harm.&#x20;
+**Note to Students:** You probably observed that the rationale regarding the city, the court included reasoning about whether the city breached a duty, but that did not occur here regarding Andrade. The court chose to focus the negligence analysis on whether there was evidence that Andrade’s operation of the vehicle (negligent or otherwise) played a causal role (i.e., a substantial factor) in the harm.&#x20;
 
 This would be the court's "easy way out" of the analysis. You see, if the court determined—which it did—that Andrade's pursuit did not cause the harm, then it would not have to analyze whether Andrade's driving breached his duty to operate the vehicle with due regard for the safety of others.) In other words, if Andrade's conduct did not cause the harm, then he cannot be liable for negligence, even if he breached his duty.&#x20;
 
