@@ -20,7 +20,7 @@ Petitioners were charged in a four-count indictment with violating various feder
 
 Petitioners were convicted of the counts at issue here. The Court of Appeals affirmed the convictions, holding with respect to the suppression issue that, “regardless of whether a police officer subjectively believes that the occupants of an automobile may be engaging in some other illegal behavior, a traffic stop is permissible as long as a reasonable officer in the same circumstances _could have_ stopped the car for the suspected traffic violation.” We granted certiorari.
 
-## **II** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+## **II**
 
 The Fourth Amendment guarantees “\[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures.” Temporary detention of individuals during the stop of an automobile by the police, even if only for a brief period and for a limited purpose, constitutes a “seizure” of “persons” within the meaning of this provision. An automobile stop is thus subject to the constitutional imperative that it not be “unreasonable” under the circumstances. As a general matter, the decision to stop an automobile is reasonable where the police have probable cause to believe that a traffic violation has occurred.
 
