@@ -10,6 +10,8 @@ Although this book openly licensed and free to be reused, redistributed, [adapte
 
 \~ _Matt Mac Kelly, JD, EdD_
 
+## Contents
+
 {% stepper %}
 {% step %}
 ### [Front Matter](front-matter.md)
@@ -21,8 +23,6 @@ Although this book openly licensed and free to be reused, redistributed, [adapte
 
 {% step %}
 ### [Overview of Probable Cause and Reasonable Suspicion](2.-overview-of-probable-cause-and-reasonable-suspicion/)
-
-
 {% endstep %}
 {% endstepper %}
 
