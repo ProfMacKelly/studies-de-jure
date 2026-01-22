@@ -3,7 +3,7 @@
 * [Criminal Procedure: A Sourcebook](README.md)
 * [Front Matter](front-matter.md)
 * [Preparing to Understand Legal Thinking and Studying Case Law](preparing-to-understand-legal-thinking-and-studying-case-law/README.md)
-  * [Primers on Legal Thinking, Reasoning & Analysis](preparing-to-understand-legal-thinking-and-studying-case-law/primers-on-legal-thinking-reasoning-and-analysis/README.md)
+  * [Primers on Legal Thinking, Reasoning & Analysis](preparing-to-understand-legal-thinking-and-studying-case-law/primers-on-legal-thinking-reasoning-and-analysis.md)
     * [Introduction to Deductive (Rule-Based) Reasoning](preparing-to-understand-legal-thinking-and-studying-case-law/primers-on-legal-thinking-reasoning-and-analysis/introduction-to-deductive-rule-based-reasoning.md)
     * [Introduction to Analogical Reasoning—A Type of Inductive Reasoning](preparing-to-understand-legal-thinking-and-studying-case-law/primers-on-legal-thinking-reasoning-and-analysis/introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md)
     * [Is a Hot Dog a Sandwich?](preparing-to-understand-legal-thinking-and-studying-case-law/primers-on-legal-thinking-reasoning-and-analysis/is-a-hot-dog-a-sandwich.md)

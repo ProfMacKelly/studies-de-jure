@@ -2,7 +2,7 @@
 
 The best place to start is to appreciate that legal reasoning is fundamentally comprised of logic. Whether thinking about civil liability, criminal procedure (e.g., stop and frisk, arrest, search and seizure, etc.), or criminal laws, the courts and professionals apply specific methodologies when making decisions.
 
-There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) [**deductive reasoning**](introduction-to-deductive-rule-based-reasoning.md#introduction) (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](/broken/pages/MIoKcvv9aZ6uFAHo8bwC) (in our context, this is reasoning by analogy).&#x20;
+There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) **deductive reasoning** (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md) (in our context, this is reasoning by analogy).&#x20;
 
 ## Introduction
 
@@ -227,7 +227,7 @@ It may take some effort to extract the syllogism from this text because some pre
 >
 > **Conclusion:** The Texas law was unconstitutional.
 
-Now that we have taken a look at deductive or rule-based reasoning, we will move on to a type of inductive reasoning: [**analogical reasoning**](/broken/pages/MIoKcvv9aZ6uFAHo8bwC).
+Now that we have taken a look at deductive or rule-based reasoning, we will move on to a type of inductive reasoning: [**analogical reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
 
 ***
 
@@ -235,7 +235,7 @@ Now that we have taken a look at deductive or rule-based reasoning, we will move
 
 <summary><mark style="color:red;"><strong>License</strong></mark></summary>
 
-This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.  <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">
+This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">&#x20;
 
 </details>
 
