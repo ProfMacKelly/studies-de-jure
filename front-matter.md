@@ -8,8 +8,6 @@ _Business Law I: A Sourcebook_ is an interactive [open educational resource](#us
 
 Except where otherwise noted, the content in this book is licensed with a [Creative Commons Attribution 4.0 license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which allows it to be adapted, remixed, and shared under the same license with attribution. Instructors and students may be interested in rearranging and otherwise adapting or transforming the content into other formats. If so, please include the appropriate attribution under the Creative Commons license. More information about this license is available [here](https://creativecommons.org/licenses/by/4.0/).&#x20;
 
-Although it is openly licensed free to be reused and redistributed, readers should note that the contents are tailored to serve undergraduate students enrolled in BUS 2020 at [Concordia University Wisconsin](https://www.cuw.edu/). This sourcebook includes both content that (a) I authored, (b) I [adapted or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), and/or (c) incorporated from other creators in compliance with copyright and licensing regulations and practices. \~ _Matt Mac Kelly, JD, EdD_
-
 ### Authorship, Adaptations, and Licensing Information
 
 _Business Law I: A Sourcebook_ includes content (a) created by Matthew L. Mac Kelly and (b) [edited, mixed, or otherwise adapted](https://rmit.pressbooks.pub/oercapabilitytoolkit/chapter/4-1-adapting-and-remixing-oer/) by Matthew L. Mac Kelly from other creators' works in compliance with copyright and licensing laws and appropriate attribution standards and practices. The use of any other content referenced in or integrated into this book complies with copyright and licensing laws and appropriate attribution standards and practices.
@@ -77,8 +75,6 @@ _**This book contains legal information intended for educational purposes only a
 This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).&#x20;
 
 </details>
-
-
 
 [^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)). 
 
