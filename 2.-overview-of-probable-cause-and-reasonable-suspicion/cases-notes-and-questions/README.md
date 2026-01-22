@@ -1,21 +1,19 @@
 # Cases & Notes
 
-## Contents
+### Contents
 
-{% stepper %}
-{% step %}
-### [_Illinois v. Gates_](ilinois-v.-gates.md)
-{% endstep %}
+{% content-ref url="ilinois-v.-gates.md" %}
+[ilinois-v.-gates.md](ilinois-v.-gates.md)
+{% endcontent-ref %}
 
-{% step %}
-### [_Whren v. United States_](whren-v.-united-states.md)
-{% endstep %}
+{% content-ref url="whren-v.-united-states.md" %}
+[whren-v.-united-states.md](whren-v.-united-states.md)
+{% endcontent-ref %}
 
-{% step %}
-### [_District of Columbia v. Wesby_](district-of-columbia-v.-wesby.md)
-{% endstep %}
+{% content-ref url="district-of-columbia-v.-wesby.md" %}
+[district-of-columbia-v.-wesby.md](district-of-columbia-v.-wesby.md)
+{% endcontent-ref %}
 
-{% step %}
-### [Notes of Racial Profiling](notes-on-racial-profiling.md)
-{% endstep %}
-{% endstepper %}
+{% content-ref url="notes-on-racial-profiling.md" %}
+[notes-on-racial-profiling.md](notes-on-racial-profiling.md)
+{% endcontent-ref %}

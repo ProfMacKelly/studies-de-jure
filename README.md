@@ -10,6 +10,8 @@ Although this book openly licensed and free to be reused, redistributed, [adapte
 
 \~ _Matt Mac Kelly, JD, EdD_
 
+***
+
 ## Contents
 
 {% stepper %}
