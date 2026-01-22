@@ -6,7 +6,7 @@ Supreme Court of the United States
 
 **District of Columbia**\
 **v.**\
-**Theodore Wesby** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+**Theodore Wesby** 
 
 ## \[Majority]
 
@@ -14,7 +14,7 @@ Justice THOMAS delivered the opinion of the Court.
 
 This case involves a civil suit against the District of Columbia and five of its police officers, brought by 16 individuals who were arrested for holding a raucous, late-night party in a house they did not have permission to enter. The United States Court of Appeals for the District of Columbia Circuit held that there was no probable cause to arrest the partygoers, and that the officers were not entitled to qualified immunity. We reverse on both grounds.
 
-## **I** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+## **I** 
 
 Around 1 a.m. on March 16, 2008, the District’s Metropolitan Police Department received a complaint about loud music and illegal activities at a house in Northeast D.C. The caller, a former neighborhood commissioner, told police that the house had been vacant for several months. When officers arrived at the scene, several neighbors confirmed that the house should have been empty. The officers approached the house and, consistent with the complaint, heard loud music playing inside.
 
@@ -30,7 +30,7 @@ An officer asked the woman to call Peaches on her phone so he could talk to her.
 
 The officers then contacted the owner. He told them that he had been trying to negotiate a lease with Peaches, but they had not reached an agreement. He confirmed that he had not given Peaches (or anyone else) permission to be in the house—let alone permission to use it for a bachelor party. At that point, the officers arrested the 21 partygoers for unlawful entry. The police transported the partygoers to the police station, where the lieutenant decided to charge them with disorderly conduct. The partygoers were released, and the charges were eventually dropped.
 
-## **II** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+## **II**
 
 Respondents, 16 of the 21 partygoers, sued the District and five of the arresting officers. They sued the officers for false arrest under the Fourth Amendment. The partygoers’ claims were all “predicated upon the allegation that \[they] were arrested without probable cause.”
 
@@ -42,11 +42,11 @@ On appeal, a divided panel of the D.C. Circuit affirmed. \[T]he panel majority m
 
 We granted certiorari to resolve \[] whether the officers had probable cause to arrest the partygoers.
 
-## **III** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+## **III**
 
 To determine whether an officer had probable cause for an arrest, “we examine the events leading up to the arrest, and then decide ‘whether these historical facts, viewed from the standpoint of an objectively reasonable police officer, amount to’ probable cause.” Because probable cause “deals with probabilities and depends on the totality of the circumstances,” it is “a fluid concept” that is “not readily, or even usefully, reduced to a neat set of legal rules.” It “requires only a probability or substantial chance of criminal activity, not an actual showing of such activity.” Probable cause “is not a high bar.”
 
-### **A** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+### **A**
 
 There is no dispute that the partygoers entered the house against the will of the owner. Nonetheless, the partygoers contend that the officers lacked probable cause to arrest them because the officers had no reason to believe that they “knew or should have known” their “entry was unwanted.” We disagree. Considering the totality of the circumstances, the officers made an “entirely reasonable inference” that the partygoers were knowingly taking advantage of a vacant house as a venue for their late-night party.
 
@@ -64,7 +64,7 @@ The panel majority relied heavily on the fact that Peaches said she had invited 
 
 Viewing these circumstances as a whole, a reasonable officer could conclude that there was probable cause to believe the partygoers knew they did not have permission to be in the house.
 
-### **B** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+### **B** 
 
 In concluding otherwise, the panel majority engaged in an “excessively technical dissection” of the factors supporting probable cause. Indeed, the panel majority failed to follow two basic and well-established principles of law.
 
@@ -86,7 +86,7 @@ Ultimately, plaintiffs-respondents were not booked for unlawful entry. Instead, 
 
 The Court’s jurisprudence, I am concerned, sets the balance too heavily in favor of police unaccountability to the detriment of Fourth Amendment protection. A number of commentators have criticized the path we charted in _Whren v. United States,_ 517 U.S. 806 (1996), and follow-on opinions, holding that “an arresting officer’s state of mind … is irrelevant to the existence of probable cause.” I would leave open, for reexamination in a future case, whether a police officer’s reason for acting, in at least some circumstances, should factor into the Fourth Amendment inquiry. Given the current state of the Court’s precedent, however, I agree that the disposition gained by plaintiffs-respondents \[_i.e._, a ruling that officers violated their rights] was not warranted by “settled law.” The defendants-petitioners are therefore sheltered by qualified immunity.
 
-## **Notes, Comments, and Questions** [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+## **Notes, Comments, and Questions**
 
 Does the procedural posture of this case change your view on the outcome? This is not a criminal prosecution, in which the defendants are arguing about probable cause to get their charges dismissed. This is a lawsuit by the people at the party, alleging that police violated their clearly established constitutional rights when arresting them.
 
@@ -96,7 +96,7 @@ As the semester progresses, students should make a point of noting (1) which pol
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions</summary>
 
 This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
