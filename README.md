@@ -1,6 +1,12 @@
 # Business Law I: A Sourcebook
 
+:construction\_site: This book is under construction. :construction:
+
+***
+
 _Business Law I: A Sourcebook_ is an [open educational resource](#user-content-fn-1)[^1] that serves as a brief survey of legal principles that business professionals must appreciate because of the interdependent relationship between the law and business decisions. The resource is intended for undergraduate students. Depending on an institution's prescribed learning objectives, this resource may fit the needs of undergraduate courses in business law and the legal environment of business.
+
+Although this book openly licensed and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), readers should note that the contents are tailored to serve undergraduate students enrolled in Business Law I at Concordia University Wisconsin. This sourcebook includes both content that (a) I authored, (b) I adapted or remixed, and/or (c) incorporated from other creators in compliance with copyright and licensing regulations and practices.  All attributions and licensing recognition is identified on each page.
 
 ## Contents
 
