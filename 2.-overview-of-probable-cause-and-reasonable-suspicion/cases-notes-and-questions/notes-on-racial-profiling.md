@@ -1,6 +1,6 @@
 # Notes on Racial Profiling
 
-## The Phenomenon of “Driving While Black” or “Driving While Brown” [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=be8d9f7fc7da0fa1ddb2a25a9c514b859cb8854f:site_7336)](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion)
+## The Phenomenon of “Driving While Black” or “Driving While Brown”
 
 For decades, observers have documented that Black and brown drivers are more likely than white drivers to be stopped by police, a phenomenon sometimes described as “Driving While \[Black/Brown]” or “DWB.” (Similar observations have been made about which pedestrians police choose to stop and frisk, a topic to which we will return.) U.S. Senator Tim Scott (R-S.C.) [described in a 2016 speech](https://www.minnpost.com/eric-black-ink/2016/07/driving-while-black-gop-sen-tim-scott-tells-his-experiences) his experiences as a Black motorist, along with incidents in which [Capitol police questioned whether he really was a member of the Senate](https://www.theatlantic.com/politics/archive/2016/07/the-senates-only-black-republican-opens-up-about-being-mistreated-by-police/491435/). Reporting that he had been stopped by police while driving seven times over the prior year, he asked colleagues to “imagine the frustration, the irritation the sense of a loss of dignity that accompanies each of those stops.”
 
