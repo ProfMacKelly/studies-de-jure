@@ -31,16 +31,23 @@
 >
 > **(5)** The exemptions granted the operator of an authorized emergency vehicle by this section do not relieve such operator from the duty to drive with due regard under the circumstances for the safety of all persons nor do they protect such operator from the consequences of his or her reckless disregard for the safety of others.
 
-* At trial, a jury found the City 23% negligent with respect to implementation of its high-speed pursuit policy, Andrade 2% negligent with respect to the operation of his vehicle, and Zergoski 75% negligent.
+* At trial, a jury found the City 23% negligent with respect to implementation of its high-speed pursuit policy, Andrade 2% negligent with respect to the operation of his vehicle, and Zergoski 75% negligent. &#x20;
 
 ## **Issue(s)**
 
-* In the context of injuries arising out of a high-speed pursuit in which pursued vehicle collides with a third person, is the city and/or Andrade immune from the plaintiff's lawsuit?
-* If immunity does not apply, did the city and/or Andrade breach a duty that caused the third person's harm?
+1. Does the immunity defense apply in the context of injuries arising out of a high-speed pursuit in which pursued vehicle collides with a third person under the circumstances of this case?
+2. If the immunity defense does not apply, did the City and/or Andrade negligently cause Cavanaugh's harm?
 
 ## **Holding**
 
-* The city is not immune from liability because Wis. Stat. § 346.03(6) creates a ministerial duty. Andrade’s decision to initiate or continue a high-speed pursuit was discretionary, so he is entitled to immunity for the discretionary act. However, Andrade is not immune with respect to the safety of his driving; Wis. Stat. § 346.03(5) creates a ministerial duty to operate the vehicle with “due regard for the safety of others.”
+1. Under the circumstances of this case:
+   1. The immunity defense does not apply to the City, and&#x20;
+   2. The immunity defense applies to a pursuing officer's discretionary acts but not any ministerial acts that apply to the pursuit. &#x20;
+2. If the immunity defense did not apply:
+   1. There was credible evidence to support the verdict that (1) the City was negligent and (2) the negligence was causal.
+   2.
+3. Andrade is not immune with respect to the safety of his driving; Wis. Stat. § 346.03(5) creates a ministerial duty to operate the vehicle with “due regard for the safety of others.”
+
 * Neither the city nor Andrade caused the harm.
 
 ## **Rule(s)**
@@ -69,8 +76,15 @@
 
 ### Claim Against Andrade
 
-* **Immunity.** Andrade can be immune from decisions to initiate or continue a high-speed pursuit because the relevant language—"may"—is permissive and thus discretionary, and Wis. Stat. § 893.80(4) provides immunity from discretionary decisions. However, the duty under Wis. Stat. § 346.03(5) to drive with due regard under the circumstances for the safety of all persons is min
-* **Negligence: Causation.** There was no evidence that Andrade’s operation of the vehicle (e.g., management and control, following too closely, failure to maintain proper lookout) was causally connected to the harm due to the facts that (a) Andrade was one-and-a-half blocks away from the accident and (b) never made physical contact with anything.
+* **Immunity.** Andrade can be immune from decisions to initiate or continue a high-speed pursuit because the relevant language—"may"—is permissive and thus discretionary, and Wis. Stat. § 893.80(4) provides immunity from discretionary decisions.&#x20;
+* However, the duty under Wis. Stat. § 346.03(5) to drive with due regard under the circumstances for the safety of all persons is min
+* **Negligence & Causation.** Although initiating or continuing the pursuit was discr
+
+There was no evidence that Andrade’s operation of the vehicle (e.g., management and control, following too closely, failure to maintain proper lookout) was causally connected to the harm due to the facts that (a) Andrade was one-and-a-half blocks away from the accident and (b) never made physical contact with anything.
+
+Wis. Stat. § 346.03(5)
+
+duty to&#x20;
 
 {% hint style="info" %}
 **Note to Students:** You probably observed that the rationale regarding the city, the court included reasoning about whether the city breached a duty, but that did not occur here regarding Andrade. The court chose to focus the negligence analysis on whether there was evidence that Andrade’s operation of the vehicle (negligent or otherwise) played a causal role (i.e., a substantial factor) in the harm.&#x20;
@@ -87,5 +101,9 @@ _**Usually**_, however, courts analyze whether a defendant breached a duty befor
 <summary><strong>License</strong></summary>
 
 [Model Brief for Brief the Case Exercise](model-brief-for-brief-the-case-exercise.md) © 2024 by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.
+
+
+
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 </details>
