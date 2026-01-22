@@ -1,8 +1,12 @@
 # This Sourcebook and How to Use It
 
+:construction\_site: This book is under construction. :construction:
+
+***
+
 ## What is This Sourcebook?
 
-This interactive sourcebook is an [open educational resource](#user-content-fn-1)[^1]. Although it is openly licensed and free to be reused and redistributed, readers should note that the contents are tailored to serve undergraduate students enrolled in Criminal Justice Liability Law at Concordia University [Wisconsin ](https://www.cuw.edu/)and [Ann Arbor](https://www.cuaa.edu/). This sourcebook includes both content that (a) I authored, (b) I [adapted or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), and/or (c) incorporated from other creators in compliance with copyright and licensing regulations and practices.  \~ _Prof. Matt Mac Kelly_
+This interactive sourcebook is an [open educational resource](#user-content-fn-1)[^1]. Although it is openly licensed and free to be reused and redistributed, readers should note that the contents are tailored to serve undergraduate students enrolled in Criminal Justice Liability Law at Concordia University Wisconsin. This sourcebook includes both content that (a) I authored, (b) I [adapted or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), and/or (c) incorporated from other creators in compliance with copyright and licensing regulations and practices.  \~ _Prof. Matt Mac Kelly_
 
 ## How to Use This Sourcebook
 
