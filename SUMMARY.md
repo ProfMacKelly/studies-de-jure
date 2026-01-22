@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Criminal Procedure: A Sourcebook](README.md)
+* [Front Matter](front-matter.md)
 * [Introduction](<README (1).md>)
   * [Key Constitutional Text](1.-introduction/key-constitutional-text.md)
   * [Introduction to the Fourth Amendment](1.-introduction/introduction-to-the-fourth-amendment.md)
