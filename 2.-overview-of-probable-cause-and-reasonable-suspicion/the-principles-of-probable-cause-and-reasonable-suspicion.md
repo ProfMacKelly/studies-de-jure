@@ -6,7 +6,7 @@
 
 
 
-a;sdlklkj blech a;lkdjflkjdf
+a;sdlklkj [blech](/#user-content-fn-blechblech) jhkjh
 
 But this imprecision is actually a good thing because probable cause and reasonable suspicion are ultimately judgments based on common sense, not a rigid mathematical formula. Granted, they are _important_ judgments because they have serious repercussions. But they are fundamentally just rational assessments of the convincing force of information, which is something the human brain does all the time without consulting a rule book. So instead of being governed by a “neat set of rules,”6 these concepts mainly require that officers understand certain principles— principles that usually enable them to make these determinations with a fair degree of consistency and accuracy.
 
