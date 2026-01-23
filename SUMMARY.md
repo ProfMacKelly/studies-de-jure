@@ -117,5 +117,5 @@
   * [North Carolina v. Butler](miranda-issues/north-carolina-v.-butler.md)
   * [Colorado v. Spring](miranda-issues/colorado-v.-spring.md)
   * [Moran v. Burdine](miranda-issues/moran-v.-burdine.md)
-* [Glossary](glossary/README.md)
+* [Glossary](glossary.md)
   * [Blech](glossary/blech.md)
