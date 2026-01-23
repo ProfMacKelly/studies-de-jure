@@ -6,7 +6,7 @@ hidden: true
 
 #### General Attributions & Licensing
 
-{% include ".gitbook/includes/untitled (4).md" %}
+{% include ".gitbook/includes/untitled (1).md" %}
 
 #### Case Attributions
 
@@ -24,15 +24,15 @@ Subject to the following, this page is licensed under [CC BY-NC-SA 4.0](https://
 
 #### Cases (My Edits) & Public Domain
 
-{% include ".gitbook/includes/untitled (1).md" %}
+{% include ".gitbook/includes/case-editing-me.md" %}
 
 #### Public Domain
 
-{% include ".gitbook/includes/untitled (2).md" %}
+{% include ".gitbook/includes/public-domain.md" %}
 
 #### Mine
 
-{% include ".gitbook/includes/untitled (3).md" %}
+{% include ".gitbook/includes/all-mine.md" %}
 
 
 
