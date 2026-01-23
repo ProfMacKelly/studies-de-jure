@@ -2,7 +2,11 @@
 
 ## Introduction
 
-Although there is certainly more to probable cause and reasonable suspicion than just principles, this is a good place to start. The most challenging aspect of studying these concepts is that their definitions are somewhat amorphous, even to experienced professionals1. Consider that the [Seventh Circuit](#user-content-fn-1)[^1] once tried to provide a good legal definition but concluded that, when all is said and done, it just means having “a good reason to act.”2 Even the Supreme Court— whose many powers include defining legal terms— decided to pass on probable cause because, said the Court, it is “not a finely-tuned standard”3 and is actually an “elusive” and “somewhat abstract” concept.4 As for reasonable suspicion, the uncertainty is even worse. For instance, in _United States v. Jones_ the First Circuit would only say that it “requires more than a naked hunch.”5
+[Although ](#user-content-fn-1)[^1]there is certainly more to probable cause and reasonable suspicion than just principles, this is a good place to start. The most challenging aspect of studying these concepts is that their definitions are somewhat amorphous, even to experienced professionals1. Consider that the [Seventh Circuit](#user-content-fn-2)[^2] once tried to provide a good legal definition but concluded that, when all is said and done, it just means having “a good reason to act.”2 Even the Supreme Court— whose many powers include defining legal terms— decided to pass on probable cause because, said the Court, it is “not a finely-tuned standard”3 and is actually an “elusive” and “somewhat abstract” concept.4 As for reasonable suspicion, the uncertainty is even worse. For instance, in _United States v. Jones_ the First Circuit would only say that it “requires more than a naked hunch.”5
+
+
+
+a;sdlklkj blech a;lkdjflkjdf
 
 But this imprecision is actually a good thing because probable cause and reasonable suspicion are ultimately judgments based on common sense, not a rigid mathematical formula. Granted, they are _important_ judgments because they have serious repercussions. But they are fundamentally just rational assessments of the convincing force of information, which is something the human brain does all the time without consulting a rule book. So instead of being governed by a “neat set of rules,”6 these concepts mainly require that officers understand certain principles— principles that usually enable them to make these determinations with a fair degree of consistency and accuracy.
 
@@ -206,4 +210,6 @@ Unless otherwise indicated, this page's content is adapted from the following so
 
 </details>
 
-[^1]: _Hanson v. Dane County,_ 608 F.3d 335, 338 (7th Cir. 2010).&#x20;
+[^1]: adsfadf
+
+[^2]: _Hanson v. Dane County,_ 608 F.3d 335, 338 (7th Cir. 2010).
