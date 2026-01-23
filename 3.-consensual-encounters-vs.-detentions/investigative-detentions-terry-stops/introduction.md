@@ -17,7 +17,7 @@ In reality, however, law enforcement officers throughout the country had been st
 What are those rules? We will cover them all in this article but, for now, it should be noted that they can be divided into two broad categories: (1) Grounds (i.e., justification) to detain and (2) Procedure.
 
 {% hint style="info" %}
-#### Sidebar
+### Sidebar
 
 The rules for constitutional investigative detentions are separated into "two broad categories":
 
