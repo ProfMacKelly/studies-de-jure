@@ -1,6 +1,6 @@
+---
+hidden: true
+---
+
 # Glossary
-
-#### blech
-
-a;ldjf;sldkjf**I**
 
