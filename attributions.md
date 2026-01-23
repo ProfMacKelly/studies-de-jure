@@ -6,8 +6,6 @@ hidden: true
 
 #### General Attributions & Licensing
 
-{% include ".gitbook/includes/untitled (1).md" %}
-
 #### Case Attributions
 
 {% include ".gitbook/includes/case-attributions.md" %}

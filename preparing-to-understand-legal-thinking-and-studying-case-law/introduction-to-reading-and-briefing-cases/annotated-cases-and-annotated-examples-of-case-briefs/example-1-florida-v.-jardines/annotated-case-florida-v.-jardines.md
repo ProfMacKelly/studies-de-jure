@@ -1,7 +1,5 @@
 # Annotated Case: Florida v. Jardines
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://scholar.google.com/scholar_case?case=11257938519868562913\&hl=en\&as_sdt=6,50).]
-
 <details>
 
 <summary><mark style="color:red;">Please read this explanation about how the cases in this course are edited.</mark> </summary>
