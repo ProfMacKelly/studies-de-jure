@@ -50,7 +50,7 @@
       * [U.S. v. Lillich](3.-consensual-encounters-vs.-detentions/consensual-encounters/cases-notes-and-questions/u.s.-v.-lillich.md)
   * [Investigative Detentions (Terry Stops)](3.-consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/README.md)
     * [Introduction](3.-consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/introduction.md)
-    * [Prior to the Stop: Requirements and Justifications for Investigative Detentions](3.-consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/prior-to-the-stop-requirements-and-justifications-for-investigative-detentions.md)
+    * [Prior to the Stop](3.-consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/prior-to-the-stop-requirements-and-justifications-for-investigative-detentions.md)
     * [After the Stop](3.-consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/after-the-stop/README.md)
       * [Duration](3.-consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/after-the-stop/duration.md)
       * [De Facto Arrests](3.-consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/after-the-stop/de-facto-arrests.md)

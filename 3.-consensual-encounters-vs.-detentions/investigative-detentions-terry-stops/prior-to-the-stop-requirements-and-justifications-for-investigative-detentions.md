@@ -1,4 +1,8 @@
-# Prior to the Stop: Requirements and Justifications for Investigative Detentions
+---
+description: Requirements and Justifications for Investigative Detentions
+---
+
+# Prior to the Stop
 
 ## Introduction
 
