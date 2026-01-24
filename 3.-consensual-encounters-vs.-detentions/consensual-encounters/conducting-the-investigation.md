@@ -115,6 +115,10 @@ In addition to these three requirements, it would be significant that the office
 
 ***
 
+{% content-ref url="footnotes-consensual-encounters.md" %}
+[footnotes-consensual-encounters.md](footnotes-consensual-encounters.md)
+{% endcontent-ref %}
+
 <details>
 
 <summary>Attributions and Licensing</summary>

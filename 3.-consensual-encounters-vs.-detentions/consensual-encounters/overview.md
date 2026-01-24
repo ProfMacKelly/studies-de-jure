@@ -95,11 +95,15 @@ Contacts with the police and any police actions that may result from a contact a
 2. The introduction shall occur as early in the contact as safety permits and will be given prior to the police member’s request for identification or license and registration information from the person being contacted.
 {% endhint %}
 
+***
 
+{% content-ref url="footnotes-consensual-encounters.md" %}
+[footnotes-consensual-encounters.md](footnotes-consensual-encounters.md)
+{% endcontent-ref %}
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following source(s):
 
