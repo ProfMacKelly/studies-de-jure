@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Page 1
 
 ### Quiz
