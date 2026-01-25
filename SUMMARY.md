@@ -1,17 +1,12 @@
 # Table of contents
 
-## INTRODUCTION
-
 * [🏛️ Introduction to Law and the Courts](README.md)
-  * [Law & Its Functions](introduction/readme/law-and-its-functions.md)
-  * [Modern Legal Systems](introduction/readme/modern-legal-systems.md)
-  * [Basic Classifications of Law](introduction/readme/basic-classifications-of-law.md)
-  * [Sources of Law](introduction/readme/sources-of-law.md)
-  * [Federalism](introduction/readme/court-system-overview.md)
-  * [Court System Overview](introduction/readme/court-system-overview-1.md)
-
-***
-
+  * [Law & Its Functions](readme/law-and-its-functions.md)
+  * [Modern Legal Systems](readme/modern-legal-systems.md)
+  * [Basic Classifications of Law](readme/basic-classifications-of-law.md)
+  * [Sources of Law](readme/sources-of-law.md)
+  * [Federalism](readme/court-system-overview.md)
+  * [Court System Overview](readme/court-system-overview-1.md)
 * [Procedures Prior to Trial](procedures-prior-to-trial.md)
   * [Basic Outlines/Flowcharts](procedures-prior-to-trial/basic-outlines-flowcharts.md)
   * [Commencing Criminal Prosecutions](procedures-prior-to-trial-1/commencing-criminal-prosecutions.md)
@@ -60,12 +55,8 @@
 * [Chimel v. California](introductory-criminal-procedure-principles/chimel-v.-california/README.md)
   * [Brief: Chimel v. California](introductory-criminal-procedure-principles/chimel-v.-california/brief-chimel-v.-california.md)
 
-## BACK MATTER
-
-* [Page 2](back-matter/page-2.md)
-
 ***
 
-* [BACK MATTER](back-matter-1.md)
+* [Back Matter](back-matter.md)
 * [🔤 Glossary](glossary.md)
 * [Page 1](page-1.md)
