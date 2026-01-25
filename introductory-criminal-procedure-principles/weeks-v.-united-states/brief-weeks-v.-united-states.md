@@ -8,7 +8,7 @@ hidden: true
 
 * Warrantless arrest by police
 * officers had already searched his home; neighbor told theme where the housekey was
-* seized "various papers and articles" and gave to US Marshal
+* seized "various papers and articles" and gave to U.S. Marshal
 * Marshal then went to house, someone (probably a boarders") allowed them in; warrantles searched def's room and seized more letters and envelopes in a dresser
 
 ## Proc Hist&#x20;
