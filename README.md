@@ -20,19 +20,27 @@ This book [openly licensed](#user-content-fn-2)[^2] and free to be reused, redis
 {% endstep %}
 
 {% step %}
-
+{% content-ref url="introduction-to-american-law-and-the-legal-system/" %}
+[introduction-to-american-law-and-the-legal-system](introduction-to-american-law-and-the-legal-system/)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### [the-united-states-court-system](the-united-states-court-system/ "mention")
+{% content-ref url="the-united-states-court-system/" %}
+[the-united-states-court-system](the-united-states-court-system/)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### [disputes-and-dispute-settlement](disputes-and-dispute-settlement/ "mention")
+{% content-ref url="disputes-and-dispute-settlement/" %}
+[disputes-and-dispute-settlement](disputes-and-dispute-settlement/)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### [contract-law-part-i-common-law-contracts](contract-law-part-i-common-law-contracts/ "mention")
+{% content-ref url="contract-law-part-i-common-law-contracts/" %}
+[contract-law-part-i-common-law-contracts](contract-law-part-i-common-law-contracts/)
+{% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
 
