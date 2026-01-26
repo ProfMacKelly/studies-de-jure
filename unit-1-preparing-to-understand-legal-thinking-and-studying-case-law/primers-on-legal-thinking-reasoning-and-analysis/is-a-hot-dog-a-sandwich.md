@@ -1,6 +1,6 @@
-# 1.1.3 Is a Hot Dog a Sandwich?
+# Is a Hot Dog a Sandwich?
 
-Is a hot dog a sandwich? Is a sandwich even a sandwich? The answer to both questions is: It depends. It depends on the premises in a [**deductive reasoning**](1.1.1-introduction-to-deductive-rule-based-reasoning.md) formula (rules and facts) and—as we will see below—some [**analogical reasoning**](1.1.2-introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
+Is a hot dog a sandwich? Is a sandwich even a sandwich? The answer to both questions is: It depends. It depends on the premises in a [**deductive reasoning**](introduction-to-deductive-rule-based-reasoning.md) formula (rules and facts) and—as we will see below—some [**analogical reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
 
 ## It Depends
 
@@ -34,7 +34,7 @@ Once Justice Ginsburg clarified the meaning of terms, such as "sandwich" and "br
 
 _First_, Justice Ginsburg's reasoning included an [**enthymeme**](https://prof-mackelly.gitbook.io/jpp-325-cases/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/1.1-primers-on-legal-thinking-reasoning-and-analysis/1.1.1-introduction-to-deductive-rule-based-reasoning#enthymemes): the implicit presumption that a hot dog was comprised of both the frankfurter and bun, not simply a frankfurter. This was a justified presumption because no reasonable person could consider a stand-alone frankfurter to be a sandwich; thus, the context of the question dictated the direction of the reasoning. Another presumption was that a "sub sandwich" is a sandwich. (And by doing this, Colbert created an exception to his rule that a sandwich has two pieces of bread. _**As we will see in this course, most legal rules come with exceptions**_.)
 
-_Second_, Justice Ginsburg and Colbert employed [**analogical reasoning**](1.1.2-introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md). In light of the presumption that a sub sandwich was indeed a sandwich, they made an analogy between how a sub sandwich is served and how a "hot dog" is served. (The principle being that if a sub sandwich is a sandwich, and if sub sandwiches are served on split rolls, then a hot dog should also be considered a sandwich because they are served on split rolls.)
+_Second_, Justice Ginsburg and Colbert employed [**analogical reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md). In light of the presumption that a sub sandwich was indeed a sandwich, they made an analogy between how a sub sandwich is served and how a "hot dog" is served. (The principle being that if a sub sandwich is a sandwich, and if sub sandwiches are served on split rolls, then a hot dog should also be considered a sandwich because they are served on split rolls.)
 
 ## Is a Sandwich a Sandwich?
 

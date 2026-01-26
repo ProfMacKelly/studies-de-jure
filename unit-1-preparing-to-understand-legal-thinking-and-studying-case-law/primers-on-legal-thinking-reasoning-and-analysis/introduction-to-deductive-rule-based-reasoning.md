@@ -1,8 +1,8 @@
-# 1.1.1 Introduction to Deductive (Rule-Based) Reasoning
+# Introduction to Deductive (Rule-Based) Reasoning
 
 The best place to start is to appreciate that legal reasoning is fundamentally comprised of logic. Whether thinking about civil liability, criminal procedure (e.g., stop and frisk, arrest, search and seizure, etc.), or criminal laws, the courts and professionals apply specific methodologies when making decisions.
 
-There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) [**deductive reasoning**](1.1.1-introduction-to-deductive-rule-based-reasoning.md#introduction) (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](1.1.2-introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md) (in our context, this is reasoning by analogy).&#x20;
+There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) [**deductive reasoning**](introduction-to-deductive-rule-based-reasoning.md#introduction) (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md) (in our context, this is reasoning by analogy).&#x20;
 
 ## Introduction
 
@@ -56,7 +56,7 @@ Another illustration of this point is a Venn diagram:
 
 <figure><img src="../../.gitbook/assets/venn men bird.png" alt="" width="515"><figcaption><p>Venn diagram illustrating the invalidity of the "Joe's bird" syllogism</p></figcaption></figure>
 
-In this Venn diagram, we see the two subjects contained in the **major premise**: Men are in the category of all things that are mortal. The **minor premise** places Socrates in the category of birds. But the syllogism's premises prevent the **conclusion** that Socrates—the bird—is mortal. Again, for that conclusion to result from valid reasoning, the syllogism should include a premise that includes the mortality of birds. (On a different note, this diagram happens to demonstrate the unstated premise that birds are mortal. The unstated premise is called an [enthymeme](1.1.1-introduction-to-deductive-rule-based-reasoning.md#enthymemes). Reasoning that uses enthymemes is discussed in detail [below](1.1.1-introduction-to-deductive-rule-based-reasoning.md#enthymemes).)
+In this Venn diagram, we see the two subjects contained in the **major premise**: Men are in the category of all things that are mortal. The **minor premise** places Socrates in the category of birds. But the syllogism's premises prevent the **conclusion** that Socrates—the bird—is mortal. Again, for that conclusion to result from valid reasoning, the syllogism should include a premise that includes the mortality of birds. (On a different note, this diagram happens to demonstrate the unstated premise that birds are mortal. The unstated premise is called an [enthymeme](introduction-to-deductive-rule-based-reasoning.md#enthymemes). Reasoning that uses enthymemes is discussed in detail [below](introduction-to-deductive-rule-based-reasoning.md#enthymemes).)
 
 #### Beware of Other Logical Errors in Deductive Reasoning
 
@@ -227,7 +227,7 @@ It may take some effort to extract the syllogism from this text because some pre
 >
 > **Conclusion:** The Texas law was unconstitutional.
 
-Now that we have taken a look at deductive or rule-based reasoning, we will move on to a type of inductive reasoning: [**analogical reasoning**](1.1.2-introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
+Now that we have taken a look at deductive or rule-based reasoning, we will move on to a type of inductive reasoning: [**analogical reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
 
 ***
 
@@ -239,7 +239,7 @@ This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://cr
 
 </details>
 
-[^1]: See [Syllogisms](1.1.1-introduction-to-deductive-rule-based-reasoning.md#syllogisms); [Kulicki (2020)](../../sources-referenced-in-annotations.md).
+[^1]: See [Syllogisms](introduction-to-deductive-rule-based-reasoning.md#syllogisms); [Kulicki (2020)](../../sources-referenced-in-annotations.md).
 
 [^2]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 3.
 
