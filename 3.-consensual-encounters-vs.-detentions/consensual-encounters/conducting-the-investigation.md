@@ -23,7 +23,7 @@ To say that officers must be respectful does not mean they may not demonstrate s
 
 Officers may also demonstrate respectfulness if they take a moment to explain to the suspect why they wanted to speak with him, rather than begin by abruptly asking questions or making requests. For example, in rejecting an argument that a DEA agent’s initial encounter with the defendant at an airport terminal had become a de facto detention, the court in _U.S v. Gray_ noted that the agent “informed Gray of the DEA’s purpose and function.”103 Similarly, in _U.S. v. Crapser_ the Ninth Circuit pointed out that the officer began by “explain\[ing] to \[the suspect] why the police had come to her motel room.” 104
 
-In contrast, in _People v. Spicer,_ officers pulled over a car driven by Mr. Spicer because it appeared that he was under the influence of something.105  While one officer administered the FSTs to Mr. Spicer, the other asked his passenger, Ms. Spicer, to produce her driver’s license. Although he had good reason for wanting to see the license (to make sure he could release the car to her) he did not explain this. As Ms. Spicer was looking for her license in her purse, the officer saw a gun and arrested her. But the court ruled the gun was seized illegally mainly because the officer’s blunt attitude had effectively converted the encounter into a de facto detention. Said the court, “Had the officer made his purpose known to Ms. Spicer, it would have substantially lessened the probability his conduct could reasonably have appeared to her to be coercive.”
+In contrast, in _People v. Spicer,_ officers pulled over a car driven by Mr. Spicer because it appeared that he was under the influence of something.105 While one officer administered the FSTs to Mr. Spicer, the other asked his passenger, Ms. Spicer, to produce her driver’s license. Although he had good reason for wanting to see the license (to make sure he could release the car to her) he did not explain this. As Ms. Spicer was looking for her license in her purse, the officer saw a gun and arrested her. But the court ruled the gun was seized illegally mainly because the officer’s blunt attitude had effectively converted the encounter into a de facto detention. Said the court, “Had the officer made his purpose known to Ms. Spicer, it would have substantially lessened the probability his conduct could reasonably have appeared to her to be coercive.”
 
 ## **Requesting ID**
 
@@ -45,7 +45,7 @@ Although officers may pose investigative questions to the suspect,114 questionin
 
 There is a big difference between investigative and accusatory questions. As the name suggests, accusatory questions are those that are phrased in a manner that communicates to the suspect that the officers believe he is guilty of something, and that their objective is merely to confirm their suspicion. While this type of questioning is appropriate in a police interview room, it is strictly prohibited during contacts. As the Court of Appeal observed:
 
-> &#x20;\[Q]uestions of a sufficiently accusatory nature may by themselves be cause to view an encounter as a nonconsensual detention. . . . \[T]he degree of suspicion expressed by the police is an important factor in determining whether a consensual encounter has ripened into a detention.117
+> \[Q]uestions of a sufficiently accusatory nature may by themselves be cause to view an encounter as a nonconsensual detention. . . . \[T]he degree of suspicion expressed by the police is an important factor in determining whether a consensual encounter has ripened into a detention.117
 
 For example, in _Wilson v. Superior Court,_ LAPD narcotics officers at LAX received a tip that comedian Flip Wilson would be arriving on a flight from Florida and that he would be transporting drugs.118 When one of the officers spotted Wilson in the terminal, he approached him and, according to the officer, “I advised Mr. Wilson that I was conducting a narcotics investigation, and that we had received information that he would be arriving today from Florida carrying a lot of drugs.” Wilson then consented to a search of his luggage in which the officers found cocaine.
 
@@ -103,7 +103,7 @@ What must officers do to convert a detention into a contact? The cases indicate 
 
 1. **Return documents**: If officers obtained the suspect’s ID or any other property from him, they must return it.140 Again quoting the Tenth Circuit, “\[W]e have consistently concluded that an officer must return a driver’s documentation before a detention can end.”141 Also see "Requests for ID," above.
 2. **“You’re free to go”**: While not technically a requirement,142 officers should inform the suspect that he is now free to leave.143 As the court explained in _Morgan v. Woessner_, “Although an officer’s failure to advise a citizen of his freedom to walk away is not dispositive of the question of whether the citizen knew he was free to go, it is another significant indicator of what the citizen reasonably believed.”144
-3. **No contrary circumstances**: There must not have been other circumstances that, despite the “free to go” advisory, would have reasonably indicated to the suspect that he was, in fact, not free to leave. For example, in _U.S. v. Beck,_ the court ruled that a suspect was detained because, although he was told he was free to go, he was also told he could not leave unless he consented to a search or waited for a canine unit to arrive.145  Similarly, in _U.S. v. Ramos,_ the court ruled that an attempt to convert a traffic stop into a contact had failed mainly because the driver and passenger remained separated.146
+3. **No contrary circumstances**: There must not have been other circumstances that, despite the “free to go” advisory, would have reasonably indicated to the suspect that he was, in fact, not free to leave. For example, in _U.S. v. Beck,_ the court ruled that a suspect was detained because, although he was told he was free to go, he was also told he could not leave unless he consented to a search or waited for a canine unit to arrive.145 Similarly, in _U.S. v. Ramos,_ the court ruled that an attempt to convert a traffic stop into a contact had failed mainly because the driver and passenger remained separated.146
 
 In addition to these three requirements, it would be significant that the officers explained to the suspect why they wanted to continue speaking with him. As discussed earlier in the section entitled “Respectfulness,” a brief explanation of this sort is significant because such openness is more consistent with a contact than a detention, and it tends to communicate the idea that the officers are seeking the suspect’s voluntary cooperation.147
 
@@ -114,10 +114,6 @@ In addition to these three requirements, it would be significant that the office
 {% endhint %}
 
 ***
-
-{% content-ref url="footnotes-consensual-encounters.md" %}
-[footnotes-consensual-encounters.md](footnotes-consensual-encounters.md)
-{% endcontent-ref %}
 
 <details>
 

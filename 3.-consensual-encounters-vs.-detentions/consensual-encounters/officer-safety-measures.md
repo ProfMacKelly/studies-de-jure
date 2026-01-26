@@ -32,10 +32,6 @@ Finally, the presence of backup officers, the number of them, their proximity to
 
 ***
 
-{% content-ref url="footnotes-consensual-encounters.md" %}
-[footnotes-consensual-encounters.md](footnotes-consensual-encounters.md)
-{% endcontent-ref %}
-
 <details>
 
 <summary>Attributions and Licensing</summary>

@@ -1,6 +1,6 @@
 # Cases & Notes
 
-## Contents
+### Contents
 
 {% content-ref url="ilinois-v.-gates.md" %}
 [ilinois-v.-gates.md](ilinois-v.-gates.md)

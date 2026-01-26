@@ -64,13 +64,11 @@ Similarly, a delay for further questioning may be necessary because the detainee
 
 ***
 
-{% content-ref url="../footnotes-investigative-detentions-terry-stops.md" %}
-[footnotes-investigative-detentions-terry-stops.md](../footnotes-investigative-detentions-terry-stops.md)
-{% endcontent-ref %}
+## [Footnotes](../footnotes-investigative-detentions-terry-stops.md)
 
 <details>
 
-<summary>Attributions &#x26; Licensing</summary>
+<summary>Attributions and Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following sources:
 

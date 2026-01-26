@@ -1,5 +1,7 @@
 # Annotated Case: Mills v. City of Overland Park
 
+\[Note: Edited from the [original](https://scholar.google.com/scholar_case?case=2960737512936243059\&q=837+P.2d+370\&hl=en\&as_sdt=6,50).]
+
 <details>
 
 <summary><mark style="color:red;">Please read this explanation about how the cases in this course are edited.</mark></summary>
@@ -217,15 +219,18 @@ The judgment is affirmed.
 
 <details>
 
-<summary>Editorial Notes and Licensing</summary>
+<summary><mark style="color:red;"><strong>License</strong></mark></summary>
 
-Editing to the [original](https://scholar.google.com/scholar_case?case=2960737512936243059\&q=837+P.2d+370\&hl=en\&as_sdt=6,50) by Matthew L. Mac Kelly. Many of the court's original citations to authorities and other content may have been omitted for length and readability purposes. Many elisions are not identified, particularly string citations and original footnotes when not materially necessary to the subject of the lesson. However, some elisions are identified by bracketed ellipses (e.g., \[...]).
+[<img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-nc.218f18fc.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-sa.d1572b71.svg" alt="" data-size="line">](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
-Judicial decisions and annotations thereto are not subject to copyright protection and are in the public domain. _See, e.g., Georgia v. Public.Resource.Org, Inc_., [140 S. Ct. 1498](https://scholar.google.com/scholar_case?case=8288711378870515248\&q=Georgia+et+al.+v.+Public.Resource.Org,+Inc.\&hl=en\&as_sdt=6,50) (2020).
-
-The instructional annotations are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line"> 2025 Matthew L. Mac Kelly
+[Annotated Case: _Mills v. City of Overland Park_](https://open-2c.gitbook.com/url/preview/site_qjnK6/~/revisions/6cZOAg3pS6QgzpAmuUnX/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/1.2-introduction-to-reading-and-briefing-cases/1.2.3-annotated-cases-and-annotated-examples-of-case-briefs/example-2-mills-v.-city-of-overland-park/annotated-case-mills-v.-city-of-overland-park) © 2024 by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.
 
 </details>
+
+* [Wisconsin Court of Appeals](https://www.wicourts.gov/courts/appeals/index.htm)
+* [U.S. Circuit Courts of Appeals](https://www.uscourts.gov/about-federal-courts/court-role-and-structure/about-us-courts-appeals)
+* [Wisconsin Supreme Court](https://www.wicourts.gov/courts/supreme/index.htm)
+* [U.S. Supreme Court](https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/about)
 
 [^1]: This is the case citation. (It refers to volumes, page numbers, and years of publication in hard copy "case reporters" that include the originally published editions of the case.
 
