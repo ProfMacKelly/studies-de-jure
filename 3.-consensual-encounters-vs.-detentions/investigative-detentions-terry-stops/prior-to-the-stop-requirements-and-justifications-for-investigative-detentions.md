@@ -1,4 +1,8 @@
-# Prior to the Stop: Requirements and Justifications for Investigative Detentions
+---
+description: Requirements and Justifications for Investigative Detentions
+---
+
+# Prior to the Stop
 
 ## Introduction
 
@@ -18,34 +22,34 @@ Second, even if the investigation was properly focused, a detention will be inva
 
 Although officers are allowed a great deal of discretion in determining how best to protect themselves and conduct their investigation, the fact remains that detentions are classified as “seizures” under the Fourth Amendment, which means they are subject to the constitutional requirement of objective reasonableness.20 For example, even if a showup was reasonably necessary, a detention may be deemed unlawful if the officers were not diligent in arranging for the witness to view the detainee. Similarly, even if there existed a legitimate need for additional officer-safety precautions, a detention may be struck down if the officers did not limit their actions to those that were reasonably necessary under the circumstances.
 
-## The Requirements
+## The Requirements&#x20;
 
 To conduct an investigative detention of a person, an officer must have **reasonable suspicion** that criminal activity is afoot. The officer does not have to know that a crime is being committed, or even that he or she is stopping the right suspect. In allowing investigatory detentions, Terry accepts the risk that officers may stop innocent people. While reasonable suspicion is a lower standard than “probable cause,” the officer must still have explainable (articulable) reasons to justify a temporary seizure of a person. “Criminal activity is afoot” means that **the officer must reasonably suspect that:**
 
-* **A crime is about to be committed;**
-* **A crime is being committed; or**
-* **A crime has been committed.**
+* **A crime is about to be committed;**&#x20;
+* **A crime is being committed; or**&#x20;
+* **A crime has been committed.**&#x20;
 
-Some courts have disallowed investigative detentions for completed misdemeanors, unless some ongoing danger to the public still exists (e.g., recent reckless driving). However, if there is no other way to identify the subject who committed a misdemeanor, the court may still find the detention reasonable. Detentions to prevent or stop a misdemeanor from occurring are, of course, permissible with reasonable suspicion. When an officer has reasonable suspicion that a piece of personal property, such as luggage, contains contraband or evidence of a crime, he or she may detain it in the same manner that the officer may detain a person.
+Some courts have disallowed investigative detentions for completed misdemeanors, unless some ongoing danger to the public still exists (e.g., recent reckless driving). However, if there is no other way to identify the subject who committed a misdemeanor, the court may still find the detention reasonable. Detentions to prevent or stop a misdemeanor from occurring are, of course, permissible with reasonable suspicion. When an officer has reasonable suspicion that a piece of personal property, such as luggage, contains contraband or evidence of a crime, he or she may detain it in the same manner that the officer may detain a person.&#x20;
 
 To determine whether reasonable suspicion exists, courts look at the **totality of the circumstances** of each case. An officer must be able to **articulate facts** establishing the possibility that the person stopped is connected to criminal activity. The totality of the circumstances includes an officer’s specialized training and experience, which together with the facts, might lead the officer to a conclusion that an untrained person would not reach. For example, the officer may observe conduct that he or she believes is consistent with “casing” a store for a robbery. In such a situation, the officer’s training and experience allows him or her to determine that reasonable suspicion of criminal activity exists, even though all of the suspect’s conduct might appear perfectly innocent to an untrained observer.
 
 {% hint style="info" %}
-Because **Reasonable Suspicion** and **Probable Cause** are such crucial principles in the law of criminal procedures, they are addressed further in [**Section 3.**](../../2.-overview-of-probable-cause-and-reasonable-suspicion)
+Because **Reasonable Suspicion** and **Probable Cause** are such crucial principles in the law of criminal procedures, they are addressed further in [**Section 3.**](../../2.-overview-of-probable-cause-and-reasonable-suspicion/)
 {% endhint %}
 
 ## Establishing Reasonable Suspicion
 
-Law enforcement officers may use a variety of different investigative techniques to obtain enough information to establish reasonable suspicion to detain a person. For example, an officer’s personal observations may establish reasonable suspicion to conduct an investigative detention. Courts give a great deal of deference to an officer’s personal observations. Additionally, officers may establish reasonable suspicion from information provided by other law enforcement officers, sometimes referred to as “collective knowledge.” Information from an identified third party, such as a victim or witness, can also provide the facts to establish reasonable suspicion. Finally, officers may use information provided by reliable informants to establish reasonable suspicion for an investigative detention.
+Law enforcement officers may use a variety of different investigative techniques to obtain enough information to establish reasonable suspicion to detain a person. For example, an officer’s personal observations may establish reasonable suspicion to conduct an investigative detention. Courts give a great deal of deference to an officer’s personal observations. Additionally, officers may establish reasonable suspicion from information provided by other law enforcement officers, sometimes referred to as “collective knowledge.” Information from an identified third party, such as a victim or witness, can also provide the facts to establish reasonable suspicion. Finally, officers may use information provided by reliable informants to establish reasonable suspicion for an investigative detention.&#x20;
 
 Often, informants or anonymous sources provide the information to establish reasonable suspicion. While this is permissible, an officer sometimes needs to corroborate the informant’s information. The reliability of a tip provided by an informant depends on both the “quantity” and “quality” of the information. A tip from a confidential informant with an established, positive track record is usually considered reliable enough to establish reasonable suspicion with little or no corroboration. An anonymous tip can be insufficient, especially when the source’s truthfulness and basis of knowledge (i.e., how did the source acquire the information?) is unknown. In determining whether a tip contains enough verifiable information to establish reasonable suspicion, courts look to and rely upon the following factors:
 
-* The amount of detail the source provided;
-* Whether the source accurately predicted the suspect’s future behavior;
+* &#x20;The amount of detail the source provided;&#x20;
+* Whether the source accurately predicted the suspect’s future behavior;&#x20;
 * Whether and to what extent law enforcement officers corroborate the source’s information;
-* Whether the information is based on the source’s first-hand observations;
-* Whether, by providing the information, the source is putting his or her anonymity in jeopardy;
-* Whether the source provided the information in a face-to-face encounter with law enforcement officials; and
+* Whether the information is based on the source’s first-hand observations;&#x20;
+* Whether, by providing the information, the source is putting his or her anonymity in jeopardy;&#x20;
+* Whether the source provided the information in a face-to-face encounter with law enforcement officials; and&#x20;
 * The timeliness of the source’s report, that is, whether the information is “stale.”
 
 Reasonable suspicion is a lower standard than probable cause, both as to the amount of evidence needed \[“quantity”] as well as how strongly it establishes that criminal activity is afoot \[“quality”]
@@ -54,43 +58,45 @@ Reasonable suspicion is a lower standard than probable cause, both as to the amo
 
 The officer must be able to explain to a court why he or she decided to conduct an investigative detention of a suspect (i.e., what the officer heard, saw, or learned that led the officer to reasonably suspect that criminal activity was afoot). Many factors can justify an investigative detention. Even seemingly innocent or wholly lawful conduct can, in appropriate instances, establish reasonable suspicion that criminal activity is afoot. For example, an officer may reach different conclusions about the legal purchase of a crowbar by a person with an extensive criminal record for burglary than the same purchase by a carpenter with no criminal record. Some common factors officers can use to justify investigative detentions include, but are not limited to:
 
-* A suspect’s nervous behavior, although this factor alone is of limited value and the officer should consider it in conjunction with the surrounding circumstances;
-* A suspect’s criminal history, although standing alone, this factor will not establish reasonable suspicion;
-* An officer’s knowledge of recent criminal conduct;
-* The time and location of the situation;
-* A suspect’s flight upon observing law enforcement officers, at least when combined with other factors;
-* A suspect’s presence in a high crime area, at least when combined with other factors; and
+* A suspect’s nervous behavior, although this factor alone is of limited value and the officer should consider it in conjunction with the surrounding circumstances;&#x20;
+* A suspect’s criminal history, although standing alone, this factor will not establish reasonable suspicion;&#x20;
+* An officer’s knowledge of recent criminal conduct;&#x20;
+* The time and location of the situation;&#x20;
+* A suspect’s flight upon observing law enforcement officers, at least when combined with other factors;&#x20;
+* A suspect’s presence in a high crime area, at least when combined with other factors; and&#x20;
 * A suspect’s non-responsive behavior.
 
 {% hint style="info" %}
-### **From the Courts to the Street**
+## **From the Courts to the Street**
 
-Milwaukee Police Department (MPD) refers to investigative detentions (i.e., _Terry_ stops) as "Field Interviews." [MPD Standard Operating Procedure (SOP) 085](https://city.milwaukee.gov/ImageLibrary/Groups/mpdAuthors/SOP/085-CITIZENCONTACTSFIELDINTERVIEWSSEARCHANDSEIZURE.pdf) is [reproduced ](#user-content-fn-1)[^1]below\*:
+Milwaukee Police Department (MPD) refers to investigative detentions (i.e., _Terry_ stops) as "Field Interviews." [MPD Standard Operating Procedure (SOP) 085](https://city.milwaukee.gov/ImageLibrary/Groups/mpdAuthors/SOP/085-CITIZENCONTACTSFIELDINTERVIEWSSEARCHANDSEIZURE.pdf) is [reproduced ](#user-content-fn-1)[^1]below\*[^2]: &#x20;
 
 \[B]ased on a police member’s individualized, objective, and articulable reasonable suspicion that the subject(s) has committed a crime, is in the process of the commission of a crime or may commit a crime. Reasonable suspicion, as defined in section 085.05, is more than a hunch. A “hunch”, for the purpose of this section, is an intuitive feeling or premonition “gut feeling” and therefore, on its own, is not legal justification to conduct a Terry stop.
 
 **A. JUSTIFICATION FOR CONDUCTING A FIELD INTERVIEW (TERRY STOP)**
 
-1.  The following points may be considered, on their own or in combination with one another or other factors in establishing individualized, objective, and articulable reasonable suspicion (these are not all inclusive, and one or more or even other circumstances may be present when formulating justification).
+1.  &#x20;The following points may be considered, on their own or in combination with one another or other factors in establishing individualized, objective, and articulable reasonable suspicion (these are not all inclusive, and one or more or even other circumstances may be present when formulating justification).
 
     a. The actions of the subject suggest that he or she is engaged in a criminal activity.
 
-    b. The subject is carrying a suspicious object.
+    b.   The subject is carrying a suspicious object.
 
-    c. The subject is located in proximate time and place to an alleged crime.
+    c.    The subject is located in proximate time and place to an alleged crime.
 
-    d. The individual flees at the sight of law enforcement.
+    d.    The individual flees at the sight of law enforcement.
 2.  The following points may be considered in combination with other factors in establishing individualized, objective, and articulable reasonable suspicion:
 
-    a. The appearance or demeanor of an individual suggests that he or she is part of a criminal enterprise or is engaged in a criminal act.
+    a.    The appearance or demeanor of an individual suggests that he or she is part of a criminal enterprise or is engaged in a criminal act.
 
-    b. The hour of day or night is out of the ordinary for the subject’s presence in the area.
+    b.    The hour of day or night is out of the ordinary for the subject’s presence in the area.
 
-    c. The subject’s presence in a neighborhood or location is out of the ordinary.
+    c.    The subject’s presence in a neighborhood or location is out of the ordinary.
 
-    d. The police member has knowledge of the subject’s prior criminal record or involvement in criminal activity.
+    d.    The police member has knowledge of the subject’s prior criminal record or involvement in criminal activity.
 
-    e. The subject’s clothing bulges in a manner that suggests he or she is carrying a weapon.
+    e.    The subject’s clothing bulges in a manner that suggests he or she is carrying a weapon.
+
+
 
 **B. PROCEDURES FOR INITIATING A FIELD INTERVIEW (TERRY STOP)**
 
@@ -106,16 +112,22 @@ Police members may initiate the stop of a suspect if he/she has individualized, 
 8. The temporary detention for questioning must be in the vicinity of the initial stop. It may, for example, be out of the rain, but not at the police station six miles away.
 9. Police members shall return any property temporarily seized (outside of what would be considered contraband) from a detainee as soon as it is reasonable to do so.
 
-\[Of course, officers must also document the facts of the encounter in a detailed report based on departmental policies as well.\*
+
+
+\[Of course, officers must also document the facts of the encounter in a detailed report based on departmental policies as well.\*[^3]
+
+
 {% endhint %}
 
 ***
 
-## [Footnotes](footnotes-investigative-detentions-terry-stops.md)
+{% content-ref url="footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following sources:
 
@@ -125,3 +137,7 @@ Unless otherwise indicated, this page's content is adapted from the following so
 </details>
 
 [^1]: (in part)
+
+[^2]: [MPD SOP 085.20](https://city.milwaukee.gov/ImageLibrary/Groups/mpdAuthors/SOP/085-CITIZENCONTACTSFIELDINTERVIEWSSEARCHANDSEIZURE.pdf)
+
+[^3]: [MPD SOP 085.20(C)](https://city.milwaukee.gov/ImageLibrary/Groups/mpdAuthors/SOP/085-CITIZENCONTACTSFIELDINTERVIEWSSEARCHANDSEIZURE.pdf)

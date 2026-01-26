@@ -2,62 +2,99 @@
 
 ## Constitutional Bases for Search and Seizure
 
-Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_17)." \*
+Read "[Chapter Two: Constitutional Bases for Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_17)." \*[^1]
 
 ## Key Terms for Lawful Search and Seizure
 
-* Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_35)." \*
-* Watch: "Reasonable Expectation of Privacy," below.
+* Read "[Chapter Three: Key Terms for Lawful Search and Seizure](http://cuw.ezproxy.switchinc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true\&AuthType=cookie,ip,cpid\&custid=concord\&db=e000xna\&AN=452708\&site=ehost-live\&scope=site\&ebv=EB\&ppid=pp_35)." \*[^1]
+
+***
+
+{% include "../.gitbook/includes/watch-and-learn.md" %}
 
 {% embed url="https://youtu.be/5rT7G_11lSs" %}
-[_Reasonable Expectation of Privacy_](https://youtu.be/5rT7G_11lSs) by [LawShelf](https://www.youtube.com/@LawShelf). (See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)
+[_Reasonable Expectation of Privacy_](https://youtu.be/5rT7G_11lSs) by [LawShelf](https://www.youtube.com/@LawShelf). \
+(See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)&#x20;
 {% endembed %}
+
+***
 
 ## Introduction to Probable Cause
 
-### **Probable Cause (PC)**
+### **Probable Cause (PC)**&#x20;
 
 The Fourth Amendment provides that “no Warrant shall issue but upon probable cause … .” In cases in which the Fourth Amendment requires a search warrant, courts will use “probable cause” as the standard to decide if the search meets the constitutional requirement of reasonableness. Officers may perform some searches lawfully without a warrant; however, many of these warrantless searches require the officer to establish probable cause. Probable cause is also required to obtain an arrest warrant or to arrest someone without a warrant. The facts necessary to establish probable cause to obtain a warrant are the same as those required to proceed without a warrant in those cases where probable cause is required.
 
-Watch: "The Fourth Amendment: The Requirement of Probable Cause," below.
+***
+
+{% include "../.gitbook/includes/watch-and-learn.md" %}
 
 {% embed url="https://www.youtube.com/watch?index=14&list=PL47Z0ywCYIyx8wrmuCJxqBL8HeUpNQrc7&pp=iAQB&v=xCFwt_HQ_MU" %}
-[_The Fourth Amendment: The Requirement of Probable Cause_](https://youtu.be/xCFwt_HQ_MU) by [LawShelf](https://www.youtube.com/@LawShelf). (See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)
+[_The Fourth Amendment: The Requirement of Probable Cause_](https://youtu.be/xCFwt_HQ_MU) by [LawShelf](https://www.youtube.com/@LawShelf). \
+(See the [transcript](https://www.lawshelf.com/shortvideoscontentview/reasonable-expectation-of-privacy).)
 {% endembed %}
+
+***
 
 ### Defining Probable Cause
 
 It is impossible to articulate the precise meaning of “probable cause.” Probable cause is a fluid concept—turning on the assessment of probabilities in particular factual contexts—“not readily, or even usefully, reduced to a neat set of legal rules.” Nonetheless, the courts have established some basic definitions for probable cause to “arrest” or “search.” Probable cause to “search” exists where the known facts and circumstances are sufficient to warrant a man of reasonable prudence in the belief that contraband or evidence of a crime will be found in the place to be searched. Probable cause to “arrest” exists when the known facts and circumstances are sufficient to warrant a prudent person in believing that the suspect had committed or was committing an offense. The term “reasonable belief” is often used to help define probable cause.
 
+***
+
+{% include "../.gitbook/includes/listen-read.md" %}
+
+{% embed url="https://www.fletc.gov/audio/probable-cause-i-mp3" %}
+
+***
+
 ### The Test for Probable Cause
 
 Courts use a “totality of the circumstances” test to determine whether probable cause exists. This means the courts consider all facts known to the officer. The focus in determining probable cause is not on the certainty that a crime was committed but on the likelihood of it. The court will affirm an officer’s determination of probable cause if the officer can make a reasonable argument, based in fact, that the suspect committed a specific crime, or that evidence will be found in the place to be searched.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Listen/Read:</strong></td><td><a href="https://www.fletc.gov/audio/probable-cause-i-mp3">Probable Cause (I)</a> <a data-footnote-ref href="#user-content-fn-1">*</a></td><td></td></tr></tbody></table>
-
 ## Introduction to Reasonable Suspicion
 
-While detentions constitute an important public service, they are also “a sensitive area of police activity”\* that can be a “major source of friction”\* between officers and the public. That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”\*
+While detentions constitute an important public service, they are also “a sensitive area of police activity”\*[^2] that can be a “major source of friction”\*[^3] between officers and the public. That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”\*[^4]
 
-Reasonable suspicion is similar to probable cause to the extent that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”\* Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”\*
+Reasonable suspicion is similar to probable cause to the extent that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”\*[^5] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”\*[^6]&#x20;
 
 Second, reasonable suspicion may be based on information that is not as reliable as the information needed to establish probable cause. Again quoting the Supreme Court:
 
-> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.\*
+> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.\*[^7]
 
-Although the circumstances that justify detentions are “bewilderingly diverse,”\* reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”\* Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”\*
+Although the circumstances that justify detentions are “bewilderingly diverse,”\*[^8] reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”\*[^9] Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”\*[^10]&#x20;
 
-This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”\*
+This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”\*[^11]
 
 <details>
 
-<summary>Attributions</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following source(s):
 
 * [Legal Training Handbook](https://www.fletc.gov/sites/default/files/st-1000-fy23-with-cover.pdf) (2023), §§ 18.1-18.2, 18.6-18.6.2, by [U.S. Dept. of Homeland Security Federal Law Enforcement Training Centers](https://www.fletc.gov/) Office of Chief Counsel, Amanda Barak & Lindsey Brower, Editors. This content is in the public domain.
-* [4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This content is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+* &#x20;[4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This content is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 </details>
 
-[^1]: Note: We will dive deeper into probable cause and how government agents establish it in Part II of this FLETC Probable Cause series later in the course.
+[^1]: Woody, R. H. (2006). _Search and Seizure_. Charles C Thomas Publisher, Ltd. This source maintains copyright protection, and direct access via this link requires authentication through Concordia University Wisconsin.
+
+[^2]: _Terry v. Ohio_, [392 U.S. 1, 9](https://cite.case.law/us/392/1/?highlight=a+sensitive+area+of+police+activity) (1968).&#x20;
+
+[^3]: _Terry v. Ohio_, [392 U.S. 1, 14, fn.11](https://cite.case.law/us/392/1/?highlight=a+sensitive+area+of+police+activity#footnote_1_11) (1968).&#x20;
+
+[^4]: _United States v. Cortez_, [449 U.S. 411, 417](https://cite.case.law/us/449/411/?highlight=An+investigatory+stop+must+be+justified+by+some+objective+manifestation+that+the+person+stopped+is%2C+or+is+about+to+be%2C+engaged+in+criminal+activity) (1981). (Emphasis added.)
+
+[^5]: _Safford Unified School District #1 v. Redding_, [557 U.S. 364, 371](https://cite.case.law/us/557/364/?highlight=The+lesser+standard+for+school+searches+could+as+readily+be+described+as+a+moderate+chance+of+finding+evidence+of+wrongdoing.) (2009).
+
+[^6]: _U.S. v. Fiasche,_ [520 F.3d 694, 697](https://cite.case.law/f3d/520/694/?highlight=%E2%80%9CReasonable+suspicion%2C%E2%80%9D+of+course%2C+lies+in+an+area+between+probable+cause+and+a+mere+hunch%2C+its+existence+is+discovered+by+common+sense%2C+as+the+Supreme+Court+explains%3A%0A++++Reasonable+suspicion+is+a+less+demanding+standard+then+probable+cause+not+only+in+the+sense+that+reasonable+suspicion+can+be+established+with+information+that+is+different+in+quantity+or+content+than+that+required+to+establish+probable+cause%2C+but+also+in+the+sense+that+reasonable+suspicion+can+arise+from+information+that+is+less+reliable+than+that+required+to+show+probable+cause.%0A++++%0A++++++Alabama+v.+White%2C+496+U.S.+325%2C+330%2C+110+S.Ct.+2412%2C+110+L.Ed.2d+301+%281990%29.+%E2%80%9CWhen+determining+whether+an+officer+had+reasonable+suspicion%2C+courts+examine+the+totality+of+the+circumstances+known+to+the+officer+at+the+time+of+the+stop%2C+including+the+experience+of+the+officer+and+the+behavior+and+characteristics+of+the+suspect.%E2%80%9D+United+States+v.+Lawshea%2C+461+F.3d+857%2C+859+%287th+Cir.2006%29.+Reasonable+suspicion+does+not+deal+with+hard+certainties%2C+and+%E2%80%9Cbehavior+which+is+susceptible+to+an+innocent+explanation+when+isolated+from+its+context+may+still+give+rise+to+reasonable+suspicion+when+considered+in+light+of+all+of+the+factors+at+play.%E2%80%9D+United+States+v.+Baskin%2C+401+F.3d+788%2C+793+%287th+Cir.2005%29.#p697) (7th Cir. 2008).
+
+[^7]: _Alabama v. White_, [496 U.S. 325, 330](https://cite.case.law/us/496/325/?highlight=Reasonable+suspicion+is+a+less+demanding+standard+than+probable+cause+not+only+in+the+sense+that+reasonable+suspicion+can+be+established+with+information+that+is+different+in+quantity+or+content+than+that+required+to+establish+probable+cause%2C+but+also+in+the+sense+that+reasonable+suspicion+can+arise+from+information+that+is+less+reliable+than+that+required+to+show+probable+cause) (1990).
+
+[^8]: _People v. Manis_, [268 Cal.App.2d 653, 659](https://cite.case.law/cal-app-2d/268/653/?highlight=bewilderingly+diverse) (1969).
+
+[^9]: _People v. Celis,_ [33 Cal.4th 667, 674](https://cite.case.law/cal-4th/33/667/#p674) (2004). _See also_ _Terry v. Ohio,_ [392 U.S. 1, 21](https://cite.case.law/us/392/1/#p21) (1968).
+
+[^10]: _United States v. Sokolow_, [490 U.S. 1, 7](https://cite.case.law/us/490/1/#p7) (1989).
+
+[^11]: _People v. Souza_, [9 Cal.4th 224, 233](https://cite.case.law/cal-4th/9/224/#p233) (1994).

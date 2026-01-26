@@ -93,7 +93,7 @@ But the situation is different if officers have only reasonable suspicion. Speci
 
 \[The officer] concluded that to attempt to stop the car by means suitable to a simple traffic infraction—in the prosecutor’s words, “just pull up alongside and flash your lights and ask them to pull over”—“would not be technically sound as far as my safety or safety of other officers.” We cannot fault \[the officer] for this reasoning, or for proceeding as he did.85
 
-Felony extraction procedures may also be used on all passengers in a vehicle at the conclusion of a pursuit, even though officers had no proof that the passengers were involved in the crime that prompted the driver to flee. For instance, in _Allen v. City of Los Angeles_, a passenger claimed that a felony stop was unlawful as to him “because he attempted to persuade \[the driver] to pull over and stop.” That’s “irrelevant,” said the court, because the officers “couldnot have known the extent of\[the passenger’s] involvement until after they questioned him.”86
+Felony extraction procedures may also be used on all passengers in a vehicle at the conclusion of a pursuit, even though officers had no proof that the passengers were involved in the crime that prompted the driver to flee. For instance, in _Allen v. City of Los Angeles_, a passenger claimed that a felony stop was unlawful as to him “because he attempted to persuade \[the driver] to pull over and stop.” That’s “irrelevant,” said the court, because the officers “couldnot have known the extent of\[the passenger’s] involvement until after they questioned him.”86&#x20;
 
 ## UTILIZING TASERS
 
@@ -119,12 +119,15 @@ Separating detainees is also permitted for officer safety purposes. Thus, in _Pe
 
 ***
 
-## [Footnotes](../../../footnotes-investigative-detentions-terry-stops.md)
+{% content-ref url="../../../footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](../../../footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is from [4.1 Investigative Detentions](https://workforce.libretexts.org/@go/page/16224) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
 </details>
+

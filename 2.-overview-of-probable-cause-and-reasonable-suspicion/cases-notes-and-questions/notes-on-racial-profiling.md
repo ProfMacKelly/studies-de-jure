@@ -12,8 +12,11 @@ Although the cause of “DWB” stops is disputed, the existence of the phenomen
 
 Robert Wilkins, now a federal appellate judge, was a plaintiff in 1990s litigation related to DWB stops in Maryland. A 2016 CBS News interview in which he describes his experiences is available here.
 
+{% include "../../.gitbook/includes/watch-and-learn.md" %}
+
 {% embed url="https://www.youtube.com/watch?v=pYsl6AQBZn4" %}
-Video: Judge Robert Wilkins' experience of "driving while black"
+[_Judge Robert Wilkins' experience of "driving while black"_](https://youtu.be/pYsl6AQBZn4) by [CBS Mornings](https://www.youtube.com/@CBSMornings). \
+(Learn how to access the [transcript](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/).)
 {% endembed %}
 
 In the spring and summer of 2020, police treatment of members of minority communities—especially African Americans—once again received a national spotlight. The May 2020 killing of George Floyd by police in Minneapolis and the March 2020 killing of Breonna Taylor by police in Louisville aroused particular indignation, inspiring protests across the country. Police response to protests in some cities, including violence captured on video, inspired further calls for reform, along with more radical proposals.
@@ -28,9 +31,9 @@ When considering these questions, recall most Americans do not understand the nu
 
 <details>
 
-<summary>Attributions</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
-This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/image.png" alt="" data-size="line">
 
 </details>
 

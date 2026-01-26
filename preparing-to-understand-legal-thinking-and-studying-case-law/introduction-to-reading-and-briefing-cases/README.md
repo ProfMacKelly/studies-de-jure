@@ -14,6 +14,6 @@
 [annotated-cases-and-annotated-examples-of-case-briefs](annotated-cases-and-annotated-examples-of-case-briefs/)
 {% endcontent-ref %}
 
-{% content-ref url="exercise-brief-the-case.md" %}
-[exercise-brief-the-case.md](exercise-brief-the-case.md)
+{% content-ref url="exercise-brief-the-case/" %}
+[exercise-brief-the-case](exercise-brief-the-case/)
 {% endcontent-ref %}

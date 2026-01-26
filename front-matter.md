@@ -4,15 +4,15 @@
 
 ### What Is This Book?
 
-_Criminal Procedure: A Sourcebook_ is an interactive [open educational resource](#user-content-fn-1)[^1] (OER). Open textbooks are complete textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. As an open resource, this may be used and reused freely with no direct cost to the user.
+_Criminal Procedure Sourcebook_ is an interactive [open educational resource](#user-content-fn-1)[^1] (OER). Open textbooks are complete textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. As an open resource, this may be used and reused freely with no direct cost to the user.
 
-Except where otherwise noted, the content in this book is licensed with a [Creative Commons Attribution 4.0 license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), which allows it to be adapted, remixed, and shared under the same license with attribution. Instructors and students may be interested in rearranging and otherwise adapting or transforming the content into other formats. If so, please include the appropriate attribution under the Creative Commons license. More information about this license is available [here](https://creativecommons.org/licenses/by/4.0/).
+Except where otherwise noted, the content in this book is licensed with [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), which allows it to be adapted, remixed, and shared under the same license with attribution. Instructors and students may be interested in rearranging and otherwise adapting or transforming the content into other formats. If so, please include the appropriate attribution under the Creative Commons license. More information about this license is available [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Although it is openly licensed free to be reused and redistributed, readers should note that the contents are tailored to serve undergraduate students enrolled in JPP 3010 at Concordia University Wisconsin. This sourcebook includes both content that (a) I authored, (b) I [adapted or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), and/or (c) incorporated from other creators in compliance with copyright and licensing regulations and practices. \~ _Matt Mac Kelly, JD, EdD_
 
 ### Authorship, Adaptations, and Licensing Information
 
-_Criminal Procedure: A Sourcebook_ includes content (a) created by Matthew L. Mac Kelly and (b) [edited, mixed, or otherwise adapted](https://rmit.pressbooks.pub/oercapabilitytoolkit/chapter/4-1-adapting-and-remixing-oer/) by Matthew L. Mac Kelly from other creators' works in compliance with copyright and licensing laws and appropriate attribution standards and practices. The use of any other content referenced in or integrated into this book complies with copyright and licensing laws and appropriate attribution standards and practices.
+_Criminal Procedure Sourcebook_ includes content (a) created by Matthew L. Mac Kelly and (b) [edited, mixed, or otherwise adapted](https://rmit.pressbooks.pub/oercapabilitytoolkit/chapter/4-1-adapting-and-remixing-oer/) by Matthew L. Mac Kelly from other creators' works in compliance with copyright and licensing laws and appropriate attribution standards and practices. The use of any other content referenced in or integrated into this book complies with copyright and licensing laws and appropriate attribution standards and practices.
 
 {% hint style="success" %}
 :clap:Special thanks to:
@@ -32,7 +32,7 @@ Except as otherwise noted, [judicial opinions](#user-content-fn-2)[^2] used in t
 
 ### Table of Contents
 
-Use the table of contents, usually located on the left side panel, to browse through units, chapters, and/or sections.
+Use the table of contents, usually located on the left side panel, to browse through units, chapters, and/or sections.&#x20;
 
 ### Reading Content
 
@@ -50,7 +50,7 @@ Engage with any interactive elements such as links, annotations, [expandable wid
 
 <summary><mark style="color:red;"><strong>How Annotations Work in This Sourcebook</strong></mark></summary>
 
-The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-4)[^4] To read the annotation, hover (mouse) over the underlined text. A bubble will appear and display the annotation. (If the bubble does not appear when hovering, then click/tap it.) These annotations provide additional context and information while also decluttering the main reading area.
+The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-4)[^4] To read the annotation, hover (mouse) over the underlined text. A bubble will appear and display the annotation. (If the bubble does not appear when hovering, then click/tap it.)  These annotations provide additional context and information while also decluttering the main reading area.&#x20;
 
 Also, many references and citations to original source content are located in these annotations, instead of traditional footnotes or endnotes.
 
@@ -63,7 +63,7 @@ Also, many references and citations to original source content are located in th
 To find specific topics or keywords within the sourcebook, use the **Search** bar, usually located in the top-right corner of each page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark> <mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>
+<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
 {% endhint %}
 
 ### Day/Night Mode
@@ -84,7 +84,7 @@ _**This book contains legal information intended for educational purposes only a
 
 <summary>License</summary>
 
-This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).&#x20;
 
 </details>
 

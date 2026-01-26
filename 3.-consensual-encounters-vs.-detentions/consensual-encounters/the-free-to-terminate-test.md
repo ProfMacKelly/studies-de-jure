@@ -52,9 +52,13 @@ Having covered the basic principles, we will now examine the various circumstanc
 
 ***
 
+{% content-ref url="footnotes-consensual-encounters.md" %}
+[footnotes-consensual-encounters.md](footnotes-consensual-encounters.md)
+{% endcontent-ref %}
+
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following source(s): [3.1: Investigative Contacts](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/03%3A_Consensual_Encounters__Investigative_Contacts/3.1%3A_Investigative_Contacts_-_POV)—[POV](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/03%3A_Consensual_Encounters__Investigative_Contacts/3.1%3A_Investigative_Contacts_-_POV) in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 

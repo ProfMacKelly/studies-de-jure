@@ -11,13 +11,13 @@ The text of the Amendments to the U.S. Constitution provided below is fundamenta
 * “put in jeopardy”
 * “due process of law”
 * “confronted with the witnesses against him”
-* “Assistance of Counsel” 
+* “Assistance of Counsel” &#x20;
 
 In this course, we explore how the courts work with these terms to fill the constitutional gaps.
 
 ## The Key Constitutional Language
 
-The U.S. Constitution was drafted as an effort to combine the original states into one nation under a workable governing system. The Constitution replaced the original unifying document created after the Revolutionary War for independence from Great Britain, known as the Articles of Confederation, because many regarded the Articles of Confederation as providing too little authority for the national government. The national government needed greater ability to regulate the economy and to provide for national defense by obligating states to cooperate and help each other as one country. Prior to the ratification of the Constitution, states often regarded themselves as very separate entities and that were not fully committed to a unified whole. After the Constitution was ratified, creating the United States of America and designing the details of the nation’s governing system, concerns arose about whether the document provided enough protection for the rights of individuals. As a result, the Bill of Rights was drafted and ultimately added ten Amendments to the Constitution in 1791, the first eight of which specified legal protections for individuals, known to us as “constitutional rights”, that define the relationship of individuals to government. “Rights”, in a legal sense, are entitlements for individuals that the government is not supposed to violate. Over the course of subsequent decades, additional Amendments have been added to the Constitution. Of particular importance are the Amendments added after the Civil War, especially the Fourteenth Amendment that contains the rights to due process of law and equal protection of the laws.
+The U.S. Constitution was drafted as an effort to combine the original states into one nation under a workable governing system. The Constitution replaced the original unifying document created after the Revolutionary War for independence from Great Britain, known as the Articles of Confederation, because many regarded the Articles of Confederation as providing too little authority for the national government. The national government needed greater ability to regulate the economy and to provide for national defense by obligating states to cooperate and help each other as one country. Prior to the ratification of the Constitution, states often regarded themselves as very separate entities and that were not fully committed to a unified whole. After the Constitution was ratified, creating the United States of America and designing the details of the nation’s governing system, concerns arose about whether the document provided enough protection for the rights of individuals. As a result, the Bill of Rights was drafted and ultimately added ten Amendments to the Constitution in 1791, the first eight of which specified legal protections for individuals, known to us as “constitutional rights”, that define the relationship of individuals to government. “Rights”, in a legal sense, are entitlements for individuals that the government is not supposed to violate. Over the course of subsequent decades, additional Amendments have been added to the Constitution. Of particular importance are the Amendments added after the Civil War, especially the Fourteenth Amendment  that contains the rights to due process of law and equal protection of the laws.
 
 In this course, students will focus on Supreme Court cases arising from a handful of constitutional provisions. Note how the description of rights in these Amendments contain many vague terms, such as “unreasonable search” and “cruel and unusual punishment”. These terms require interpretation when disputes arise about their meaning. Judges have the authority to interpret these terms and thereby clarify—and change—the meanings of constitutional rights:
 
@@ -41,12 +41,10 @@ Excessive bail shall not be required, nor excessive fines imposed, nor cruel and
 
 All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 
-<details>
+{% include "../.gitbook/includes/untitled.md" %}
 
-<summary>Attributions</summary>
 
-Except where otherwise noted, this page's content is adapted from [1.1: Chapter 1 - What Is This Book? ](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)/01%3A_Introduction/1.01%3A_Chapter_1_-_What_Is_This_Book)by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-</details>
+
+&#x20;&#x20;

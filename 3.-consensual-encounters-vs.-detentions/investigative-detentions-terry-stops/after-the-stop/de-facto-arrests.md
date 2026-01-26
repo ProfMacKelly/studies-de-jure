@@ -2,9 +2,9 @@
 
 ## Transitions From a Stop to a De Facto Arrest
 
-An investigative detention may lead to a lawful arrest only if the officer develops probable cause to arrest. While an investigative detention only requires reasonable suspicion that criminal activity is afoot, an arrest requires probable cause that a crime is being, or has been, committed.
+An investigative detention may lead to a lawful arrest only if the officer develops probable cause to arrest. While an investigative detention only requires reasonable suspicion that criminal activity is afoot, an arrest requires probable cause that a crime is being, or has been, committed.&#x20;
 
-If an officer extends an investigative detention beyond the time it would take a reasonable officer to confirm or dispel her suspicions, a judge may find that the officer has made a “_de facto_” arrest.
+If an officer extends an investigative detention beyond the time it would take a reasonable officer to confirm or dispel her suspicions, a judge may find that the officer has made a “_de facto_” arrest.&#x20;
 
 A detention that does not satisfy one or both of these requirements may be invalidated in two ways. First, it will be deemed a de facto arrest if the safety precautions were excessive, if the detention was unduly prolonged, or if the detainee was unnecessarily transported from the scene. While de facto arrests are not unlawful _per se_, they will be upheld only if the officers had probable cause to arrest.21 As the court noted in _United States v. Shabazz_, “A prolonged investigative detention may be tantamount to a de facto arrest, a more intrusive custodial state which must be based upon probable cause rather than mere reasonable suspicion.” 22
 
@@ -18,13 +18,13 @@ Second, even if a detention did not resemble an arrest, it may be invalidated on
 
 In determining whether an officer has made a _de facto_ arrest, courts will consider a variety of factors, including:
 
-* The purpose of the stop and the nature of the crime;
-* Whether the officer diligently conducted the detention;
-* The amount of force the officer used, and the need for such force;
-* The extent to which the officer restrained an individual’s freedom of movement;
-* The number of officers involved;
-* The length and intensity of the stop;
-* The time and location of the stop; and
+* The purpose of the stop and the nature of the crime;&#x20;
+* Whether the officer diligently conducted the detention;&#x20;
+* The amount of force the officer used, and the need for such force;&#x20;
+* The extent to which the officer restrained an individual’s freedom of movement;&#x20;
+* The number of officers involved;&#x20;
+* The length and intensity of the stop;&#x20;
+* The time and location of the stop; and&#x20;
 * The need for immediate action.
 
 A _de facto_ arrest not supported by probable cause is an illegal arrest.
@@ -33,11 +33,13 @@ Any evidence the officer obtained as a result of the unlawful arrest (for exampl
 
 ***
 
-## [Footnotes](../footnotes-investigative-detentions-terry-stops.md)
+{% content-ref url="../footnotes-investigative-detentions-terry-stops.md" %}
+[footnotes-investigative-detentions-terry-stops.md](../footnotes-investigative-detentions-terry-stops.md)
+{% endcontent-ref %}
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following sources:
 

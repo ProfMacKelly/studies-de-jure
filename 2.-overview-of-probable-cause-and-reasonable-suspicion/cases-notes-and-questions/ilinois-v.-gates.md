@@ -116,20 +116,21 @@ Rights secured by the Fourth Amendment are particularly difficult to protect bec
 
 ## **Notes, Comments, and Questions**
 
-The _Gates_ Court rejects the _Aguilar_- _Spinelli_ test’s insistence on using two specific measures to compose a (somewhat) mathematical formula for probable cause. As the Court explains, the existence of probable cause will not be found by entering “veracity” and “basis of knowledge” into a formula which yields the total weight of evidence presented to a magistrate.
+The _Gates_ Court rejects the _Aguilar_- _Spinelli_ test’s insistence on using two specific measures to compose a (somewhat) mathematical formula for probable cause. As the Court explains, the existence of probable cause will not be found by entering “veracity” and “basis of knowledge” into a formula which yields the total weight of evidence presented to a magistrate.&#x20;
 
 As the Court puts it:
 
 > This totality-of-the-circumstances approach is far more consistent with our prior treatment of probable cause than is any rigid demand that specific ‘tests’ be satisfied by every informant’s tip. Perhaps the central teaching of our decisions bearing on the probable cause standard is that it is a ‘practical, nontechnical conception.’
 
-When police have probable cause to believe either (1) that evidence of crime will be found in a particular place or (2) that a certain person has committed a crime, important police action becomes lawful that would have remained unlawful absent probable cause. One important example involves vehicle stops; police may stop a car based on probable cause to believe that its driver has committed a traffic law violation.
+When police have probable cause to believe either (1) that evidence of crime will be found in a particular place or (2) that a certain person has committed a crime, important police action becomes lawful that would have remained unlawful absent probable cause. One important example involves vehicle stops; police may stop a car based on probable cause to believe that its driver has committed a traffic law violation.&#x20;
 
 It is widely believed that many officers use this power for reasons other than traffic enforcement—for example, stopping drivers who violate trivial traffic rules in the hope of discovering evidence of more serious lawbreaking. In addition, some critics of police allege that at least some officers use their traffic-stop authority in ways that constitute unlawful discrimination, such as on the basis of race. Based on these beliefs and allegations, motorists have sought review of vehicle stops, justified by probable cause, on the basis of police officers’ “real” or “true” reasons for conducting the stops. The Court has resisted engaging in such review.
 
 <details>
 
-<summary>Attributions</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
-This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This page's content is adapted from the following source(s): [2.5: Chapter 6 - Probable Cause and Reasonable Suspicion](https://biz.libretexts.org/Workbench/Criminal_Procedure/05%3A_The_Fourth_Amendment/5.05%3A_Chapter_6_-_Probable_Cause_and_Reasonable_Suspicion) by [Anne M Alexander](https://law.missouri.edu/directory/anne-alexander/) and [Ben Trachtenberg](https://law.missouri.edu/directory/ben-trachtenberg/), in [_Criminal Procedure: A Free Law School Casebook 2e_](https://biz.libretexts.org/Bookshelves/Criminal_Law/Criminal_Procedure%3A_A_Free_Law_School_Casebook_2e_\(Alexander_and_Trachtenberg\)), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/image.png" alt="" data-size="line">
 
 </details>
+

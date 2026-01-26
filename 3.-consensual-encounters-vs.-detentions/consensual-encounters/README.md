@@ -1,7 +1,27 @@
 # Consensual Encounters
 
-1. [The "Free to Terminate" Test"](the-free-to-terminate-test.md)
-2. [Engaging the Suspect](engaging-the-suspect.md)
-3. [Officer Safety Measures](officer-safety-measures.md)
-4. [Conducting the Investigation](conducting-the-investigation.md)
-5. [Cases, Notes, & Questions](../investigative-detentions-terry-stops/cases-notes-and-questions/)
+## Contents
+
+{% content-ref url="overview.md" %}
+[overview.md](overview.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-free-to-terminate-test.md" %}
+[the-free-to-terminate-test.md](the-free-to-terminate-test.md)
+{% endcontent-ref %}
+
+{% content-ref url="engaging-the-suspect.md" %}
+[engaging-the-suspect.md](engaging-the-suspect.md)
+{% endcontent-ref %}
+
+{% content-ref url="officer-safety-measures.md" %}
+[officer-safety-measures.md](officer-safety-measures.md)
+{% endcontent-ref %}
+
+{% content-ref url="conducting-the-investigation.md" %}
+[conducting-the-investigation.md](conducting-the-investigation.md)
+{% endcontent-ref %}
+
+{% content-ref url="cases-notes-and-questions/" %}
+[cases-notes-and-questions](cases-notes-and-questions/)
+{% endcontent-ref %}

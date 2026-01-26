@@ -2,9 +2,7 @@
 
 ## Introduction
 
-[Although ](#user-content-fn-1)[^1]there is certainly more to probable cause and reasonable suspicion than just principles, this is a good place to start. The most challenging aspect of studying these concepts is that their definitions are somewhat amorphous, even to experienced professionals1. Consider that the [Seventh Circuit](#user-content-fn-2)[^2] once tried to provide a good legal definition but concluded that, when all is said and done, it just means having “a good reason to act.”2 Even the Supreme Court— whose many powers include defining legal terms— decided to pass on probable cause because, said the Court, it is “not a finely-tuned standard”3 and is actually an “elusive” and “somewhat abstract” concept.4 As for reasonable suspicion, the uncertainty is even worse. For instance, in _United States v. Jones_ the First Circuit would only say that it “requires more than a naked hunch.”5
-
-a;sdlklkj [blech](<../README (1).md#user-content-fn-blechblech>) jhkjh
+Although there is certainly more to probable cause and reasonable suspicion than just principles, this is a good place to start. The most challenging aspect of studying these concepts is that their definitions are somewhat amorphous, even to experienced professionals1. Consider that the [Seventh Circuit](#user-content-fn-1)[^1] once tried to provide a good legal definition but concluded that, when all is said and done, it just means having “a good reason to act.”2 Even the Supreme Court— whose many powers include defining legal terms— decided to pass on probable cause because, said the Court, it is “not a finely-tuned standard”3 and is actually an “elusive” and “somewhat abstract” concept.4 As for reasonable suspicion, the uncertainty is even worse. For instance, in _United States v. Jones_ the First Circuit would only say that it “requires more than a naked hunch.”5
 
 But this imprecision is actually a good thing because probable cause and reasonable suspicion are ultimately judgments based on common sense, not a rigid mathematical formula. Granted, they are _important_ judgments because they have serious repercussions. But they are fundamentally just rational assessments of the convincing force of information, which is something the human brain does all the time without consulting a rule book. So instead of being governed by a “neat set of rules,”6 these concepts mainly require that officers understand certain principles— principles that usually enable them to make these determinations with a fair degree of consistency and accuracy.
 
@@ -32,7 +30,7 @@ As noted, the required probability percentage for reasonable suspicion is a myst
 
 Having given up on a mathematical solution to the problem, we must rely on certain basic principles. And the most basic principle is this: Neither probable cause nor reasonable suspicion can exist unless officers can cite “specific and articulable facts” that support their judgment.20 This demand for specificity is so important that the Supreme Court called it the “central teaching of this Court’s Fourth Amendment jurisprudence.”21 The question, then, is this: How can officers determine whether their “specific and articulable” facts are sufficient to establish probable cause or reasonable suspicion? That is the question we will address in the remainder of this article.
 
-## **Totality of the circumstances**
+## **Totality of the Circumstances**
 
 Almost as central as the need for facts is the requirement that, in determining whether officers have probable cause and reasonable suspicion, the courts will consider the totality of circumstances. This is significant because it is exactly the opposite of how some courts did things many years ago. That is, they would utilize a “divide-and-conquer”22 approach which meant subjecting each fact to a meticulous evaluation, then frequently ruling that the officers lacked probable cause or reasonable suspicion because none of the individual facts were compelling. This practice officially ended in 1983 when, in the landmark decision in _Illinois v. Gates_, the Supreme Court announced that probable cause and reasonable suspicion must be based on an assessment of the convincing force of the officers’ information as a whole. “We must be mindful,” said the Fifth Circuit, “that probable cause is the sum total of layers of information and the synthesis of what the police have heard, what they know, and what they observed as trained officers. We weigh not individual layers but the laminated total.23 Thus, in _People v. McFadin_ the court responded to the defendant’s “divide-and-conquer” strategy by utilizing the following analogy:
 
@@ -40,19 +38,19 @@ Defendant would apply the axiom that a chain is no stronger than its weakest lin
 
 Here is an example of how the “totality of the circumstances” test works and why it is so important. In _Maryland v. Pringle_ 25 an officer made a traffic stop on a car occupied by three men and, in the course of the stop, saw some things that caused him to suspect that the men were drug dealers. One of those things was a wad of cash ($763) that the officer had seen in the glove box. He then conducted a search of the vehicle and found cocaine. But a Maryland appellate court ruled the search was unlawful because the presence of money is “innocuous.” The Supreme Court reversed, saying the Maryland court’s “consideration of the money in isolation, rather than as a factor in the totality of the circumstances, is mistaken.”
 
-## **Common sense**
+## **Common Sense**
 
 Not only did the Court in Gates rule that probable cause must be based on a consideration of the totality of circumstances, it ruled that the significance of the circumstances must be evaluated by applying common sense, not hyper-technical analysis. In other words, the circumstances must be “viewed from the standpoint of an objectively reasonable police officer.”26 As the Court explained:
 
 Perhaps the central teaching of our decisions bearing on the probable cause standard is that it is a practical, nontechnical conception. In dealing with probable cause, as the very name implies, we deal with probabilities. These are not technical; they are the factual and practical considerations of everyday life on which reasonable and prudent men, not legal technicians, act.27
 
-## **Legal**—**but "suspicious"**—**activities**
+## **Legal**—B**ut "Suspicious"**—A**ctivities**
 
 It follows from the principles discussed so far that it is significant that officers saw the suspect do something that, while not illegal, was suspicious in light of other circumstances.28 As the Supreme Court explained, the distinction between criminal and noncriminal conduct “cannot rigidly control” because probable cause and reasonable suspicion “are fluid concepts that take their substantive content from the particular contexts in which they are being assessed.”29 For example, in _Massachusetts v. Upton_ the state court ruled that probable cause could not have existed because the evidence “related to innocent, nonsuspicious conduct or related to an event that took place in public.” Acknowledging that no single piece of evidence was conclusive, the Supreme Court reversed, saying the “pieces fit neatly together.”30 Similarly, the Court of Appeal noted that seeing a man running down a street “is indistinguishable from the action of a citizen engaged in a program of physical fitness.” But it becomes “highly suspicious” when it is “viewed in context of immediately preceding gunshots.”31
 
 Another example of how noncriminal activities can become highly suspicious is found in _Illinois v. Gates_.32 It started with an anonymous letter to a police department saying that a local resident, Lance Gates, was a drug trafficker; and it explained in some detail the procedure that Gates and his wife, Sue, would follow in obtaining drugs in Florida. DEA agents followed both of them (Gates flew, Sue drove) and both generally followed the procedure described by the letter writer. This information led to a search warrant and Gates’ arrest. On appeal, he argued that the warrant was not supported by probable cause because the agents did not see him or his wife do anything illegal. It didn’t matter, said the Supreme Court, because the “seemingly innocent activity became suspicious in light of the initial tip.”
 
-## **Multiple incriminating circumstances**
+## **Multiple Incriminating Circumstances**
 
 Here is a principle that, while critically important, is often overlooked or underappreciated: The chances of having probable cause or reasonable suspicion increase exponentially with each additional piece of independent incriminating evidence that comes to light. This is because of the unlikelihood that each “coincidence of information”33 could exist in the absence of a fair or moderate possibility of guilt.
 
@@ -74,7 +72,7 @@ While this principle also applies to reasonable suspicion to detain, a lesser am
 * The suspect resembled the perpetrator and possessed fruits of the crime.41
 * The number of suspects in the vehicle corresponded with the number of people who had just committed the crime, plus they were similar in age, sex, and nationality.42
 
-## **Unique circumstances**
+## **Unique Circumstances**
 
 The odds of having reasonable suspicion or probable cause also increase dramatically if the matching or similar characteristics were unusual or distinctive. As the Court of Appeal observed, “Uniqueness of the points of comparison must also be considered in testing whether the description would be inapplicable to a great many others.”43
 
@@ -93,13 +91,13 @@ A San Jose PD officer who was monitoring these developments at the station made 
 
 Similarly, in _People v. Carrington,_&#x35;1 the California Supreme Court ruled that police in Los Altos reasonably inferred that two commercial burglaries were committed by the same person based on the following: “the two businesses were located in close proximity to each other, both businesses were burglarized on or about the same date, and in both burglaries blank checks were stolen.”
 
-## **Hunches and unsupported conclusions**
+## **Hunches and Unupported Conclusions**
 
 It is well known that hunches play an important role in solving crimes. “A hunch,” said the Ninth Circuit, “may provide the basis for solid police work; it may trigger an investigation that uncovers facts that establish reasonable suspicion, probable cause, or even grounds for a conviction.”52 Still, hunches are absolutely irrelevant in determining the existence of probable cause or reasonable suspicion. In other words, a hunch “is not a substitute for the necessary specific, articulable facts required to justify a Fourth Amendment intrusion.”53
 
 The same is true of unsupported conclusions.54 For example, in ruling that a search warrant affidavit failed to establish probable cause, the court in _U.S. v. Underwood_ 55 noted that much of the affidavit was “made up of conclusory allegations” that were “entirely unsupported by facts.” Two of these allegation were that officers had made “other seizures” and had “intercepted conversations” that tended to prove the defendant was a drug trafficker. “\[T]hese vague explanations,” said the court, “add little if any support because they do not include underlying facts.”
 
-## **Information known to other officers**
+## **Information Known To Other Officers**
 
 Information is ordinarily irrelevant unless it had been communicated to the officer who acted on it; i.e., the officer who made the detention, arrest, or search, or the officer who applied for the search or arrest warrant.56 To put it another way, a search or seizure made without sufficient justification cannot be rehabilitated in court by showing that it would have been justified if the officer had been aware of information possessed by a colleague. As the California Supreme Court explained, “The question of the reasonableness of the officers’ conduct is determined on the basis of the information possessed by the officer at the time a decision to act is made.”57
 
@@ -111,11 +109,11 @@ For example, in _U.S. v. Lyons_ 60 state troopers in Michigan stopped and search
 
 Note that, although officers “are entitled to presume the accuracy of information furnished to them by other law enforcement personnel,”61 the officers who disseminated the information may later be required to prove in court that they had received such information and that they reasonably believed it was reliable.62
 
-## **Information inadmissible in court**
+## **Information Inadmissible In Court**
 
 In determining whether probable cause or reasonable suspicion exist, officers may consider both hearsay and privileged communications.63 For example, although a victim’s identification of the perpetrator might constitute inadmissible hearsay or fall within the marital privilege, officers may rely on it unless they had reason to believe it was false. As the Court of Appeal observed, “The United States Supreme Court has consistently held that hearsay information will support issuance of a search warrant.... Indeed, the usual search warrant, based on a reliable police informer’s or citizen-informant’s information, is necessarily founded upon hearsay.”64 On the other hand, information may not be considered if it was inadmissible because it was obtained in violation of the suspect’s constitutional rights; e.g., an illegal search or seizure.65
 
-## **Mistakes of fact and law**
+## **Mistakes of Fact and Law**
 
 If probable cause was based on information that was subsequently determined to be inaccurate or false, the information may nevertheless be considered if the officers reasonably believed it was true. As the Court of Appeal put it, “If the officer’s belief is reasonable, it matters not that it turns out to be mistaken.”66 Or, in the words of the Supreme Court, “\[W]hat is generally demanded of the many factual determinations that must regularly be made by agents of the government is not that they always be correct, but that they always be reasonable.”67
 
@@ -200,14 +198,12 @@ The courts are not, however, so forgiving with mistakes of law. This is because 
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Attributions &#x26; Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following sources:
 
-* [5.1 Principles of Probable Cause and Reasonable Suspicion](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/05%3A_Arrests_Based_on_Probable_Cause/5.1%3A_Principles_of_Probable_Cause_and_Reasonable_Suspicion) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This content is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).. This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+* [5.1 Principles of Probable Cause and Reasonable Suspicion](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/05%3A_Arrests_Based_on_Probable_Cause/5.1%3A_Principles_of_Probable_Cause_and_Reasonable_Suspicion) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This content is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1). <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 </details>
 
-[^1]: adsfadf
-
-[^2]: _Hanson v. Dane County,_ 608 F.3d 335, 338 (7th Cir. 2010).
+[^1]: _Hanson v. Dane County,_ 608 F.3d 335, 338 (7th Cir. 2010).
