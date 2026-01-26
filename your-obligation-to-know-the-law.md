@@ -8,9 +8,9 @@ This class is not law school, and it is not about turning students into lawyers.
 
 <details>
 
-<summary><mark style="color:red;"><strong>License</strong></mark></summary>
+<summary>Licensing</summary>
 
-This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">&#x20;
+Except where otherwise noted, this page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). <img src=".gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
 
