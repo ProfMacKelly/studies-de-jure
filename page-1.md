@@ -4,6 +4,8 @@ hidden: true
 
 # Page 1
 
+[Attribution Snippets](https://app.gitbook.com/s/gb3latek59GhBxzDZlwy/)
+
 [**Glossary from Libretexts**](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/zz%3A_Back_Matter/20%3A_Glossary)
 
 ### Quiz
