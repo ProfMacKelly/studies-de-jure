@@ -42,13 +42,10 @@
 
 1. Under the circumstances of this case:
    1. The immunity defense does not apply to the City, and&#x20;
-   2. The immunity defense applies to a pursuing officer's discretionary acts but not any ministerial acts that apply to the pursuit. &#x20;
+   2. The immunity defense applies to a pursuing officer's discretionary acts but not any ministerial acts relevant to the pursuit. &#x20;
 2. If the immunity defense did not apply:
    1. There was credible evidence to support the verdict that (1) the City was negligent and (2) the negligence was causal.
-   2.
-3. Andrade is not immune with respect to the safety of his driving; Wis. Stat. § 346.03(5) creates a ministerial duty to operate the vehicle with “due regard for the safety of others.”
-
-* Neither the city nor Andrade caused the harm.
+   2. There was no credible evidence to support (1) that Andrade's actions were negligent and (2) if his actions were negligent, that such negligence was causal.
 
 ## **Rule(s)**
 
@@ -76,15 +73,12 @@
 
 ### Claim Against Andrade
 
-* **Immunity.** Andrade can be immune from decisions to initiate or continue a high-speed pursuit because the relevant language—"may"—is permissive and thus discretionary, and Wis. Stat. § 893.80(4) provides immunity from discretionary decisions.&#x20;
-* However, the duty under Wis. Stat. § 346.03(5) to drive with due regard under the circumstances for the safety of all persons is min
-* **Negligence & Causation.** Although initiating or continuing the pursuit was discr
-
-There was no evidence that Andrade’s operation of the vehicle (e.g., management and control, following too closely, failure to maintain proper lookout) was causally connected to the harm due to the facts that (a) Andrade was one-and-a-half blocks away from the accident and (b) never made physical contact with anything.
-
-Wis. Stat. § 346.03(5)
-
-duty to&#x20;
+* **Immunity.** Andrade can be immune from decisions to initiate or continue a high-speed pursuit because the relevant language—"may"—is permissive and thus discretionary, and Wis. Stat. § 893.80(4) provides immunity from discretionary decisions. \
+  \
+  However, the duty under Wis. Stat. § 346.03(5) to drive with due regard under the circumstances for the safety of all persons is min<br>
+* **Negligence & Causation.** There was no evidence that Andrade operated his vehicle in a way that would constitution a reckless disregard for the safety of others (e.g., management and control, following too closely, failure to maintain proper lookout). Because he did not breach this ministerial duty, Andrade cannot be liable. \
+  \
+  Further, even if he breached his duty through acting with a reckless disregard for the safety of others, his distance of one-and-a-half blocks from the suspect at the time of the accident makes prevents a legally causal relationship to the harm. Whether ceasing pursuit may have prevented the death is merely speculative.&#x20;
 
 {% hint style="info" %}
 **Note to Students:** You probably observed that the rationale regarding the city, the court included reasoning about whether the city breached a duty, but that did not occur here regarding Andrade. The court chose to focus the negligence analysis on whether there was evidence that Andrade’s operation of the vehicle (negligent or otherwise) played a causal role (i.e., a substantial factor) in the harm.&#x20;
