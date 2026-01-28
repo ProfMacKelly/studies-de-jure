@@ -1,6 +1,6 @@
 # Overview of Probable Cause and Reasonable Suspicion
 
-## Contents
+### Contents
 
 {% content-ref url="introduction.md" %}
 [introduction.md](introduction.md)

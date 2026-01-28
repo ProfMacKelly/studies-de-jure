@@ -17,7 +17,7 @@ In reality, however, law enforcement officers throughout the country had been st
 What are those rules? We will cover them all in this article but, for now, it should be noted that they can be divided into two broad categories: (1) Grounds (i.e., justification) to detain and (2) Procedure.
 
 {% hint style="info" %}
-### Sidebar
+#### Sidebar
 
 The rules for constitutional investigative detentions are separated into "two broad categories":
 
@@ -31,13 +31,11 @@ One more thing before we begin: In addition to investigative detentions, there a
 
 ***
 
-{% content-ref url="footnotes-investigative-detentions-terry-stops.md" %}
-[footnotes-investigative-detentions-terry-stops.md](footnotes-investigative-detentions-terry-stops.md)
-{% endcontent-ref %}
+## [Footnotes](footnotes-investigative-detentions-terry-stops.md)
 
 <details>
 
-<summary>Attributions &#x26; Licensing</summary>
+<summary>Attributions and Licensing</summary>
 
 Unless otherwise indicated, this page's content is adapted from the following source: [4.1 Investigative Detentions](https://workforce.libretexts.org/@go/page/16224) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
