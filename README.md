@@ -1,12 +1,15 @@
----
-hidden: true
----
+# Bioethics and the Law Sourcebook
 
-# UNIT 1. Introduction
+:construction\_site: This book is under construction. :construction:
 
-## Contents
+***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>1.1</strong> Preparing to Understand Legal Thinking, Reasoning &#x26; Analysis</td><td></td><td></td><td><a href="unit-1.-introduction-1/1.1-preparing-to-understand-legal-thinking-reasoning-and-analysis/">1.1-preparing-to-understand-legal-thinking-reasoning-and-analysis</a></td></tr><tr><td><strong>1.2</strong> Case Law: Introduction to Reading &#x26; Studying Cases</td><td></td><td></td><td><a href="unit-1.-introduction-1/1.2-case-law-introduction-to-reading-and-studying-cases/">1.2-case-law-introduction-to-reading-and-studying-cases</a></td></tr><tr><td><strong>1.3</strong> Brief Introduction to the Law &#x26; the American Legal System</td><td></td><td></td><td><a href="unit-1.-introduction-1/1.3-brief-introduction-to-the-law-and-the-american-legal-system/">1.3-brief-introduction-to-the-law-and-the-american-legal-system</a></td></tr><tr><td><strong>1.4.</strong> Foundations of the Bioethics-Law Relationship</td><td></td><td></td><td><a href="unit-1.-introduction-1/1.4-foundations-of-the-bioethics-law-relationship/">1.4-foundations-of-the-bioethics-law-relationship</a></td></tr><tr><td><strong>1.5</strong> Summation</td><td></td><td></td><td><a href="unit-1.-introduction-1/1.5-summation.md">1.5-summation.md</a></td></tr></tbody></table>
+_Bioethics and the Law Sourcebook_ is an [open educational resource](#user-content-fn-1)[^1], focusing on the balance between the public interest in controlling, investigating, and prosecuting criminal conduct and the private interest of individuals in protecting their reasonable expectation of privacy and protecting against arbitrary government deprivations of liberty and property.
 
+This book [openly licensed](#user-content-fn-2)[^2] and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices. Attributions and licensing information is identified on each page.
 
+\~ _Matt Mac Kelly, JD, EdD_
 
+[^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
+
+[^2]: See the Front Matter for more information.
