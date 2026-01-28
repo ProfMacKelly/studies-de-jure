@@ -192,7 +192,7 @@ _**By the Court.**_ — The decision of the court of appeals is reversed and the
 
 ***
 
-
+{% include "https://app.gitbook.com/s/gb3latek59GhBxzDZlwy/~/reusable/VVV3MblY7al6IPoY3ViP/" %}
 
 
 
