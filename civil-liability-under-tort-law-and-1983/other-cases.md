@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Other Cases
 
 ## Special Duty and Foreseeability

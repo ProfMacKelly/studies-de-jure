@@ -26,7 +26,7 @@
       * [Model Brief for "Brief the Case" Exercise](unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/introduction-to-reading-and-briefing-cases/brief-the-case-exercise/model-brief-for-brief-the-case-exercise.md)
 * [Introduction to Civil Liability](unit-2-introduction-to-civil-liability.md)
 * [Civil Liability under Tort Law and § 1983](civil-liability-under-tort-law-and-1983/README.md)
-  * [Estate of Cavanaugh v. Andrade](civil-liability-under-tort-law-and-1983/estate-of-cavanaugh-v.-andrade.md)
+  * [Estate of Cavanaugh v. Andrade](unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/introduction-to-reading-and-briefing-cases/brief-the-case-exercise/estate-of-cavanaugh-v.-andrade.md)
   * [Mills v. City of Overland Park](civil-liability-under-tort-law-and-1983/mills-v.-city-of-overland-park.md)
   * [Govea v. City of Norcross](civil-liability-under-tort-law-and-1983/govea-v.-city-of-norcross.md)
   * [Strickland v. University of North Carolina](civil-liability-under-tort-law-and-1983/strickland-v.-university-of-north-carolina.md)

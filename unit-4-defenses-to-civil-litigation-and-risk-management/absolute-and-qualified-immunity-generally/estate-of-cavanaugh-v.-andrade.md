@@ -19,7 +19,7 @@ ANN WALSH BRADLEY, J.
 The plaintiffs, Estate of Donald Cavanaugh and James Cavanaugh, seek review, and the defendants, City of Milwaukee and police officer Robert Andrade, seek cross-review of a decision of the court of appeals that reversed a judgment against the City and affirmed a judgment against Andrade, which was entered by the Circuit Court for Milwaukee County \[...].[1](https://static.case.law/wis-2d/202/html/0290-01.html#footnote_1_1) The City and Andrade assert immunity from liability for the injuries and death of Donald Cavanaugh which resulted from a collision with a vehicle being pursued by Andrade during a high-speed chase. Because the City has a ministerial duty to have a written policy for high-speed chases which includes consideration of the severity of the offense, we conclude that the City is not immune from liability. \[...] Further, because Andrade's decisions to initiate and continue the chase were discretionary, we conclude that he is immune from liability. \[...]
 
 {% hint style="info" %}
-Above, when the court states, "the City is not immune from liability," it simply means that the City can be exposed to liability; it does not mean that the City is liable. Whether the City was held liable is discussed in the version of [this case provided in Unit 3](../../civil-liability-under-tort-law-and-1983/estate-of-cavanaugh-v.-andrade.md).
+Above, when the court states, "the City is not immune from liability," it simply means that the City can be exposed to liability; it does not mean that the City is liable. Whether the City was held liable is discussed in the version of [this case provided in Unit 3](/broken/pages/js5E5FUgFdAqRLaPDVBU).
 {% endhint %}
 
 ### I. FACTS

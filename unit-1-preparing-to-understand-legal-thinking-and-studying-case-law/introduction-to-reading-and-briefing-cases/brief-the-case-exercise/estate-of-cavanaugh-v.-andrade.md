@@ -1,10 +1,6 @@
 # Estate of Cavanaugh v. Andrade
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://scholar.google.com/scholar_case?case=959381001430553656\&q=202+wis.2d+290\&hl=en\&as_sdt=4,50).]
-
-***
-
-202 Wis.2d 290, 550 N.W.2d 103 (1996)&#x20;
+[202 Wis.2d 290](https://scholar.google.com/scholar_case?case=959381001430553656\&q=202+wis.2d+290\&hl=en\&as_sdt=4,50) (1996)&#x20;
 
 Supreme Court of Wisconsin
 
@@ -193,6 +189,10 @@ Based on the above, we conclude that there is no credible evidence in the record
 _**By the Court.**_ — The decision of the court of appeals is reversed and the cause is remanded with directions to the circuit court to enter judgment consistent with this opinion.
 
 \[[Justice Abrahamson's](https://scholar.google.com/scholar_case?case=959381001430553656\&q=estate+of+cavanaugh+v+andrade\&hl=en\&as_sdt=4,50#p323) and [Justice Geske's](https://scholar.google.com/scholar_case?case=959381001430553656\&q=estate+of+cavanaugh+v+andrade\&hl=en\&as_sdt=4,50#p331) opinions in which they separately concur in part and dissent in part have been omitted.]
+
+***
+
+
 
 
 
