@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Snippets - Attributions
 
 #### General Attributions & Licensing
