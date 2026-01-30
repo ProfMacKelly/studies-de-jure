@@ -105,7 +105,6 @@
       * [Reading Cases](introduction-to-law/case-law/1.2-intro-reading-briefing/reading-cases/README.md)
         * [Videos: Reading Cases](introduction-to-law/case-law/1.2-intro-reading-briefing/reading-cases/videos-reading-cases.md)
 * [Business Law I: A Sourcebook](business-law-i/README.md)
-  * [Table of contents](business-law-i/SUMMARY.md)
   * [Antitrust Law](business-law-i/antitrust-law.md)
   * [Attributions/Licensing, Hints, Videos ...](business-law-i/attributions-licensing-hints-videos-....md)
   * [Business and the United States Constitution](business-law-i/business-and-the-united-states-constitution.md)

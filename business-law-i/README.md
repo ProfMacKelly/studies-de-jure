@@ -1,3 +1,7 @@
+---
+icon: briefcase
+---
+
 # Business Law I: A Sourcebook
 
 :construction\_site: This book is under construction. :construction:
