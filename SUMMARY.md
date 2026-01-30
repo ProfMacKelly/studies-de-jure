@@ -101,7 +101,7 @@
         * [Model Brief for "Brief the Case" Exercise](introduction-to-law/case-law/1.2-intro-reading-briefing/1.3-brief-the-case-exercise/model-brief-for-brief-the-case-exercise.md)
       * [Reading Cases](introduction-to-law/case-law/1.2-intro-reading-briefing/reading-cases/README.md)
         * [Videos: Reading Cases](introduction-to-law/case-law/1.2-intro-reading-briefing/reading-cases/videos-reading-cases.md)
-* [Business Law I: A Sourcebook](business-law-i/README.md)
+* [Business Law I](business-law-i/README.md)
   * [Front Matter](business-law-i/front-matter.md)
   * [Antitrust Law](business-law-i/antitrust-law.md)
   * [Attributions/Licensing, Hints, Videos ...](business-law-i/attributions-licensing-hints-videos-....md)
