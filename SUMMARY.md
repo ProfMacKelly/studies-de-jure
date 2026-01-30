@@ -9,9 +9,9 @@
   * [Introduction to Deductive (Rule-Based) Reasoning](primers/primers-on-legal-thinking-reasoning-and-analysis/deductive.md "Introduction to Deductive (Rule-Based) Reasoning")
   * [Introduction to Analogical Reasoning—A Type of Inductive Reasoning](primers/primers-on-legal-thinking-reasoning-and-analysis/introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md "Introduction to Analogical Reasoning—A Type of Inductive Reasoning")
   * [Is a Hot Dog a Sandwich?](primers/primers-on-legal-thinking-reasoning-and-analysis/is-a-hot-dog-a-sandwich.md)
-  * [Avoid Bald Assertions](primers/primers-on-legal-thinking-reasoning-and-analysis/avoid-bald-assertions/README.md)
-    * [Traps in Reasoning and Decision-Making](primers/primers-on-legal-thinking-reasoning-and-analysis/avoid-bald-assertions/traps-in-reasoning-and-decision-making.md)
-  * [Sources Referenced in Annotations](primers/primers-on-legal-thinking-reasoning-and-analysis/sources-referenced-in-annotations.md)
+  * [Avoid Bald Assertions](primers/primers-on-legal-thinking-reasoning-and-analysis/avoid-bald-assertions.md)
+    * [Traps in Reasoning and Decision-Making](primers/primers-on-legal-thinking-reasoning-and-analysis/traps-in-reasoning-and-decision-making.md)
+  * [Sources Referenced in Annotations](cj-liability/sources-referenced-in-annotations.md)
 * [Reading and Briefing Cases](primers/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/README.md)
   * [Introduction to Reading & Briefing Cases](primers/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/introduction-to-reading-and-briefing-cases.md)
   * [How to Read a Case](primers/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/how-to-read-a-case.md)
@@ -332,7 +332,7 @@
 ***
 
 * [🔤 Glossary](glossary.md)
-* [Snippets - Attributions](snippets-attributions.md)
+* [Snippets - Attributions](cj-liability/snippets-attributions.md)
 * [Attributions](criminal-procedure/README.md)
   * [3+3](criminal-procedure/3+3.md)
   * [4th](criminal-procedure/4th.md)
