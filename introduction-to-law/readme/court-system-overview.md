@@ -20,7 +20,7 @@ To simplify and summarize precedent defining federal regulatory authority, feder
 
 The original intent was for the federal government to be a _limited_ government, with the bulk of regulatory authority residing in the _states_. The only _crimes_ Congress is specifically authorized to punish are piracies and felonies on the high seas, counterfeiting, and treason; however, case precedent has expanded the federal government’s power to enact criminal laws based on the commerce clause and the necessary and proper clause. [_McCulloch v. Maryland_](https://scholar.google.com/scholar_case?case=9272959520166823796\&q=McCulloch+v.+Maryland,+17+U.S.+\(4+Wheat.\)+316\&hl=en\&as_sdt=3,50), 17 U.S. (4 Wheat.) 316 (1819). Still, there must be _some_ connection to an issue of national character and interstate commerce, or the federal government will overstep its authority. In general, federal criminal laws target conduct that occurs on federal property or conduct involving federal employees, currency, coin, treason, national security, rights secured by the Constitution, or commerce that crosses state lines. Currently, over five hundred crimes are listed in [Part I, Title 18 of the United States Code](https://www.law.cornell.edu/uscode/text/18/part-I), which codifies criminal laws for the federal government.
 
-<figure><img src="https://biz.libretexts.org/@api/deki/files/49895/189beffec311111907b851fd052b8178.jpg?revision=1" alt="189beffec311111907b851fd052b8178.jpg"><figcaption><p> Diagram of Federal Laws</p></figcaption></figure>
+<figure><img src="https://biz.libretexts.org/@api/deki/files/49895/189beffec311111907b851fd052b8178.jpg?revision=1" alt="189beffec311111907b851fd052b8178.jpg"><figcaption><p>Diagram of Federal Laws</p></figcaption></figure>
 
 ## The Scope of State Law [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=a97de9e640dec836ce36fd7e1c341ae98d5ae1fb:site_7336)](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/02%3A_The_Legal_System_in_the_United_States/2.01%3A_Federalism)
 
@@ -62,7 +62,6 @@ Because of this conflict, the federal statutes may **preempt** many state laws u
 
 Except where otherwise noted, this page's content is adapted from [2.1: Federalism](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/02%3A_The_Legal_System_in_the_United_States/2.01%3A_Federalism) in [_JPP 207 Substantive Criminal Law_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
-<img src="../../.gitbook/assets/CC BY badge.png" alt="" data-size="line">
+
 
 </details>
-

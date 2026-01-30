@@ -2,15 +2,15 @@
 
 The best place to start is to appreciate that legal reasoning is fundamentally comprised of logic. Whether thinking about civil liability, criminal procedure (e.g., stop and frisk, arrest, search and seizure, etc.), or criminal laws, the courts and professionals apply specific methodologies when making decisions.
 
-There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) [**deductive reasoning**](introduction-to-deductive-rule-based-reasoning.md#introduction) (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md) (in our context, this is reasoning by analogy).&#x20;
+There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) [**deductive reasoning**](introduction-to-deductive-rule-based-reasoning.md#introduction) (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md) (in our context, this is reasoning by analogy).
 
 ## Introduction
 
 Most of the analysis you will perform in this class will involve deductive reasoning, which is also called [syllogistic ](#user-content-fn-1)[^1]reasoning. What we will see is that deductive reasoning produces conclusions from a set of established premises (assertions): [If A is true and B is true, then C must be true](#user-content-fn-2)[^2].
 
-The syllogism represents a fundamental depiction of the deductive reasoning process in law, which starts with a **general assertion or proposition and ends with a specific assertion (i.e., the conclusion)**. Imagine this approach as a funnel or an [inverted pyramid](#user-content-fn-3)[^3].&#x20;
+The syllogism represents a fundamental depiction of the deductive reasoning process in law, which starts with a **general assertion or proposition and ends with a specific assertion (i.e., the conclusion)**. Imagine this approach as a funnel or an [inverted pyramid](#user-content-fn-3)[^3].
 
-<figure><img src="../../.gitbook/assets/inverted pyramid 3 sections.png" alt="inverted pyramid divided into three parts. The major premise is at the base (i.e., at the top of the inverted pyramid), the minor premise is in the middle, and the conclusion is at the bottom." width="440"><figcaption><p>Inverted Pyramid</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/inverted pyramid 3 sections (2).png" alt="inverted pyramid divided into three parts. The major premise is at the base (i.e., at the top of the inverted pyramid), the minor premise is in the middle, and the conclusion is at the bottom." width="440"><figcaption><p>Inverted Pyramid</p></figcaption></figure>
 
 The following sections discuss the working principles of deductive reasoning based on the syllogistic process and its relationship to legal reasoning and analysis.
 
@@ -30,7 +30,7 @@ A classic example of deductive reasoning is the "[Socrates syllogism](https://an
 
 In other words, if all men are mortal, and if Socrates is a man, then Socrates is mortal. The reasoning starts with a broad premise, and the analysis applies the broad premise to the minor premise to yield the conclusion. Another way to envision this is by creating a Venn diagram:
 
-<figure><img src="../../.gitbook/assets/venn all men.png" alt="" width="515"><figcaption><p>Venn diagram illustrating the "Socrates syllogism"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/venn all men (2).png" alt="" width="515"><figcaption><p>Venn diagram illustrating the "Socrates syllogism"</p></figcaption></figure>
 
 In the Venn diagram, we see the two subjects contained in the **major premise**: Men are in the category of all things that are mortal. The **minor premise** places Socrates within the category of men. Because the relationships between the Venn diagram categories require the **conclusion** that Socrates is mortal.
 
@@ -48,13 +48,13 @@ For reasoning to be valid, conclusions must be compatible with and relevant to t
 
 Although the premises and the conclusion may all be true, the syllogism's reasoning is invalid. The premise that Socrates is a bird is incompatible with all men being mortal. Specifically, the argument's reasoning is invalid because the minor premise that "all men are mortal" does not fit within the overarching category of Socrates being a bird. Here is how this syllogism's reasoning looks visually:
 
-<figure><img src="../../.gitbook/assets/sidebyside.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sidebyside (2).png" alt=""><figcaption></figcaption></figure>
 
-In this syllogism, we see how the **minor premise** about a bird and the subsequent **conclusion** about the mortality of the bird cannot follow from the **major premise** that all men are mortal. As the diagram's arrows indicate, they must be part of a different funnel. Thus, we can see the invalidity of the syllogism presented. Now, if we look at the funnel to the right, the **conclusion** that Socrates—the bird—is mortal is also invalid regardless of whether it is true. For this **conclusion** to be valid, a **major premise** is required that encompasses birds and mortality, such as "All birds are mortal"; "Joe's bird is mortal"; "Anyone or anything named Socrates is mortal"; etc.&#x20;
+In this syllogism, we see how the **minor premise** about a bird and the subsequent **conclusion** about the mortality of the bird cannot follow from the **major premise** that all men are mortal. As the diagram's arrows indicate, they must be part of a different funnel. Thus, we can see the invalidity of the syllogism presented. Now, if we look at the funnel to the right, the **conclusion** that Socrates—the bird—is mortal is also invalid regardless of whether it is true. For this **conclusion** to be valid, a **major premise** is required that encompasses birds and mortality, such as "All birds are mortal"; "Joe's bird is mortal"; "Anyone or anything named Socrates is mortal"; etc.
 
 Another illustration of this point is a Venn diagram:
 
-<figure><img src="../../.gitbook/assets/venn men bird.png" alt="" width="515"><figcaption><p>Venn diagram illustrating the invalidity of the "Joe's bird" syllogism</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/venn men bird (2).png" alt="" width="515"><figcaption><p>Venn diagram illustrating the invalidity of the "Joe's bird" syllogism</p></figcaption></figure>
 
 In this Venn diagram, we see the two subjects contained in the **major premise**: Men are in the category of all things that are mortal. The **minor premise** places Socrates in the category of birds. But the syllogism's premises prevent the **conclusion** that Socrates—the bird—is mortal. Again, for that conclusion to result from valid reasoning, the syllogism should include a premise that includes the mortality of birds. (On a different note, this diagram happens to demonstrate the unstated premise that birds are mortal. The unstated premise is called an [enthymeme](introduction-to-deductive-rule-based-reasoning.md#enthymemes). Reasoning that uses enthymemes is discussed in detail [below](introduction-to-deductive-rule-based-reasoning.md#enthymemes).)
 
@@ -72,7 +72,7 @@ The conclusion is based on a logical error because the syllogism lacks facts to 
 
 Some logical flaws can be more subtle. Take the following syllogism, [for example](#user-content-fn-7)[^7]:
 
-> **Major Premise:** All superheroes have at least one ability that is superhuman (i.e., more exceptional or extraordinary than homo sapiens are considered capable of).\*[^8]
+> **Major Premise:** All superheroes have at least one ability that is superhuman (i.e., more exceptional or extraordinary than homo sapiens are considered capable of).\*
 >
 > **Minor Premise:** Superman can travel faster than the speed of light.
 >
@@ -82,13 +82,13 @@ Unlike the "some writers" example above, this major premise applies to an entire
 
 ### Polysyllogisms
 
-Because real-life circumstances can be complex, deductive reasoning _frequently_ requires applying more premises than exist with simple syllogisms. These circumstances require a **polysyllogism**—a syllogism with [more than two premises—to include a more complex analysis to support a conclusion](#user-content-fn-9)[^9].&#x20;
+Because real-life circumstances can be complex, deductive reasoning _frequently_ requires applying more premises than exist with simple syllogisms. These circumstances require a **polysyllogism**—a syllogism with [more than two premises—to include a more complex analysis to support a conclusion](#user-content-fn-8)[^8].
 
 #### A "Socrates" Polysyllogism
 
-Here is an [example ](#user-content-fn-9)[^9]of a polysyllogism based on the Socrates syllogism, and the issue is whether Socrates is a god:
+Here is an [example ](#user-content-fn-8)[^8]of a polysyllogism based on the Socrates syllogism, and the issue is whether Socrates is a god:
 
-> **Major Premise 1:** Anyone or anything that is mortal is subject to death. &#x20;
+> **Major Premise 1:** Anyone or anything that is mortal is subject to death.
 >
 > **Major Premise 2:** All humans are mortal.
 >
@@ -96,32 +96,32 @@ Here is an [example ](#user-content-fn-9)[^9]of a polysyllogism based on the Soc
 >
 > **Minor Premise:** Socrates is a human.
 >
-> **Analysis Leading to the Conclusion:**&#x20;
+> **Analysis Leading to the Conclusion:**
 >
 > * Because mortals can die, and all humans are mortal, humans can die.
 > * Because because those can can die are not gods, humans are not gods.
-> * Because Socrates is a human, Socrates can die.&#x20;
+> * Because Socrates is a human, Socrates can die.
 > * Because Socrates can die, Socrates is not a god.
 
-In this example, we see how the analysis supporting the argument that Socrates is a god requires the application of multiple premises to one another. Each step of the analysis was explict and did not include any implicit presumptions (i.e., propositions presumed to be true and not explicitly stated by the arguer). However, people frequently make arguments using enthymemes. Enthymemes _can_ be legitimate, but depending on the reasoning, they can also allow for fallacious and otherwise flawed arguments.&#x20;
+In this example, we see how the analysis supporting the argument that Socrates is a god requires the application of multiple premises to one another. Each step of the analysis was explict and did not include any implicit presumptions (i.e., propositions presumed to be true and not explicitly stated by the arguer). However, people frequently make arguments using enthymemes. Enthymemes _can_ be legitimate, but depending on the reasoning, they can also allow for fallacious and otherwise flawed arguments.
 
 ## Enthymemes
 
-In their arguments, many people use [**enthymemes**](#user-content-fn-10)[^10]**,** which are implicit premises. Generally, arguers will use enthymemes for efficiency when they presume that the omitted premise is obvious[^11].&#x20;
+In their arguments, many people use [**enthymemes**](#user-content-fn-9)[^9]**,** which are implicit premises. Generally, arguers will use enthymemes for efficiency when they presume that the omitted premise is obvious[^10].
 
-In daily conversations, policitcal arguments, legal reasoning (including  [judicial opinions](#user-content-fn-11)[^11]), etc., enthymemes are common. For example[^12]:
+In daily conversations, policitcal arguments, legal reasoning (including [judicial opinions](#user-content-fn-10)[^10]), etc., enthymemes are common. For example[^11]:
 
 > * Drunk driving hurts innocent people.
 > * Therefore, drunk driving is wrong.
 
-This argument contains an implicit premise: Hurting innocent people is wron&#x67;_._ In other words, the argument presumes that hurting innocent people is wrong. &#x20;
+This argument contains an implicit premise: Hurting innocent people is wron&#x67;_._ In other words, the argument presumes that hurting innocent people is wrong.
 
-But enthymemes must be treated [with caution](#user-content-fn-13)[^13] because some people may use them unintentionally or intentionally as [hasty generalizations](#user-content-fn-14)[^14], or sometimes, to mislead someone that a false premise is actually true. Hasty generalizations and false premises can lead to fundamentally flawed conclusions. For example[^15]:&#x20;
+But enthymemes must be treated [with caution](#user-content-fn-12)[^12] because some people may use them unintentionally or intentionally as [hasty generalizations](#user-content-fn-13)[^13], or sometimes, to mislead someone that a false premise is actually true. Hasty generalizations and false premises can lead to fundamentally flawed conclusions. For example[^11]:
 
 > * Governor Johnson wants to reduce government regulation and oversight.
 > * Therefore, Governor Johnson is an anarchist.
 
-Here, the presumption is that a person who wants to reduce government regulation and oversight is an anarchist. Certainly, this presumption cannot be universally true. Thus, the result—Governor Johnson is an anarchist _because_ he wants to reduce regulation and oversight—is fundamentally flawed because of a hasty generalization (one of many [**fallacies** ](#user-content-fn-16)[^16]that people make in arguments).
+Here, the presumption is that a person who wants to reduce government regulation and oversight is an anarchist. Certainly, this presumption cannot be universally true. Thus, the result—Governor Johnson is an anarchist _because_ he wants to reduce regulation and oversight—is fundamentally flawed because of a hasty generalization (one of many [**fallacies** ](#user-content-fn-14)[^14]that people make in arguments).
 
 Since this is a class about the law, we next explore how deductive reasoning applies in the legal context.
 
@@ -129,19 +129,19 @@ Since this is a class about the law, we next explore how deductive reasoning app
 
 In law, the sets of propositions include both:
 
-1. **Rules of law**, which are also known as "legal rules," "laws of the case," "rules of the case," or simply "rules."&#x20;
-2. **Facts** of the case. &#x20;
+1. **Rules of law**, which are also known as "legal rules," "laws of the case," "rules of the case," or simply "rules."
+2. **Facts** of the case.
 
 {% hint style="info" %}
-* In the law, there are typically two categories of **rules**: (1) **codified** and (2) **case law** (i.e., rules issued by courts in judicial decisions).&#x20;
-  * Codified rules include the text of laws such as constitutions, statutes, administrative regulations, and government agency and departmental policies (e.g., standard operating procedures).&#x20;
+* In the law, there are typically two categories of **rules**: (1) **codified** and (2) **case law** (i.e., rules issued by courts in judicial decisions).
+  * Codified rules include the text of laws such as constitutions, statutes, administrative regulations, and government agency and departmental policies (e.g., standard operating procedures).
   * Case law is a type of law written by courts to both interpret codified laws and establish or extend the case law (i.e., [common law](https://www.law.cornell.edu/wex/common_law), which we refer to generally as "cases" "opinions," and "decisions." For instance, the U.S. Supreme Court establishes interpretations of constitutional text (through principles of reasonable suspicion and probable cause, stop and frisk, search and seizure, interrogations, etc.), and regularly extends those principles as further applications of those principles become necessary (e.g., exceptions to the warrant requirement, cell phone searches, blood draws, etc.).
 * "**Facts**" refers to a given set of circumstances, such as the situation an officer finds themselves in (e.g., witnessing suspected criminal activity, establishing probable cause to apply for a search warrant, when or how much force to use, the behavior of a suspect or inmate).
 {% endhint %}
 
 In the legal context, if using the rule-based reasoning methodology, the Socrates syllogism would look like this:
 
-> **Rule (the major premise):** All men are mortal.&#x20;
+> **Rule (the major premise):** All men are mortal.
 >
 > **Facts (the minor premise) :** Socrates is a man.
 >
@@ -149,7 +149,7 @@ In the legal context, if using the rule-based reasoning methodology, the Socrate
 
 ### The Legal Simple Syllogism
 
-Moving into the legal context in its plainest form, a legal syllogism in criminal cases [looks like this](#user-content-fn-17)[^17]:&#x20;
+Moving into the legal context in its plainest form, a legal syllogism in criminal cases [looks like this](#user-content-fn-15)[^15]:
 
 > **Rule (the "formula"):** \[**Doing something**] violates \[**a law**.]
 >
@@ -157,7 +157,7 @@ Moving into the legal context in its plainest form, a legal syllogism in crimina
 >
 > **Analysis to Conclusion:** The defendant violated \[**the law**].
 
-Here is a [legal example](#user-content-fn-18)[^18]:
+Here is a [legal example](#user-content-fn-16)[^16]:
 
 > **Rule (the "formula"):** Section 999.01 of the East Dakota statutes states, "Whosoever, while legally married, shall go through another marriage ceremony recognized by law, shall be guilty of bigamy.
 >
@@ -171,13 +171,13 @@ Here is a second example:
 >
 > **Facts (the "variables"):** Lucy, a law enforcement officer, arrested Charlie, secured him a patrol car, and drove him to the police station.
 >
-> **Analysis:** Although Charlie was in custody, the facts do not indicate that Lucy asked Charlie any questions intended to elicit an incriminating response.&#x20;
+> **Analysis:** Although Charlie was in custody, the facts do not indicate that Lucy asked Charlie any questions intended to elicit an incriminating response.
 >
 > **Conclusion:** Therefore, under the circumstances, Lucy was not yet required to give Charlie _Miranda_ warnings.
 
 ### A Legal Polysyllogism
 
-Here is a [legal example](#user-content-fn-19)[^19] of a polysyllogism:
+Here is a [legal example](#user-content-fn-17)[^17] of a polysyllogism:
 
 > **Rule 1 (a "formula"):** Section 940.01 of the East Dakota statutes states, "Whoever is guilty of murder if they intentionally cause the death of another human being without a legal justification.
 >
@@ -187,13 +187,13 @@ Here is a [legal example](#user-content-fn-19)[^19] of a polysyllogism:
 >
 > **Fact 1 (a "variable"):** Henry is a human being.
 >
-> **Fact 2 (a "variable"):** Evidence[^20] from the investigation demonstrated that Jospeh shot and killed Henry inside Henry's home.
+> **Fact 2 (a "variable"):** Evidence[^18] from the investigation demonstrated that Jospeh shot and killed Henry inside Henry's home.
 >
-> **Fact 3 (a "variable"):** [Evidence ](#user-content-fn-20)[^20]from the investigation demonstrated that before killing Henry, Joseph broke into Henry's home, waited for Henry to return.
+> **Fact 3 (a "variable"):** [Evidence ](#user-content-fn-18)[^18]from the investigation demonstrated that before killing Henry, Joseph broke into Henry's home, waited for Henry to return.
 >
-> **Fact 4 (a "variable"):** [Evidence ](#user-content-fn-20)[^20]from the investigation demonstrated Joseph did not act in self-defense at the time he killed Henry.
+> **Fact 4 (a "variable"):** [Evidence ](#user-content-fn-18)[^18]from the investigation demonstrated Joseph did not act in self-defense at the time he killed Henry.
 >
-> **Analysis:**&#x20;
+> **Analysis:**
 >
 > * Joseph's act of shooting Henry, a human being, caused the death of another human being.
 > * That Joseph laid in wait for Henry to return home is evidence that Joseph had the purpose to cause Henry's death.
@@ -203,7 +203,7 @@ Here is a [legal example](#user-content-fn-19)[^19] of a polysyllogism:
 
 ### Syllogisms (and Polysyllogisms) in Case Law
 
-Common to judicial opinions, some arguments require a little extra work to find the syllogism.\*[^21] For example, based on the question of whether there is a constitutional right to an abortion, in [_Roe v. Wade_](#user-content-fn-22)[^22], the majority wrote:
+Common to judicial opinions, some arguments require a little extra work to find the syllogism.\* For example, based on the question of whether there is a constitutional right to an abortion, in [_Roe v. Wade_](#user-content-fn-19)[^19], the majority wrote:
 
 > \[The] right of privacy, whether it be founded in the Fourteenth Amendment’s concept of personal liberty and restrictions upon state action, as we feel it is, or, as the District Court determined, in the Ninth Amendment’s reservation of rights to the people, is broad enough to encompass a woman’s decision whether or not to terminate her pregnancy.
 
@@ -235,7 +235,7 @@ Now that we have taken a look at deductive or rule-based reasoning, we will move
 
 <summary><mark style="color:red;"><strong>License</strong></mark></summary>
 
-This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">&#x20;
+This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">
 
 </details>
 
@@ -253,42 +253,26 @@ This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://cr
 
 [^7]: This example is adapted from [Aldisert et al.](../../sources-referenced-in-annotations.md), 10.
 
-[^8]: This premise is based on comic book writer Stan Lee's definition from "More Than Normal, But Believable," in Robin S. Rosenberg and Peter Coogan (eds.), [_What is a Superhero?_](https://global.oup.com/academic/product/what-is-a-superhero-9780199795277?cc=us\&lang=en&) (Oxford University Press, 2013).&#x20;
+[^8]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 9.
 
+[^9]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 8; [Nordquist](../../sources-referenced-in-annotations.md).
 
+[^10]: Ruggero J. Aldisert, Stephen Clowney, & Jeremy D. Peterson, _Logic for Law Students: How to Think Like a Lawyer_. [69 U. PITT. L. REV. 1](https://doi.org/10.5195/lawreview.2007.117), 8 (2007).
 
-    Also, for the purposes of _this exercise_, assume both that (a) this rule is true and (b) this definition does not include those who derive their superhuman abilities exclusively from technology (e.g., Batman and Iron Man).
+[^11]: Literary Terms, [_Enthymeme_](https://literaryterms.net/enthymeme/) (last visited June 20, 2024).
 
+[^12]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 8.
 
+[^13]: [Ramee ](../../sources-referenced-in-annotations.md)(2002); [Nordquist ](../../sources-referenced-in-annotations.md)(2019).
 
+[^14]: See generallly, [Ramee](../../sources-referenced-in-annotations.md).
 
+[^15]: See [Aldisert et al.](../../sources-referenced-in-annotations.md), 6.
 
-    Finally, Lee's definition of a superhero also includes the requirement that the hero uses their powers for doing good. This is also reflected in a court's explanation of Superman ("a person of unprecedented physical prowess dedicated to acts of \[daring] in the public interest"). _Siegel v. Nat'l Periodical Publications, Inc._, [508 F.2d 909, 911 (2nd Cir. 1974)](https://scholar.google.com/scholar_case?case=4078874509838318097\&q=%22of+unprecedented+physical+prowess%22\&hl=en\&as_sdt=6,50#p911).
+[^16]: This example is adapted from [Swisher](../../sources-referenced-in-annotations.md), 536.
 
-[^9]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 9.
+[^17]: [Swisher](../../sources-referenced-in-annotations.md), 536.
 
-[^10]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 8; [Nordquist](../../sources-referenced-in-annotations.md). 
+[^18]: For the purposes of this exercise, investigators or the prosecution would have already performed other reasoning to draw this conclusion from the evidence.
 
-[^11]: Ruggero J. Aldisert, Stephen Clowney, & Jeremy D. Peterson, _Logic for Law Students: How to Think Like a Lawyer_. [69 U. PITT. L. REV. 1](https://doi.org/10.5195/lawreview.2007.117), 8 (2007).
-
-[^12]: Literary Terms, [_Enthymeme_](https://literaryterms.net/enthymeme/) (last visited June 20, 2024).
-
-[^13]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 8.
-
-[^14]: [Ramee ](../../sources-referenced-in-annotations.md)(2002); [Nordquist ](../../sources-referenced-in-annotations.md)(2019).
-
-[^15]: Literary Terms, [_Enthymeme_](https://literaryterms.net/enthymeme/) (last visited June 20, 2024).
-
-[^16]: See generallly, [Ramee](../../sources-referenced-in-annotations.md).
-
-[^17]: See [Aldisert et al.](../../sources-referenced-in-annotations.md), 6.
-
-[^18]: This example is adapted from [Swisher](../../sources-referenced-in-annotations.md), 536. 
-
-[^19]: [Swisher](../../sources-referenced-in-annotations.md), 536.
-
-[^20]: For the purposes of this exercise, investigators or the prosecution would have already performed other reasoning to draw this conclusion from the evidence.
-
-[^21]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 7.
-
-[^22]: The fact that [_Roe v. Wade_](https://scholar.google.com/scholar_case?case=12334123945835207673\&q=roe+v.+wade\&hl=en\&as_sdt=6,50) was overturned by [_Dobbs v. Jackson Women's Health Organization_](https://scholar.google.com/scholar_case?case=10996775398954026979\&hl=en\&as_sdt=6,50) in 2022 does not affect the purpose and legitimacy of this example.
+[^19]: The fact that [_Roe v. Wade_](https://scholar.google.com/scholar_case?case=12334123945835207673\&q=roe+v.+wade\&hl=en\&as_sdt=6,50) was overturned by [_Dobbs v. Jackson Women's Health Organization_](https://scholar.google.com/scholar_case?case=10996775398954026979\&hl=en\&as_sdt=6,50) in 2022 does not affect the purpose and legitimacy of this example.

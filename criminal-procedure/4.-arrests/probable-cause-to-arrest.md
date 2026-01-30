@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/judge-gavel-and-handcuffs-1461290713Mch.jpg
+cover: ../../.gitbook/assets/judge-gavel-and-handcuffs-1461290713Mch.jpg
 coverY: -53
 ---
 
@@ -7,18 +7,18 @@ coverY: -53
 
 ## Introduction
 
-> _In 2012, the number of people arrested in the U.S. for felonies and misdemeanors was around 12.2 million._&#x31;&#x20;
+> _In 2012, the number of people arrested in the U.S. for felonies and misdemeanors was around 12.2 million._&#x31;
 
 That’s a lot of arrests. And all of them were made by officers who thought they had probable cause. Some were mistaken.
 
 While some false arrests are inexcusable, most are made in good faith as the result of a slight defect in the concept of probable cause: Nobody really knows what it means. In fact, even the United States Supreme Court described it as something that is both “elusive” and “abstract,”2 two words that would ordinarily be used to describe such unintelligible concepts as the meaning of life and Einstein’s Theory of Relativity. But unlike philosophers and physicists who have years (or lifetimes) to ponder the questions before them, officers must often reach their conclusions on-the-spot, and may have to do so based on information that is disordered, incomplete, or conflicting. Plus, their information often comes from sources whose motives and reliability are unknown or questionable.3
 
-So unless probable cause happens to be an easy call, or unless officers have the luxury of conducting further investigation or waiting for an arrest warrant, they must try to make the correct decision based on whatever information is at hand and whatever inferences and conclusions they can draw from it.4 This necessarily requires an understanding of the basic principles of probable cause and how to determine the reliability of the various sources of information.&#x20;
+So unless probable cause happens to be an easy call, or unless officers have the luxury of conducting further investigation or waiting for an arrest warrant, they must try to make the correct decision based on whatever information is at hand and whatever inferences and conclusions they can draw from it.4 This necessarily requires an understanding of the basic principles of probable cause and how to determine the reliability of the various sources of information.
 
-In this article, we will focus on probable cause to arrest and the related subject of reasonable suspicion to detain.&#x20;
+In this article, we will focus on probable cause to arrest and the related subject of reasonable suspicion to detain.
 
 {% embed url="https://youtu.be/xCFwt_HQ_MU" %}
-Source: LawShelf | [The Fourth Amendment: The Requirement of Probable Cause](https://youtu.be/xCFwt_HQ_MU)&#x20;
+Source: LawShelf | [The Fourth Amendment: The Requirement of Probable Cause](https://youtu.be/xCFwt_HQ_MU)
 {% endembed %}
 
 At first glance, this subject might seem simple because most of the relevant circumstances pertaining are fairly obvious. But it can be a challenge to keep track of—and especially recall—every major and minor incriminating circumstance that comes to light in the course of an investigation, whether it’s a short investigation by a patrol officer on the street or a lengthy investigation by teams of detectives. And recalling incriminating circumstances is crucial because, as we discussed in the Spring-Summer edition, with each additional piece of incriminating evidence that an officer can testify to, the odds of having probable cause and reasonable suspicion increase exponentially.
@@ -27,7 +27,7 @@ To illustrate, if probable cause could be tallied on a court-approved scorecard,
 
 Another advantage of being able to catalogue the relevant circumstances is that it becomes easier to present the facts logically and persuasively in a declaration of probable cause, an arrest warrant affidavit, in testimony at a suppression hearing, or during an internal affairs investigation.
 
-One other thing: Most of these circumstances we will cover are relevant in establishing both probable cause to arrest and reasonable suspicion to detain. The only difference is that probable cause requires information of higher quality and quantity than reasonable suspicion.&#x20;
+One other thing: Most of these circumstances we will cover are relevant in establishing both probable cause to arrest and reasonable suspicion to detain. The only difference is that probable cause requires information of higher quality and quantity than reasonable suspicion.
 
 ## **Description Similarities**
 
@@ -64,7 +64,7 @@ Second, if the crime had just occurred, and if officers detained a group of susp
 
 ## **Suspect’s Location**
 
-While probable cause may often be based largely on a suspect’s presence in a certain house, car, or other private place, officers may not ordinarily arrest or detain a person merely because he was present in a place that was open to the public.26 Still, the suspect’s presence at a public location is often highly relevant.27 And it may become critical if there was some independent circumstantial evidence of his involvement in a crime, such as a similar physical, clothing, or vehicle description, or any of the various suspicious circumstances we will discuss later. Also note that if the suspect’s presence in a certain location was incriminating, it is significant that there were few, if any, other people in the area because, for example, it was late at night or early in the morning.28&#x20;
+While probable cause may often be based largely on a suspect’s presence in a certain house, car, or other private place, officers may not ordinarily arrest or detain a person merely because he was present in a place that was open to the public.26 Still, the suspect’s presence at a public location is often highly relevant.27 And it may become critical if there was some independent circumstantial evidence of his involvement in a crime, such as a similar physical, clothing, or vehicle description, or any of the various suspicious circumstances we will discuss later. Also note that if the suspect’s presence in a certain location was incriminating, it is significant that there were few, if any, other people in the area because, for example, it was late at night or early in the morning.28
 
 ### **NEAR THE CRIME SCENE**
 
@@ -244,7 +244,7 @@ The suspected buyer gave money to the suspected seller.120
 
 ### **FURTIVENESS**
 
-The parties acted in a manner indicating they did not want to be seen; e.g., seller “looked about furtively,”121 seller “walked over to an apparent hiding place before and after the exchange,”122 the buyer hid the object of the transaction in a cigarette case which he then placed in his pocket,”123 when the parties saw an approaching police car “their conversation ceased and their hands went into their pockets very rapidly.”124&#x20;
+The parties acted in a manner indicating they did not want to be seen; e.g., seller “looked about furtively,”121 seller “walked over to an apparent hiding place before and after the exchange,”122 the buyer hid the object of the transaction in a cigarette case which he then placed in his pocket,”123 when the parties saw an approaching police car “their conversation ceased and their hands went into their pockets very rapidly.”124
 
 ### **PANICKY REACTION TO OFFICERS**
 
@@ -252,7 +252,7 @@ Upon observing the officers, one or both of the suspects displayed signs of pani
 
 ### **MULTIPLE EXCHANGES**
 
-The apparent seller engaged in several such transactions with various buyers.125&#x20;
+The apparent seller engaged in several such transactions with various buyers.125
 
 ### **PRIOR ARRESTS**
 

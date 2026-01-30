@@ -52,7 +52,7 @@ For officers, however, acting skills and resourcefulness are not enough. As one 
 One other thing. Officers will sometimes contact a suspect at his home. Known as “knock and talks,” these encounters are subject to the same rules as contacts that occur in public places. But because they are viewed as more of an intrusion, there are some additional restrictions that we will cover in the article “Knock and Talks” later in the reading.
 
 {% hint style="info" %}
-### **From the Courts to the Street**
+#### **From the Courts to the Street**
 
 Milwaukee Police Department (MPD) refers to consensual contacts as "Social Contacts." [MPD Standard Operating Procedure (SOP) 085](https://city.milwaukee.gov/ImageLibrary/Groups/mpdAuthors/SOP/085-CITIZENCONTACTSFIELDINTERVIEWSSEARCHANDSEIZURE.pdf) describes social contacts as follows: A social contact is contact with a citizen for the purpose of asking questions or for information gathering.\* This SOP further explains:
 

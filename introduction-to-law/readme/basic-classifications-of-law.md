@@ -36,9 +36,8 @@ Additionally, some laws are substantive and some laws are procedural. [**Substan
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from[ 1.4 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) in  [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+Except where otherwise noted, this page's content is adapted from[ 1.4 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) in [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
-<img src="../../.gitbook/assets/CC BY badge.png" alt="" data-size="line">
+
 
 </details>
-

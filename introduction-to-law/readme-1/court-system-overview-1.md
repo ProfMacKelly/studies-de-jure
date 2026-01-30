@@ -72,8 +72,6 @@ The highest appellate court for the state court system is usually called the sta
 
 Except where otherwise noted, this page's content is adapted from [2.3: The Court System](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/02%3A_The_Legal_System_in_the_United_States/2.03%3A_The_Court_System) in [_JPP 207 Substantive Criminal Law_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
-<img src="../../.gitbook/assets/CC BY badge.png" alt="" data-size="line">
+
 
 </details>
-
-&#x20;

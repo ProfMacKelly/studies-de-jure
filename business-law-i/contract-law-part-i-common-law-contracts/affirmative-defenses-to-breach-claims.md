@@ -10,7 +10,7 @@ A party may have a valid reason for **breaching**, or not performing, a contract
 
 ### Illegality
 
-Illegal contracts are unenforceable because they are void. There are two common types of illegalities: (1) statutory violations, and (2) violations of public policy.&#x20;
+Illegal contracts are unenforceable because they are void. There are two common types of illegalities: (1) statutory violations, and (2) violations of public policy.
 
 An example of a statutory violation is where a company in the US wants to avoid import regulations and quotas by purchasing Cuban cigars through an intermediary in Mexico. If the US buyer pays the Mexican intermediary for the cigars but does not receive them, the buyer cannot sue the intermediary for breach of contract. The law will not provide a remedy to someone who intends to violate the law.
 
@@ -79,9 +79,9 @@ Sometimes a party to a contract files for **bankruptcy** protection. The bankrup
 
 <summary>Attributions and Licensing</summary>
 
-* Except where otherwise noted, this page's content is adapted from [Defenses to Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).&#x20;
-* The definition of [_affirmative defense_](https://www.law.cornell.edu/wex/affirmative_defense) is derived or otherwise adapted from the [_Wex Legal Encyclopedia_ ](https://www.law.cornell.edu/wex)by Cornell Law School Legal Information Institute, under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/).  <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+* Except where otherwise noted, this page's content is adapted from [Defenses to Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* The definition of [_affirmative defense_](https://www.law.cornell.edu/wex/affirmative_defense) is derived or otherwise adapted from the [_Wex Legal Encyclopedia_ ](https://www.law.cornell.edu/wex)by Cornell Law School Legal Information Institute, under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/). <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
-This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>

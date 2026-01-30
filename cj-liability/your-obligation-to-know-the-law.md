@@ -10,7 +10,7 @@ This class is not law school, and it is not about turning students into lawyers.
 
 <summary>Licensing</summary>
 
-Except where otherwise noted, this page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). <img src=".gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+Except where otherwise noted, this page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). <img src="../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
 

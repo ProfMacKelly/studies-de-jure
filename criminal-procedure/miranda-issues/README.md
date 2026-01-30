@@ -26,10 +26,10 @@ hidden: true
 
 ### Miscellaneous Readings
 
-{% file src="../.gitbook/assets/Miranda_-_When_Compliance_Is_Compulsory.pdf" %}
+{% file src="../../.gitbook/assets/Miranda_-_When_Compliance_Is_Compulsory.pdf" %}
 
-{% file src="../.gitbook/assets/Miranda_Waivers.pdf" %}
+{% file src="../../.gitbook/assets/Miranda_Waivers.pdf" %}
 
-{% file src="../.gitbook/assets/5th - 6th Amendments.pdf" %}
+{% file src="../../.gitbook/assets/5th - 6th Amendments.pdf" %}
 _From_ [_Legal Training Handbook_](https://www.fletc.gov/sites/default/files/25_0106-LEG-LegalTrainingHandbook.pdf) _(2025) by Federal Lawful Enforcement Training Centers, Office of Chief Counsel_
 {% endfile %}

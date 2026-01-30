@@ -6,7 +6,7 @@ The resource is intended for undergraduate students. Depending on an institution
 
 {% stepper %}
 {% step %}
-#### About This Book
+**About This Book**
 
 **What Is This Book?**
 
@@ -36,7 +36,7 @@ Except as otherwise noted, [judicial opinions](#user-content-fn-2)[^2] used in t
 {% endstep %}
 
 {% step %}
-#### How to Use This Book
+**How to Use This Book**
 
 **Table of Contents**
 
@@ -78,13 +78,13 @@ To find specific topics or keywords within the sourcebook, use the **Search** ba
 
 At the bottom of the page, usually in the lower-right side, you may toggle between day and night displays, depending on your viewing preferences.
 
-<figure><img src=".gitbook/assets/day-night.jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/day-night (2).jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
 
 ***
 {% endstep %}
 
 {% step %}
-#### Legal Notice
+**Legal Notice**
 
 {% hint style="danger" %}
 _**This book contains legal information intended for educational purposes only and should not be construed as legal advice; please consult a qualified legal professional before making legal decisions.**_

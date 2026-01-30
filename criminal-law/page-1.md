@@ -14,13 +14,13 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><em><strong>Sidebar</strong></em><br><br>The rules for constitutional investigative detentions are separated into "two broad categories":<br><br>1. <strong>Grounds to detain</strong>: Officers must have had sufficient grounds to detain the suspect; i.e., reasonable suspicion.<br><br>2. <strong>Procedure</strong>: The procedures that officers utilized to confirm or dispel their suspicion and to protect themselves must have been objectively reasonable.<br><br>~ <a href="https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_(Alvarez)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions#References">Alvarez (2022)</a></p> |
 
-Prior to 1968, encounters between law enforcement officers and citizens were categorized either as voluntary contacts, with no suspicion necessary, or arrests, which required probable cause. In Terry v. Ohio, 392 U.S. 1 (1968), the Supreme Court recognized a third type of police-citizen encounter, known as an investigative detention (“Terry” stop). An investigative detention is a compelled, brief, investigatory stop. To make an investigative detention, a law enforcement officer must have a reasonable, articulable suspicion that criminal activity is afoot and the person detained is somehow involved.[^1]
+Prior to 1968, encounters between law enforcement officers and citizens were categorized either as voluntary contacts, with no suspicion necessary, or arrests, which required probable cause. In Terry v. Ohio, 392 U.S. 1 (1968), the Supreme Court recognized a third type of police-citizen encounter, known as an investigative detention (“Terry” stop). An investigative detention is a compelled, brief, investigatory stop. To make an investigative detention, a law enforcement officer must have a reasonable, articulable suspicion that criminal activity is afoot and the person detained is somehow involved.\[^1]
 
-[^1] footnote
+\[^1] footnote
 
 ### **The Requirements**
 
-To [^2] conduct an investigative detention of a person, an officer must have “==reasonable suspicion”== that criminal activity is afoot. The officer does not have to know that a crime is being committed, or even that he or she is stopping the right suspect. In allowing investigatory detentions, Terry accepts the risk that officers may stop innocent people. While “reasonable suspicion” is a lower standard than “probable cause,” the officer must still have explainable (articulable) reasons to justify a temporary seizure of a person. “Criminal activity is afoot” means that the officer must reasonably suspect that:
+To \[^2] conduct an investigative detention of a person, an officer must have “==reasonable suspicion”== that criminal activity is afoot. The officer does not have to know that a crime is being committed, or even that he or she is stopping the right suspect. In allowing investigatory detentions, Terry accepts the risk that officers may stop innocent people. While “reasonable suspicion” is a lower standard than “probable cause,” the officer must still have explainable (articulable) reasons to justify a temporary seizure of a person. “Criminal activity is afoot” means that the officer must reasonably suspect that:
 
 * A crime is about to be committed;
 * A crime is being committed; or
@@ -105,9 +105,7 @@ _Attributions._ Unless otherwise indicated above, this page's content was adapte
 
 ## 3.3.1.1 More on De Facto Arrests 3.3.1.1 More on De Facto Arrests
 
-## Investigative Detentions (Terry Stops)&#x20;
-
-
+## Investigative Detentions (Terry Stops)
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,7 +113,7 @@ _Attributions._ Unless otherwise indicated above, this page's content was adapte
 
 Prior to 1968, encounters between law enforcement officers and citizens were categorized either as voluntary contacts, with no suspicion necessary, or arrests, which required probable cause. In Terry v. Ohio, 392 U.S. 1 (1968), the Supreme Court recognized a third type of police-citizen encounter, known as an investigative detention (“Terry” stop). An investigative detention is a compelled, brief, investigatory stop. To make an investigative detention, a law enforcement officer must have a reasonable, articulable suspicion that criminal activity is afoot and the person detained is somehow involved.
 
-### **The Requirements**&#x20;
+### **The Requirements**
 
 To conduct an investigative detention of a person, an officer must have “reasonable suspicion” that criminal activity is afoot. The officer does not have to know that a crime is being committed, or even that he or she is stop
 
@@ -794,84 +792,84 @@ This free and open casebook is Creative Commons licensed. [Learn more](https://a
 
 1.  1
 
-    ## [Introduction to Constitutional Foundations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/1/#introduction-to-constitutional-foundations)
+    ### [Introduction to Constitutional Foundations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/1/#introduction-to-constitutional-foundations)
 2.  2
 
-    ## [Consensual Encounters — Investigative Contacts](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/2/#consensual-encounters-investigative-contacts)
+    ### [Consensual Encounters — Investigative Contacts](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/2/#consensual-encounters-investigative-contacts)
 3.  3
 
-    ## [Investigative Detensions](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detensions)
+    ### [Investigative Detensions](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detensions)
 
     1.  3.1
 
-        ### [Introductory Basics](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#introductory-basics)
+        #### [Introductory Basics](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#introductory-basics)
     2.  3.2
 
-        ### [Investigative Detentions (by Alvarez)](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detentions-by-alvarez)
+        #### [Investigative Detentions (by Alvarez)](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detentions-by-alvarez)
     3.  3.3
 
-        ### [Untitled](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#untitled)
+        #### [Untitled](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#untitled)
     4.  3.4
 
-        ### [Terry v. Ohio](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#terry-v-ohio)
+        #### [Terry v. Ohio](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#terry-v-ohio)
     5.  3.5
 
-        ### [Minnesota v. Dickerson](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#minnesota-v-dickerson)
+        #### [Minnesota v. Dickerson](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#minnesota-v-dickerson)
     6.  3.6
 
-        ### [United States v. Place](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#united-states-v-place)
+        #### [United States v. Place](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#united-states-v-place)
 4.  4
 
-    ## [Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/4/#arrests)
+    ### [Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/4/#arrests)
 5.  5
 
-    ## [Searches and Seizures of Things](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/5/#searches-and-seizures-of-things)
+    ### [Searches and Seizures of Things](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/5/#searches-and-seizures-of-things)
 6.  6
 
-    ## [The Exclusionary Rule](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/6/#the-exclusionary-rule)
+    ### [The Exclusionary Rule](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/6/#the-exclusionary-rule)
 7.  7
 
-    ## [The Plain View Doctrine](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/7/#the-plain-view-doctrine)
+    ### [The Plain View Doctrine](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/7/#the-plain-view-doctrine)
 8.  8
 
-    ## [Abandonment, Open Fields, and Border Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/8/#abandonment-open-fields-and-border-searches)
+    ### [Abandonment, Open Fields, and Border Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/8/#abandonment-open-fields-and-border-searches)
 9.  9
 
-    ## [Vehicle Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/9/#vehicle-searches)
+    ### [Vehicle Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/9/#vehicle-searches)
 10. 10
 
-    ## [Probation and Parole Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/10/#probation-and-parole-searches)
+    ### [Probation and Parole Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/10/#probation-and-parole-searches)
 11. 11
 
-    ## [Exigency and Community Caretaking](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/11/#exigency-and-community-caretaking)
+    ### [Exigency and Community Caretaking](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/11/#exigency-and-community-caretaking)
 12. 12
 
-    ## [The Warrant Process](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/12/#the-warrant-process)
+    ### [The Warrant Process](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/12/#the-warrant-process)
 13. 13
 
-    ## [Use of Force](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/13/#use-of-force)
+    ### [Use of Force](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/13/#use-of-force)
 14. 14
 
-    ## [5th Amendment Protections](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/14/#5th-amendment-protections)
+    ### [5th Amendment Protections](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/14/#5th-amendment-protections)
 15. 15
 
-    ## [Suspect Identification](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/15/#suspect-identification)
+    ### [Suspect Identification](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/15/#suspect-identification)
 16. 16
 
-    ## [Jailhouse Undercover Operations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/16/#jailhouse-undercover-operations)
+    ### [Jailhouse Undercover Operations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/16/#jailhouse-undercover-operations)
 17. 17
 
-    ## [Constitutional Rights of the Accused](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/17/#constitutional-rights-of-the-accused)
+    ### [Constitutional Rights of the Accused](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/17/#constitutional-rights-of-the-accused)
 18. 18
 
-    ## [Sentencing](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/18/#sentencing)
+    ### [Sentencing](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/18/#sentencing)
 19. 19
 
-    ## [Victims Rights](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/19/#victims-rights)
+    ### [Victims Rights](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/19/#victims-rights)
 20. 20
 
-    ## [De Facto Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/20/#de-facto-arrests)
+    ### [De Facto Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/20/#de-facto-arrests)
 
 [◀ Previous](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/2/) 1 of 20 sections 2 of 20 sections 3 of 20 sections 4 of 20 sections 5 of 20 sections 6 of 20 sections 7 of 20 sections 8 of 20 sections 9 of 20 sections 10 of 20 sections 11 of 20 sections 12 of 20 sections 13 of 20 sections 14 of 20 sections 15 of 20 sections 16 of 20 sections 17 of 20 sections 18 of 20 sections 19 of 20 sections 20 of 20 sections [Next ▶](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/4/)
 
-[^2] footnote
+\[^2] footnote
