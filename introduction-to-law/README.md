@@ -20,14 +20,14 @@ This book [openly licensed](#user-content-fn-2)[^2] and free to be reused, redis
 
 {% stepper %}
 {% step %}
-{% content-ref url="readme-1/" %}
-[readme-1](readme-1/)
+{% content-ref url="../sourcebooks/introduction-to-law/readme-1/" %}
+[readme-1](../sourcebooks/introduction-to-law/readme-1/)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="back-matter.md" %}
-[back-matter.md](back-matter.md)
+{% content-ref url="/broken/pages/sfBNmDFlV1lAu5uTRWwH" %}
+[Broken link](/broken/pages/sfBNmDFlV1lAu5uTRWwH)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}

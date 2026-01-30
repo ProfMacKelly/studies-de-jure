@@ -12,7 +12,7 @@ In nations with various ethnic and tribal groups, it is often difficult for a si
 
 ### Rule of Law: A System
 
-The geopolitical situations described above highlight the struggle of a nation to implement and maintain a [**Rule of Law** system](../../glossary.md#rule-of-law), which is a system in which laws are public knowledge, are clear in meaning, and apply equally to everyone. These systems uphold national political and civil liberties. Rule of law systems establish authority, create expectations for behavior, and establish redress for grievances and penalties for deviance. Governance of conflict and the attainment of peace among the governed are its primary goals. One of the greatest benefits of the Rule of Law is that it allows people to understand what is expected of them.
+The geopolitical situations described above highlight the struggle of a nation to implement and maintain a [**Rule of Law** system](../../../glossary.md#rule-of-law), which is a system in which laws are public knowledge, are clear in meaning, and apply equally to everyone. These systems uphold national political and civil liberties. Rule of law systems establish authority, create expectations for behavior, and establish redress for grievances and penalties for deviance. Governance of conflict and the attainment of peace among the governed are its primary goals. One of the greatest benefits of the Rule of Law is that it allows people to understand what is expected of them.
 
 {% hint style="info" %}
 The United States is a **Rule of Law** system.
@@ -20,7 +20,7 @@ The United States is a **Rule of Law** system.
 
 ### Rule of Law: A Principle
 
-"**Rule of Law**" also refers to a [principle ](../../glossary.md#rule-of-law)that everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights. The U.S. Constitution is based on the principle that people have rights that cannot be taken away by the government. Instead, the role of the government is to protect the individual rights of its citizens. The U.S. Constitution’s preamble states, “We the People…in Order to…insure domestic Tranquility.” This is just one example of how the U.S. legal system was established to address the functions of a legal system.
+"**Rule of Law**" also refers to a [principle ](../../../glossary.md#rule-of-law)that everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights. The U.S. Constitution is based on the principle that people have rights that cannot be taken away by the government. Instead, the role of the government is to protect the individual rights of its citizens. The U.S. Constitution’s preamble states, “We the People…in Order to…insure domestic Tranquility.” This is just one example of how the U.S. legal system was established to address the functions of a legal system.
 
 ## Functions of Law in the United States
 
