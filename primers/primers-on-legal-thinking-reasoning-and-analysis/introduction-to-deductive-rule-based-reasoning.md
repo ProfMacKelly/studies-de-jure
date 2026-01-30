@@ -10,7 +10,7 @@ Most of the analysis you will perform in this class will involve deductive reaso
 
 The syllogism represents a fundamental depiction of the deductive reasoning process in law, which starts with a **general assertion or proposition and ends with a specific assertion (i.e., the conclusion)**. Imagine this approach as a funnel or an [inverted pyramid](#user-content-fn-3)[^3].
 
-<figure><img src="../../../.gitbook/assets/inverted pyramid 3 sections (2).png" alt="inverted pyramid divided into three parts. The major premise is at the base (i.e., at the top of the inverted pyramid), the minor premise is in the middle, and the conclusion is at the bottom." width="440"><figcaption><p>Inverted Pyramid</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/inverted pyramid 3 sections (2).png" alt="inverted pyramid divided into three parts. The major premise is at the base (i.e., at the top of the inverted pyramid), the minor premise is in the middle, and the conclusion is at the bottom." width="440"><figcaption><p>Inverted Pyramid</p></figcaption></figure>
 
 The following sections discuss the working principles of deductive reasoning based on the syllogistic process and its relationship to legal reasoning and analysis.
 
@@ -30,7 +30,7 @@ A classic example of deductive reasoning is the "[Socrates syllogism](https://an
 
 In other words, if all men are mortal, and if Socrates is a man, then Socrates is mortal. The reasoning starts with a broad premise, and the analysis applies the broad premise to the minor premise to yield the conclusion. Another way to envision this is by creating a Venn diagram:
 
-<figure><img src="../../../.gitbook/assets/venn all men (2).png" alt="" width="515"><figcaption><p>Venn diagram illustrating the "Socrates syllogism"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/venn all men (2).png" alt="" width="515"><figcaption><p>Venn diagram illustrating the "Socrates syllogism"</p></figcaption></figure>
 
 In the Venn diagram, we see the two subjects contained in the **major premise**: Men are in the category of all things that are mortal. The **minor premise** places Socrates within the category of men. Because the relationships between the Venn diagram categories require the **conclusion** that Socrates is mortal.
 
@@ -48,13 +48,13 @@ For reasoning to be valid, conclusions must be compatible with and relevant to t
 
 Although the premises and the conclusion may all be true, the syllogism's reasoning is invalid. The premise that Socrates is a bird is incompatible with all men being mortal. Specifically, the argument's reasoning is invalid because the minor premise that "all men are mortal" does not fit within the overarching category of Socrates being a bird. Here is how this syllogism's reasoning looks visually:
 
-<figure><img src="../../../.gitbook/assets/sidebyside (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sidebyside (2).png" alt=""><figcaption></figcaption></figure>
 
 In this syllogism, we see how the **minor premise** about a bird and the subsequent **conclusion** about the mortality of the bird cannot follow from the **major premise** that all men are mortal. As the diagram's arrows indicate, they must be part of a different funnel. Thus, we can see the invalidity of the syllogism presented. Now, if we look at the funnel to the right, the **conclusion** that Socrates—the bird—is mortal is also invalid regardless of whether it is true. For this **conclusion** to be valid, a **major premise** is required that encompasses birds and mortality, such as "All birds are mortal"; "Joe's bird is mortal"; "Anyone or anything named Socrates is mortal"; etc.
 
 Another illustration of this point is a Venn diagram:
 
-<figure><img src="../../../.gitbook/assets/venn men bird (2).png" alt="" width="515"><figcaption><p>Venn diagram illustrating the invalidity of the "Joe's bird" syllogism</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/venn men bird (2).png" alt="" width="515"><figcaption><p>Venn diagram illustrating the invalidity of the "Joe's bird" syllogism</p></figcaption></figure>
 
 In this Venn diagram, we see the two subjects contained in the **major premise**: Men are in the category of all things that are mortal. The **minor premise** places Socrates in the category of birds. But the syllogism's premises prevent the **conclusion** that Socrates—the bird—is mortal. Again, for that conclusion to result from valid reasoning, the syllogism should include a premise that includes the mortality of birds. (On a different note, this diagram happens to demonstrate the unstated premise that birds are mortal. The unstated premise is called an [enthymeme](introduction-to-deductive-rule-based-reasoning.md#enthymemes). Reasoning that uses enthymemes is discussed in detail [below](introduction-to-deductive-rule-based-reasoning.md#enthymemes).)
 
@@ -233,45 +233,45 @@ Now that we have taken a look at deductive or rule-based reasoning, we will move
 
 <details>
 
-<summary><mark style="color:red;"><strong>License</strong></mark></summary>
+<summary>License</summary>
 
 This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">
 
 </details>
 
-[^1]: See [Syllogisms](introduction-to-deductive-rule-based-reasoning.md#syllogisms); [Kulicki (2020)](../../sources-referenced-in-annotations.md).
+[^1]: See [Syllogisms](introduction-to-deductive-rule-based-reasoning.md#syllogisms); [Kulicki (2020)](../../cj-liability/sources-referenced-in-annotations.md).
 
-[^2]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 3.
+[^2]: [Aldisert et al.](../../cj-liability/sources-referenced-in-annotations.md), 3.
 
-[^3]: [Swisher](../../sources-referenced-in-annotations.md), 537, 539 n.18.
+[^3]: [Swisher](../../cj-liability/sources-referenced-in-annotations.md), 537, 539 n.18.
 
 [^4]: i.e., humans
 
 [^5]: i.e., human
 
-[^6]: [Fields](../../sources-referenced-in-annotations.md) (2024).
+[^6]: [Fields](../../cj-liability/sources-referenced-in-annotations.md) (2024).
 
-[^7]: This example is adapted from [Aldisert et al.](../../sources-referenced-in-annotations.md), 10.
+[^7]: This example is adapted from [Aldisert et al.](../../cj-liability/sources-referenced-in-annotations.md), 10.
 
-[^8]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 9.
+[^8]: [Aldisert et al.](../../cj-liability/sources-referenced-in-annotations.md), 9.
 
-[^9]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 8; [Nordquist](../../sources-referenced-in-annotations.md).
+[^9]: [Aldisert et al.](../../cj-liability/sources-referenced-in-annotations.md), 8; [Nordquist](../../cj-liability/sources-referenced-in-annotations.md).
 
 [^10]: Ruggero J. Aldisert, Stephen Clowney, & Jeremy D. Peterson, _Logic for Law Students: How to Think Like a Lawyer_. [69 U. PITT. L. REV. 1](https://doi.org/10.5195/lawreview.2007.117), 8 (2007).
 
 [^11]: Literary Terms, [_Enthymeme_](https://literaryterms.net/enthymeme/) (last visited June 20, 2024).
 
-[^12]: [Aldisert et al.](../../sources-referenced-in-annotations.md), 8.
+[^12]: [Aldisert et al.](../../cj-liability/sources-referenced-in-annotations.md), 8.
 
-[^13]: [Ramee ](../../sources-referenced-in-annotations.md)(2002); [Nordquist ](../../sources-referenced-in-annotations.md)(2019).
+[^13]: [Ramee ](../../cj-liability/sources-referenced-in-annotations.md)(2002); [Nordquist ](../../cj-liability/sources-referenced-in-annotations.md)(2019).
 
-[^14]: See generallly, [Ramee](../../sources-referenced-in-annotations.md).
+[^14]: See generallly, [Ramee](../../cj-liability/sources-referenced-in-annotations.md).
 
-[^15]: See [Aldisert et al.](../../sources-referenced-in-annotations.md), 6.
+[^15]: See [Aldisert et al.](../../cj-liability/sources-referenced-in-annotations.md), 6.
 
-[^16]: This example is adapted from [Swisher](../../sources-referenced-in-annotations.md), 536.
+[^16]: This example is adapted from [Swisher](../../cj-liability/sources-referenced-in-annotations.md), 536.
 
-[^17]: [Swisher](../../sources-referenced-in-annotations.md), 536.
+[^17]: [Swisher](../../cj-liability/sources-referenced-in-annotations.md), 536.
 
 [^18]: For the purposes of this exercise, investigators or the prosecution would have already performed other reasoning to draw this conclusion from the evidence.
 

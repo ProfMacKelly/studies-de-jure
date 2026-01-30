@@ -1,23 +1,27 @@
-# Preparing to Understand Legal Thinking and Studying Case Law
+---
+hidden: true
+---
+
+# Reading and Briefing Cases
 
 Put simply, legal reasoning skills are inherently part of criminal justice, public service, and public policy professions. Legal reasoning skills improve the ability to (1) spot and distinguish between relevant and irrelevant facts and evidence in a particular set of circumstances, and (2) develop the ability to communicate thoughts and arguments clearly and persuasively. And while these skills are important for criminal justice and many other professionals, they are just as translatable and applicable to everyday life.
 
 {% stepper %}
 {% step %}
-{% content-ref url="primers-on-legal-thinking-reasoning-and-analysis/" %}
-[primers-on-legal-thinking-reasoning-and-analysis](primers-on-legal-thinking-reasoning-and-analysis/)
+{% content-ref url="../primers-on-legal-thinking-reasoning-and-analysis/" %}
+[primers-on-legal-thinking-reasoning-and-analysis](../primers-on-legal-thinking-reasoning-and-analysis/)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="introduction-to-reading-and-briefing-cases/" %}
-[introduction-to-reading-and-briefing-cases](introduction-to-reading-and-briefing-cases/)
+{% content-ref url="introduction-to-reading-and-briefing-cases.md" %}
+[introduction-to-reading-and-briefing-cases.md](introduction-to-reading-and-briefing-cases.md)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="introduction-to-reading-and-briefing-cases/brief-the-case-exercise/" %}
-[brief-the-case-exercise](introduction-to-reading-and-briefing-cases/brief-the-case-exercise/)
+{% content-ref url="brief-the-case-exercise/" %}
+[brief-the-case-exercise](brief-the-case-exercise/)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}

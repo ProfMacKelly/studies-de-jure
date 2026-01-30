@@ -1,2 +1,0 @@
-# Exercise: Brief the Case
-
