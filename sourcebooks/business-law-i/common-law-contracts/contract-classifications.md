@@ -92,8 +92,8 @@ Contracts are described and thus defined on the basis of four criteria: explicit
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from: [Basic Taxonomy of Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-03-basic-taxonomy-of-contracts.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from: [Basic Taxonomy of Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-03-basic-taxonomy-of-contracts.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
-This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>

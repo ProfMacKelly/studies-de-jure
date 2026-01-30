@@ -14,8 +14,8 @@
 
 {% stepper %}
 {% step %}
-{% content-ref url="introduction-and-essential-contractual-issues.md" %}
-[introduction-and-essential-contractual-issues.md](introduction-and-essential-contractual-issues.md)
+{% content-ref url="essential-contractual-issues.md" %}
+[essential-contractual-issues.md](essential-contractual-issues.md)
 {% endcontent-ref %}
 {% endstep %}
 

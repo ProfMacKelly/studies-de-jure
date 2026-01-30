@@ -8,7 +8,7 @@ In the United States, the federal government only has the authority given to it 
 
 ### Jurisdiction
 
-The authority of a court to hear a particular type of case is called **jurisdiction**. State and federal courts hear different types of cases, involving different laws, different law enforcement agencies, and different judicial systems. The rules governing the procedures used in these courts are known as civil procedure or criminal procedure. The rules of [**subject matter jurisdiction**](../disputes-and-dispute-settlement/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction) dictate whether a case is heard in federal or state court. This is discussed more [here](../disputes-and-dispute-settlement/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction).
+The authority of a court to hear a particular type of case is called **jurisdiction**. State and federal courts hear different types of cases, involving different laws, different law enforcement agencies, and different judicial systems. The rules governing the procedures used in these courts are known as civil procedure or criminal procedure. The rules of [**subject matter jurisdiction**](../litigation/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction) dictate whether a case is heard in federal or state court. This is discussed more [here](../litigation/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction).
 
 ***
 
@@ -16,6 +16,6 @@ The authority of a court to hear a particular type of case is called **jurisdict
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [Federalism](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [Federalism](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>

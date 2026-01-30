@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Executive_Branch_Infographic.png
+cover: ../../../.gitbook/assets/Executive_Branch_Infographic.png
 coverY: 152.52266666666665
 ---
 
@@ -7,7 +7,7 @@ coverY: 152.52266666666665
 
 Business law is a very expansive area of the law. It primarily addresses issues related to the creation of new businesses, which arise as existing companies deal with the public, government, and other companies. Business law consists of many legal disciplines, including contracts, tax law, corporate law, intellectual property, real estate, sales, immigration law, employment law, bankruptcy, and others.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="480"><figcaption><p>Employment discrimination is one of many areas of business law.<br>(Credit: <a href="https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Equal_Employment_Opportunity_Commission.svg">Public Domain</a>)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="480"><figcaption><p>Employment discrimination is one of many areas of business law.<br>(Credit: <a href="https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Equal_Employment_Opportunity_Commission.svg">Public Domain</a>)</p></figcaption></figure>
 
 As noted, business law touches upon a number of other legal areas, practices, and concerns. Some of the most important of these, which are discussed in this section, are disputes and dispute settlement, business ethics and social responsibility, business and the United States Constitution, criminal liability, torts, contracts, labor and employment law, unfair trade practices, consumer protection, international law, and securities regulation. Though they are discussed in much more depth in later chapters, the following gives a brief overview.
 
@@ -67,7 +67,7 @@ The Securities and Exchange Commission (SEC) regulates securities on the federal
 
 Page cover image: "Cabinet of the United States" by [University of Illinois Chicago](https://researchguides.uic.edu/c.php?g=252249\&p=4522901).
 
-Except where otherwise noted, this page's content is adapted from [Important Business Laws and Regulations](https://biz.libretexts.org/Bookshelves/Civil_Law/Business_Law_I_Essentials_\(OpenStax\)/01%3A_American_Law_Legal_Reasoning_and_the_Legal_System/1.04%3A_Important_Business_Laws_and_Regulations) in [_Business Law I Essentials_ ](https://biz.libretexts.org/Bookshelves/Civil_Law/Business_Law_I_Essentials_\(OpenStax\)/01%3A_American_Law_Legal_Reasoning_and_the_Legal_System/1.03%3A_Sources_and_Types_of_Law)by Mirande Valbrune and Renee De Assis ([OpenStax](https://openstax.org/), 2019), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [Important Business Laws and Regulations](https://biz.libretexts.org/Bookshelves/Civil_Law/Business_Law_I_Essentials_\(OpenStax\)/01%3A_American_Law_Legal_Reasoning_and_the_Legal_System/1.04%3A_Important_Business_Laws_and_Regulations) in [_Business Law I Essentials_ ](https://biz.libretexts.org/Bookshelves/Civil_Law/Business_Law_I_Essentials_\(OpenStax\)/01%3A_American_Law_Legal_Reasoning_and_the_Legal_System/1.03%3A_Sources_and_Types_of_Law)by Mirande Valbrune and Renee De Assis ([OpenStax](https://openstax.org/), 2019), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
 

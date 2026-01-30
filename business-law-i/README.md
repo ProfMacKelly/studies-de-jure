@@ -20,26 +20,26 @@ _Business Law I_ is an [open educational resource](#user-content-fn-1)[^1] that 
 {% endstep %}
 
 {% step %}
-{% content-ref url="introduction-to-american-law-and-the-legal-system/" %}
-[introduction-to-american-law-and-the-legal-system](introduction-to-american-law-and-the-legal-system/)
+{% content-ref url="../sourcebooks/business-law-i/intro-to-law-and-legal-systems/" %}
+[intro-to-law-and-legal-systems](../sourcebooks/business-law-i/intro-to-law-and-legal-systems/)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="the-united-states-court-system/" %}
-[the-united-states-court-system](the-united-states-court-system/)
+{% content-ref url="../sourcebooks/business-law-i/united-states-court-system/" %}
+[united-states-court-system](../sourcebooks/business-law-i/united-states-court-system/)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="disputes-and-dispute-settlement/" %}
-[disputes-and-dispute-settlement](disputes-and-dispute-settlement/)
+{% content-ref url="../sourcebooks/business-law-i/litigation/" %}
+[litigation](../sourcebooks/business-law-i/litigation/)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-{% content-ref url="contract-law-part-i-common-law-contracts/" %}
-[contract-law-part-i-common-law-contracts](contract-law-part-i-common-law-contracts/)
+{% content-ref url="../sourcebooks/business-law-i/common-law-contracts/" %}
+[common-law-contracts](../sourcebooks/business-law-i/common-law-contracts/)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
