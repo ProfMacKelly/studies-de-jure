@@ -22,8 +22,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="avoid-bald-assertions.md" %}
-[avoid-bald-assertions.md](avoid-bald-assertions.md)
+{% content-ref url="avoid-bald-assertions/" %}
+[avoid-bald-assertions](avoid-bald-assertions/)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
