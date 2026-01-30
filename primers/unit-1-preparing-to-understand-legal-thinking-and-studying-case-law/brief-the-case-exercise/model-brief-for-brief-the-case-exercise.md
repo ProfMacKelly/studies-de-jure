@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Model Brief for "Brief the Case" Exercise
 
 ## _Estate of Cavanaugh v. Andrade_, 202 Wis.2d 290, 550 N.W.2d 103 (1996)

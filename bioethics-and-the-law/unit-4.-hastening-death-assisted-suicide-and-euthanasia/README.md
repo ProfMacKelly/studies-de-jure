@@ -4,7 +4,7 @@
 
 [Unit Overview](unit-overview.md)
 
-[_Cruzan v. Director, Missouri Dept. of Health_](../../../bioethics-and-the-law/unit-4.-hastening-death-assisted-suicide-and-euthanasia/cruzan-v.-director-missouri-dept.-of-health)
+[_Cruzan v. Director, Missouri Dept. of Health_](cruzan-v.-director-missouri-dept.-of-health)
 
 [_Washington v. Glucksberg_](washington-v.-glucksberg.md)
 
