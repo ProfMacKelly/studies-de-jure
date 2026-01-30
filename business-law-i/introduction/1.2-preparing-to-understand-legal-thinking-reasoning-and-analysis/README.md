@@ -39,6 +39,6 @@ Legal reasoning skills improve the ability to (1) spot and distinguish between r
 
 Except where otherwise noted, [Preparing to Understand Legal Thinking, Reasoning & Analysis](./) by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
 
-<img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+<img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
