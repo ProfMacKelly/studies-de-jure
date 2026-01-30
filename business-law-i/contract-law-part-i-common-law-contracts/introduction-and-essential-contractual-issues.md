@@ -38,7 +38,6 @@ Contract law performs three significant economic functions:
 
 Although contract law has many wrinkles and nuances, there are a few essential issues that arise:
 
-* What does the contract mean?
 * Did the parties create a valid contract?
   * There are a number of basic requirements necessary for a contract to be valid, including:
     * Assent: (1) **mutual assent** (an agreement, which is the combination of an offer and acceptance) and (2) **real assent** (i.e., the agreement did not arise out of duress, undue influence, misrepresentation, mistake, or incapacity). (Also, even if both mutual and real assent exist, the contract also must be "legal"; and

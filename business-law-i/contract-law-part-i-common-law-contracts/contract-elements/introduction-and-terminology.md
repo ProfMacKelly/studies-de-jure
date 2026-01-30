@@ -5,9 +5,13 @@
 Generally, there are three required elements of a contract: (1) **offer**, (2) **acceptance**, and (3) **consideration**.
 
 {% hint style="info" %}
-Note: some states and legal scholars expand this list to include:
+Note: Some states and legal scholars expand this list to include:
 
-whether the subject matter is [**legal**](../affirmative-defenses-to-breach-claims.md#illegality), whether the parties have [**capacity** ](../affirmative-defenses-to-breach-claims.md#incapacity)to enter into a contract, and whether the law requires the contract's [**form** ](../affirmative-defenses-to-breach-claims.md#statute-of-frauds)to be in writing to be enforceable. However, these are best understood as [**affirmative defenses** ](../affirmative-defenses-to-breach-claims.md)to contract breach claims, especially in light of the fact that the only elements that all
+* whether the subject matter is **legal** (i.e., permitted by public policy),&#x20;
+* whether the parties have **capacity** to enter into a contract, and&#x20;
+* whether the law requires the contract's **form** to be in writing to be enforceable.&#x20;
+
+However, these are best understood as **affirmative defenses** to contract breach claims, especially in light of the fact that the only elements that all
 {% endhint %}
 
 ### Basic Contract Terminology

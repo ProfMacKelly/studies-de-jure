@@ -20,8 +20,18 @@
 {% endstep %}
 
 {% step %}
+{% content-ref url="contract-classifications.md" %}
+[contract-classifications.md](contract-classifications.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
 {% content-ref url="contract-elements/" %}
 [contract-elements](contract-elements/)
 {% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+#### More forthcoming
 {% endstep %}
 {% endstepper %}
