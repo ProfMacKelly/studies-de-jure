@@ -16,19 +16,19 @@ Although this book openly licensed and free to be reused, redistributed, [adapte
 
 {% stepper %}
 {% step %}
-#### [Front Matter](front-matter.md)
+[**Front Matter**](front-matter.md)
 {% endstep %}
 
 {% step %}
-#### [Preparing to Understand Legal Thinking and Studying Case Law](preparing-to-understand-legal-thinking-and-studying-case-law/)
+[**Preparing to Understand Legal Thinking and Studying Case Law**](../preparing-to-understand-legal-thinking-and-studying-case-law/)
 {% endstep %}
 
 {% step %}
-#### [Introduction](<README (1) (1).md>)
+[**Introduction**](<README (1) (1).md>)
 {% endstep %}
 
 {% step %}
-#### [Overview of Probable Cause and Reasonable Suspicion](2.-overview-of-probable-cause-and-reasonable-suspicion)
+[**Overview of Probable Cause and Reasonable Suspicion**](2.-overview-of-probable-cause-and-reasonable-suspicion)
 {% endstep %}
 {% endstepper %}
 
