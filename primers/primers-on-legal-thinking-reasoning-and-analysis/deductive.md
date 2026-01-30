@@ -2,7 +2,7 @@
 
 The best place to start is to appreciate that legal reasoning is fundamentally comprised of logic. Whether thinking about civil liability, criminal procedure (e.g., stop and frisk, arrest, search and seizure, etc.), or criminal laws, the courts and professionals apply specific methodologies when making decisions.
 
-There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) [**deductive reasoning**](deductive.md#introduction) (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md) (in our context, this is reasoning by analogy).
+There are different legal reasoning/analysis methods, but professionals most commonly engage in both (1) [**deductive reasoning**](deductive.md#introduction) (i.e., syllogistic reasoning) and (2) [**inductive reasoning**](analogical.md) (in our context, this is reasoning by analogy).
 
 ## Introduction
 
@@ -227,7 +227,7 @@ It may take some effort to extract the syllogism from this text because some pre
 >
 > **Conclusion:** The Texas law was unconstitutional.
 
-Now that we have taken a look at deductive or rule-based reasoning, we will move on to a type of inductive reasoning: [**analogical reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
+Now that we have taken a look at deductive or rule-based reasoning, we will move on to a type of inductive reasoning: [**analogical reasoning**](analogical.md).
 
 ***
 
