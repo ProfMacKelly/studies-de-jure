@@ -20,8 +20,8 @@ This book [openly licensed](#user-content-fn-2)[^2] and free to be reused, redis
 
 {% stepper %}
 {% step %}
-{% content-ref url="../sourcebooks/introduction-to-law/readme-1/" %}
-[readme-1](../sourcebooks/introduction-to-law/readme-1/)
+{% content-ref url="readme-1/" %}
+[readme-1](readme-1/)
 {% endcontent-ref %}
 {% endstep %}
 
