@@ -10,15 +10,9 @@ This site hosts a collection of [openly licensed](glossary.md#open-license) and 
 
 \~ _Matt Mac Kelly_
 
-## Tips For Navigating This Site&#x20;
+## Navigation Tips&#x20;
 
-### Table of Contents
-
-Use the table of contents, usually located on the left side panel, to browse through units, chapters, and/or sections.&#x20;
-
-### Reading Content
-
-Click on any unit, chapter, and/or section to view its content. Scroll down to read the entire page.
+Use the table of contents left-side panel to browse through the resources. Click on any section/subsection to view its content. Scroll down to read the entire page.
 
 {% hint style="info" %}
 <mark style="color:red;">**Pages with multiple headings/subsections have their own table of contents on the right side of the page.**</mark> (For example, see the right side of this screen.) The table on the right might not appear on smaller screens, such as phones and small tablets.
@@ -42,15 +36,15 @@ Also, instead of traditional footnotes or endnotes, many references and citation
 
 #### Search and Quick Find
 
-To find specific topics or keywords within the sourcebook, use the **Ask or Search** bar, usually located in the top-right corner of each page.
+To find specific topics or keywords within the sourcebook, use the **Ask or Search** bar, usually located in the banner at the top of the page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using Gitbook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
+<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
 {% endhint %}
 
 #### AI Functionality
 
-To use Gitbook's AI tool, type your question into the **Ask or Search** bar, usually located in the top-right corner of each page. This can help you find exact matches and provide other relevant responses based on the sourcebook's contents.
+To use GitBook's AI tool, type your question into the **Ask or Search** bar, usually located in the top-right corner of each page. This can help you find exact matches and provide other relevant responses based on the sourcebook's contents.
 
 {% hint style="info" %}
 <mark style="color:red;">You may also quickly access this tool by pressing</mark> <mark style="color:red;"></mark><mark style="color:red;">**Ctrl + K**</mark> <mark style="color:red;"></mark><mark style="color:red;">on a PC or</mark> <mark style="color:red;"></mark><mark style="color:red;">**⌘ + K**</mark> <mark style="color:red;"></mark><mark style="color:red;">on a Mac.</mark>
