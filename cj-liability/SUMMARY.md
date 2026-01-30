@@ -4,7 +4,7 @@
 * [Your Obligation to Know the Law](your-obligation-to-know-the-law.md)
 * [Preparing to Understand Legal Thinking and Studying Case Law](../primers/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/)
   * [Primers on Legal Thinking, Reasoning & Analysis](../primers/primers-on-legal-thinking-reasoning-and-analysis/)
-    * [Introduction to Deductive (Rule-Based) Reasoning](../primers/primers-on-legal-thinking-reasoning-and-analysis/introduction-to-deductive-rule-based-reasoning.md)
+    * [Introduction to Deductive (Rule-Based) Reasoning](../primers/primers-on-legal-thinking-reasoning-and-analysis/deductive.md)
     * [Introduction to Analogical Reasoning—A Type of Inductive Reasoning](../primers/primers-on-legal-thinking-reasoning-and-analysis/introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md)
     * [Is a Hot Dog a Sandwich?](../primers/primers-on-legal-thinking-reasoning-and-analysis/is-a-hot-dog-a-sandwich.md)
     * [Avoid Bald Assertions](../primers/primers-on-legal-thinking-reasoning-and-analysis/avoid-bald-assertions.md)

@@ -1,6 +1,6 @@
 # Is a Hot Dog a Sandwich?
 
-Is a hot dog a sandwich? Is a sandwich even a sandwich? The answer to both questions is: It depends. It depends on the premises in a [**deductive reasoning**](introduction-to-deductive-rule-based-reasoning.md) formula (rules and facts) and—as we will see below—some [**analogical reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
+Is a hot dog a sandwich? Is a sandwich even a sandwich? The answer to both questions is: It depends. It depends on the premises in a [**deductive reasoning**](deductive.md) formula (rules and facts) and—as we will see below—some [**analogical reasoning**](introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md).
 
 ## It Depends
 
