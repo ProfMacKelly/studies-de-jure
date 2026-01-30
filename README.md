@@ -1,6 +1,6 @@
 # 🏠 Home
 
-## Welcome to Studies De Jure f
+## Welcome to Studies De Jure
 
 The primary purpose of this site will be to host [open educational resources](#user-content-fn-1)[^1] for undergraduate legal course content.
 
