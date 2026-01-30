@@ -6,8 +6,6 @@
 
 ***
 
-## Purpose
-
 This site hosts a collection of [openly licensed](glossary.md#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly, JD, EdD, and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices. Attributions and licensing information are identified on each page.
 
 \~ _Matt Mac Kelly_
