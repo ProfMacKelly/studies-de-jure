@@ -28,6 +28,6 @@ A party cannot refile a lawsuit once it has been decided in the hopes of a more 
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [The Trial and Appeal](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [The Trial and Appeal](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>

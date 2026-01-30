@@ -6,15 +6,15 @@
 
 Modern capitalism, indeed, would not be possible without contract law, and contract law may be viewed economically as well as culturally. In [_An Economic Analysis of Law_](https://archive.org/details/economicanalysis0000posn), Judge Richard A. Posner (a former University of Chicago law professor) suggests that contract law performs three significant economic functions:
 
-1. It helps maintain incentives for individuals to exchange goods and services efficiently.&#x20;
-2. It reduces the costs of economic transactions because its very existence means that the parties need not go to the trouble of negotiating a variety of rules and terms already spelled out.&#x20;
+1. It helps maintain incentives for individuals to exchange goods and services efficiently.
+2. It reduces the costs of economic transactions because its very existence means that the parties need not go to the trouble of negotiating a variety of rules and terms already spelled out.
 3. It alerts the parties to troubles that have arisen in the past, thus making it easier to plan the transactions more intelligently and avoid potential pitfalls.
 
 ### The Definition of _Contract_
 
 Although businesses tend to use the terms “agreement” and “contract” interchangeably, as noted above, the terms have very different legal meanings. An **agreement** is a mutual understanding between two or more parties about their rights and duties toward each other, which involves the combination of an [offer and an acceptance of the offer](contract-elements/).
 
-On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which **the law in some way recognizes as a duty**."[<sup>1</sup>](#user-content-fn-1)[^1] Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].&#x20;
+On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which **the law in some way recognizes as a duty**."[<sup>1</sup>](#user-content-fn-1)[^1] Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
 
 {% hint style="info" %}
 All contracts are agreements, but not all agreements are contracts.
@@ -38,27 +38,25 @@ Contract law performs three significant economic functions:
 
 Although contract law has many wrinkles and nuances, there are a few essential issues that arise:
 
-* Did the parties create a valid contract?&#x20;
+* Did the parties create a valid contract?
   * There are a number of basic requirements necessary for a contract to be valid, including:
     * Assent: (1) **mutual assent** (an agreement, which is the combination of an [offer and acceptance](contract-elements/)) and (2) **real assent** (i.e., the agreement did not arise out of duress, undue influence, misrepresentation, mistake, or incapacity). (Also, even if both mutual and real assent exist, the contract also must be "[legal](affirmative-defenses-to-breach-claims.md#illegality)"; and
     * [Consideration](contract-elements/#consideration).
 * What does the contract mean?
-* Is the contract in the proper [form ](affirmative-defenses-to-breach-claims.md#statute-of-frauds)to carry out this meaning?&#x20;
-  * Sometimes contracts need to be in writing (or evidenced by some writing), or they can’t be enforced. Sometimes it isn’t clear what the contract means, and a court has to figure that out.&#x20;
-* Do persons other than the contracting parties have rights or duties under the contract?&#x20;
-  * Can the right to receive a benefit from the contract be assigned, and can the duties be delegated so that a new person is responsible?&#x20;
-  * Can someone not a party to the contract sue to enforce its terms?&#x20;
+* Is the contract in the proper [form ](affirmative-defenses-to-breach-claims.md#statute-of-frauds)to carry out this meaning?
+  * Sometimes contracts need to be in writing (or evidenced by some writing), or they can’t be enforced. Sometimes it isn’t clear what the contract means, and a court has to figure that out.
+* Do persons other than the contracting parties have rights or duties under the contract?
+  * Can the right to receive a benefit from the contract be assigned, and can the duties be delegated so that a new person is responsible?
+  * Can someone not a party to the contract sue to enforce its terms?
 * How do [contractual duties terminate](performance-and-breach.md)?
-* What [remedies ](remedies.md)are available if a party has breached the contract?&#x20;
+* What [remedies ](remedies.md)are available if a party has breached the contract?
 
 Together, the answers to these questions determine the rights and obligations of contracting parties.
 
 {% hint style="warning" %}
-#### Law in Practice
+**Law in Practice**
 
-We live in a world of contracts, which are the bread and butter of business transactions. However, many consumers, employees, and small businesses are afraid to read and understand contracts. That fear allows others to take advantage of them. Take the time to read contracts provided to you. Ask questions about anything you don’t understand _before_ you sign. Have the courage to revise and edit contracts to ensure your interests are protected. Or even write your own. It’s not hard and the more you do it, the more confidence you will have to negotiate business transactions and protect your interests.&#x20;
-
-
+We live in a world of contracts, which are the bread and butter of business transactions. However, many consumers, employees, and small businesses are afraid to read and understand contracts. That fear allows others to take advantage of them. Take the time to read contracts provided to you. Ask questions about anything you don’t understand _before_ you sign. Have the courage to revise and edit contracts to ensure your interests are protected. Or even write your own. It’s not hard and the more you do it, the more confidence you will have to negotiate business transactions and protect your interests.
 
 \~ Darnell T., attorney
 {% endhint %}
@@ -71,10 +69,10 @@ We live in a world of contracts, which are the bread and butter of business tran
 
 Except where otherwise noted, this page's content is adapted from:
 
-* [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
-* [General Perspectives on Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-01-general-perspectives-on-contra.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).&#x20;
+* [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+* [General Perspectives on Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-01-general-perspectives-on-contra.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
 

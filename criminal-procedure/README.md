@@ -6,23 +6,23 @@ hidden: true
 
 #### General Attributions & Licensing
 
-{% include ".gitbook/includes/untitled.md" %}
+{% include ".gitbook/includes/untitled (5).md" %}
 
 #### Case Attributions
 
-{% include ".gitbook/includes/untitled (1).md" %}
+{% include ".gitbook/includes/untitled (1) (2).md" %}
 
 #### Cases (My Edits) & Public Domain
 
-{% include ".gitbook/includes/untitled (2).md" %}
+{% include ".gitbook/includes/untitled (2) (1).md" %}
 
 #### Public Domain
 
-{% include ".gitbook/includes/untitled (3).md" %}
+{% include ".gitbook/includes/untitled (3) (1).md" %}
 
 #### Mine
 
-{% include ".gitbook/includes/untitled (4).md" %}
+{% include ".gitbook/includes/untitled (4) (1).md" %}
 
 ***
 

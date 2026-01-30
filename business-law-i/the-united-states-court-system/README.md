@@ -1,9 +1,9 @@
 # The United States Court System
 
-<figure><img src="../.gitbook/assets/Inside_the_United_States_Supreme_Court.jpg" alt="Picture of the front facade of the United States Supreme Court building in Washington D.C."><figcaption><p>"Inside the United States Supreme Court" by <a href="https://www.flickr.com/people/88876166@N00">Phil Roeder</a> is licensed CC BY 2.0)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Inside_the_United_States_Supreme_Court.jpg" alt="Picture of the front facade of the United States Supreme Court building in Washington D.C."><figcaption><p>"Inside the United States Supreme Court" by <a href="https://www.flickr.com/people/88876166@N00">Phil Roeder</a> is licensed CC BY 2.0)</p></figcaption></figure>
 
 {% hint style="success" %}
-#### LEARNING OBJECTIVES
+**LEARNING OBJECTIVES**
 
 1. Understand the core principles of the topic.
 2. Apply learned concepts in practical scenarios.

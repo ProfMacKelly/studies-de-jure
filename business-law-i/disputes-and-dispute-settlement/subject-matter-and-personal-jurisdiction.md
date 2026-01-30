@@ -1,6 +1,6 @@
 # Subject Matter and Personal Jurisdiction
 
-In order to hear a case, courts must have subject matter jurisdiction over the type of dispute and personal jurisdiction over the parties.&#x20;
+In order to hear a case, courts must have subject matter jurisdiction over the type of dispute and personal jurisdiction over the parties.
 
 ### Subject Matter Jurisdiction
 
@@ -19,7 +19,7 @@ Sometimes, a federal court may hear a case involving state law. These cases are 
 
 ***
 
-### **Personal Jurisdiction**&#x20;
+### **Personal Jurisdiction**
 
 **Personal jurisdiction** is the power of the court to compel the parties to appear in court. Personal jurisdiction requires litigants to have some form of minimum contacts with the state where the case is filed. Personal jurisdiction seeks to avoid inconvenient litigation, even if the case has merit.
 
@@ -27,7 +27,7 @@ A court obtains personal jurisdiction over the plaintiff when the plaintiff file
 
 Obtaining personal jurisdiction over the defendant requires some connection between the defendant and the state where the court is located. Businesses that incorporate, have a physical location, or do business in a state create personal jurisdiction through their actions within the state. Owning property in a state also creates personal jurisdiction.
 
-Personal jurisdiction, like standing, is a constitutional requirement. Most states have **long-arm statutes** that set forth the procedure by which out-of-state defendants can be required to appear before a court. The statutes provide for how **service of process** occurs.&#x20;
+Personal jurisdiction, like standing, is a constitutional requirement. Most states have **long-arm statutes** that set forth the procedure by which out-of-state defendants can be required to appear before a court. The statutes provide for how **service of process** occurs.
 
 **Service of process** is the process by which a defendant is notified that it is being sued. Service of process typically requires a copy of the notice to appear before a court to be personally delivered to the defendant or the defendant’s agent. In the case of businesses, service of process is usually delivering a copy of the notice to appear to their registered agent. Service can be more challenging with individuals.
 
@@ -44,6 +44,6 @@ Personal jurisdiction, like standing, is a constitutional requirement. Most stat
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [Federalism](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) and [Subject Matter and Personal Jurisdiction](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [Federalism](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-2/) and [Subject Matter and Personal Jurisdiction](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-3/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>

@@ -5,7 +5,7 @@
 All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An **offer** is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract.
 
 {% hint style="warning" %}
-#### Key Terminology
+**Key Terminology**
 
 * **Offeror:** The party in a contract negotiation that makes an offer
 * **Offeree:** The party who receives the offer and has the power to accept the offer
@@ -13,7 +13,7 @@ All contracts start when an individual or business proposes a deal. It might inv
 
 ### Required Elements of an Offer
 
-Offers can be formal or informal, but three key elements must exist for an offer to be _legally effective:_ (1) [**intent** ](https://app.gitbook.com/o/2KDFCqgo3cAQVrPSYfS9/s/X7KyXZptCmBnyJBn0ocw/~/changes/167/contract-law-part-i-common-law-contracts/contract-elements/the-offer#intent)to enter into a binding contract, (2) the offer being [**communicated**](https://app.gitbook.com/o/2KDFCqgo3cAQVrPSYfS9/s/X7KyXZptCmBnyJBn0ocw/~/changes/167/contract-law-part-i-common-law-contracts/contract-elements/the-offer#communication), and (3) the terms of the offer being reasonably [**definite**](https://app.gitbook.com/o/2KDFCqgo3cAQVrPSYfS9/s/X7KyXZptCmBnyJBn0ocw/~/changes/167/contract-law-part-i-common-law-contracts/contract-elements/the-offer#definiteness).
+Offers can be formal or informal, but three key elements must exist for an offer to be _legally effective:_ (1) [**intent** ](https://app.gitbook.com/s/X7KyXZptCmBnyJBn0ocw/contract-law-part-i-common-law-contracts/contract-elements/the-offer#intent)to enter into a binding contract, (2) the offer being [**communicated**](https://app.gitbook.com/s/X7KyXZptCmBnyJBn0ocw/contract-law-part-i-common-law-contracts/contract-elements/the-offer#communication), and (3) the terms of the offer being reasonably [**definite**](https://app.gitbook.com/s/X7KyXZptCmBnyJBn0ocw/contract-law-part-i-common-law-contracts/contract-elements/the-offer#definiteness).
 
 #### Intent
 
@@ -66,7 +66,7 @@ Before discussing the required elements of a legally effective offer, it is help
 
 _**Advertisements**_
 
-Most advertisements, price quotations, and invitations to bid are not construed as offers. An advertisement on a furniture store's website that a couch is on sale for $800 is normally intended only as an invitation to the public to come to the store to make a purchase. Similarly, a statement that a seller can “quote” a unit price to a prospective purchaser is not, by itself, of sufficient **definiteness** to constitute an offer; quantity, time of delivery, and other important factors are missing from such a statement.&#x20;
+Most advertisements, price quotations, and invitations to bid are not construed as offers. An advertisement on a furniture store's website that a couch is on sale for $800 is normally intended only as an invitation to the public to come to the store to make a purchase. Similarly, a statement that a seller can “quote” a unit price to a prospective purchaser is not, by itself, of sufficient **definiteness** to constitute an offer; quantity, time of delivery, and other important factors are missing from such a statement.
 
 In order to avoid a misinterpretation that an advertisement about a product's price and quantity is an offer, a seller or buyer may say something akin to "Make me an offer" or "$800 or best offer," as commonly seen on [eBay](https://www.ebay.com/). Such a statement obviously suggests that no offer has yet been made. This principle usually applies to invitations for bids (e.g., from contractors on a building project or auctions), again, as seen on [eBay](https://www.ebay.com/). Many forms used by sales representatives as contracts indicate that by signing, the customer is making an offer to be accepted by the home office and is not accepting an offer made by the sales representative.
 
@@ -80,13 +80,13 @@ Despite the common-law rule that advertisements are normally to be considered in
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from:&#x20;
+Except where otherwise noted, this page's content is adapted from:
 
-* [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).&#x20;
-* [The Offer](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s12-02-the-offer.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).&#x20;
-* The definitions of [_offeror and offeree_](https://www.law.cornell.edu/wex/offeror) are derived or otherwise adapted from the [_Wex Legal Encyclopedia_ ](https://www.law.cornell.edu/wex)by Cornell Law School Legal Information Institute, under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/).  <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+* [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* [The Offer](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s12-02-the-offer.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* The definitions of [_offeror and offeree_](https://www.law.cornell.edu/wex/offeror) are derived or otherwise adapted from the [_Wex Legal Encyclopedia_ ](https://www.law.cornell.edu/wex)by Cornell Law School Legal Information Institute, under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
-This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
 

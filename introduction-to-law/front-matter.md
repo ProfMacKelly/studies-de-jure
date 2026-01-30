@@ -22,7 +22,7 @@ Except as otherwise noted, [judicial opinions](#user-content-fn-2)[^2] used in t
 
 ### Table of Contents
 
-Use the table of contents, usually located on the left side panel, to browse through units, chapters, and/or sections.&#x20;
+Use the table of contents, usually located on the left side panel, to browse through units, chapters, and/or sections.
 
 ### Reading Content
 
@@ -40,7 +40,7 @@ Engage with any interactive elements such as links, annotations, [expandable wid
 
 <summary><mark style="color:red;"><strong>How Annotations Work in This Sourcebook</strong></mark></summary>
 
-The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-4)[^4] To read the annotation, hover (mouse) over the underlined text. A bubble will appear and display the annotation. (If the bubble does not appear when hovering, then click/tap it.)  These annotations provide additional context and information while also decluttering the main reading area.&#x20;
+The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-4)[^4] To read the annotation, hover (mouse) over the underlined text. A bubble will appear and display the annotation. (If the bubble does not appear when hovering, then click/tap it.) These annotations provide additional context and information while also decluttering the main reading area.
 
 Also, many references and citations to original source content are located in these annotations, instead of traditional footnotes or endnotes.
 
@@ -53,14 +53,14 @@ Also, many references and citations to original source content are located in th
 To find specific topics or keywords within the sourcebook, use the **Search** bar, usually located in the top-right corner of each page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
+<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark> <mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>
 {% endhint %}
 
 ### Day/Night Mode
 
 At the bottom of the page, usually in the lower-right side, you may toggle between day and night displays, depending on your viewing preferences.
 
-<figure><img src=".gitbook/assets/day-night.jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/day-night (3).jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
 
 ## Legal Notice
 
@@ -74,7 +74,7 @@ _**This book contains legal information intended for educational purposes only a
 
 <summary>License</summary>
 
-This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).&#x20;
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).
 
 </details>
 

@@ -29,7 +29,7 @@ Additionally, some law is procedural and some law is substantive. **Procedural l
 For example, if someone drives fifty-five miles per hour in a forty mile-per-hour zone, she has broken the substantive rule of law of the speed limit. However, how and what gets decided in court related to the speeding ticket is a matter of procedural law. For example, whether the driver is entitled to a hearing before a judge, whether she has a right to be represented by legal counsel, whether the hearing takes place within a certain amount of time after the ticket was issued, and what type of evidence can be presented are procedural law issues.
 
 {% hint style="info" %}
-### Sources of Law
+#### Sources of Law
 
 In the United States, our laws come primarily from:
 
@@ -96,6 +96,6 @@ Article II, Section 1 of the US Constitution gives the president the power to â€
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [Sources of Law ](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-1/)in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [Sources of Law ](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-1/)in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>

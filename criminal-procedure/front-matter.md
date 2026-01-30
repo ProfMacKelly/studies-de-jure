@@ -70,7 +70,7 @@ To find specific topics or keywords within the sourcebook, use the **Search** ba
 
 At the bottom of the page, usually in the lower-right side, you may toggle between day and night displays, depending on your viewing preferences.
 
-<figure><img src=".gitbook/assets/day-night.jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/day-night (2).jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
 
 ## Legal Notice
 

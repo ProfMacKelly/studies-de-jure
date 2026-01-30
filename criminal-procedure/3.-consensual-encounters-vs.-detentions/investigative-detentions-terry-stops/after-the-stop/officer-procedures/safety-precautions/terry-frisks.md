@@ -32,7 +32,7 @@ In order to seize evidence lawfully under the “plain touch” doctrine, an off
 
 Watch this instructional video below about _Terry_ frisks from the [Federal Law Enforcement Training Centers](https://www.fletc.gov/video/terry-frisks):
 
-{% file src="../../../../../.gitbook/assets/frisks.mp4" %}
+{% file src="../../../../../../.gitbook/assets/frisks.mp4" %}
 
 ***
 

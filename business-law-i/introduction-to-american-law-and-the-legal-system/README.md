@@ -1,9 +1,9 @@
 # Introduction to the Law & Legal Systems
 
-<figure><img src="../.gitbook/assets/800px-US_Supreme_Court_-_corrected.jpg" alt="Picture of the front facade of the United States Supreme Court building in Washington D.C." width="563"><figcaption><p>"US Supreme Court" by <a href="https://commons.wikimedia.org/wiki/File:US_Supreme_Court_-_corrected.jpg">Jarek Tuszyński</a> is licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/800px-US_Supreme_Court_-_corrected.jpg" alt="Picture of the front facade of the United States Supreme Court building in Washington D.C." width="563"><figcaption><p>"US Supreme Court" by <a href="https://commons.wikimedia.org/wiki/File:US_Supreme_Court_-_corrected.jpg">Jarek Tuszyński</a> is licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0</a>)</p></figcaption></figure>
 
 {% hint style="success" %}
-#### LEARING OBJECITVES
+**LEARING OBJECITVES**
 
 1. Understand the various functions of the American legal system.
 2. Describe the foundation and sources that establish American law.

@@ -23,7 +23,7 @@ The most fundamental law in the [United States is the U.S. Constitution](https:/
 
 The power granted to the federal government by the Constitution is limited. Any powers not expressly granted to the federal government by the Constitution are reserved to the states. This means that if the Constitution does not give the federal government power over a particular area, then the states regulate it.
 
-The first ten amendments to the Constitution are known as the **Bill of Rights**. Despite the limited power granted to the federal government by the Constitution, the Bill of Rights protects certain individual civil rights and liberties from governmental interference. These rights include the freedom of speech and religion, the right to bear arms, and the rights of individuals who are suspected and accused of crimes.&#x20;
+The first ten amendments to the Constitution are known as the **Bill of Rights**. Despite the limited power granted to the federal government by the Constitution, the Bill of Rights protects certain individual civil rights and liberties from governmental interference. These rights include the freedom of speech and religion, the right to bear arms, and the rights of individuals who are suspected and accused of crimes.
 
 ***
 
@@ -51,7 +51,7 @@ Cora stands on a public sidewalk and criticizes the President's foreign relation
 
 ### Exceptions to Constitutional Protections
 
-The federal and state constitutions are both written with words that can be subject to more than one interpretation. Thus, there are many _exceptions_ to any constitution’s protections.&#x20;
+The federal and state constitutions are both written with words that can be subject to more than one interpretation. Thus, there are many _exceptions_ to any constitution’s protections.
 
 For safety and security reasons, we see more exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
 
@@ -68,7 +68,7 @@ While the Constitution applies to government action, statutes apply to and regul
 {% hint style="info" %}
 **The Model Penal Code**
 
-Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1/mpc/mpc.html) is **not** enforceable statutory law. Criminal laws differ significantly from state to state, so in the early 1960s, a group of legal scholars, lawyers, and judges who were members of the American Law Institute drafted a set of suggested criminal statutes called the **Model Penal Code**.&#x20;
+Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1/mpc/mpc.html) is **not** enforceable statutory law. Criminal laws differ significantly from state to state, so in the early 1960s, a group of legal scholars, lawyers, and judges who were members of the American Law Institute drafted a set of suggested criminal statutes called the **Model Penal Code**.
 
 The intent of the **Model Penal Code** was to provide a standardized set of criminal statutes that all states could adopt, thus simplifying the diversity effect of the United States legal system. While the Model Penal Code has not been universally adopted, a majority of the states have incorporated portions of it into their penal codes, and the Model Penal Code survives as a guideline and focal point for discussion when state legislatures modify their criminal statutes.
 {% endhint %}
@@ -89,13 +89,11 @@ Administrative laws are enacted by **administrative agencies**, which are govern
 
 ## Common Law (aka Case Law)
 
-Binding legal principles also come from the courts. When appellate courts decide a case, they may interpret and apply legal principles in a way that are binding on lower courts in the future. The process of applying a prior appellate decision to a case is called **precedent**. Simply put, precedent is when judges use past decisions to guide them. The benefit of precedent is that it makes the law predictable and furthers the rule of law by applying legal principles to the greater community, not just individuals.&#x20;
+Binding legal principles also come from the courts. When appellate courts decide a case, they may interpret and apply legal principles in a way that are binding on lower courts in the future. The process of applying a prior appellate decision to a case is called **precedent**. Simply put, precedent is when judges use past decisions to guide them. The benefit of precedent is that it makes the law predictable and furthers the rule of law by applying legal principles to the greater community, not just individuals.
 
 ### Rules of _Stare Decisis_ and Use of Precedent
 
 Case precedent is generally an _appeal_ rather than a _trial_. There is often more than one level of appeal, so some appeals come from higher courts than others. Many complex rules govern the use of **precedent**. Lawyers primarily use precedent in their arguments, rather than **statutes** or the **Constitution**, because it is so specific. With proper research, lawyers can usually find precedent that matches or comes very close to matching the facts of any particular case. In the most general sense, judges tend to follow precedent that is _newer_, from a _high court_, and from the _same court system_, either federal or state.
-
-
 
 {% hint style="info" %}
 **Example of&#x20;**_**Stare Decisis**_**&#x20;and Use of Precedent**
@@ -114,7 +112,7 @@ The common law still plays an important role in criminal lawmaking, even though 
 {% hint style="info" %}
 **Example of a Court’s Refusal to Create a Common Law Crime**
 
-In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970),  the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
+In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
 {% endhint %}
 
 ### Powerful Nature of Case Law
@@ -150,9 +148,8 @@ _**Table** Hierarchy of Sources of Law_
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from[ 1.4 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) in  [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION); [1.6 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/01%3A_Introduction_to_Criminal_Law/1.06%3A_Sources_of_Law) in [_JPP 207 Substantive Criminal Law_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+Except where otherwise noted, this page's content is adapted from[ 1.4 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) in [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION); [1.6 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/01%3A_Introduction_to_Criminal_Law/1.06%3A_Sources_of_Law) in [_JPP 207 Substantive Criminal Law_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
-<img src="../../.gitbook/assets/CC BY badge.png" alt="" data-size="line">
+
 
 </details>
-

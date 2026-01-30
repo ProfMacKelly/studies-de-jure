@@ -57,10 +57,6 @@ Customary legal systems are becoming increasingly less common. A customary syste
 
 Hybrid legal systems are a combination of two or more legal systems within a nation. India is a classic example of a nation with a hybrid legal system. As a former British colony, India has a common law legal system, which recognizes the power of the Supreme Court and High Courts to make binding judicial decisions as a form of precedent. However, most of its laws are integrated codes found in a Napoleonic code system. In addition, India has separate personal codes that apply to Muslims, Christians, and Hindus. As a result, India has a hybrid system made up of common law, civil law and religious law systems.
 
-<figure><img src="../../.gitbook/assets/LegalSystemsOfTheWorldMap.png" alt="World map showing common law, civil law, customary law, hybrid, and Fiqh (Islamic) legal systems"><figcaption><p><a href="https://commons.wikimedia.org/wiki/File:LegalSystemsOfTheWorldMap.png">Legal Systems of the World Map</a> </p></figcaption></figure>
-
-
-
 ***
 
 <details>
@@ -69,7 +65,6 @@ Hybrid legal systems are a combination of two or more legal systems within a nat
 
 Except where otherwise noted, this page's content is adapted from [1.3 Modern Legal Systems of the World ](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.03%3A_Modern_Legal_Systems_of_the_World)in [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
-<img src="../../.gitbook/assets/CC BY badge.png" alt="" data-size="line">
+
 
 </details>
-

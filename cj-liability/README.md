@@ -6,7 +6,7 @@
 
 ## What is This Sourcebook?
 
-This book [openly licensed](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/glossary#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices.  Attributions and licensing information is identified on each page.
+This book [openly licensed](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/glossary#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices. Attributions and licensing information is identified on each page.
 
 \~ _Matt Mac Kelly, JD, EdD_
 
@@ -14,7 +14,7 @@ This book [openly licensed](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/gloss
 
 ### Table of Contents
 
-Use the table of contents, usually located on the left side panel, to browse through units, chapters, and/or sections.&#x20;
+Use the table of contents, usually located on the left side panel, to browse through units, chapters, and/or sections.
 
 ### Reading Content
 
@@ -32,7 +32,7 @@ Engage with any interactive elements such as links, [annotations](./#how-annotat
 
 <summary><mark style="color:red;"><strong>How Annotations Work in This Sourcebook</strong></mark></summary>
 
-The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-2)[^2] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.&#x20;
+The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-2)[^2] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.
 
 Also, instead of traditional footnotes or endnotes, many references and citations to original source content are located in these annotations.
 
@@ -45,7 +45,7 @@ Also, instead of traditional footnotes or endnotes, many references and citation
 To find specific topics or keywords within the sourcebook, use the **Ask or Search** bar, usually located in the top-right corner of each page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using Gitbook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
+<mark style="color:red;">**Click the link to learn more about using Gitbook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark> <mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>
 {% endhint %}
 
 #### AI Functionality
@@ -53,14 +53,14 @@ To find specific topics or keywords within the sourcebook, use the **Ask or Sear
 To use Gitbook's AI tool, type your question into the **Ask or Search** bar, usually located in the top-right corner of each page. This can help you find exact matches and provide other relevant responses based on the sourcebook's contents.
 
 {% hint style="info" %}
-<mark style="color:red;">You may also quickly access this tool by pressing</mark> <mark style="color:red;"></mark><mark style="color:red;">**Ctrl + K**</mark> <mark style="color:red;"></mark><mark style="color:red;">on a PC or</mark> <mark style="color:red;"></mark><mark style="color:red;">**⌘ + K**</mark> <mark style="color:red;"></mark><mark style="color:red;">on a Mac.</mark>
+<mark style="color:red;">You may also quickly access this tool by pressing</mark> <mark style="color:red;">**Ctrl + K**</mark> <mark style="color:red;">on a PC or</mark> <mark style="color:red;">**⌘ + K**</mark> <mark style="color:red;">on a Mac.</mark>
 {% endhint %}
 
 ### Day/Night Mode
 
 At the bottom of the page, usually in the lower-right side, you may toggle between day and night displays, depending on your viewing preferences.
 
-<figure><img src=".gitbook/assets/Screenshot_18-6-2024_172012_prof-mackelly.gitbook.io.jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_18-6-2024_172012_prof-mackelly.gitbook.io.jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
 
 ***
 

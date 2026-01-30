@@ -2,6 +2,8 @@
 title: Case Editing - Me
 ---
 
+# Case Editing - Me
+
 <details>
 
 <summary>Editorial Notes and Licensing</summary>
@@ -10,6 +12,6 @@ Editing to the [original](https://scholar.google.com/scholar_case?case=112579385
 
 Judicial decisions and annotations thereto are not subject to copyright protection and are in the public domain. _See, e.g., Georgia v. Public.Resource.Org, Inc_., [140 S. Ct. 1498](https://scholar.google.com/scholar_case?case=8288711378870515248\&q=Georgia+et+al.+v.+Public.Resource.Org,+Inc.\&hl=en\&as_sdt=6,50) (2020).
 
-This page's instructional annotations © 2025 by Mathew L. Mac Kelly are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="../assets/image (2) (1).png" alt="" data-size="line"><br>
+This page's instructional annotations © 2025 by Mathew L. Mac Kelly are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"><br>
 
 </details>

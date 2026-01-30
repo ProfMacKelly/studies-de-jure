@@ -63,7 +63,7 @@ The officer must be able to explain to a court why he or she decided to conduct 
 * A suspect’s non-responsive behavior.
 
 {% hint style="info" %}
-### **From the Courts to the Street**
+#### **From the Courts to the Street**
 
 Milwaukee Police Department (MPD) refers to investigative detentions (i.e., _Terry_ stops) as "Field Interviews." [MPD Standard Operating Procedure (SOP) 085](https://city.milwaukee.gov/ImageLibrary/Groups/mpdAuthors/SOP/085-CITIZENCONTACTSFIELDINTERVIEWSSEARCHANDSEIZURE.pdf) is [reproduced ](#user-content-fn-1)[^1]below\*:
 

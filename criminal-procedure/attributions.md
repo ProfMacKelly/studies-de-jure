@@ -8,19 +8,17 @@ hidden: true
 
 #### Case Attributions
 
-{% include ".gitbook/includes/case-attributions.md" %}
+{% include ".gitbook/includes/case-attributions (1).md" %}
 
 #### Cases (My Edits) & Public Domain
 
-{% include ".gitbook/includes/case-editing-me.md" %}
+{% include ".gitbook/includes/case-editing-me (1).md" %}
 
 #### Public Domain
 
-{% include ".gitbook/includes/public-domain.md" %}
+{% include ".gitbook/includes/public-domain (1).md" %}
 
 #### Mine
-
-
 
 ***
 

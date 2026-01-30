@@ -50,7 +50,7 @@ This page is in the public domain. Judicial decisions and annotations thereto ar
 
 <summary>License</summary>
 
-This page is dedicated to the public domain. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">
+This page is dedicated to the public domain. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">
 
 </details>
 
@@ -60,7 +60,7 @@ This page is dedicated to the public domain. [CC0 1.0](https://creativecommons.o
 
 <summary>License</summary>
 
-This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src=".gitbook/assets/image (2) (2).png" alt="" data-size="line">
+This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="../.gitbook/assets/image (2) (2).png" alt="" data-size="line">
 
 </details>
 
