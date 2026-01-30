@@ -6,7 +6,7 @@
 
 * [Reasoning and "Thinking Like a Lawyer"](primers/primers-on-legal-thinking-reasoning-and-analysis/README.md)
   * [Introduction to Deductive (Rule-Based) Reasoning](primers/primers-on-legal-thinking-reasoning-and-analysis/deductive.md "1. Introduction to Deductive (Rule-Based) Reasoning")
-  * [Introduction to Analogical Reasoning—A Type of Inductive Reasoning](primers/primers-on-legal-thinking-reasoning-and-analysis/analogical.md "2. Introduction to Analogical Reasoning—A Type of Inductive Reasoning")
+  * [Introduction to Analogical Reasoning—A Type of Inductive Reasoning](primers/primers-on-legal-thinking-reasoning-and-analysis/introduction-to-analogical-reasoning-a-type-of-inductive-reasoning.md "2. Introduction to Analogical Reasoning—A Type of Inductive Reasoning")
   * [Is a Hot Dog a Sandwich?](primers/primers-on-legal-thinking-reasoning-and-analysis/is-a-hot-dog-a-sandwich.md)
   * [Avoid Bald Assertions](primers/primers-on-legal-thinking-reasoning-and-analysis/avoid-bald-assertions.md)
   * [Traps in Reasoning and Decision-Making](primers/primers-on-legal-thinking-reasoning-and-analysis/traps-in-reasoning-and-decision-making.md)
