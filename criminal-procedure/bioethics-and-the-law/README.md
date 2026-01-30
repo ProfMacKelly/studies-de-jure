@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Bioethics and the Law Sourcebook
 
 :construction\_site: This book is under construction. :construction:
