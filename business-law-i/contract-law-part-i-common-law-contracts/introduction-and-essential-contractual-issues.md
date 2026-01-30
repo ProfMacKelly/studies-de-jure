@@ -20,13 +20,13 @@ On the other hand, as a practical matter, a **contract** is a _**legally enforce
 All contracts are agreements, but not all agreements are contracts.
 {% endhint %}
 
-When contracts are [**breached**](performance-and-breach.md)—i.e., one or more parties to the contract failed to perform their agreed-upon obligations—the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.
+When contracts are **breached**—i.e., one or more parties to the contract failed to perform their agreed-upon obligations—the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.
 
 Generally speaking, contracts are a form of **private law**, because the terms of the contract are binding on the parties to the contract and no one else. Parties may enter into contracts for whatever they wish and under any terms that they agree on. In other words, parties may assent to agreements even if those agreements represent a "bad" bargain for one or more parties.
 
 Contracts may restrict parties’ future activity. For example, a [non-compete clause](#user-content-fn-3)[^3] in an employment contract may be enforceable in the future against an employee after termination of employment.
 
-However, contracts that are [illegal ](affirmative-defenses-to-breach-claims.md#illegality)or against public policy are not enforceable.
+However, contracts that are illegal or against public policy are not enforceable.
 
 Contract law performs three significant economic functions:
 
@@ -38,18 +38,18 @@ Contract law performs three significant economic functions:
 
 Although contract law has many wrinkles and nuances, there are a few essential issues that arise:
 
+* What does the contract mean?
 * Did the parties create a valid contract?
   * There are a number of basic requirements necessary for a contract to be valid, including:
-    * Assent: (1) **mutual assent** (an agreement, which is the combination of an [offer and acceptance](contract-elements/)) and (2) **real assent** (i.e., the agreement did not arise out of duress, undue influence, misrepresentation, mistake, or incapacity). (Also, even if both mutual and real assent exist, the contract also must be "[legal](affirmative-defenses-to-breach-claims.md#illegality)"; and
-    * [Consideration](contract-elements/#consideration).
-* What does the contract mean?
-* Is the contract in the proper [form ](affirmative-defenses-to-breach-claims.md#statute-of-frauds)to carry out this meaning?
+    * Assent: (1) **mutual assent** (an agreement, which is the combination of an offer and acceptance) and (2) **real assent** (i.e., the agreement did not arise out of duress, undue influence, misrepresentation, mistake, or incapacity). (Also, even if both mutual and real assent exist, the contract also must be "legal"; and
+    * **Consideration**.
+* Is the contract in the proper **form** to carry out this meaning?
   * Sometimes contracts need to be in writing (or evidenced by some writing), or they can’t be enforced. Sometimes it isn’t clear what the contract means, and a court has to figure that out.
 * Do persons other than the contracting parties have rights or duties under the contract?
   * Can the right to receive a benefit from the contract be assigned, and can the duties be delegated so that a new person is responsible?
   * Can someone not a party to the contract sue to enforce its terms?
-* How do [contractual duties terminate](performance-and-breach.md)?
-* What [remedies ](remedies.md)are available if a party has breached the contract?
+* How do contractual duties terminate?
+* What **remedies** are available if a party has breached the contract?
 
 Together, the answers to these questions determine the rights and obligations of contracting parties.
 
@@ -70,7 +70,7 @@ We live in a world of contracts, which are the bread and butter of business tran
 Except where otherwise noted, this page's content is adapted from:
 
 * [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
-* [General Perspectives on Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-01-general-perspectives-on-contra.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+* [General Perspectives on Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-01-general-perspectives-on-contra.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 

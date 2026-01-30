@@ -8,7 +8,7 @@ Except where otherwise noted throughout this sourcebook, the content herein is l
 
 ### Authorship, Adaptations, and Licensing Information
 
-_Business Law I_ includes content (a) created by Matthew L. Mac Kelly and (b) [edited, mixed, or otherwise adapted](https://rmit.pressbooks.pub/oercapabilitytoolkit/chapter/4-1-adapting-and-remixing-oer/) by Matthew L. Mac Kelly from other creators' works in compliance with copyright and licensing laws and appropriate attribution standards and practices. The use of any other content referenced in or integrated into this book complies with copyright and licensing laws and appropriate attribution standards and practices. Attributions and licensing information is identified on each page.
+This sourcebook includes content (a) created by Matthew L. Mac Kelly and (b) [edited, mixed, or otherwise adapted](https://rmit.pressbooks.pub/oercapabilitytoolkit/chapter/4-1-adapting-and-remixing-oer/) by Matthew L. Mac Kelly from other creators' works in compliance with copyright and licensing laws and appropriate attribution standards and practices. The use of any other content referenced in or integrated into this book complies with copyright and licensing laws and appropriate attribution standards and practices. Attributions and licensing information is identified on each page.
 
 ### Judicial Opinions
 

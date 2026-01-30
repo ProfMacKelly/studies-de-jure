@@ -21,9 +21,7 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="2.2-law-and-its-functions.md" %}
-[2.2-law-and-its-functions.md](2.2-law-and-its-functions.md)
-{% endcontent-ref %}
+
 {% endstep %}
 
 {% step %}
