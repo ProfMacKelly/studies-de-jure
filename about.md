@@ -22,7 +22,7 @@ Click on any unit, chapter, and/or section to view its content. Scroll down to r
 
 ### Interactive Elements
 
-Engage with any interactive elements such as links, [annotations](about-this-site.md#how-annotations-work-in-this-sourcebook), [expandable widgets,](#user-content-fn-1)[^1] videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
+Engage with any interactive elements such as links, annotations, [annotations, expandable widgets](#user-content-fn-1)[^1], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
 <details>
 
@@ -68,6 +68,6 @@ This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero
 
 </details>
 
-[^1]: Such as this: [**How Annotations Work in This Sourcebook**](about-this-site.md#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
+[^1]: Such as this: [**How Annotations Work in This Sourcebook**](about.md#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
 
 [^2]: This is the annotation.

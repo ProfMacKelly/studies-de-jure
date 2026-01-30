@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏠 Home](README.md)
-* [About This Site](about-this-site.md)
+* [About This Site](about.md)
 
 ## Primers
 
