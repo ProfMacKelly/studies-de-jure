@@ -22,12 +22,25 @@ Under the Supreme Court’s [_Citizens United_](#user-content-fn-2)[^2] decision
 However, they can do so indirectly by lobbying Congress on laws that it considers and lobbying the president concerning enforcement priorities. While all states have a comparable three-branch system, in some states (not in Colorado), judges obtain office through partisan elections. In such states, businesses can seek to influence the judicial branch through supporting judges whose philosophy favors business generally or a particular industry. For these reasons, in choosing whether to litigate in state or federal court, businesses should consider that federal judges may be more likely to take politically unpopular actions.&#x20;
 
 
-
 \~ John W., judge
 {% endhint %}
 
 s.
+---
+{% hint style=“success” %}
 
+LEARNING OBJECTIVES
+Understand the core principles of the topic.
+Apply learned concepts in practical scenarios.
+Analyze and evaluate outcomes effectively.
+Foster critical thinking and problem-solving skills.
+Collaborate and communicate within a team setting.
+Understand the US court system and how it affects the conduct of businesses.
+Understand the three branches of government and how they check and balance each other’s powers.
+Explore the state and federal court systems. {% endhint %}
+Contents
+
+---
 {% hint style="danger" %}
 #### Law in Practice
 
