@@ -4,13 +4,15 @@ icon: building-shield
 
 # Criminal Justice Liability Law
 
-:construction\_site: This book is under construction. :construction:
+{% hint style="warning" %}
+#### :construction\_site: This sourcebook is under construction :construction:
+{% endhint %}
 
 ***
 
 ## What is This Sourcebook?
 
-This book [openly licensed](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/glossary#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices. Attributions and licensing information is identified on each page.
+This book is [openly licensed](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/glossary#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes content authored by Matthew L. Mac Kelly, plus content adapted, remixed, and/or incorporated from other creators, in compliance with copyright and licensing regulations and practices. Attribution and licensing information are identified on each page.
 
 \~ _Matt Mac Kelly, JD, EdD_
 
@@ -25,12 +27,12 @@ Use the table of contents, usually located on the left side panel, to browse thr
 Click on any unit, chapter, and/or section to view its content. Scroll down to read the entire page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Pages with multiple headings/subsections have their own table of contents on the right side of the page.**</mark> (For example, see the right side of this screen.) The table on the right might not appear on smaller screens, such as phones and small tablets.
+<mark style="color:red;">**Pages with multiple headings or subsections have their own table of contents on the right side of the page.**</mark> (For example, see the right side of your screen.) The table on the right might not appear on smaller screens, such as phones and small tablets.
 {% endhint %}
 
 ### Interactive Elements
 
-Engage with any interactive elements such as links, [annotations](./#how-annotations-work-in-this-sourcebook), [expandable widgets,](#user-content-fn-1)[^1] videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
+Engage with interactive elements such as links, [annotations](./#how-annotations-work-in-this-sourcebook), [expandable widgets](#user-content-fn-1)[^1], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content and gain additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
 <details>
 
@@ -49,12 +51,12 @@ Also, instead of traditional footnotes or endnotes, many references and citation
 To find specific topics or keywords within the sourcebook, use the **Ask or Search** bar, usually located in the top-right corner of each page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using Gitbook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark> <mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>
+<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark> <mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>
 {% endhint %}
 
 #### AI Functionality
 
-To use Gitbook's AI tool, type your question into the **Ask or Search** bar, usually located in the top-right corner of each page. This can help you find exact matches and provide other relevant responses based on the sourcebook's contents.
+To use GitBook's AI tool, type your question into the **Ask or Search** bar, usually located in the top-right corner of each page. This can help you find exact matches and provide other relevant responses based on the sourcebook's contents.
 
 {% hint style="info" %}
 <mark style="color:red;">You may also quickly access this tool by pressing</mark> <mark style="color:red;">**Ctrl + K**</mark> <mark style="color:red;">on a PC or</mark> <mark style="color:red;">**⌘ + K**</mark> <mark style="color:red;">on a Mac.</mark>
@@ -62,22 +64,22 @@ To use Gitbook's AI tool, type your question into the **Ask or Search** bar, usu
 
 ### Day/Night Mode
 
-At the bottom of the page, usually in the lower-right side, you may toggle between day and night displays, depending on your viewing preferences.
+At the bottom of the page, usually in the lower-right corner, you may toggle between day and night modes, depending on your viewing preferences.
 
-<figure><img src="../.gitbook/assets/Screenshot_18-6-2024_172012_prof-mackelly.gitbook.io.jpeg" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_18-6-2024_172012_prof-mackelly.gitbook.io.jpeg" alt=""><figcaption><p>Toggle the display between day and night</p></figcaption></figure>
 
 ***
 
 <details>
 
-<summary><mark style="color:red;"><strong>License</strong></mark></summary>
+<summary>License</summary>
 
 [<img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-zero.f5450231.svg" alt="" data-size="line">](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)
 
-This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [Gitbook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X). Portions of the [How to Use This Sourcebook](./#how-to-use-this-sourcebook) section were written with the aid of [GitBook AI](https://docs.gitbook.com/content-editor/editing-content/write-and-edit-with-ai).
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X). Portions of the [How to Use This Sourcebook](./#how-to-use-this-sourcebook) section were written with the aid of [GitBook AI](https://docs.gitbook.com/content-editor/editing-content/write-and-edit-with-ai).
 
 </details>
 
-[^1]: Such as this: [**How Annotations Work in This Sourcebook**](./#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
+[^1]: Such as this: [**How Annotations Work in This Sourcebook**](./#how-annotations-work-in-this-sourcebook), below. Click the caret (**>**) on the left side of the widget to expand and reveal its contents.
 
 [^2]: This is the annotation.
