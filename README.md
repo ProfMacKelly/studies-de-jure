@@ -8,6 +8,8 @@ The primary purpose of this site will be to host [open educational resources](#u
 :construction\_site: _This site is a work in progress_, so most of the content is not in the "final" form. :construction:
 {% endhint %}
 
+{% include ".gitbook/includes/learning-objectives.md" %}
+
 These resources are [licensed openly](glossary.md#open-license), free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), and include content that was authored by Matthew L. Mac Kelly and/or adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices. Attributions and licensing information is identified on each page.
 
 \~ _Matt Mac Kelly, JD, EdD_
