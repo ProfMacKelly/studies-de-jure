@@ -2,8 +2,8 @@
 title: LEARNING OBJECTIVES
 ---
 
-{% hint style="success" %}
-### LEARNING OBJECTIVES
+{% hint style="info" %}
+### Learning Objectives
 
 1. Understand the core principles of the topic.
 2. Apply learned concepts in practical scenarios.

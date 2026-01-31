@@ -15,45 +15,28 @@ These resources are [licensed openly](glossary.md#open-license), free to be reus
 s.
 
 {% hint style="warning" %}
-#### Law in Practice
+#### **Objectives**
 
-Under the Supreme Court’s [_Citizens United_](#user-content-fn-2)[^2] decision, business entities enjoy the same right as natural persons to influence the political process through contributions. Because federal judges are appointed for life, businesses cannot directly influence the actions of the judicial branch.&#x20;
+Under the Supreme Court’s [_Citizens United_](#user-content-fn-2)[^2] decision, business entities enjoy the same right as natural persons to influence the political process through contributions. Because federal judges are appointed for life, businesses cannot directly influence the actions of the judicial branch.
 
-However, they can do so indirectly by lobbying Congress on laws that it considers and lobbying the president concerning enforcement priorities. While all states have a comparable three-branch system, in some states (not in Colorado), judges obtain office through partisan elections. In such states, businesses can seek to influence the judicial branch through supporting judges whose philosophy favors business generally or a particular industry. For these reasons, in choosing whether to litigate in state or federal court, businesses should consider that federal judges may be more likely to take politically unpopular actions.&#x20;
-
+However, they can do so indirectly by lobbying Congress on laws that it considers and lobbying the president concerning enforcement priorities. While all states have a comparable three-branch system, in some states (not in Colorado), judges obtain office through partisan elections. In such states, businesses can seek to influence the judicial branch through supporting judges whose philosophy favors business generally or a particular industry. For these reasons, in choosing whether to litigate in state or federal court, businesses should consider that federal judges may be more likely to take politically unpopular actions.
 
 \~ John W., judge
 {% endhint %}
 
-s.
----
-{% hint style=“success” %}
 
-LEARNING OBJECTIVES
-Understand the core principles of the topic.
-Apply learned concepts in practical scenarios.
-Analyze and evaluate outcomes effectively.
-Foster critical thinking and problem-solving skills.
-Collaborate and communicate within a team setting.
-Understand the US court system and how it affects the conduct of businesses.
-Understand the three branches of government and how they check and balance each other’s powers.
-Explore the state and federal court systems. {% endhint %}
-Contents
 
----
+***
+
 {% hint style="danger" %}
-#### Law in Practice
+**Law in Practice**
 
-Under the Supreme Court’s [_Citizens United_](#user-content-fn-2)[^2] decision, business entities enjoy the same right as natural persons to influence the political process through contributions. Because federal judges are appointed for life, businesses cannot directly influence the actions of the judicial branch.&#x20;
+Under the Supreme Court’s [_Citizens United_](#user-content-fn-2)[^2] decision, business entities enjoy the same right as natural persons to influence the political process through contributions. Because federal judges are appointed for life, businesses cannot directly influence the actions of the judicial branch.
 
-However, they can do so indirectly by lobbying Congress on laws that it considers and lobbying the president concerning enforcement priorities. While all states have a comparable three-branch system, in some states (not in Colorado), judges obtain office through partisan elections. In such states, businesses can seek to influence the judicial branch through supporting judges whose philosophy favors business generally or a particular industry. For these reasons, in choosing whether to litigate in state or federal court, businesses should consider that federal judges may be more likely to take politically unpopular actions.&#x20;
-
-
+However, they can do so indirectly by lobbying Congress on laws that it considers and lobbying the president concerning enforcement priorities. While all states have a comparable three-branch system, in some states (not in Colorado), judges obtain office through partisan elections. In such states, businesses can seek to influence the judicial branch through supporting judges whose philosophy favors business generally or a particular industry. For these reasons, in choosing whether to litigate in state or federal court, businesses should consider that federal judges may be more likely to take politically unpopular actions.
 
 \~ John W., judge
 {% endhint %}
-
-
 
 \~ _Matt Mac Kelly, JD, EdD_
 
