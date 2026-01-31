@@ -1,5 +1,5 @@
 ---
-icon: briefcase
+icon: 💼
 ---
 
 # Business Law I
