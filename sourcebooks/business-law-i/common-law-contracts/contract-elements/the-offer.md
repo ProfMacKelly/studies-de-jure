@@ -17,7 +17,7 @@ Offers can be formal or informal, but three key elements must exist for an offer
 
 ### Intent
 
-As noted above, the offer must demonstrate the **offeror** (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the **offeree** (i.e., the party intended to receive the offer).
+As noted above, the offer must demonstrate the offeror (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the **offeree** (i.e., the party intended to receive the offer).
 
 ### Communication
 

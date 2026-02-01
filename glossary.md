@@ -296,6 +296,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 ***
 
+#### offer
+
+the party receiving the offer
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
 #### offeree
 
 the party receiving the offer
@@ -304,7 +312,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offeree) by [Co
 
 ***
 
-##### offeror
+#### **offeror**
 
 the party making the offer
 
