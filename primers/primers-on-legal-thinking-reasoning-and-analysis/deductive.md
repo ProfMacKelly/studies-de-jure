@@ -231,13 +231,7 @@ Now that we have taken a look at deductive or rule-based reasoning, we will move
 
 ***
 
-<details>
-
-<summary><mark style="color:red;"><strong>License</strong></mark></summary>
-
-This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">&#x20;
-
-</details>
+{% include "../../criminal-procedure/.gitbook/includes/untitled (4) (1).md" %}
 
 [^1]: See [Syllogisms](deductive.md#syllogisms); [Kulicki (2020)](/broken/pages/dV3xLCLuJyIuIcQAKHDQ).
 
