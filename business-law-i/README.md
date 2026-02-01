@@ -1,6 +1,6 @@
 # 💼 Business Law I
 
-:construction\_site: This content is under construction. :construction:
+{% include "../.gitbook/includes/under-construction.md" %}
 
 ***
 
