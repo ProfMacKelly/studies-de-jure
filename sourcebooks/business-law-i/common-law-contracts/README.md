@@ -1,7 +1,7 @@
 # Contract Law: Common Law Contracts
 
 {% hint style="success" %}
-### LEARNING OBJECTIVES
+#### LEARNING OBJECTIVES
 
 1. Explain what constitutes a contract.
 2. Understand how a contract is formed.
@@ -32,6 +32,6 @@
 {% endstep %}
 
 {% step %}
-#### More forthcoming
+**More forthcoming**
 {% endstep %}
 {% endstepper %}

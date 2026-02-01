@@ -3,7 +3,7 @@ title: LEARNING OBJECTIVES
 ---
 
 {% hint style="info" %}
-### Learning Objectives
+### LEARNING OBJECTIVES
 
 1. Understand the various functions of the American legal system.
 2. Describe the foundation and sources that establish American law.

@@ -19,7 +19,7 @@
       * [Example 2: Mills v. City of Overland Park](/broken/pages/LB6BZBpVrGJnSOVYpqaa)
         * [Annotated Case: Mills v. City of Overland Park](/broken/pages/DPrXZlE1iLP48xXYFaAG)
         * [Annotated Case Brief: Mills v. City of Overland Park](/broken/pages/LYxi8JKbfphnchjdWOet)
-      * [Example 3: Malley v. Briggs](../sourcebooks/business-law-i/unit-1-preparing-to-understand-legal-thinking-and-studying-case-law/1.2-introduction-reading-and-briefing-cases/1.2.3-annotated-cases-and-annotated-examples-of-case-briefs/example-3-malley-v.-briggs/)
+      * [Example 3: Malley v. Briggs](/broken/pages/vV5dMHd9P7pWZvbBeKZx)
         * [Annotated Case: Malley v. Briggs](/broken/pages/g10iiWZ8a1xeMpUZlcfF)
         * [Annotated Case Brief: Malley v. Briggs](/broken/pages/yv6wptf5xR7IAgLXbgUq)
     * [Exercise: Brief the Case](/broken/pages/B2fzyuWb33bqZ2jSf9iu)

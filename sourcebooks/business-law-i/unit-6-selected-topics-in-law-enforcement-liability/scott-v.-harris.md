@@ -1,2 +1,0 @@
-# Scott v. Harris
-

@@ -1,2 +1,0 @@
-# Anderson v. Creighton
-

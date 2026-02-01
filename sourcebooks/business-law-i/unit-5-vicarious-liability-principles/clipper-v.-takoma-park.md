@@ -1,2 +1,0 @@
-# Clipper v. Takoma Park
-
