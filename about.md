@@ -1,6 +1,8 @@
 # About This Site
 
-{% include ".gitbook/includes/under-construction.md" %}
+{% hint style="warning" %}
+##### This site is under construction :construction:&#x20;
+{% endhint %}
 
 ***
 
@@ -8,7 +10,7 @@ This site hosts a collection of [openly licensed](glossary.md#open-license) and 
 
 \~ _Matt Mac Kelly_
 
-## Navigation Tips
+## Navigation Tips&#x20;
 
 Use the table of contents left-side panel to browse through the resources. Click on any section/subsection to view its content. Scroll down to read the entire page.
 
@@ -24,7 +26,7 @@ Engage with any interactive elements such as links, annotations, [annotations, e
 
 <summary><mark style="color:red;"><strong>How Annotations Work in This Sourcebook</strong></mark></summary>
 
-The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-2)[^2] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.
+The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-2)[^2] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.&#x20;
 
 Also, instead of traditional footnotes or endnotes, many references and citations to original source content are located in these annotations.
 
@@ -37,7 +39,7 @@ Also, instead of traditional footnotes or endnotes, many references and citation
 To find specific topics or keywords within the sourcebook, use the **Ask or Search** bar, usually located in the banner at the top of the page.
 
 {% hint style="info" %}
-<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark> <mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>
+<mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark>**&#x20;**<mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>&#x20;
 {% endhint %}
 
 #### AI Functionality
@@ -45,7 +47,7 @@ To find specific topics or keywords within the sourcebook, use the **Ask or Sear
 To use GitBook's AI tool, type your question into the **Ask or Search** bar, usually located in the top-right corner of each page. This can help you find exact matches and provide other relevant responses based on the sourcebook's contents.
 
 {% hint style="info" %}
-<mark style="color:red;">You may also quickly access this tool by pressing</mark> <mark style="color:red;">**Ctrl + K**</mark> <mark style="color:red;">on a PC or</mark> <mark style="color:red;">**⌘ + K**</mark> <mark style="color:red;">on a Mac.</mark>
+<mark style="color:red;">You may also quickly access this tool by pressing</mark> <mark style="color:red;"></mark><mark style="color:red;">**Ctrl + K**</mark> <mark style="color:red;"></mark><mark style="color:red;">on a PC or</mark> <mark style="color:red;"></mark><mark style="color:red;">**⌘ + K**</mark> <mark style="color:red;"></mark><mark style="color:red;">on a Mac.</mark>
 {% endhint %}
 
 ### Day/Night Mode
@@ -64,7 +66,7 @@ _**The content on this site contains legal information intended for educational 
 
 <summary>License</summary>
 
-This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [Gitbook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [Gitbook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).&#x20;
 
 </details>
 

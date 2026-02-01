@@ -4,7 +4,7 @@ hidden: true
 
 # 🏛️ Introduction to Law and the Courts Sourcebook
 
-{% include "../.gitbook/includes/under-construction.md" %}
+:construction\_site: This book is under construction. :construction:
 
 ***
 

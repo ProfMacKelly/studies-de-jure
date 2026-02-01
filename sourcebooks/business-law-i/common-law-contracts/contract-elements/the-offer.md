@@ -4,7 +4,7 @@
 
 All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An offer is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract.
 
-{% hint style="success" %}
+{% hint style="warning" %}
 **Key Terminology**
 
 * **Offeror:** The party in a contract negotiation who makes an offer
@@ -57,7 +57,12 @@ Unless the offer states a specific time, it remains open for a reasonable time. 
 
 Before discussing the required elements of a legally effective offer, it is helpful to start with some circumstances that _**cannot**_ be a legally effective offer:
 
-<table><thead><tr><th width="203.800048828125">Type of Invalid Offers</th><th width="240.39996337890625">Definition</th><th width="294.59991455078125">Example</th></tr></thead><tbody><tr><td>Illusory Promise</td><td>No offer exists because there is no duty to perform</td><td>“If I decide to buy a new car, I’ll give you my old one.”</td></tr><tr><td>Pre-existing Duty</td><td>A party cannot leverage an existing duty to get more out of someone else</td><td>“I agree to teach you business law for $100 even though you have already paid tuition for the course.”</td></tr><tr><td>Forbearance</td><td>An offer cannot be a promise not to pursue a legal claim that is known to be invalid (Note: If the claim is valid, then forbearance may be a valid offer)</td><td>“I know the accident was completely my fault, but I promise not to sue you.”</td></tr><tr><td>Past Consideration</td><td>An offer cannot be based on past actions</td><td>I paint your house. Two months later you say that you will pay me $500 for doing it. If you change your mind and decide not to pay me, I cannot enforce your promise because it was in consideration of a past event.</td></tr></tbody></table>
+| Type of Invalid Offers | Definition                                                                                                                                                | Example                                                                                                                                                                                                               |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Illusory Promise       | No offer exists because there is no duty to perform                                                                                                       | “If I decide to buy a new car, I’ll give you my old one.”                                                                                                                                                             |
+| Pre-existing Duty      | A party cannot leverage an existing duty to get more out of someone else                                                                                  | “I agree to teach you business law for $100 even though you have already paid tuition for the course.”                                                                                                                |
+| Forbearance            | An offer cannot be a promise not to pursue a legal claim that is known to be invalid (Note: If the claim is valid, then forbearance may be a valid offer) | “I know the accident was completely my fault, but I promise not to sue you.”                                                                                                                                          |
+| Past Consideration     | An offer cannot be based on past actions                                                                                                                  | I paint your house. Two months later you say that you will pay me $500 for doing it. If you change your mind and decide not to pay me, I cannot enforce your promise because it was in consideration of a past event. |
 
 ### **Advertisements**
 

@@ -1,6 +1,8 @@
 # 🛡️ Criminal Justice Liability Law
 
-{% include "../.gitbook/includes/under-construction.md" %}
+{% hint style="warning" %}
+#### :construction\_site: This sourcebook is under construction :construction:
+{% endhint %}
 
 ***
 
