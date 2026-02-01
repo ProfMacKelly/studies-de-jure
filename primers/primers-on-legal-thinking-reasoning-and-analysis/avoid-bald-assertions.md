@@ -83,13 +83,7 @@ Is the officer correct that the order to produce identification or provide their
 
 ***
 
-<details>
-
-<summary>License</summary>
-
-This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">
-
-</details>
+{% include "../../criminal-procedure/.gitbook/includes/untitled (4) (1).md" %}
 
 [^1]: See [Ohio Rev. Code § 2921.29 Failure to disclose personal information](https://codes.ohio.gov/ohio-revised-code/section-2921.29).
 

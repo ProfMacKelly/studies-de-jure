@@ -232,15 +232,7 @@ The judgment is affirmed.
 
 ***
 
-<details>
-
-<summary><mark style="color:red;"><strong>License</strong></mark></summary>
-
-[<img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-nc.218f18fc.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-sa.d1572b71.svg" alt="" data-size="line">](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-
-[Annotated Case: _Mills v. City of Overland Park_](annotated-case-mills-v.-city-of-overland-park.md) © 2024 by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.
-
-</details>
+{% include "../../../../criminal-procedure/.gitbook/includes/untitled (4) (1).md" %}
 
 [^1]: Here is the annotation example.
 

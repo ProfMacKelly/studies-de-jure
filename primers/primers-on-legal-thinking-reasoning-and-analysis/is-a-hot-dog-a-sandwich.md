@@ -50,13 +50,7 @@ Furthermore, another distinction-based argument (i.e., the inverse of an analogy
 
 ***
 
-<details>
-
-<summary>License</summary>
-
-This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">
-
-</details>
+{% include "../../criminal-procedure/.gitbook/includes/untitled (4) (1).md" %}
 
 [^1]: A legal thinker would also instinctively ask, "What is a frankfurter?" [_Merriam-Webster_](https://www.merriam-webster.com/dictionary/frankfurter) defines "frankfurter" as "a cured cooked sausage (as of beef or beef and pork) that may be skinless or stuffed in a casing." We could go on defining terms, but that would end up being absurd at some point.
 
