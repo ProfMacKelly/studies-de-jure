@@ -2,12 +2,12 @@
 
 ## Offer: A Conditional Promise
 
-All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [offer](../../../../glossary.md#offer) is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1] to the terms of the [contract](#user-content-fn-2)[^2].
+All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An offer is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract.
 
 {% hint style="success" %}
 **Key Terminology**
 
-* **Offeror:** The party in a contract negotiation that makes an offer
+* **Offeror:** The party in a contract negotiation who makes an offer
 * **Offeree:** The party who receives the offer and has the power to accept the offer
 {% endhint %}
 
@@ -25,7 +25,7 @@ Since a contract is an agreement in which each party assents to the **terms** of
 
 Thus, a contract cannot be legally binding unless an offer is in fact communicated to the offeree. If you write an e-mail to a friend with an offer to sell your car for a certain sum and then get distracted and forget to send it, no offer has been made. If your friend coincidentally e-mails you the following day and says that she wants to buy your car and names the same sum, no contract has been made. Their e-mail to you is not an acceptance, since she did not know of your offer; it is, instead, an offer or an invitation to make an offer. Nor would there have been a contract if you had sent your communication and the two e-mails crossed in cyberspace. Both e-mails would be offers, but for a valid contract to be formed, it would still be necessary for one of you to accept the other’s offer. An offer is not effective until it is received by the offeree (and that’s also true of revoking offers and rejecting offers).
 
-The requirement that an offer be communicated does not mean that every term must be communicated. You call up your friend and offer to sell them your car. You tell them the price and start to tell them that you will throw in the snow tires but will not pay for a new inspection, and that you expect to keep the car another three weeks. Impatiently, they cuts you off and says, “Never mind about all that; I’ll accept your offer on whatever terms you want.” You and your friend do not have a contract.
+The requirement that an offer be communicated does not mean that every term must be communicated. You call up your friend and offer to sell them your car. You tell them the price and start to tell them that you will throw in the snow tires but will not pay for a new inspection, and that you expect to keep the car another three weeks. Impatiently, they cut you off and says, “Never mind about all that; I’ll accept your offer on whatever terms you want.” You and your friend do not have a contract.
 
 These principles apply to unknown offers of reward. An offer of a reward constitutes a unilateral contract that can be made binding only by performing the task for which the reward is offered. Suppose that Bonnie posts on a tree a sign offering a reward for returning her missing dog. If you saw the sign, found the dog, and returned it, you would have fulfilled the essentials of the offer. But if you chanced upon the dog, read the tag around its neck, and returned it without ever having been aware that a reward was offered, then you have not responded to the offer, even if you acted in the hope that the owner would reward you. There is no contractual obligation.
 
