@@ -1,13 +1,10 @@
 # Some Basic Contract Terminology
 
-#### Learning Objectives
+## Introduction
 
-1. Understand that contracts are classified according to the criteria of explicitness, mutuality, enforceability, and degree of completion and that some noncontract promises are nevertheless enforceable under the doctrine of promissory estoppel.
-2. Keep your eyes (and ears) alert to the use of suffixes (word endings) in legal terminology that express relationships between parties.
+Some contracts are written, some oral; some are explicit, some not. Because contracts can be formed, expressed, and enforced in a variety of ways, a taxonomy of contracts has developed that is useful in grouping together like legal consequences. In general, contracts are classified along four different dimensions: explicitness, mutuality, enforceability, and degree of completion.&#x20;
 
-***
-
-Some contracts are written, some oral; some are explicit, some not. Because contracts can be formed, expressed, and enforced in a variety of ways, a taxonomy of contracts has developed that is useful in grouping together like legal consequences. In general, contracts are classified along four different dimensions: explicitness, mutuality, enforceability, and degree of completion. Explicitness is the degree to which the agreement is manifest to those not party to it. Mutuality takes into account whether promises are given by two parties or only one. Enforceability is the degree to which a given contract is binding. Completion considers whether the contract is yet to be performed or whether the obligations have been fully discharged by one or both parties. We will examine each of these concepts in turn.
+Explicitness is the degree to which the agreement is manifest to those not party to it. Mutuality takes into account whether promises are given by two parties or only one. Enforceability is the degree to which a given contract is binding. Completion considers whether the contract is yet to be performed or whether the obligations have been fully discharged by one or both parties. We will examine each of these concepts in turn.
 
 ## Explicitness
 
@@ -37,7 +34,7 @@ Mutual promises are not necessary to constitute a contract. Unilateral contracts
 
 Figure 8.2 Bilateral and Unilateral Contracts
 
-![](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/section_11/b6054edf7ae37472dabeb5f7cef774fc.jpg)
+<figure><img src="https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/section_11/b6054edf7ae37472dabeb5f7cef774fc.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Enforceability
 
@@ -82,7 +79,7 @@ Although not really part of the taxonomy of contracts (i.e., the orderly classif
 * **Transferor.** One who makes a transfer.
 * **Transferee.** One to whom a transfer is made.
 
-#### Key Takeaway
+## Key Takeaway
 
 Contracts are described and thus defined on the basis of four criteria: explicitness (express, implied, or quasi-contracts), mutuality (bilateral or unilateral), enforceability (void, voidable, unenforceable), and degree of completion (executory, partially executed, executed). Legal terminology in English often describes relationships between parties by the use of suffixes, to which the eye and ear must pay attention.
 

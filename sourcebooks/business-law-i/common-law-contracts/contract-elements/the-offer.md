@@ -2,7 +2,7 @@
 
 ## Offer: A Conditional Promise
 
-All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An **offer** is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract.
+All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [offer](../../../../glossary.md#offer) is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract.
 
 {% hint style="success" %}
 **Key Terminology**
@@ -17,7 +17,7 @@ Offers can be formal or informal, but three key elements must exist for an offer
 
 ### Intent
 
-As noted above, the offer must demonstrate the offeror (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the **offeree** (i.e., the party intended to receive the offer).
+As noted above, the offer must demonstrate the offeror (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer).
 
 ### Communication
 
