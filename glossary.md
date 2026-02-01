@@ -296,6 +296,22 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 ***
 
+#### offeree
+
+the party receiving the offer
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offeree) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
+#### offeror
+
+the party making the offer
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offeror) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
 #### omission
 
 failure to act
@@ -452,11 +468,11 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_
 
 #### rule of law
 
-**rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights &#x20;
+**rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights
 
 Source: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
 
-**rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"&#x20;
+**rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"
 
 Source: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
 
@@ -602,5 +618,4 @@ Source: [Model Penal Code § 2.01](https://www.criminallawweb.net/web1/mpc/PART1
 
 a judicial order that a higher court may use to prevent a lower court from taking an action
 
-Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
- 
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/) �
