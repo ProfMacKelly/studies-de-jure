@@ -304,7 +304,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offeree) by [Co
 
 ***
 
-#### offeror
+##### offeror
 
 the party making the offer
 
