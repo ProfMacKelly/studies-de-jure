@@ -266,7 +266,6 @@
 ***
 
 * [🔤 Glossary](glossary.md)
-* [Snippets - Attributions](cj-liability/snippets-attributions.md)
 * [Attributions](criminal-procedure/README.md)
   * [3+3](criminal-procedure/3+3.md)
   * [4th](criminal-procedure/4th.md)
@@ -274,8 +273,6 @@
   * [Criminal Procedure: A Sourcebook](<criminal-procedure/README (1).md>)
   * [Criminal Procedure: A Sourcebook](<criminal-procedure/README (2).md>)
   * [Table of contents](criminal-procedure/SUMMARY.md)
-  * [Attributions](criminal-procedure/attributions-1.md)
-  * [attributions](criminal-procedure/attributions.md)
   * [Front Matter](criminal-procedure/front-matter.md)
   * [Glossary](criminal-procedure/glossary.md)
   * [Page 1](criminal-procedure/page-1.md)
