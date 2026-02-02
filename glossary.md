@@ -616,6 +616,12 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 ***
 
+#### unjust enrichment
+
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^4]
+
+***
+
 #### United States Attorney
 
 otherwise referred to as a U.S. Attorney or federal prosecutor, an attorney who represents the federal government in the prosecution of criminal cases
@@ -667,3 +673,5 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibi
 [^2]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 [^3]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+[^4]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
