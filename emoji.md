@@ -4,54 +4,39 @@ hidden: true
 
 # Emoji
 
-[https://emojiguide.org/](https://emojiguide.org/); [https://emoji.codes/compliance-emojis](https://emoji.codes/compliance-emojis)
+[https://www.hqemoji.com/](https://www.hqemoji.com/); [https://emojiguide.org/](https://emojiguide.org/); [https://emoji.codes/compliance-emojis](https://emoji.codes/compliance-emojis)
 
-[https://emojipedia.org/](https://emojipedia.org/); [https://emojis.wiki/](https://emojis.wiki/)
+[https://emojipedia.org/](https://emojipedia.org/);&#x20;
+
+—
 
 ➡️⬅️⬆️⬇️▶️
 
-👇
+🎯✅✔ ‍🔑 📌📢📄📑📋🤝⚠️🚫🔗📖📚
 
-🔨
+🏛️⚖️ 📜𓂃🪶
 
-🚧
+🔍👇👆👉👈→↓↑←
 
-🏛️⚖️&#x20;
-
-🏢
-
-🔍
-
-📜
+🔨🚧
 
 🛡️🚨🚓🚔
 
-📋
-
 🎧🔊
 
-🎞️🎬🍿 ✔
-
-✅
-
-📢 ⚠️🚫
-
-📝
-
-📖📚
-
-📑🤝
+🎞️🎬🍿&#x20;
 
 ❓❗
-
-🎯
-
-‍🔑
 
 💼
 
 🚀
 
-𓂃🪶
 
-🔗
+
+
+
+&#x20;
+
+
+
