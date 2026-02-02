@@ -2,7 +2,15 @@
 
 ### Overview
 
-"**Contract**" may be the most familiar legal concept in our society because it is so central to the essence of our political, economic, and social life. In common parlance, "contract" is used interchangeably with _agreement_, _bargain_, _undertaking_, or _deal_. Whatever the word, the concept it embodies is our notion of freedom to pursue our own lives together with others. So commonplace is the concept of contract—and our freedom to make contracts with each other—that it is difficult to imagine a time when contracts were rare, when people’s everyday associations with one another were not freely determined.
+"**Contract**" may be the most familiar legal concept in our society because it is so central to the essence of our political, economic, and social life. In common parlance, "contract" tends to be used interchangeably with _agreement_, _bargain_, _undertaking_, or _deal_. Whatever the word, the concept it embodies is our notion of freedom to pursue our own lives together with others. So commonplace is the concept of contract—and our freedom to make contracts with each other—that it is difficult to imagine a time when contracts were rare, when people’s everyday associations with one another were not freely determined.
+
+{% hint style="info" %}
+📜 The freedom to contract is one of the few individual freedoms identified in the U.S. Constitution proper (i.e., not in an Amendment):
+
+> No State shall ... pass any ... Law impairing the Obligation of Contracts ....&#x20;
+
+See [Article I, Section 10, Clause 1](https://constitution.congress.gov/browse/essay/artI-S10-C1-6-1/ALDE_00013037/)
+{% endhint %}
 
 Modern capitalism, indeed, would not be possible without contract law, and contract law may be viewed economically as well as culturally. In [_An Economic Analysis of Law_](https://archive.org/details/economicanalysis0000posn), Judge Richard A. Posner (a former University of Chicago law professor) suggests that contract law performs three significant economic functions:
 
@@ -12,17 +20,19 @@ Modern capitalism, indeed, would not be possible without contract law, and contr
 
 ### The Definition of _Contract_
 
-Although businesses tend to use the terms “agreement” and “contract” interchangeably, as noted above, the terms have very different legal meanings. An **agreement** is a mutual understanding between two or more parties about their rights and duties toward each other, which involves the combination of an [offer and an acceptance of the offer](contract-elements/).
+Although businesses tend to use the terms “agreement” and “contract” interchangeably, as noted above, the terms have very different legal meanings. An [**agreement**](../../../glossary.md#agreement) is a mutual understanding between two or more parties about their rights and duties toward each other, which involves the combination of an offer and an acceptance of the offer.
 
-On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which [**the law in some way recognizes as a duty**](#user-content-fn-1)[^1]." Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
+{% hint style="warning" %}
+📌 For contract purposes, an agreement must demonstrate a "**meeting of the minds**," which refers to all parties **mutually assenting to the terms, conditions, and subject matter**.
+{% endhint %}
+
+On the other hand, as a practical matter, a **contract** is a [**promise**](../../../glossary.md#promise) that is _**legally enforceable**_ in court. More specifically, the legal definition of a contract is "a promise or a set of promises for **\[1]** the breach of which the law gives a remedy, or **\[2]** the performance of which [the law in some way recognizes as a duty](#user-content-fn-1)[^1]." Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
 
 {% hint style="success" %}
 📝 All contracts are agreements, _**but**_ not all agreements are contracts.&#x20;
 {% endhint %}
 
 When contracts are [**breached**](#user-content-fn-3)[^3] the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.&#x20;
-
-
 
 Generally speaking, contracts are a form of **private law**, because the terms of the contract are binding on the parties to the contract and no one else. Parties may enter into contracts for whatever they wish and under any terms that they agree on. In other words, parties may assent to agreements even if those agreements represent a "bad" bargain for one or more parties.
 
