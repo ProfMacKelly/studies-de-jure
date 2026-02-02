@@ -2,9 +2,7 @@
 
 #### act (action)
 
-a bodily movement whether voluntary or involuntary
-
-Source: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
+a bodily movement whether voluntary or involuntary\*[^1]
 
 ***
 
@@ -412,6 +410,30 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/prosecuting_att
 
 ***
 
+#### promise
+
+assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
+#### promisee&#x20;
+
+a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
+#### promisor&#x20;
+
+a person who makes a [promise ](glossary.md#promise)to a promisee, typically in the context of a contractual agreement
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
 #### prosecution
 
 in the criminal law context, (1) the process of initiating and pursuing a criminal legal action against a defendant accused of committing a crime; or (2) the group responsible for initiating and pursuing a criminal legal action against a defendant accused of committing a crime
@@ -627,3 +649,5 @@ Source: [Model Penal Code § 2.01](https://www.criminallawweb.net/web1/mpc/PART1
 a judicial order that a higher court may use to prevent a lower court from taking an action
 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/) �
+
+[^1]: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
