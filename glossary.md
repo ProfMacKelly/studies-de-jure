@@ -118,11 +118,15 @@ Source: [Model Penal Code § 1.13(5)](https://www.criminallawweb.net/web1/mpc/mp
 
 ***
 
+#### contract
+
+an agreement between parties, creating mutual obligations that are enforceable by law\*[^2]
+
+***
+
 #### criminal law
 
-a branch of law concerned with crimes and the punishment of individuals who commit crimes
-
-Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/complaint) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+a branch of law concerned with crimes and the punishment of individuals who commit crimes\*[^3]
 
 ***
 
@@ -659,3 +663,7 @@ a judicial order that a higher court may use to prevent a lower court from takin
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/) �
 
 [^1]: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
+
+[^2]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+[^3]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
