@@ -16,8 +16,8 @@ Although businesses tend to use the terms “agreement” and “contract” int
 
 On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which **the law in some way recognizes as a duty**."[<sup>1</sup>](#user-content-fn-1)[^1] Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
 
-{% hint style="info" %}
-All contracts are agreements, but not all agreements are contracts.
+{% hint style="warning" %}
+📝 All contracts are agreements, _**but**_ not all agreements are contracts.
 {% endhint %}
 
 When contracts are **breached**—i.e., one or more parties to the contract failed to perform their agreed-upon obligations—the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.
@@ -57,7 +57,7 @@ Together, the answers to these questions determine the rights and obligations of
 
 We live in a world of contracts, which are the bread and butter of business transactions. However, many consumers, employees, and small businesses are afraid to read and understand contracts. That fear allows others to take advantage of them. Take the time to read contracts provided to you. Ask questions about anything you don’t understand _before_ you sign. Have the courage to revise and edit contracts to ensure your interests are protected. Or even write your own. It’s not hard and the more you do it, the more confidence you will have to negotiate business transactions and protect your interests.
 
-\~ Darnell T., attorney
+&#x20;    \~ Darnell T., attorney
 {% endhint %}
 
 ***
