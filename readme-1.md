@@ -57,10 +57,6 @@ However, they can do so indirectly by lobbying Congress on laws that it consider
 8. Explore the state and federal court systems.
 {% endhint %}
 
-***
-
-\~ _Matt Mac Kelly, JD, EdD_
-
 [^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
 
 [^2]: [8 U.S. 310 (2010)](https://supreme.justia.com/cases/federal/us/558/310/#opinions)

@@ -1,8 +1,6 @@
 # About This Site
 
-{% hint style="warning" %}
-**This site is under construction** :construction:
-{% endhint %}
+{% include ".gitbook/includes/under-construction.md" %}
 
 ***
 
