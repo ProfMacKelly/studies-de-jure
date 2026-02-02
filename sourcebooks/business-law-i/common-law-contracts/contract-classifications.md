@@ -1,32 +1,49 @@
 # Some Basic Contract Terminology
 
-## Introduction
+## Relationships Between the Parties
 
-Some contracts are written, some oral; some are explicit, some not. Because contracts can be formed, expressed, and enforced in a variety of ways, a taxonomy of contracts has developed that is useful in grouping together like legal consequences. In general, contracts are classified along four different dimensions: explicitness, mutuality, enforceability, and degree of completion.&#x20;
+Before we can jump into ........  Although not really part of the taxonomy of contracts (i.e., the orderly classification of the subject), an aspect of contractual—indeed, legal—terminology should be highlighted here. _Suffixes_ (the end syllables of words) in the English language are used to express relationships between parties in legal terminology. Here are examples:
 
-Explicitness is the degree to which the agreement is manifest to those not party to it. Mutuality takes into account whether promises are given by two parties or only one. Enforceability is the degree to which a given contract is binding. Completion considers whether the contract is yet to be performed or whether the obligations have been fully discharged by one or both parties. We will examine each of these concepts in turn.
+* **Offeror.** One who makes an offer.
+* **Offeree.** One to whom an offer is made.
+* **Promisor.** One who makes a promise.
+* **Promisee.** One to whom a promise is made.
+* **Obligor.** One who makes and has an obligation.
+* **Obligee.** One to whom an obligation is made.
+* **Transferor.** One who makes a transfer.
+* **Transferee.** One to whom a transfer is made.
+
+## General Attributes of Contracts
+
+Contracts come in both oral and written **forms**. Some contracts are explicit, some not. Because contracts can be formed, expressed, and enforced in a variety of ways, a taxonomy of contracts has developed that is useful in grouping together. In general, a given contract will have four broad descriptive attributes: (1) explicitness, (2) mutuality, (3) enforceability, and (4) degree of completion.&#x20;
+
+{% hint style="info" %}
+📝 **Form** refers to whether the contract is oral or in writing.
+{% endhint %}
+
+**Explicitness** is the degree to which the agreement is manifest to those not party to it. **Mutuality** takes into account whether promises are given by two parties or only one. **Enforceability** is the degree to which a given contract is legally binding. **Degree of completion** considers whether the contract is yet to be performed or whether the obligations have been fully discharged by one or both parties. We will examine each of these concepts in turn.
 
 ## Explicitness
 
 ### Express Contract
 
-An express contract is one in which the terms are spelled out directly. The parties to an express contract, whether it is written or oral, are conscious that they are making an enforceable agreement. For example, an agreement to purchase your neighbor’s car for $5,500 and to take title next Monday is an express contract.
+An **express contract** is one in which the terms are spelled out directly. The parties to an express contract, whether it is written or oral, are conscious that they are making an enforceable agreement. For example, an agreement to purchase your neighbor’s car for $5,500 and to take title next Monday is an express contract.
 
-### Implied Contract (Implied in Fact)
+### Implied Contract&#x20;
 
-An implied contract is one that is inferred from the actions of the parties. When parties have not discussed terms, an implied contract exists if it is clear from the conduct of both parties that they intended there be one. A delicatessen patron who asks for a turkey sandwich to go has made a contract and is obligated to pay when the sandwich is made. By ordering the food, the patron is implicitly agreeing to the price, whether posted or not.
+An implied contract ("implied in fact") is one that is inferred from the actions of the parties. When parties have not discussed terms, an implied contract exists if it is clear from the conduct of both parties that they intended there be one. A delicatessen patron who asks for a turkey sandwich to go has made a contract and is obligated to pay when the sandwich is made. By ordering the food, the patron is implicitly agreeing to the price, whether posted or not.
 
 The distinction between express and implied contracts has received a degree of notoriety in the so-called palimony cases, in which one member of an unmarried couple seeks a division of property after a long-standing live-together relationship has broken up. When a married couple divorces, their legal marriage contract is dissolved, and financial rights and obligations are spelled out in a huge body of domestic relations statutes and judicial decisions. No such laws exist for unmarried couples. However, about one-third of the states recognize common-law marriage, under which two people are deemed to be married if they live together with the intent to be married, regardless of their failure to have obtained a license or gone through a ceremony. Although there is no actual contract of marriage (no license), their behavior implies that the parties intended to be treated as if they were married.
 
-### Quasi-Contract
+### Quasi-Contract&#x20;
 
-A quasi-contract (implied in law) is—unlike both express and implied contracts, which embody an actual agreement of the parties—an obligation said to be “imposed by law” in order to avoid unjust enrichment of one person at the expense of another. A quasi-contract is not a contract at all; it is a fiction that the courts created to prevent injustice. Suppose, for example, that the local lumberyard mistakenly delivers a load of lumber to your house, where you are repairing your deck. It was a neighbor on the next block who ordered the lumber, but you are happy to accept the load for free; since you never talked to the lumberyard, you figure you need not pay the bill. Although it is true there is no contract, the law implies a contract for the value of the material: of course you will have to pay for what you got and took. The existence of this implied contract does not depend on the intention of the parties.
+A quasi-contract ("implied in law") is—unlike both express and implied contracts, which embody an actual agreement of the parties—an obligation said to be “imposed by law” in order to avoid unjust enrichment of one person at the expense of another. A quasi-contract is not a contract at all; it is a fiction that the courts created to prevent injustice. Suppose, for example, that the local lumberyard mistakenly delivers a load of lumber to your house, where you are repairing your deck. It was a neighbor on the next block who ordered the lumber, but you are happy to accept the load for free; since you never talked to the lumberyard, you figure you need not pay the bill. Although it is true there is no contract, the law implies a contract for the value of the material: of course you will have to pay for what you got and took. The existence of this implied contract does not depend on the intention of the parties.
 
 ## Mutuality
 
 ### Bilateral Contract
 
-The typical contract is one in which the parties make mutual promises. Each is both promisor and promisee; that is, each pledges to do something, and each is the recipient of such a pledge. This type of contract is called a bilateral contract.
+The typical contract is one in which the parties make mutual promises. Each party is both promisor and promisee: Both parties make a promise to the other (to perform an act or refrain from performing an act), and both parties receive a promise from the other. This is called a bilateral contract.
 
 ### Unilateral Contract
 
@@ -65,19 +82,6 @@ In the years since, though, courts _have_ gone so far as to give a cause of acti
 ## Degree of Completion
 
 An agreement consisting of a set of promises is called an executory contract before any promises are carried out. Most executory contracts are enforceable. If John makes an agreement to deliver wheat to Humphrey and does so, the contract is called a partially executed contract: one side has performed, the other has not. When John pays for the wheat, the contract is fully performed. A contract that has been carried out fully by both parties is called an executed contract.
-
-## Terminology: Suffixes Expressing Relationships
-
-Although not really part of the taxonomy of contracts (i.e., the orderly classification of the subject), an aspect of contractual—indeed, legal—terminology should be highlighted here. _Suffixes_ (the end syllables of words) in the English language are used to express relationships between parties in legal terminology. Here are examples:
-
-* **Offeror.** One who makes an offer.
-* **Offeree.** One to whom an offer is made.
-* **Promisor.** One who makes a promise.
-* **Promisee.** One to whom a promise is made.
-* **Obligor.** One who makes and has an obligation.
-* **Obligee.** One to whom an obligation is made.
-* **Transferor.** One who makes a transfer.
-* **Transferee.** One to whom a transfer is made.
 
 ## Key Takeaway
 

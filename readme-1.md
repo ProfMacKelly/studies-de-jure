@@ -12,14 +12,24 @@ The primary purpose of this site will be to host [open educational resources](#u
 :construction\_site: _This site is a work in progress_, so most of the content is not in the "final" form. :construction:
 {% endhint %}
 
-{% include ".gitbook/includes/learning-objectives.md" %}
-
 These resources are [licensed openly](glossary.md#open-license), free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), and include content that was authored by Matthew L. Mac Kelly and/or adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices. Attributions and licensing information is identified on each page.
 
-s.
+{% hint style="info" %}
+#### **LEARNING OBJECTIVES** 🎯
+
+1. Explain what constitutes a contract.
+2. Understand how a contract is formed.
+3. Know the defenses to performance of a contract.
+4. Understand breach of contract and its consequences.
+5. Identify remedies for breach of contract.
+
+
+{% endhint %}
+
+***
 
 {% hint style="warning" %}
-#### **Objectives**
+#### **\_\_\_\_**
 
 Under the Supreme Court’s [_Citizens United_](#user-content-fn-2)[^2] decision, business entities enjoy the same right as natural persons to influence the political process through contributions. Because federal judges are appointed for life, businesses cannot directly influence the actions of the judicial branch.
 
@@ -27,8 +37,6 @@ However, they can do so indirectly by lobbying Congress on laws that it consider
 
 \~ John W., judge
 {% endhint %}
-
-
 
 ***
 
