@@ -2,16 +2,11 @@
 
 ## Relationships Between the Parties
 
-Before we can jump into ........  Although not really part of the taxonomy of contracts (i.e., the orderly classification of the subject), an aspect of contractual—indeed, legal—terminology should be highlighted here. _Suffixes_ (the end syllables of words) in the English language are used to express relationships between parties in legal terminology. Here are examples:
+A discussion of contracts will not help much without understanding the relationships between parties to a contract. _Suffixes_ (the end syllables of words) in the English language are used to express relationships between parties in legal terminology. In brief, Figure4.1 below lists a few examples of common terms that refer to parties.
 
-* **Offeror.** One who makes an offer.
-* **Offeree.** One to whom an offer is made.
-* **Promisor.** One who makes a promise.
-* **Promisee.** One to whom a promise is made.
-* **Obligor.** One who makes and has an obligation.
-* **Obligee.** One to whom an obligation is made.
-* **Transferor.** One who makes a transfer.
-* **Transferee.** One to whom a transfer is made.
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><h4>Offers</h4></td><td><p><strong>Offeror:</strong> One who makes an offer</p><p></p><p><strong>Offeree:</strong> One to whom an offer is made</p></td></tr><tr><td align="center"><h4>Promises</h4></td><td><strong>Promisor:</strong> One who makes a promise<br><br><strong>Promisee:</strong> One to whom a promise is made</td></tr></tbody></table>
+
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th></th><th></th></tr></thead><tbody><tr><td align="center"><h4>Obligations</h4></td><td><strong>Obligor:</strong> One who makes and has an obligation <br><br><strong>Obligee:</strong> One to whom an obligation is made</td><td></td></tr><tr><td align="center"><h4>Transfers of Property</h4></td><td><strong>Transferor:</strong> One who makes a transfer<br><br><strong>Transferee:</strong> One to whom a transfer is made</td><td></td></tr></tbody></table>
 
 ## General Attributes of Contracts
 
@@ -31,53 +26,57 @@ An **express contract** is one in which the terms are spelled out directly. The 
 
 ### Implied Contract&#x20;
 
-An implied contract ("implied in fact") is one that is inferred from the actions of the parties. When parties have not discussed terms, an implied contract exists if it is clear from the conduct of both parties that they intended there be one. A delicatessen patron who asks for a turkey sandwich to go has made a contract and is obligated to pay when the sandwich is made. By ordering the food, the patron is implicitly agreeing to the price, whether posted or not.
+An implied contract ("implied in fact") is one that is inferred from the actions of the parties. When parties have not discussed terms, an implied contract exists if it is clear from the conduct of both parties that they intended there be one. A delicatessen patron who asks for a turkey sandwich to go has made a contract and is obligated to pay when the sandwich is made. By ordering the food, the patron is implicitly agreeing to the price, whether posted _or not_.
 
-The distinction between express and implied contracts has received a degree of notoriety in the so-called palimony cases, in which one member of an unmarried couple seeks a division of property after a long-standing live-together relationship has broken up. When a married couple divorces, their legal marriage contract is dissolved, and financial rights and obligations are spelled out in a huge body of domestic relations statutes and judicial decisions. No such laws exist for unmarried couples. However, about one-third of the states recognize common-law marriage, under which two people are deemed to be married if they live together with the intent to be married, regardless of their failure to have obtained a license or gone through a ceremony. Although there is no actual contract of marriage (no license), their behavior implies that the parties intended to be treated as if they were married.
+The distinction between express and implied contracts has received a degree of notoriety in the so-called palimony cases, in which one member of an unmarried couple seeks a division of property after a long-standing cohabitation relationship has broken up. When a married couple divorces, their legal marriage contract is dissolved, and financial rights and obligations are spelled out in a huge body of domestic relations statutes and judicial decisions. [No such laws exist](#user-content-fn-1)[^1] for unmarried couples. Although there is no actual contract of marriage (no license), their behavior implies that the parties intended to be treated as if they were married.
 
 ### Quasi-Contract&#x20;
 
-A quasi-contract ("implied in law") is—unlike both express and implied contracts, which embody an actual agreement of the parties—an obligation said to be “imposed by law” in order to avoid unjust enrichment of one person at the expense of another. A quasi-contract is not a contract at all; it is a fiction that the courts created to prevent injustice. Suppose, for example, that the local lumberyard mistakenly delivers a load of lumber to your house, where you are repairing your deck. It was a neighbor on the next block who ordered the lumber, but you are happy to accept the load for free; since you never talked to the lumberyard, you figure you need not pay the bill. Although it is true there is no contract, the law implies a contract for the value of the material: of course you will have to pay for what you got and took. The existence of this implied contract does not depend on the intention of the parties.
+A quasi-contract ("implied in law") is—unlike both express and implied contracts, which embody an actual agreement of the parties—an obligation that a court has “imposed by law” in order to avoid [unjust enrichment](../../../glossary.md#unjust-enrichment) of one person at the expense of another. So, really, a quasi-contract is not a contract at all; it is a [legal fiction](../../../glossary.md#legal-fiction) that the courts created to prevent injustice.&#x20;
+
+Suppose, for example, that the local lumberyard mistakenly delivers a load of lumber to your house, where you are repairing your deck. It was a neighbor on the next block who ordered the lumber, but you are happy to accept the load for free; since you never talked to the lumberyard, you figure you need not pay the bill. Although it is true there is no contract, the law implies a contract for the value of the material: Of course, you will have to pay for what you got and took. The existence of this implied contract does not depend on the intention of the parties.
 
 ## Mutuality
 
 ### Bilateral Contract
 
-The typical contract is one in which the parties make mutual promises. Each party is both promisor and promisee: Both parties make a promise to the other (to perform an act or refrain from performing an act), and both parties receive a promise from the other. This is called a bilateral contract.
+The typical contract is one in which the parties make mutual promises. Each party is both promisor and promisee: Both parties make a promise to the other (to perform an act or refrain from performing an act), and both parties receive a promise from the other. This is called a **bilateral contract**.
 
 ### Unilateral Contract
 
-Mutual promises are not necessary to constitute a contract. Unilateral contracts, in which one party performs an act in exchange for the other party’s promise, are equally valid. An offer of a reward—for catching a criminal or for returning a lost cat—is an example of a unilateral contract: there is an offer on one side, and the other side accepts by taking the action requested.
+Mutual promises are not necessary to constitute a contract. **Unilateral contracts**, in which one party performs an act in exchange for the other party’s promise, are equally valid. An offer of a reward—for catching a criminal or for returning a lost cat—is an example of a unilateral contract: there is an offer on one side, and the other side accepts by taking the action requested.
 
-Figure 8.2 Bilateral and Unilateral Contracts
 
-<figure><img src="https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/section_11/b6054edf7ae37472dabeb5f7cef774fc.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/section_11/b6054edf7ae37472dabeb5f7cef774fc.jpg" alt="image demonstrating the difference between bilateral and unilateral contracts"><figcaption><p>Fig. 4.1 Bilateral and Unilateral Contracts</p></figcaption></figure>
 
 ## Enforceability
 
 ### Void
 
-Not every agreement between two people is a binding contract. An agreement that is lacking one of the legal elements of a contract is said to be a void contract—that is, not a contract at all. An agreement that is illegal—for example, a promise to commit a crime in return for a money payment—is void. Neither party to a void “contract” may enforce it.
+Remember, not every agreement is a binding contract. An agreement that is lacking one of the legal elements of a contract is said to be a **void** —that is, it is not actually a contract at all. An agreement that is illegal—for example, a promise to commit a crime in return for a money payment—is void. Neither party to a void “contract” may enforce it.
 
 ### Voidable
 
-By contrast, a voidable contract is one that may become unenforceable by one party but can be enforced by the other. For example, a minor (any person under eighteen, in most states) may “avoid” a contract with an adult; the adult may not enforce the contract against the minor if the minor refuses to carry out the bargain. But the adult has no choice if the minor wishes the contract to be performed. (A contract may be voidable by both parties if both are minors.)
+By contrast, a **voidable** contract is one that may become unenforceable by one party but can be enforced by the other. For example, a minor (any person under eighteen, in most states) may “avoid[^2]” a contract with an adult; the adult may not enforce the contract against the minor if the minor refuses to carry out the bargain. But the adult has no choice if the minor wishes the contract to be performed. (A contract may be voidable by both parties if both are minors.)
 
-Ordinarily, the parties to a voidable contract are entitled to be restored to their original condition. Suppose you agree to buy your seventeen-year-old neighbor’s car. He delivers it to you in exchange for your agreement to pay him next week. He has the legal right to terminate the deal and recover the car, in which case you will of course have no obligation to pay him. If you have already paid him, he still may legally demand a return to the status quo ante (previous state of affairs). You must return the car to him; he must return the cash to you.
+Ordinarily, the parties to a voidable contract are entitled to be restored to their original circumstances prior to entering into the contract. Suppose you agree to buy your seventeen-year-old neighbor’s car. They deliver it to you in exchange for your agreement to pay them next week. They have the legal right to terminate the deal and recover the car, in which case you will of course have no obligation to pay them. If you have already paid, they still may legally demand a return to the _status quo ante_ (previous state of affairs). You must return the car, and they must return the cash.
 
-A voidable contract remains a valid contract until it is voided. Thus a contract with a minor remains in force unless the minor decides he or she does not wish to be bound by it. When the minor reaches majority, he or she may “ratify” the contract—that is, agree to be bound by it—in which case the contract will no longer be voidable and will thereafter be fully enforceable.
+A voidable contract remains a valid contract until it is voided. Thus, a contract with a minor remains in force unless the minor decides they do not wish to be bound by it. When the minor reaches majority, they may [ratify](../../../glossary.md#ratify) the contract—that is, agree to be bound by it—in which case the contract will no longer be voidable and will thereafter be fully enforceable.
 
 ### Unenforceable
 
-An unenforceable contract is one that some rule of law bars a court from enforcing. For example, Tom owes Pete money, but Pete has waited too long to collect it and the statute of limitations has run out. The contract for repayment is unenforceable and Pete is out of luck, unless Tom makes a new promise to pay or actually pays part of the debt. (However, if Pete is holding collateral as security for the debt, he is entitled to keep it; not all rights are extinguished because a contract is unenforceable.) A debt becomes unenforceable, too, when the debtor declares bankruptcy.
+An **unenforceable** contract is one that some rule of law bars a court from enforcing. For example, Tom owes Pete money, but Pete has waited too long to collect it, and the statute of limitations has run out. The contract for repayment is unenforceable, and Pete is out of luck, unless Tom makes a new promise to pay or actually pays part of the debt. (However, if Pete is holding collateral as security for the debt, he is entitled to keep it; not all rights are extinguished because a contract is unenforceable.) A debt becomes unenforceable, too, when the debtor declares bankruptcy.
 
-A bit more on enforceability is in order. A promise or what seems to be a promise is usually enforceable only if it is otherwise embedded in the elements necessary to make that promise a contract. Those elements are mutual assent, real assent, consideration, capacity, and legality. Sometimes, though, people say things that seem like promises, and on which another person relies. In the early twentieth century, courts began, in some circumstances, to recognize that insisting on the existence of the traditional elements of contract to determine whether a promise is enforceable could work an injustice where there has been reliance. Thus developed the equitable doctrine of promissory estoppel, which has become an important adjunct to contract law. The Restatement (Section 90) puts it this way: “A promise which the promisor should reasonably expect to induce action or forbearance on the party of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires.”
+A bit more on enforceability is in order. A promise or what seems to be a promise is usually enforceable only if it is otherwise embedded in the elements necessary to make that promise a contract. Those elements are mutual assent, real assent, consideration, capacity, and legality.&#x20;
 
-To be “estopped” means to be prohibited from denying now the validity of a promise you made before.
+Sometimes, though, someone says something that seems like a promise, and then the "promisee" relies on it. In the early twentieth century, courts began, in some circumstances, to recognize that insisting on the existence of the traditional elements of contract to determine whether a promise is enforceable could work an injustice where the "promisee" justifiably (i.e., reasonably) relies on the "promise" to their detriment. Thus developed the equitable doctrine of promissory estoppel, which has become an important adjunct to contract law. The [Restatement ](../../../glossary.md#restatement-s-of-the-law)of Contracts puts it this way:
 
-The doctrine has an interesting background. In 1937, High Trees House Ltd. (a British corporation) leased a block of London apartments from Central London Properties. As World War II approached, vacancy rates soared because people left the city. In 1940 the parties agreed to reduce the rent rates by half, but no term was set for how long the reduction would last. By mid-1945, as the war was ending, occupancy was again full, and Central London sued for the full rental rates from June on. The English court, under Judge Alfred Thompson Denning (1899–1999), had no difficulty finding that High Trees owed the full amount once full occupancy was again achieved, but Judge Denning went on. In an aside (called a dicta—a statement “by the way”—that is, not necessary as part of the decision), he mused about what would have happened if in 1945 Central London had sued for the full-occupancy rate back to 1940. Technically, the 1940 amendment to the 1937 contract was not binding on Central London—it lacked consideration—and Central London could have reached back to demand full-rate payment. But Judge Denning said that High Trees would certainly have relied on Central London’s promise that a reduced-rate rent would be acceptable, and that would have been enough to bind it, to prevent it from acting inconsistently with the promise. He wrote, “The courts have not gone so far as to give a cause of action in damages for the breach of such a promise, but they have refused to allow the party making it to act inconsistently with it.” _Central London Property Trust Ltd. v. High Trees House Ltd._ (1947) KB 130.
+> &#x20;“A promise which the promisor should reasonably expect to induce action or forbearance on the party of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires.”\*[^3]
 
-In the years since, though, courts _have_ gone so far as to give a cause of action in damages for various noncontract promises. Contract protects agreements; promissory estoppel protects reliance, and that’s a significant difference. The law of contracts continues to evolve.
+{% hint style="info" %}
+📌 To be “estopped” means to be prohibited from denying the validity of a promise you made previously.
+{% endhint %}
 
 ## Degree of Completion
 
@@ -98,3 +97,9 @@ Except where otherwise noted, this page's content is adapted from: [Basic Taxono
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
+
+[^1]: However, about one-third of the states recognize common-law marriage, under which two people are deemed to be married if they live together with the intent to be married, regardless of their failure to have obtained a license or gone through a ceremony.&#x20;
+
+[^2]: In the context of contracts with minors, terms like "avoid" and "disaffirm" refer to a minor voiding the contract.
+
+[^3]: Restatement Second of Contracts [§ 90](https://opencasebook.org/casebooks/3665-contracts/resources/4.2.1-restatement-second-of-contracts-90-promissory-estoppel/)
