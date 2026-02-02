@@ -14,7 +14,7 @@ Modern capitalism, indeed, would not be possible without contract law, and contr
 
 Although businesses tend to use the terms “agreement” and “contract” interchangeably, as noted above, the terms have very different legal meanings. An **agreement** is a mutual understanding between two or more parties about their rights and duties toward each other, which involves the combination of an [offer and an acceptance of the offer](contract-elements/).
 
-On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which **the law in some way recognizes as a duty**."[<sup>1</sup>](#user-content-fn-1)[^1] Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
+On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which [**the law in some way recognizes as a duty**](#user-content-fn-1)[^1]." Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
 
 {% hint style="success" %}
 📝 All contracts are agreements, _**but**_ not all agreements are contracts.&#x20;
@@ -81,6 +81,6 @@ This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licens
 
 [^2]: For example, in many states, a wager (bet) is unenforceable, even though both parties “shake” on the bet.
 
-[^3]: i.e., one or more parties to the contract failed to perform their agreed-upon obligations
+[^3]: i.e., one or more parties to the contract failed to perform their agreed-upon obligations see [here](../../../glossary.md#breach-of-contract)
 
 [^4]: a contract provision in which "one party promises not to engage in conduct that would increase competition for the other party for a specific period of time." [Wex, noncompetition agreement](https://www.law.cornell.edu/wex/noncompetition_agreement).
