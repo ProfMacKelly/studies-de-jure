@@ -3,10 +3,11 @@ title: LEARNING OBJECTIVES
 ---
 
 {% hint style="info" %}
-### LEARNING OBJECTIVES
+### LEARNING OBJECTIVES  🎯
 
-1. Understand the various functions of the American legal system.
-2. Describe the foundation and sources that establish American law.
-3. Describe the types of modern legal systems in the world.
-4. Explain the primary sources of law in the United States.
+1. Explain what constitutes a contract.
+2. Understand how a contract is formed.
+3. Know the defenses to performance of a contract.
+4. Understand breach of contract and its consequences.
+5. Identify remedies for breach of contract.
 {% endhint %}
