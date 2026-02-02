@@ -2,6 +2,8 @@
 
 {% include "../../../.gitbook/includes/learning-objectives.md" %}
 
+***
+
 ### Content
 
 {% stepper %}

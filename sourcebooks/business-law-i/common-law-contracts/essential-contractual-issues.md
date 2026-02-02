@@ -2,7 +2,7 @@
 
 ### Overview
 
-"**Contract**" is probably the most familiar legal concept in our society because it is so central to the essence of our political, economic, and social life. In common parlance, "contract" is used interchangeably with _agreement_, _bargain_, _undertaking_, or _deal_. Whatever the word, the concept it embodies is our notion of freedom to pursue our own lives together with others. So commonplace is the concept of contract—and our freedom to make contracts with each other—that it is difficult to imagine a time when contracts were rare, when people’s everyday associations with one another were not freely determined.
+"**Contract**" may be the most familiar legal concept in our society because it is so central to the essence of our political, economic, and social life. In common parlance, "contract" is used interchangeably with _agreement_, _bargain_, _undertaking_, or _deal_. Whatever the word, the concept it embodies is our notion of freedom to pursue our own lives together with others. So commonplace is the concept of contract—and our freedom to make contracts with each other—that it is difficult to imagine a time when contracts were rare, when people’s everyday associations with one another were not freely determined.
 
 Modern capitalism, indeed, would not be possible without contract law, and contract law may be viewed economically as well as culturally. In [_An Economic Analysis of Law_](https://archive.org/details/economicanalysis0000posn), Judge Richard A. Posner (a former University of Chicago law professor) suggests that contract law performs three significant economic functions:
 
@@ -16,15 +16,17 @@ Although businesses tend to use the terms “agreement” and “contract” int
 
 On the other hand, as a practical matter, a **contract** is a _**legally enforceable**_ promise. More specifically, the legal definition of a contract is "a promise or a set of promises for the breach of which the law gives a remedy, or the performance of which **the law in some way recognizes as a duty**."[<sup>1</sup>](#user-content-fn-1)[^1] Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
 
-{% hint style="warning" %}
-📝 All contracts are agreements, _**but**_ not all agreements are contracts.
+{% hint style="success" %}
+📝 All contracts are agreements, _**but**_ not all agreements are contracts.&#x20;
 {% endhint %}
 
-When contracts are **breached**—i.e., one or more parties to the contract failed to perform their agreed-upon obligations—the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.
+When contracts are [**breached**](#user-content-fn-3)[^3] the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.&#x20;
+
+
 
 Generally speaking, contracts are a form of **private law**, because the terms of the contract are binding on the parties to the contract and no one else. Parties may enter into contracts for whatever they wish and under any terms that they agree on. In other words, parties may assent to agreements even if those agreements represent a "bad" bargain for one or more parties.
 
-Contracts may restrict parties’ future activity. For example, a [non-compete clause](#user-content-fn-3)[^3] in an employment contract may be enforceable in the future against an employee after termination of employment.
+Contracts may restrict parties’ future activity. For example, a [non-compete clause](#user-content-fn-4)[^4] in an employment contract may be enforceable in the future against an employee after termination of employment.
 
 However, contracts that are illegal or against public policy are not enforceable.
 
@@ -79,4 +81,6 @@ This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licens
 
 [^2]: For example, in many states, a wager (bet) is unenforceable, even though both parties “shake” on the bet.
 
-[^3]: a contract provision in which "one party promises not to engage in conduct that would increase competition for the other party for a specific period of time." [Wex, noncompetition agreement](https://www.law.cornell.edu/wex/noncompetition_agreement).
+[^3]: i.e., one or more parties to the contract failed to perform their agreed-upon obligations
+
+[^4]: a contract provision in which "one party promises not to engage in conduct that would increase competition for the other party for a specific period of time." [Wex, noncompetition agreement](https://www.law.cornell.edu/wex/noncompetition_agreement).
