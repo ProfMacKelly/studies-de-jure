@@ -30,6 +30,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/adjudicate) by 
 
 ***
 
+#### agreement
+
+a manifestation of mutual assent by two or more persons to one another. It is a meeting of the minds with a common intention made through offer and acceptance. An agreement can be shown from words, conduct and in some cases, even silence.
+
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
 #### appeal
 
 a challenge to a previous legal determination by a lower court
