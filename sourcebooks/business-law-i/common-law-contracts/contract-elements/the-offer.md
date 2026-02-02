@@ -4,13 +4,6 @@
 
 All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An offer is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract.
 
-{% hint style="warning" %}
-**Key Terminology**
-
-* **Offeror:** The party in a contract negotiation who makes an offer
-* **Offeree:** The party who receives the offer and has the power to accept the offer
-{% endhint %}
-
 ## Required Elements of an Offer
 
 Offers can be formal or informal, but three key elements must exist for an offer to be _legally effective:_ (1) **intent** to enter into a binding contract, (2) the offer being **communicated**, and (3) the terms of the offer being reasonably **definite**.
