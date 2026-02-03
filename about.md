@@ -62,9 +62,11 @@ _**The content on this site contains legal information intended for educational 
 
 <details>
 
-<summary>License</summary>
+<summary>Attributions and Licensing</summary>
 
-This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed/reserved by [Gitbook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed/reserved by [Gitbook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).\
+\
+This site's [scale/books](https://www.flaticon.com/free-icon/laws_1728907?term=scale+book\&page=1\&position=1\&origin=style\&related_id=1728907) favicon by [monkik](https://www.flaticon.com/authors/monkik) is used under the [flaticon attribution license](https://media.flaticon.com/license/license.pdf?_ga=2.69178129.1656656520.1770129443-1915078148.1769719266&_gl=1*ea791g*test_au*MTY2MzIzMTUzNC4xNzY5NzE5MjY2*test_ga*MTkxNTA3ODE0OC4xNzY5NzE5MjY2*test_ga_523JXC6VL7*czE3NzAxMjk0NDMkbzQkZzEkdDE3NzAxMzE1NDAkajYwJGwwJGgw*fp_au*MjAzMTQ1NjI0Mi4xNzY5NzkwMTMw*fp_ga*MTkxNTA3ODE0OC4xNzY5NzE5MjY2*fp_ga_1ZY8468CQB*czE3NzAxMjk0NDMkbzQkZzEkdDE3NzAxMzE1NDAkajYwJGwwJGgw).
 
 </details>
 
