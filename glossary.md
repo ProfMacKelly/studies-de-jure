@@ -1,8 +1,14 @@
 # 🔤 Glossary
 
+#### acceptance
+
+assent to the terms of an offer\*[^1]
+
+***
+
 #### act (action)
 
-a bodily movement whether voluntary or involuntary\*[^1]
+a bodily movement whether voluntary or involuntary\*[^2]
 
 ***
 
@@ -120,19 +126,19 @@ Source: [Model Penal Code § 1.13(5)](https://www.criminallawweb.net/web1/mpc/mp
 
 #### consideration
 
-something of value that is part of the mutual exchange of promises between the parties to a contract\*[^2]
+something of value that is part of the mutual exchange of promises between the parties to a contract\*[^3]
 
 ***
 
 #### contract
 
-an agreement between parties, creating mutual obligations that are enforceable by law\*[^3]
+an agreement between parties, creating mutual obligations that are enforceable by law\*[^4]
 
 ***
 
 #### criminal law
 
-a branch of law concerned with crimes and the punishment of individuals who commit crimes\*[^4]
+a branch of law concerned with crimes and the punishment of individuals who commit crimes\*[^5]
 
 ***
 
@@ -268,7 +274,7 @@ Source: [Model Penal Code § 3.02](https://www.criminallawweb.net/web1/mpc/PART1
 
 #### legal fiction
 
-an assumption and acceptance of something as fact by a court, although it may not be true, to allow a rule to operate or be applied in a manner that differs from its original purpose while leaving the letter of the law unchanged\*[^5]
+an assumption and acceptance of something as fact by a court, although it may not be true, to allow a rule to operate or be applied in a manner that differs from its original purpose while leaving the letter of the law unchanged\*[^6]
 
 ***
 
@@ -304,7 +310,7 @@ Model Penal Code
 
 #### mutual assent
 
-the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*[^6]; a party's assent must be [real assent](glossary.md#real-assent)\*[^7]
+the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*[^7]; a party's assent must be [real assent](glossary.md#real-assent)\*[^8]
 
 ***
 
@@ -326,13 +332,13 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 #### non-compete clause
 
-a contract provision—usually in an employer/employee or business sale context— in which one party promises not to engage in conduct that would increase competition for the other party for a specific period of time.\*[^8]
+a contract provision—usually in an employer/employee or business sale context— in which one party promises not to engage in conduct that would increase competition for the other party for a specific period of time.\*[^9]
 
 ***
 
 #### offer
 
-part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^9]
+part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^10]
 
 ***
 
@@ -502,7 +508,7 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/public-defender)
 
 #### ratify
 
-To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^10]
+To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^11]
 
 ***
 
@@ -524,7 +530,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/rational_basis_
 
 #### real assent
 
-when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\*[^7] (see also [mutual assent](glossary.md#mutual-assent))
+when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\*[^8] (see also [mutual assent](glossary.md#mutual-assent))
 
 ***
 
@@ -538,14 +544,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by 
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^11]
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^12]
 
 ***
 
 #### rule of law
 
-* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^12]
-* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^13]
+* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^13]
+* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^14]
 
 ***
 
@@ -647,7 +653,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 #### unjust enrichment
 
-when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^14]
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^15]
 
 ***
 
@@ -697,30 +703,32 @@ a judicial order that a higher court may use to prevent a lower court from takin
 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/) �
 
-[^1]: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
+[^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/acceptance) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^2]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/consideration) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^2]: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
 
-[^3]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^3]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/consideration) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^4]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^4]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^5]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/legal_fiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^5]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^6]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/mutual_assent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^6]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/legal_fiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^7]: [Chapter 10 - Real Assent](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/chapter-10-real-assent/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
+[^7]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/mutual_assent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^8]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/noncompetition_agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^8]: [Chapter 10 - Real Assent](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/chapter-10-real-assent/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
 
-[^9]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^9]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/noncompetition_agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^12]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
+[^12]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^13]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+[^13]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
 
-[^14]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
+[^14]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+
+[^15]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
