@@ -4,7 +4,7 @@ _\[Note: Edited from the_ [_<mark style="color:blue;">original</mark>_](https://
 
 ***
 
-475 U.S. 335 (1986)
+[475 U.S. 335](https://www.courtlistener.com/opinion/111611/malley-v-briggs/?type=o\&q=\&type=o\&order_by=score%20desc\&stat_Precedential=on\&citation=475%20U.S.%20335) (1986)
 
 Supreme Court of United States
 
