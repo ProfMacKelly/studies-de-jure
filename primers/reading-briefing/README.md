@@ -6,8 +6,8 @@ Put simply, legal reasoning skills are inherently part of criminal justice, publ
 
 {% stepper %}
 {% step %}
-{% content-ref url="introduction-to-reading-and-briefing-cases.md" %}
-[introduction-to-reading-and-briefing-cases.md](introduction-to-reading-and-briefing-cases.md)
+{% content-ref url="intro-reading-briefing.md" %}
+[intro-reading-briefing.md](intro-reading-briefing.md)
 {% endcontent-ref %}
 {% endstep %}
 
@@ -24,8 +24,8 @@ Put simply, legal reasoning skills are inherently part of criminal justice, publ
 {% endstep %}
 
 {% step %}
-{% content-ref url="annotated-cases-and-annotated-examples-of-case-briefs/" %}
-[annotated-cases-and-annotated-examples-of-case-briefs](annotated-cases-and-annotated-examples-of-case-briefs/)
+{% content-ref url="annotated-cases-briefs/" %}
+[annotated-cases-briefs](annotated-cases-briefs/)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}

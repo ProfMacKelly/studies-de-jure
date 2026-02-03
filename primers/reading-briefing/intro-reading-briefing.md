@@ -14,8 +14,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="annotated-cases-and-annotated-examples-of-case-briefs/" %}
-[annotated-cases-and-annotated-examples-of-case-briefs](annotated-cases-and-annotated-examples-of-case-briefs/)
+{% content-ref url="annotated-cases-briefs/" %}
+[annotated-cases-briefs](annotated-cases-briefs/)
 {% endcontent-ref %}
 {% endstep %}
 
