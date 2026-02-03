@@ -166,6 +166,7 @@
     * [Remedies](sourcebooks/business-law-i/common-law-contracts/remedies.md)
     * [Performance and Breach](sourcebooks/business-law-i/common-law-contracts/performance-and-breach.md)
     * [Affirmative Defenses to Breach Claims](sourcebooks/business-law-i/common-law-contracts/affirmative-defenses-to-breach-claims.md)
+  * [Real Assent](sourcebooks/business-law-i/real-assent.md)
   * [Antitrust Law](sourcebooks/business-law-i/antitrust-law.md)
   * [Business and the United States Constitution](sourcebooks/business-law-i/business-and-the-united-states-constitution.md)
   * [Business Ethics and Social Responsibility](sourcebooks/business-law-i/business-ethics-and-social-responsibility.md)
