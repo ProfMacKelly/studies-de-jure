@@ -118,6 +118,10 @@ Source: [Model Penal Code § 1.13(5)](https://www.criminallawweb.net/web1/mpc/mp
 
 ***
 
+#### consideration
+
+***
+
 #### contract
 
 an agreement between parties, creating mutual obligations that are enforceable by law\*[^2]
@@ -314,7 +318,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 #### offer
 
-the party receiving the offer
+part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](https://www.law.cornell.edu/wex/consideration)
 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
