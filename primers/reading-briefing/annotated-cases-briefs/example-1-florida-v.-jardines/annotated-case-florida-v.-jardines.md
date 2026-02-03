@@ -1,7 +1,5 @@
 # Annotated Case: Florida v. Jardines
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://scholar.google.com/scholar_case?case=11257938519868562913\&hl=en\&as_sdt=6,50).]
-
 <details>
 
 <summary><mark style="color:red;">Please read this explanation about how the cases in this course are edited.</mark></summary>
@@ -23,7 +21,7 @@ For instructional purposes, I edit each case (a common practice in legal instruc
 In this "instructional" version of the case, there are expanding boxes where you will find some explanations, and you will see annotated portions highlighted in yellow (click the annotation).
 {% endhint %}
 
-133 S. Ct. 1409, 569 U.S. 1 (2013)
+[133 S. Ct. 1409, 569 U.S. 1](https://scholar.google.com/scholar_case?case=11257938519868562913\&hl=en\&as_sdt=6,50) (2013)
 
 Supreme Court of United States
 
