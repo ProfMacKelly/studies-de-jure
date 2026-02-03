@@ -1,18 +1,22 @@
+---
+description: A Sourcebook
+---
+
 # 🛡️ Criminal Justice Liability Law
 
 {% hint style="warning" %}
-#### :construction\_site: This sourcebook is under construction :construction:
+:construction\_site: **This sourcebook is under construction** :construction:
 {% endhint %}
 
 ***
 
-## What is This Sourcebook?
+## What is This Book?
 
 This book is [openly licensed](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/glossary#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes content authored by Matthew L. Mac Kelly, plus content adapted, remixed, and/or incorporated from other creators, in compliance with copyright and licensing regulations and practices. Attribution and licensing information are identified on each page.
 
 \~ _Matt Mac Kelly, JD, EdD_
 
-## How to Use This Sourcebook
+## How to Use This Book
 
 ### Table of Contents
 

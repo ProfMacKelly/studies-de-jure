@@ -100,6 +100,7 @@
         * [Model Brief for "Brief the Case" Exercise](introduction-to-law/case-law/1.2-intro-reading-briefing/1.3-brief-the-case-exercise/model-brief-for-brief-the-case-exercise.md)
       * [Reading Cases](introduction-to-law/case-law/1.2-intro-reading-briefing/reading-cases/README.md)
         * [Videos: Reading Cases](introduction-to-law/case-law/1.2-intro-reading-briefing/reading-cases/videos-reading-cases.md)
+* [🚔 Criminal Procedure](sourcebooks/criminal-procedure.md)
 * [🛡️ Criminal Justice Liability Law](cj-liability/README.md)
   * [Your Obligation to Know the Law](cj-liability/your-obligation-to-know-the-law.md)
   * [Introduction to Civil Liability](cj-liability/unit-2-introduction-to-civil-liability.md)

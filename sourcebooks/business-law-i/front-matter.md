@@ -30,7 +30,7 @@ Click on any unit, chapter, and/or section to view its content. Scroll down to r
 <mark style="color:red;">**Pages with multiple headings/subsections have their own table of contents on the right side of the page.**</mark> (For example, see the right side of this screen.) The table on the right might not appear on smaller screens, such as phones and small tablets.
 {% endhint %}
 
-\### Interactive Elements
+#### Interactive Elements
 
 Engage with any interactive elements such as links, annotations, [expandable widgets,](#user-content-fn-3)[^3] videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
@@ -54,13 +54,17 @@ To find specific topics or keywords within the sourcebook, use the **Search** ba
 <mark style="color:red;">**Click the link to learn more about using GitBook's**</mark> [<mark style="color:blue;">**Search & Quick find**</mark> <mark style="color:red;">**tool**</mark>](https://docs.gitbook.com/content-editor/searching-your-content/quick-find)<mark style="color:red;">.</mark>
 {% endhint %}
 
-\### Day/Night Mode
+#### Day/Night Mode
 
 At the bottom of the page, usually in the lower-right side, you may toggle between day and night displays, depending on your viewing preferences.
 
 <figure><img src="https://3740340822-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX7KyXZptCmBnyJBn0ocw%2Fuploads%2FKPXjC3KBTdMhESBhAbDb%2Fday-night.jpeg?alt=media&#x26;token=703dc55b-4ae2-45b5-b4e9-052591a44afb" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
 
-### Legal Notic&#x65;_**This book contains legal information intended for educational purposes only and should not be construed as legal advice; please consult a qualified legal professional before making legal decisions.**_
+{% hint style="danger" %}
+#### 📢 Legal Notice
+
+This book contains legal information intended for educational purposes only and _should not be construed as legal advice_; please consult a qualified legal professional before making legal decisions.
+{% endhint %}
 
 ***
 
