@@ -159,7 +159,7 @@
     * [Venue](sourcebooks/business-law-i/litigation/venue.md)
   * [Contract Law: Common Law Contracts](sourcebooks/business-law-i/common-law-contracts/README.md)
     * [Introduction and Essential Contractual Issues](sourcebooks/business-law-i/common-law-contracts/essential-contractual-issues.md)
-    * [Some Basic Contract Terminology](sourcebooks/business-law-i/common-law-contracts/contract-classifications.md)
+    * [Some Basic Contract Terminology](sourcebooks/business-law-i/common-law-contracts/basic-terms.md)
     * [Contract Elements](sourcebooks/business-law-i/common-law-contracts/contract-elements/README.md)
       * [Introduction & Terminology](sourcebooks/business-law-i/common-law-contracts/contract-elements/introduction-and-terminology.md)
       * [The Offer](sourcebooks/business-law-i/common-law-contracts/contract-elements/the-offer.md)

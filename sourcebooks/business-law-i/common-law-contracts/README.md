@@ -14,8 +14,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="contract-classifications.md" %}
-[contract-classifications.md](contract-classifications.md)
+{% content-ref url="basic-terms.md" %}
+[basic-terms.md](basic-terms.md)
 {% endcontent-ref %}
 {% endstep %}
 
