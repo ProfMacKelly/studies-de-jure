@@ -1,20 +1,38 @@
 # The Offer
 
-## Offer: A Conditional Promise
+Offer: A Conditional Promise
 
-All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [**offer** ](../../../../glossary.md#offer)is a conditional promise to do or refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract.
+All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [**offer** ](../../../../glossary.md#offer)is a conditional promise to do **or** refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract. In other words, an offer demonstrates the offeror's willingness to enter into a contract.
 
 ## Required Elements of an Offer
 
-Offers can be formal or informal, but three key elements must exist for an offer to be _legally effective:_ (1) **intent** to enter into a binding contract, (2) the offer being **communicated**, and (3) the terms of the offer being reasonably **definite**.
+Offers can be formal or informal, but three key elements must exist for an offer to be _valid:_ (1) **intent** to enter into a binding contract, (2) the offer being **communicated**, and (3) the terms of the offer being reasonably **definite**.
 
-### Intent
+{% hint style="info" %}
+📌 Accepting an offer only has legal significance if the offer is valid. Accepting an invalid offer does not create a binding agreement.
+{% endhint %}
 
-As noted above, the offer must demonstrate the offeror (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer).
+### Serious Intent
+
+As noted above, the offer must demonstrate the [offeror](../../../../glossary.md#offeror) (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer). Specifically, the intent requirement is satisfied only if there was **serious intent** to make an offer to enter into a contract.&#x20;
+
+If there is a dispute over whether one of the parties seriously intended to make an offer, the courts use the objective **reasonable person test**: <mark style="background-color:yellow;">Would a</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**reasonable person**</mark><mark style="background-color:yellow;">, looking at the words and conduct, think that a genuine offer was made?</mark> If not, then the offer was invalid. If it objectively appears that the purported offer was a joke, then the offer was invalid. Also, seriousness is commonly—but not always—lacking during casual negotiations and when making promises in a social setting.
+
+Common factors courts consider (but certainly not exclusively) when evaluating seriousness using the reasonable person test include:
+
+* the outward appearance, not hidden or subjective thoughts;
+* whether the purported offer was made in a commercial/business setting (serious intent is generally presumed, although this may be rebutted);
+* whether the purported offer was in a social or domestic setting, such as those involving friends or family (serious intent is generally presumed to be lacking, although this may be rebutted);
+* whether the statements were jokes or obvious exaggerations (including **puffery**)**;**
+* whether the setting was purely social in nature (e.g., telling a friend, “I’ll pay you back next week”);
+* whether the statements were part of early-stage negotiations identified as non-binding or “subject to contract”;
+* whether the terms were written, clear, and/or definite;&#x20;
+* whether the language was formal (“agree,” “shall,” deadlines, remedies); and
+* whether money was paid, a party relied on the statements, or performance started;
 
 ### Communication
 
-Since a contract is an agreement in which each party assents to the **terms** of the other party, the terms must be communicated. For example, if Toni places several alternative offers on the table, only one of which can be accepted, and invites Sandy to choose, no contract is formed if Sandy says merely, “I accept your terms.” Sandy must specify which offer she is assenting to.
+Since a contract is an agreement in which each party assents to the **terms** of the other party, the terms must be communicated
 
 Thus, a contract cannot be legally binding unless an offer is in fact communicated to the offeree. If you write an e-mail to a friend with an offer to sell your car for a certain sum and then get distracted and forget to send it, no offer has been made. If your friend coincidentally e-mails you the following day and says that she wants to buy your car and names the same sum, no contract has been made. Their e-mail to you is not an acceptance, since she did not know of your offer; it is, instead, an offer or an invitation to make an offer. Nor would there have been a contract if you had sent your communication and the two e-mails crossed in cyberspace. Both e-mails would be offers, but for a valid contract to be formed, it would still be necessary for one of you to accept the other’s offer. An offer is not effective until it is received by the offeree (and that’s also true of revoking offers and rejecting offers).
 
