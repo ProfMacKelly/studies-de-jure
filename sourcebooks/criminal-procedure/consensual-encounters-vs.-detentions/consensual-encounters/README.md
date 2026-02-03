@@ -26,6 +26,12 @@
 {% endstep %}
 
 {% step %}
+{% content-ref url="conducting-the-investigation.md" %}
+[conducting-the-investigation.md](conducting-the-investigation.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
 {% content-ref url="cases-notes-and-questions/" %}
 [cases-notes-and-questions](cases-notes-and-questions/)
 {% endcontent-ref %}
