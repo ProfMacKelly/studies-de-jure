@@ -2,7 +2,7 @@
 
 ## The Offer: A Conditional Promise
 
-All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [offer ](../../../../glossary.md#offer)is a conditional promise to do **or** refrain from doing in the future (i.e., after the contract is formed). The point of the offer is to demonstrate the offeror's willingness to enter into a contract with the [offeree](../../../../glossary.md#offeree) (i.e., **assent to the terms**).
+All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [offer ](../../../../glossary.md#offer)is a conditional promise to do **or** refrain from doing in the future (i.e., after the contract is formed). The point of the offer is to demonstrate the offeror's willingness to enter into a contract with the [offeree](../../../../glossary.md#offeree) (i.e., [**assent** ](../../../../glossary.md#real-assent)**to the terms**).
 
 ## Required Elements of an Offer
 
@@ -19,7 +19,9 @@ As noted above, the offer must demonstrate the [offeror](../../../../glossary.md
 If there is a dispute over whether one of the parties seriously intended to make an offer, the courts use the objective **reasonable person test**: <mark style="background-color:yellow;">Would a</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**reasonable person**</mark><mark style="background-color:yellow;">, looking at the words and conduct, think that a genuine offer was made?</mark> If not, then the offer was invalid. If it objectively appears that the purported offer was a joke, then the offer was invalid. Also, seriousness is commonly—but not always—lacking during casual negotiations and when making promises in a social setting.
 
 {% hint style="warning" %}
-📢
+#### 📢 The Reasonable Person Test in Contract Law
+
+In contract law, if a party's intent is in question, the courts look for "objective manifestations of intent \[conduct, words, context, etc.] ... viewed from the vantage point of a reasonable person in the position of the other party."\*[^1]
 {% endhint %}
 
 Common factors courts consider (but certainly not exclusively) when evaluating seriousness using the reasonable person test include:
@@ -27,7 +29,7 @@ Common factors courts consider (but certainly not exclusively) when evaluating s
 * the outward appearance, not hidden or subjective thoughts;
 * whether the purported offer was made in a commercial/business setting (serious intent is generally presumed, although this may be rebutted);
 * whether the purported offer was in a social or domestic setting, such as those involving friends or family (serious intent is generally presumed to be lacking, although this may be rebutted);
-* whether the statements were jokes or obvious exaggerations (including **puffery**)**;**
+* whether the statements were jokes or obvious exaggerations (including [**puffery**](../../../../glossary.md#puffery-puffing))**;**
 * whether the setting was purely social in nature (e.g., telling a friend, “I’ll pay you back next week”);
 * whether the statements were part of early-stage negotiations identified as non-binding or “subject to contract”;
 * whether the terms were written, clear, and/or definite;&#x20;
@@ -99,8 +101,10 @@ Except where otherwise noted, this page's content is adapted from:
 
 * [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 * [The Offer](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s12-02-the-offer.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* The definitions of [_offeror and offeree_](https://www.law.cornell.edu/wex/offeror) are derived or otherwise adapted from the [_Wex Legal Encyclopedia_ ](https://www.law.cornell.edu/wex)by Cornell Law School Legal Information Institute, under [CC BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/). <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+* [Objective Theory of Contracts](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/5-3-objective-theory-of-contracts/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
+
+[^1]: See Wayne Barnes, _The Objective Theory of Contracts_, [76 U. Cin. L. Rev. 1119](https://scholarship.law.tamu.edu/facscholar/302?utm_source=scholarship.law.tamu.edu%2Ffacscholar%2F302\&utm_medium=PDF\&utm_campaign=PDFCoverPages), 1120 (2008) (internal quotes omitted).
