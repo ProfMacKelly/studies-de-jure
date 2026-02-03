@@ -69,7 +69,7 @@ Together, the answers to these questions determine the rights and obligations of
 
 We live in a world of contracts, which are the bread and butter of business transactions. However, many consumers, employees, and small businesses are afraid to read and understand contracts. That fear allows others to take advantage of them. Take the time to read contracts provided to you. Ask questions about anything you don’t understand _before_ you sign. Have the courage to revise and edit contracts to ensure your interests are protected. Or even write your own. It’s not hard and the more you do it, the more confidence you will have to negotiate business transactions and protect your interests.
 
-&#x20;    \~ Darnell T., attorney
+<p align="right">     ~ Darnell T., attorney</p>
 {% endhint %}
 
 ***
