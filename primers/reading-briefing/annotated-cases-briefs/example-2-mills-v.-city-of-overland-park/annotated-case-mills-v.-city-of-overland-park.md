@@ -25,9 +25,11 @@ In this "instructional" version of the case, there are expanding boxes where you
 
 ***
 
-[<mark style="background-color:yellow;">251 Kan. 434, 837 P.2d 370 (1992)</mark>](#user-content-fn-2)[^2]
+[<mark style="background-color:yellow;">251 Kan. 434, 837 P.2d 370</mark>](https://scholar.google.com/scholar_case?case=2960737512936243059\&q=837+P.2d+370\&hl=en\&as_sdt=6,50) [<mark style="background-color:yellow;">(1992)</mark>](#user-content-fn-2)[^2]
 
 [<mark style="background-color:yellow;">Kansas Supreme Court</mark>](#user-content-fn-3)[^3]
+
+
 
 **Mills**\
 **v.**\
