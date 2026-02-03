@@ -32,7 +32,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/adjudicate) by 
 
 #### agreement
 
-a manifestation of mutual assent by two or more persons to one another. It is a meeting of the minds with a common intention made through offer and acceptance. An agreement can be shown from words, conduct and in some cases, even silence.
+a manifestation of [mutual assent](glossary.md#mutual-assent) by two or more persons to one another. It is a meeting of the minds with a common intention made through [offer](glossary.md#offer) and acceptance. An [agreement](glossary.md#agreement) can be shown from words, conduct and in some cases, even silence.
 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
@@ -304,7 +304,7 @@ Model Penal Code
 
 #### mutual assent
 
-the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*[^6]; a party's assent must be real assent\*
+the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*[^6]; a party's assent must be [real assent](glossary.md#real-assent)\*[^7]
 
 ***
 
@@ -326,7 +326,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 #### offer
 
-part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^7]
+part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^8]
 
 ***
 
@@ -496,7 +496,7 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/public-defender)
 
 #### ratify
 
-To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^8]
+To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^9]
 
 ***
 
@@ -518,7 +518,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/rational_basis_
 
 #### real assent
 
-when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\*[^9] (see also [mutual assent](glossary.md#mutual-assent))
+when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\*[^7] (see also [mutual assent](glossary.md#mutual-assent))
 
 ***
 
@@ -703,11 +703,11 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibi
 
 [^6]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/mutual_assent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^7]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^7]: [Chapter 10 - Real Assent](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/chapter-10-real-assent/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
 
-[^8]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^8]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^9]: [Chapter 10 - Real Assent](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/chapter-10-real-assent/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
+[^9]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 [^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
