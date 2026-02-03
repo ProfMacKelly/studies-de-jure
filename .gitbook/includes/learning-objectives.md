@@ -11,3 +11,5 @@ title: LEARNING OBJECTIVES
 4. Understand breach of contract and its consequences.
 5. Identify remedies for breach of contract.
 {% endhint %}
+
+***
