@@ -62,6 +62,12 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appellee) by [C
 
 ***
 
+#### assent
+
+
+
+***
+
 #### bill of attainder
 
 a legislative act that declares someone guilty of a crime without a trial

@@ -2,14 +2,14 @@
 
 ## The Offer: A Conditional Promise
 
-All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [**offer** ](../../../../glossary.md#offer)is a conditional promise to do **or** refrain from doing in the future (i.e., after the contract is formed). An offer is a proposal intended to demonstrate [**assent** ](#user-content-fn-1)[^1]to the terms of the contract. In other words, an offer demonstrates the offeror's willingness to enter into a contract.
+All contracts start when an individual or business proposes a deal. It might involve buying or selling goods, performing services, or making an exchange. An [offer ](../../../../glossary.md#offer)is a conditional promise to do **or** refrain from doing in the future (i.e., after the contract is formed). The point of the offer is to demonstrate the offeror's willingness to enter into a contract with the [offeree](../../../../glossary.md#offeree) (i.e., **assent to the terms**).
 
 ## Required Elements of an Offer
 
 Offers can be formal or informal, but three key elements must exist for an offer to be _valid:_ (1) **intent** to enter into a binding contract, (2) the offer being **communicated**, and (3) the terms of the offer being reasonably **definite**.
 
 {% hint style="info" %}
-📌 Accepting an offer only has legal significance if the offer is valid. Accepting an invalid offer does not create a binding agreement.
+📌 Accepting an offer only has legal significance if the offer is valid. Accepting an invalid offer _**does not**_ create a binding agreement.
 {% endhint %}
 
 ### Serious Intent
@@ -17,6 +17,10 @@ Offers can be formal or informal, but three key elements must exist for an offer
 As noted above, the offer must demonstrate the [offeror](../../../../glossary.md#offeror) (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer). Specifically, the intent requirement is satisfied only if there was **serious intent** to make an offer to enter into a contract.&#x20;
 
 If there is a dispute over whether one of the parties seriously intended to make an offer, the courts use the objective **reasonable person test**: <mark style="background-color:yellow;">Would a</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**reasonable person**</mark><mark style="background-color:yellow;">, looking at the words and conduct, think that a genuine offer was made?</mark> If not, then the offer was invalid. If it objectively appears that the purported offer was a joke, then the offer was invalid. Also, seriousness is commonly—but not always—lacking during casual negotiations and when making promises in a social setting.
+
+{% hint style="warning" %}
+📢
+{% endhint %}
 
 Common factors courts consider (but certainly not exclusively) when evaluating seriousness using the reasonable person test include:
 
@@ -100,5 +104,3 @@ Except where otherwise noted, this page's content is adapted from:
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
-
-[^1]: the party's willingness to enter into a contract
