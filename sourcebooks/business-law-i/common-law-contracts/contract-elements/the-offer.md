@@ -18,6 +18,8 @@ As noted above, the offer must demonstrate the [offeror](../../../../glossary.md
 
 If there is a dispute over whether one of the parties seriously intended to make an offer, the courts use the objective **reasonable person test**: <mark style="background-color:yellow;">Would a</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**reasonable person**</mark><mark style="background-color:yellow;">, looking at the words and conduct, think that a genuine offer was made?</mark> If not, then the offer was invalid. If it objectively appears that the purported offer was a joke, then the offer was invalid. Also, seriousness is commonly—but not always—lacking during casual negotiations and when making promises in a social setting.
 
+{% embed url="https://youtu.be/EO6gzXP7tFk" %}
+
 {% hint style="warning" %}
 #### 📢 The Reasonable Person Test in Contract Law
 
