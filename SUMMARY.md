@@ -117,7 +117,7 @@
   * [Consensual Encounters vs. Detentions](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/README.md)
     * [Consensual Encounters](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/README.md)
       * [Overview](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/overview.md)
-      * [The "Free to Terminate" Test"](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/the-free-to-terminate-test.md)
+      * [The "Free to Terminate" Test](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/the-free-to-terminate-test.md)
       * [Engaging the Suspect](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/engaging-the-suspect.md)
       * [Officer Safety Measures](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/officer-safety-measures.md)
       * [Conducting the Investigation](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/conducting-the-investigation.md)
