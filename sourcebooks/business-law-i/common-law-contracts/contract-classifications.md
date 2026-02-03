@@ -82,9 +82,28 @@ Sometimes, though, someone says something that seems like a promise, and then th
 
 An agreement consisting of a set of promises is called an executory contract before any promises are carried out. Most executory contracts are enforceable. If John makes an agreement to deliver wheat to Humphrey and does so, the contract is called a partially executed contract: one side has performed, the other has not. When John pays for the wheat, the contract is fully performed. A contract that has been carried out fully by both parties is called an executed contract.
 
-## Key Takeaway
+{% hint style="success" %}
+#### &#x20;‍🔑 KEY TAKEAWAYS
 
-Contracts are described and thus defined on the basis of four criteria: explicitness (express, implied, or quasi-contracts), mutuality (bilateral or unilateral), enforceability (void, voidable, unenforceable), and degree of completion (executory, partially executed, executed). Legal terminology in English often describes relationships between parties by the use of suffixes, to which the eye and ear must pay attention.
+✔ A given contract has different attributes
+
+* **Explicitness.** The contract will be considered a/an:
+  * Express contract
+  * Implied contract (i.e., implied in fact); or
+  * Quasi-contract (i.e., implied in law).
+* **Mutuality.** The contract will be considered a:
+  * Bilateral contract; or
+  * Unilateral contract.
+* **Enforceability.** The contract will be:
+  * Enforceable (satisfies all of the required elements of a contract);
+  * Void (fails to satisfy at least one of the required elements of a contract);
+  * Voidable (enforceable but one or both parties may choose to void it, rendering it unenforceable); or
+  * Unenforceable (if not void or voided, a legal rule prevents a court from enforcing it).
+* **Degree of Completion.** The contract will be:
+  * Executory (the parties have not started performing their promises);
+  * Partially executed (one or more parties have started performing a promise but at least one party has not fully performed); or
+  * Executed (both parties have completed performing their promises).
+{% endhint %}
 
 ***
 
