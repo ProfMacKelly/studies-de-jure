@@ -93,7 +93,7 @@ Despite the common-law rule that advertisements are normally to be considered in
 
 ### Invitations to Bid at Auction
 
-Invitations to bid are also not generally construed as offers. At an auction, offering an item for bidding is not an offer, but rather an invitation for potential buyers (bidders) to make offers. A prospective buyer becomes an offeror when making a bid at the auction, typically indicating their interest in purchasing the auctioned item by raising a paddle, making verbal offers, or submitting bids by mail or online, depending on the type of auction.
+Invitations to [**bid**](../../../../glossary.md#bid) are also not generally construed as offers. At an auction, offering an item for bidding is not an offer, but rather an invitation for potential buyers (bidders) to make offers. A prospective buyer becomes an offeror when making a bid at the auction, typically indicating their interest in purchasing the auctioned item by raising a paddle, making verbal offers, or submitting bids by mail or online, depending on the type of auction.
 
 When a bidder makes a bid, they are essentially making an offer to purchase the auctioned item at the bid price. The agreement is formed when the auctioneer accepts the highest bid by calling “Sold!” or otherwise indicating acceptance. At this point, a legally binding contract is created between the successful bidder (offeror) and the auctioneer (offeree).
 
