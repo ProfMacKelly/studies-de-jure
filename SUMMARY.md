@@ -190,7 +190,7 @@
     * [Essential Contractual Issues](sourcebooks/business-law-i/common-law-contracts/essential-contractual-issues.md)
     * [Some Basic Contract Terminology](sourcebooks/business-law-i/common-law-contracts/basic-terms.md)
     * [Contract Elements](sourcebooks/business-law-i/common-law-contracts/contract-elements/README.md)
-      * [Introduction & Terminology](sourcebooks/business-law-i/common-law-contracts/contract-elements/introduction-and-terminology.md)
+      * [Introduction to Elements & the Parties](sourcebooks/business-law-i/common-law-contracts/contract-elements/introduction-and-terminology.md)
       * [The Offer](sourcebooks/business-law-i/common-law-contracts/contract-elements/the-offer.md)
     * [Remedies](sourcebooks/business-law-i/common-law-contracts/remedies.md)
     * [Performance and Breach](sourcebooks/business-law-i/common-law-contracts/performance-and-breach.md)

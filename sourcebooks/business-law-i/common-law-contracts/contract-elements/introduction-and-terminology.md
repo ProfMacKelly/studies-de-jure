@@ -1,4 +1,4 @@
-# Introduction & Terminology
+# Introduction to Elements & the Parties
 
 ### Introduction
 
@@ -14,20 +14,11 @@ Note: Some states and legal scholars expand this list to include:
 However, these are best understood as **affirmative defenses** to contract breach claims, especially in light of the fact that the only elements that all
 {% endhint %}
 
-### Basic Contract Terminology
+#### The Parties Involved
 
-Before proceeding further, it is helpful to have a general familiarity with certain terms. Some of these terms will be elaborated on in other sections, but this is a good place to start.
+Because contract negotiations and the obligations between the parties are specifically about the nature of the parties' relationships, the following terms are commonly used in contractual settings. Pay attention to the suffixes (e.g., 'or' and 'ee').
 
-#### Relationships Between Parties
-
-* **Offeror.** The party who makes an offer.
-* **Offeree.** The party (a) to whom an offer is made and (b) is authorized to accept the offer.
-* **Promisor.** A party who makes a promise.
-* **Promisee.** A party to whom a promise is made.
-* **Obligor.** A party who makes and has an obligation.
-* **Obligee.** A party to whom an obligation is made.
-* **Transferor.** A party who makes a transfer.
-* **Transferee.** A party to whom a transfer is made.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4>Offers</h4></td><td><strong>Offeror:</strong> Makes an offer</td><td><strong>Offeree: (a)</strong> Receives an offer and <strong>(b)</strong> is the only party authorized to accept an offer</td></tr><tr><td><h4>Promises</h4></td><td><strong>Promisor:</strong> Makes a promise as part of a contract</td><td><strong>Promisee:</strong> Receives a promise as part of a contract</td></tr></tbody></table>
 
 ***
 
