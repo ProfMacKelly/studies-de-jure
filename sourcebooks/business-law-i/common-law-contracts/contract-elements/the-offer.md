@@ -6,7 +6,7 @@ All contracts start when an individual or business proposes a deal. It might inv
 
 ## Required Elements of an Offer
 
-Offers can be formal or informal, but three key elements must exist for an offer to be _valid:_ (1) **intent** to enter into a binding contract, (2) the offer being **communicated**, and (3) the terms of the offer being reasonably **definite**.
+Offers can be formal or informal, but three key elements must exist for an offer to be _valid:_ (1) **intent** to enter into a binding contract, (2) the offer being **communicated**, and (3) the terms of the offer being reasonably **definite** (certain).
 
 {% hint style="info" %}
 📌 Accepting an offer only has legal significance if the offer is valid. Accepting an invalid offer _**does not**_ create a binding agreement.
@@ -50,7 +50,7 @@ In many states, a different result follows from an offer of a reward by a govern
 
 Although a completed act called for by an unknown private offer does not give rise to a contract, partial performance usually does. Suppose Apex Bakery posts a notice offering a one-week bonus to all bakers who work at least six months in the kitchen. Charlene works two months before discovering the notice on the bulletin board. Her original ignorance of the offer will not defeat her claim to the bonus if she continues working, for the offer serves as an inducement to complete the performance called for.
 
-### Definiteness
+### Definiteness (Certainty)
 
 The common law reasonably requires that an offer spell out the essential proposed terms with sufficient definiteness—certainty of terms that enables a court to order enforcement or measure damages in the event of a breach. As it has often been put, “The law does not make contracts for the parties; it merely enforces the duties which they have undertaken” (Simpson, 1965, p. 19). Thus a supposed promise to sell “such coal as the promisor may wish to sell” is not an enforceable term because the seller, the coal company, undertakes no duty to sell anything unless it wishes to do so. Essential terms certainly include price and the work to be done. But not every omission is fatal; for example, as long as a missing term can be fixed by referring to some external standard—such as “no later than the first frost”—the offer is sufficiently definite.
 

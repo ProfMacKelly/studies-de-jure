@@ -12,7 +12,7 @@ Note: Some states and legal scholars expand this list to include:
 However, these are best understood as **affirmative defenses** to contract breach claims, especially in light of the fact that the only elements that all
 {% endhint %}
 
-## The Essence of a Contract
+## Agreement: The Essence of a Contract
 
 As noted above, the offer and the acceptance combine to form an agreement. The core of a legal contract is the agreement between the parties. As the great student of contract law Samuel Williston put it:
 
@@ -35,4 +35,4 @@ This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licens
 
 </details>
 
-[^1]: Samuel Williston, _Freedom of Contract_, 6 Cornell L. Q. 365, 368 (1920-21)
+[^1]: Samuel Williston, _Freedom of Contract_, 6 Cornell L. Q. 365, 368 (1920-21) (emphasis added)
