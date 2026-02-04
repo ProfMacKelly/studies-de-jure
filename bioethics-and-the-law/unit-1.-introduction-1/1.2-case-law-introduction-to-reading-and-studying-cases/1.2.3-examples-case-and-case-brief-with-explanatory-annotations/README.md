@@ -1,3 +1,0 @@
-# 1.2.3 Examples: Case & Case Brief (with Explanatory Annotations)
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>1.2.3.1</strong> Case: Florida v. Jardines (Annotated)</td><td></td><td></td><td><a href="1.2.3.1-case-florida-v.-jardines-annotated.md">1.2.3.1-case-florida-v.-jardines-annotated.md</a></td></tr><tr><td><strong>1.2.3.2</strong> Case Brief: Florida v. Jardines (Annotated)</td><td></td><td></td><td><a href="1.2.3.2-case-brief-florida-v.-jardines-annotated.md">1.2.3.2-case-brief-florida-v.-jardines-annotated.md</a></td></tr></tbody></table>

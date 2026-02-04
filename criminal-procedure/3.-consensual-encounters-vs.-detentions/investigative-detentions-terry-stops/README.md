@@ -1,2 +1,0 @@
-# Investigative Detentions (Terry Stops)
-
