@@ -1,10 +1,6 @@
 # Clipper v. Takoma Park
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/8978913/clipper-v-takoma-park/?q=\&type=o\&order_by=score%20desc\&citation=876%20f.2d%2017).]
-
-***
-
-876 F.2d 17 (4th Cir. 1989)
+[876 F.2d 17](https://www.courtlistener.com/opinion/8978913/clipper-v-takoma-park/?q=\&type=o\&order_by=score%20desc\&citation=876%20f.2d%2017) (4th Cir. 1989)
 
 Court of Appeals for the Fourth Circuit
 
@@ -61,6 +57,10 @@ In our view, the Supreme Court’s opinion in _City of Canton_ does not require 
 In view of the above, the judgment of the district court is affirmed.
 
 AFFIRMED.
+
+***
+
+{% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
 
 [^1]: _Dunaway v. New York,_ 442 U.S. 200, 208 n. 9, 99 S.Ct. 2248, 2254 n. 9, 60 L.Ed.2d 824 (1979) (citations, quotation marks, and original brackets omitted); _see also Beck v. Ohio,_ 379 U.S. 89, 91, 85 S.Ct. 223, 225-26, 13 L.Ed.2d 142 (1964).
 

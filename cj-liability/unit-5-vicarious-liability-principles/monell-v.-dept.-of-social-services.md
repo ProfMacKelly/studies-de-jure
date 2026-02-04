@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Monell v. Dept. of Social Services
 
 \[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/109881/monell-v-new-york-city-dept-of-social-servs/).]

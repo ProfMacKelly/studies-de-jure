@@ -1,10 +1,6 @@
 # Forrest v. Parry
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/4638072/alanda-forrest-v-kevin-parry/).]
-
-***
-
-930 F.3d 93 (3d Cir. Ct. App. 2019)
+[930 F.3d 93](https://www.courtlistener.com/opinion/4638072/alanda-forrest-v-kevin-parry/) (3d Cir. Ct. App. 2019)
 
 Third Circuit Court of Appeals
 
@@ -149,3 +145,7 @@ In contrast, the legal requirement for deliberate indifference is whether “(1)
 We also conclude that both errors meet the threshold for reversal. The District Court’s instructions narrowed the universe of evidence that the jury could rely on to only evidence that pertained to Internal Affairs’ supervision of Officers Stetser and Parry, to the exclusion of its broader investigatory inadequacies. It also left the jury without guidance on the fundamental question of what it needed to find to conclude that Camden was or was not liable. Our failure to consider either error would result in a miscarriage of justice. We therefore consider both. As Part 3 of the jury verdict is the only aspect that concerned Camden’s liability under § 1983, we will vacate that aspect of the verdict.
 
 \[Footnotes omitted.]
+
+***
+
+{% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}

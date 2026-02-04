@@ -297,6 +297,5 @@
 
 * [🔤 Glossary](glossary.md)
 * [🏠 Copy of Home](readme-1.md)
-* [Attributions](https://app.gitbook.com/s/gb3latek59GhBxzDZlwy/)
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
