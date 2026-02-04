@@ -36,8 +36,6 @@ Common factors courts consider (but certainly not exclusively) when evaluating s
 * whether the language was formal (“agree,” “shall,” deadlines, remedies); and
 * whether money was paid, a party relied on the statements, or performance started;
 
-{% embed url="https://youtu.be/EO6gzXP7tFk" %}
-
 ### Communication
 
 Since a contract is an agreement in which each party assents to the **terms** of the other party, the terms must be communicated
