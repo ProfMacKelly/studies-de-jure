@@ -97,8 +97,6 @@ Invitations to [**bid**](../../../../glossary.md#bid) are also not generally con
 
 When a bidder makes a bid, they are essentially making an offer to purchase the auctioned item at the bid price. The agreement is formed when the auctioneer accepts the highest bid by calling “Sold!” or otherwise indicating acceptance. At this point, a legally binding contract is created between the successful bidder (offeror) and the auctioneer (offeree).
 
-<br>
-
 ***
 
 <details>
