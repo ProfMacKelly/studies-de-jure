@@ -14,11 +14,9 @@ Offers can be formal or informal, but three key elements must exist for an offer
 
 ### Serious Intent
 
-As noted above, the offer must demonstrate the [offeror](../../../../glossary.md#offeror) (i.e., the party making the offer) intentionally assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer). Specifically, the intent requirement is satisfied only if there was **serious intent** to make an offer to enter into a contract.&#x20;
+As noted above, the offer must demonstrate the [offeror](../../../../glossary.md#offeror) (i.e., the party making the offer) genuinely assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer). Specifically, the intent requirement is satisfied only if there was **serious intent** to make an offer to enter into a contract.&#x20;
 
 If there is a dispute over whether one of the parties seriously intended to make an offer, the courts use the objective **reasonable person test**: <mark style="background-color:yellow;">Would a</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**reasonable person**</mark><mark style="background-color:yellow;">, looking at the words and conduct, think that a genuine offer was made?</mark> If not, then the offer was invalid. If it objectively appears that the purported offer was a joke, then the offer was invalid. Also, seriousness is commonly—but not always—lacking during casual negotiations and when making promises in a social setting.
-
-{% embed url="https://youtu.be/EO6gzXP7tFk" %}
 
 {% hint style="warning" %}
 #### 📢 The Reasonable Person Test in Contract Law
@@ -37,6 +35,8 @@ Common factors courts consider (but certainly not exclusively) when evaluating s
 * whether the terms were written, clear, and/or definite;&#x20;
 * whether the language was formal (“agree,” “shall,” deadlines, remedies); and
 * whether money was paid, a party relied on the statements, or performance started;
+
+{% embed url="https://youtu.be/EO6gzXP7tFk" %}
 
 ### Communication
 
