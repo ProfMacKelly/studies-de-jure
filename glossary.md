@@ -70,6 +70,12 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appellee) by [C
 
 ***
 
+#### bid
+
+an offer to pay or charge a specific price, under set terms, for an item or service\*[^3]
+
+***
+
 #### bill of attainder
 
 a legislative act that declares someone guilty of a crime without a trial
@@ -128,19 +134,19 @@ Source: [Model Penal Code § 1.13(5)](https://www.criminallawweb.net/web1/mpc/mp
 
 #### consideration
 
-something of value that is part of the mutual exchange of promises between the parties to a contract\*[^3]
+something of value that is part of the mutual exchange of promises between the parties to a contract\*[^4]
 
 ***
 
 #### contract
 
-an agreement between parties, creating mutual obligations that are enforceable by law\*[^4]
+an agreement between parties, creating mutual obligations that are enforceable by law\*[^5]
 
 ***
 
 #### criminal law
 
-a branch of law concerned with crimes and the punishment of individuals who commit crimes\*[^5]
+a branch of law concerned with crimes and the punishment of individuals who commit crimes\*[^6]
 
 ***
 
@@ -276,7 +282,7 @@ Source: [Model Penal Code § 3.02](https://www.criminallawweb.net/web1/mpc/PART1
 
 #### legal fiction
 
-an assumption and acceptance of something as fact by a court, although it may not be true, to allow a rule to operate or be applied in a manner that differs from its original purpose while leaving the letter of the law unchanged\*[^6]
+an assumption and acceptance of something as fact by a court, although it may not be true, to allow a rule to operate or be applied in a manner that differs from its original purpose while leaving the letter of the law unchanged\*[^7]
 
 ***
 
@@ -312,7 +318,7 @@ Model Penal Code
 
 #### mutual assent
 
-the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*[^7]; a party's assent must be [real assent](glossary.md#real-assent)\*[^8]
+the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*[^8]; a party's assent must be [real assent](glossary.md#real-assent)\*[^9]
 
 ***
 
@@ -334,25 +340,25 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 #### non-compete clause
 
-a contract provision—usually in an employer/employee or business sale context— in which one party promises not to engage in conduct that would increase competition for the other party for a specific period of time.\*[^9]
+a contract provision—usually in an employer/employee or business sale context— in which one party promises not to engage in conduct that would increase competition for the other party for a specific period of time.\*[^10]
 
 ***
 
 #### obligor
 
-a person/entity that assumes a contractual duty/obligation to repay money or other credit extended by a lender, in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **debtor**\*[^10]&#x20;
+a person/entity that assumes a contractual duty/obligation to repay money or other credit extended by a lender, in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **debtor**\*[^11]&#x20;
 
 ***
 
 #### obligee
 
-a person/entity to whom an obligor/debtor is contractually entitled to receive payment in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **creditor**\*[^11]
+a person/entity to whom an obligor/debtor is contractually entitled to receive payment in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **creditor**\*[^12]
 
 ***
 
 #### offer
 
-part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^12]
+part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^13]
 
 ***
 
@@ -466,19 +472,19 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/prosecuting_att
 
 #### promise
 
-assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*[^13]
+assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*[^14]
 
 ***
 
 #### promisee&#x20;
 
-a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*[^14]
+a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*[^15]
 
 ***
 
 #### promisor&#x20;
 
-a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*[^15]
+a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*[^16]
 
 ***
 
@@ -528,13 +534,13 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/public-defender)
 
 #### puffery (puffing)
 
-in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*[^16]
+in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*[^17]
 
 ***
 
 #### ratify
 
-To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^17]
+To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^18]
 
 ***
 
@@ -556,7 +562,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/rational_basis_
 
 #### real assent
 
-when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\*[^8] (see also [mutual assent](glossary.md#mutual-assent))
+when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\*[^9] (see also [mutual assent](glossary.md#mutual-assent))
 
 ***
 
@@ -570,14 +576,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by 
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^18]
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^19]
 
 ***
 
 #### rule of law
 
-* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^19]
-* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^20]
+* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^20]
+* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^21]
 
 ***
 
@@ -679,7 +685,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 #### unjust enrichment
 
-when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^21]
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^22]
 
 ***
 
@@ -733,40 +739,42 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibi
 
 [^2]: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
 
-[^3]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/consideration) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^3]: [The Offer](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/6-2-the-offer/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
 
-[^4]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^4]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/consideration) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^5]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^5]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^6]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/legal_fiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^6]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^7]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/mutual_assent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^7]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/legal_fiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^8]: [Chapter 10 - Real Assent](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/chapter-10-real-assent/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
+[^8]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/mutual_assent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^9]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/noncompetition_agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^9]: [Chapter 10 - Real Assent](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/chapter-10-real-assent/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
 
-[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/noncompetition_agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^12]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^12]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^13]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promise) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^13]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^14]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^14]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promise) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^15]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^15]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^16]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/puffing) by [Cornell Law School Legal Information ](https://www.law.cornell.edu/)
+[^16]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^17]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^17]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/puffing) by [Cornell Law School Legal Information ](https://www.law.cornell.edu/)
 
-[^18]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^18]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^19]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
+[^19]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^20]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+[^20]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
 
-[^21]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
+[^21]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+
+[^22]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
