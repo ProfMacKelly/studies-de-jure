@@ -1,8 +1,6 @@
-# Introduction to Elements & the Parties
+# Introduction to Elements of a Contract
 
-### Introduction
-
-Generally, there are three required elements of a contract: (1) **offer**, (2) **acceptance**, and (3) **consideration**.
+In the following sections, we will dive into the three required elements of a contract: (1) [**offer**](../../../../glossary.md#offer), (2) [**acceptance**](../../../../glossary.md#acceptance), and (3) [**consideration**](../../../../glossary.md#consideration). Also, we will see that an [**agreement**](../../../../glossary.md#agreement) is the combination of the offer and the acceptance, and the agreement must reflect the [**mutual assent** ](../../../../glossary.md#mutual-assent)of the parties.
 
 {% hint style="info" %}
 Note: Some states and legal scholars expand this list to include:
@@ -13,12 +11,6 @@ Note: Some states and legal scholars expand this list to include:
 
 However, these are best understood as **affirmative defenses** to contract breach claims, especially in light of the fact that the only elements that all
 {% endhint %}
-
-#### The Parties Involved
-
-Because contract negotiations and the obligations between the parties are specifically about the nature of the parties' relationships, the following terms are commonly used in contractual settings. Pay attention to the suffixes (e.g., 'or' and 'ee').
-
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><h4>Offers</h4></td><td><strong>Offeror:</strong> Makes an offer to initiate a negotiation</td><td><p></p><p><strong>Offeree: (a)</strong> Receives an offer and <strong>(b)</strong> is the only party authorized to accept an offer</p></td></tr><tr><td><h4>Promise</h4></td><td><strong>Promisor:</strong> Makes a promise as part of a contract</td><td><p></p><p><strong>Promisee:</strong> Receives a promise as part of a contract</p></td></tr></tbody></table>
 
 ***
 
