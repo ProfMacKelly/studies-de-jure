@@ -83,13 +83,21 @@ Before discussing the required elements of a legally effective offer, it is help
 
 ### **Advertisements**
 
-Most advertisements, price quotations, and invitations to bid are not construed as offers. An advertisement on a furniture store's website that a couch is on sale for $800 is normally intended only as an invitation to the public to come to the store to make a purchase. Similarly, a statement that a seller can “quote” a unit price to a prospective purchaser is not, by itself, of sufficient **definiteness** to constitute an offer; quantity, time of delivery, and other important factors are missing from such a statement.
+Most advertisements, price quotations, and invitations to bid **are not** construed as offers. An advertisement on a furniture store's website that a couch is on sale for $800 is normally intended only as an invitation to the public to come to the store to make a purchase. Similarly, a statement that a seller can “**quote**” a unit price to a prospective purchaser is not, by itself, of sufficient **definiteness** to constitute an offer; quantity, time of delivery, and other important factors are missing from such a statement.
 
 In order to avoid a misinterpretation that an advertisement about a product's price and quantity is an offer, a seller or buyer may say something akin to "Make me an offer" or "$800 or best offer," as commonly seen on [eBay](https://www.ebay.com/). Such a statement obviously suggests that no offer has yet been made. This principle usually applies to invitations for bids (e.g., from contractors on a building project or auctions), again, as seen on [eBay](https://www.ebay.com/). Many forms used by sales representatives as contracts indicate that by signing, the customer is making an offer to be accepted by the home office and is not accepting an offer made by the sales representative.
 
 Although advertisements, price quotations, and the like are generally not offers, the facts in each case are important. _However_, under the proper circumstances, an advertised statement can be construed as an offer
 
-Despite the common-law rule that advertisements are normally to be considered invitations rather than offers, legislation and government regulations may offer redress. For many years, retail food stores have been subject to a rule, promulgated by the Federal Trade Commission (FTC), that goods advertised as “specials” must be available and must be sold at the price advertised. It is unlawful for a retail chain not to have an advertised item in each of its stores and in sufficient quantity, unless the advertisement specifically states how much is stocked and which branch stores do not carry it. Many states have enacted consumer protection statutes that parallel the FTC rule.
+Despite the common-law rule that advertisements are normally to be considered invitations rather than offers, legislation and government regulations may offer redress. For many years, retail food stores have been subject to a rule, promulgated by the [Federal Trade Commission](https://www.ftc.gov/) (FTC), that goods advertised as “specials” must be available and must be sold at the price advertised. It is unlawful for a retail chain not to have an advertised item in each of its stores and in sufficient quantity, unless the advertisement specifically states how much is stocked and which branch stores do not carry it. Many states have enacted consumer protection statutes that parallel the FTC rule.
+
+### Invitations to Bid at Auction
+
+Invitations to bid are also not generally construed as offers. At an auction, offering an item for bidding is not an offer, but rather an invitation for potential buyers (bidders) to make offers. A prospective buyer becomes an offeror when making a bid at the auction, typically indicating their interest in purchasing the auctioned item by raising a paddle, making verbal offers, or submitting bids by mail or online, depending on the type of auction.
+
+When a bidder makes a bid, they are essentially making an offer to purchase the auctioned item at the bid price. The agreement is formed when the auctioneer accepts the highest bid by calling “Sold!” or otherwise indicating acceptance. At this point, a legally binding contract is created between the successful bidder (offeror) and the auctioneer (offeree).
+
+<br>
 
 ***
 
@@ -100,8 +108,7 @@ Despite the common-law rule that advertisements are normally to be considered in
 Except where otherwise noted, this page's content is adapted from:
 
 * [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* [The Offer](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s12-02-the-offer.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* [Objective Theory of Contracts](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/5-3-objective-theory-of-contracts/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+* [Objective Theory of Contracts](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/5-3-objective-theory-of-contracts/) and [The Offer](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/6-2-the-offer/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
