@@ -340,19 +340,19 @@ a contract provisionâ€”usually in an employer/employee or business sale contextâ
 
 #### obligor
 
-part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^10]
+a person/entity that assumes a contractual duty/obligation to repay money or other credit extended by a lender, in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **debtor**\*[^10]&#x20;
 
 ***
 
 #### obligee
 
-the party receiving the offer
+a person/entity to whom an obligor/debtor is contractually entitled to receive payment in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **creditor**\*[^11]
 
 ***
 
 #### offer
 
-part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^10]
+part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^12]
 
 ***
 
@@ -466,19 +466,19 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/prosecuting_att
 
 #### promise
 
-assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*[^11]
+assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*[^13]
 
 ***
 
 #### promisee&#x20;
 
-a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*[^12]
+a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*[^14]
 
 ***
 
 #### promisor&#x20;
 
-a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*[^13]
+a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*[^15]
 
 ***
 
@@ -528,13 +528,13 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/public-defender)
 
 #### puffery (puffing)
 
-in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*[^14]
+in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*[^16]
 
 ***
 
 #### ratify
 
-To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^15]
+To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^17]
 
 ***
 
@@ -570,14 +570,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by 
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^16]
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^18]
 
 ***
 
 #### rule of law
 
-* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^17]
-* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^18]
+* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^19]
+* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^20]
 
 ***
 
@@ -677,21 +677,9 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 ***
 
-#### transferor
-
-...
-
-***
-
-#### transferee
-
-...
-
-***
-
 #### unjust enrichment
 
-when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^19]
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^21]
 
 ***
 
@@ -759,22 +747,26 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibi
 
 [^9]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/noncompetition_agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promise) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^12]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^12]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^13]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^13]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promise) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^14]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/puffing) by [Cornell Law School Legal Information ](https://www.law.cornell.edu/)
+[^14]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^15]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^15]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^16]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^16]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/puffing) by [Cornell Law School Legal Information ](https://www.law.cornell.edu/)
 
-[^17]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
+[^17]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^18]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+[^18]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^19]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
+[^19]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
+
+[^20]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+
+[^21]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
