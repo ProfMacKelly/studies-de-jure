@@ -1,5 +1,7 @@
 # 🔤 Glossary
 
+{% include ".gitbook/includes/under-construction.md" %}
+
 #### acceptance
 
 assent to the terms of an offer\*[^1]
@@ -495,6 +497,18 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/prosecuting_att
 a protected class is a group of people that federal or state law shields from [discrimination](https://www.law.cornell.edu/wex/discrimination) or [retaliation](https://www.law.cornell.edu/wex/retaliation), usually based on traits like race, ethnicity, sex, gender identity, sexual orientation, religion, or [disability](https://www.law.cornell.edu/wex/disability)
 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/protected_class) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
+#### promisee
+
+the party who makes a promise to another party (the promisee) in a contractual relationship
+
+***
+
+#### promisor
+
+the party who receives a promise from another party (the promisor) in a contractual relationship
 
 ***
 
