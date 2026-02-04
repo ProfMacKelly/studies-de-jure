@@ -1,10 +1,8 @@
----
-description: A Sourcebook
----
+# Front Matter
 
-# 🛡️ Criminal Justice Liability Law
-
-{% include "../.gitbook/includes/under-construction.md" %}
+{% hint style="warning" %}
+:construction\_site: **This sourcebook is under construction** :construction:
+{% endhint %}
 
 ***
 
@@ -30,7 +28,7 @@ Click on any unit, chapter, and/or section to view its content. Scroll down to r
 
 ### Interactive Elements
 
-Engage with interactive elements such as links, [annotations](./#how-annotations-work-in-this-sourcebook), [expandable widgets](#user-content-fn-1)[^1], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content and gain additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
+Engage with interactive elements such as links, [annotations](front-matter.md#how-annotations-work-in-this-sourcebook), [expandable widgets](#user-content-fn-1)[^1], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content and gain additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
 <details>
 
@@ -64,7 +62,7 @@ To use GitBook's AI tool, type your question into the **Ask or Search** bar, usu
 
 At the bottom of the page, usually in the lower-right corner, you may toggle between day and night modes, depending on your viewing preferences.
 
-<figure><img src="../.gitbook/assets/Screenshot_18-6-2024_172012_prof-mackelly.gitbook.io.jpeg" alt=""><figcaption><p>Toggle the display between day and night</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_18-6-2024_172012_prof-mackelly.gitbook.io.jpeg" alt=""><figcaption><p>Toggle the display between day and night</p></figcaption></figure>
 
 ***
 
@@ -72,10 +70,10 @@ At the bottom of the page, usually in the lower-right corner, you may toggle bet
 
 <summary>License</summary>
 
-This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).
+This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).&#x20;
 
 </details>
 
-[^1]: Such as this: [**How Annotations Work in This Sourcebook**](./#how-annotations-work-in-this-sourcebook), below. Click the caret (**>**) on the left side of the widget to expand and reveal its contents.
+[^1]: Such as this: [**How Annotations Work in This Sourcebook**](front-matter.md#how-annotations-work-in-this-sourcebook), below. Click the caret (**>**) on the left side of the widget to expand and reveal its contents.
 
 [^2]: This is the annotation.
