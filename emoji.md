@@ -32,11 +32,13 @@ hidden: true
 
 🚀
 
+<div><figure><img src=".gitbook/assets/class-freepik.png" alt="" width="128"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/teacher-bert_flint.png" alt="" width="128"><figcaption></figcaption></figure></div>
+
 
 
 
 
 &#x20;
 
-
+![](.gitbook/assets/teacher-bert_flint.png)
 

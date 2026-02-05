@@ -19,7 +19,7 @@ In the United States, our laws come primarily from:
 
 ### **Federal/National**
 
-The most fundamental law in the [United States is the U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
+The most fundamental law in the United States is the [U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
 
 The power granted to the federal government by the Constitution is limited. Any powers not expressly granted to the federal government by the Constitution are reserved to the states. This means that if the Constitution does not give the federal government power over a particular area, then the states regulate it.
 
@@ -44,9 +44,11 @@ This dual system of government in the United States is called **federalism**, wh
 ![Separation of powers of state governments. (CC BY 4.0; Source)](https://biz.libretexts.org/@api/deki/files/55868/clipboard_e9b6d7c4384f9e9fbfa0164d329612b8d.png?revision=1)
 
 {% hint style="info" %}
-**Constitutional Law: Example of Government and Private Acts**
+#### 🔍 **Constitutional Law: Example of Government and Private Acts**
 
-Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the U.S. Constitution guarantees each individual the right to speak freely. On the other hand, if Cora walks into a Macy’s department store and criticizes the owner of Macy’s, Macy’s could eject Cora immediately. Macy’s and its personnel are _private_, not government, and they _do not_ have to abide by the Constitution.
+Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the U.S. Constitution guarantees each individual the right to speak freely.&#x20;
+
+On the other hand, if Cora walks into a retail department store and criticizes the owner, the owner could eject Cora immediately. The store and its personnel are _private_, not the government, and they _do not_ need to provide the same freedoms the Constitution provides.
 {% endhint %}
 
 ### Exceptions to Constitutional Protections
@@ -55,7 +57,7 @@ The federal and state constitutions are both written with words that can be subj
 
 For safety and security reasons, we see more exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
 
-For safety and security reasons, we see more exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
+For safety and security reasons, we see more limitations and exceptions to constitutional protections in _public schools_ and _prisons_. For example, public schools and prisons can mandate a certain style of dress for the purpose of ensuring safety. Technically, forcing an individual to dress a specific way could violate the right to self-expression, which the First Amendment guarantees. However, if wearing a uniform can lower gang-related conflicts in school and prevent prisoners from successfully escaping, the government can constitutionally suppress free speech in these locations.
 
 ### Supremacy of the U.S. Constitution
 
@@ -66,7 +68,7 @@ Of all sources of law in the United States, the U.S. Constitution is considered 
 While the Constitution applies to government action, statutes apply to and regulate _individual_ or _private_ action. A **statute** is a written (and published) law that can be enacted in one of two ways. Most statutes are written and voted into law by the _legislative_ branch of government. This is simply a group of individuals elected for this purpose. The U.S. legislative branch is called **Congress**, and Congress votes federal statutes into law. Every state has a legislative branch as well, called a **state legislature**, and a state legislature votes state statutes into law. Often, states codify their _criminal_ statutes into a **penal code**.
 
 {% hint style="info" %}
-**The Model Penal Code**
+#### 🔍 **The Model Penal Code**
 
 Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1/mpc/mpc.html) is **not** enforceable statutory law. Criminal laws differ significantly from state to state, so in the early 1960s, a group of legal scholars, lawyers, and judges who were members of the American Law Institute drafted a set of suggested criminal statutes called the **Model Penal Code**.
 
@@ -79,7 +81,7 @@ Ordinances are similar to statutes, except that _cities_ and _counties_ vote the
 
 ## Administrative Rules and Regulations
 
-Other written and published laws that apply to individuals are **administrative laws** (officially known as **administrative rules**, but commonly referred to as **regulations**) and **ordinances**. Administrative laws and ordinances should not supersede or conflict with statutory law.
+Other written and published laws that apply to individuals are **administrative laws** (officially known as **administrative rules but** commonly referred to as **regulations**) and **ordinances**. Administrative laws and ordinances should not supersede or conflict with statutory law.
 
 Administrative laws are enacted by **administrative agencies**, which are governmental agencies designed to regulate specific areas. Administrative agencies can be federal or state and contain not only a legislative branch but also an executive (enforcement) branch and a judicial (court) branch. The Food and Drug Administration (FDA) is an example of a federal administrative agency. The FDA regulates any food products or drugs produced and marketed in the United States.
 
@@ -96,9 +98,11 @@ Binding legal principles also come from the courts. When appellate courts decide
 Case precedent is generally an _appeal_ rather than a _trial_. There is often more than one level of appeal, so some appeals come from higher courts than others. Many complex rules govern the use of **precedent**. Lawyers primarily use precedent in their arguments, rather than **statutes** or the **Constitution**, because it is so specific. With proper research, lawyers can usually find precedent that matches or comes very close to matching the facts of any particular case. In the most general sense, judges tend to follow precedent that is _newer_, from a _high court_, and from the _same court system_, either federal or state.
 
 {% hint style="info" %}
-**Example of&#x20;**_**Stare Decisis**_**&#x20;and Use of Precedent**
+#### 🔍 **Example of&#x20;**_**Stare Decisis**_**&#x20;and Use of Precedent**
 
-Geoffrey is a defense attorney for Conrad, who is on trial for first-degree murder. The murder prosecution is taking place in New Mexico. Geoffrey finds case precedent from a New York Court of Appeals decision dated 1999, indicating that Conrad should have been prosecuted for _voluntary manslaughter_, not first-degree murder. Brandon, the prosecuting attorney, finds case precedent from the New Mexico Supreme Cour&#x74;_,_ dated 2008, indicating that a first-degree murder prosecution is appropriate. The trial court will probably follow the precedent submitted by Brandon because it is newer, from a higher court, and from the same court system as the trial.
+Geoffrey is a defense attorney for Conrad, who is on trial for first-degree murder. The murder prosecution is taking place in New Mexico. Geoffrey finds case precedent from a New York Court of Appeals decision dated 1999, indicating that Conrad should have been prosecuted for _voluntary manslaughter_, not first-degree murder.&#x20;
+
+Brandon, the prosecuting attorney, finds case precedent from the New Mexico Supreme Cour&#x74;_,_ dated 2008, indicating that a first-degree murder prosecution is appropriate. The trial court will probably follow the precedent submitted by Brandon because it is newer, from a higher court, and from the same court system as the trial.
 {% endhint %}
 
 ### Common Law in the Criminal Context
@@ -110,9 +114,11 @@ Generally, **statutes** (products of legislatures) must define criminal conduct.
 The common law still plays an important role in criminal lawmaking, even though most crimes are now embodied in statutes. Classification of crimes as felonies and misdemeanors is a reflection of English common law. Legislatures often create statutes out of former common law crimes. Judges look to the common law when defining statutory terms, establishing criminal procedure, and creating defenses to crimes. The United States is considered a common law country. Every state except Louisiana, which is influenced by the Napoleonic French Civil Code (and possibly Spanish Civil Code) adopts the common law as the law of the state _except_ where a statute provides otherwise.
 
 {% hint style="info" %}
-**Example of a Court’s Refusal to Create a Common Law Crime**
+#### 🔍 **Example of a Court’s Refusal to Create a Common Law Crime**
 
-In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of human being and determining that the definition did not include a fetus. The court reasoned that it _could not create a new crime_ without violating the due process clause, separation of powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, excepting abortion.
+In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of "human being" and determined that the definition did not include a fetus.&#x20;
+
+The court reasoned that it _could not create a new crime_ without violating the Due Process Clause, Separation of Powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, except for specific acts of a physician or the .
 {% endhint %}
 
 ### Powerful Nature of Case Law
