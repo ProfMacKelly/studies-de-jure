@@ -34,10 +34,10 @@
 
 * [🏛️ Introduction to Law and the Courts Sourcebook](introduction-to-law/README.md)
   * [Introduction to Law and the Courts](introduction-to-law/readme-1/README.md)
+    * [Law & Its Functions](introduction-to-law/readme-1/law-and-its-functions.md)
     * [Basic Classifications of Law](introduction-to-law/readme-1/basic-classifications-of-law.md)
     * [Court System Overview](introduction-to-law/readme-1/court-system-overview-1.md)
     * [Federalism](introduction-to-law/readme-1/court-system-overview.md)
-    * [Law & Its Functions](introduction-to-law/readme-1/law-and-its-functions.md)
     * [Modern Legal Systems](introduction-to-law/readme-1/modern-legal-systems.md)
     * [Sources of Law](introduction-to-law/readme-1/sources-of-law.md)
   * [Page 1](introduction-to-law/page-1.md)

@@ -36,6 +36,6 @@ Additionally, some laws are substantive and some laws are procedural. [**Substan
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from[ 1.4 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) in [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+Except where otherwise noted, this page's content is adapted from [Sources and Types of Law](app://obsidian.md/Bookshelves/Civil_Law/Business_Law_I_Essentials_\(OpenStax\)/01:_American_Law_Legal_Reasoning_and_the_Legal_System/1.03:_Sources_and_Types_of_Law) in [_Business Law I Essentials_ ](https://openstax.org/details/books/business-law-i-essentials/)by Mirande Valbrune and Renee De Assis (2024), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX7KyXZptCmBnyJBn0ocw%2Fuploads%2FsC0H3i5DKWLdoOKEIY7l%2FCC%20BY%20NC%20SA%20badge.png?alt=media&#x26;token=9d010a86-960f-4d15-9c98-aa8945b9764e" alt="undefined" data-size="line">
 
 </details>

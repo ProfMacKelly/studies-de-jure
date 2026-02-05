@@ -63,6 +63,6 @@ Hybrid legal systems are a combination of two or more legal systems within a nat
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [1.3 Modern Legal Systems of the World ](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.03%3A_Modern_Legal_Systems_of_the_World)in [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+Except where otherwise noted, this page's content is adapted from [Modern Legal Systems of the World](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-1/#chapter-23-section-3) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 </details>

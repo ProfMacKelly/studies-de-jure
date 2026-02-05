@@ -148,6 +148,6 @@ _**Table** Hierarchy of Sources of Law_
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from[ 1.4 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION/01%3A_Introduction_to_Law_and_Types_of_Legal_Systems/1.04%3A_Sources_of_Law) in [_Business Law I Sourcebook_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/Business_Law_I_Sourcebook_\(Mac_Kelly\)_-_UNDER_CONSTRUCTION); [1.6 Sources of Law](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/01%3A_Introduction_to_Criminal_Law/1.06%3A_Sources_of_Law) in [_JPP 207 Substantive Criminal Law_](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law) by Matthew L. Mac Kelly, used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+Except where otherwise noted, this page's content is adapted from [1.6 Sources of Law](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s05-06-sources-of-law.html) in [_Introduction to Criminal Law_](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) by Tara Storm, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en) <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
