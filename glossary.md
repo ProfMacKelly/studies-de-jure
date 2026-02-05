@@ -641,6 +641,12 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/incorporation_d
 
 ***
 
+#### social norms
+
+informal, "invisible" rules that influence and/or govern behavior in groups and societies, based on what groups and societies view as "good," "right," and important"; most individuals tend to adhere to these norms; distinct from formal norms, which are established by codified (written) laws\*[^22]
+
+***
+
 #### statute of limitations
 
 in the civil context, a time frame set by law during which a person who has experienced an injury or harm can take legal action; in a criminal context, a time frame within which a criminal offense can be prosecuted after the crime's commission
@@ -735,7 +741,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 #### unjust enrichment
 
-when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^22]
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^23]
 
 ***
 
@@ -831,4 +837,6 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibi
 
 [^21]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
 
-[^22]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
+[^22]: [Introduction to Sociology](https://courses.lumenlearning.com/suny-esc-introtosociology/chapter/social-norms/); [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/social-norms/)&#x20;
+
+[^23]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
