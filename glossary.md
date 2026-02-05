@@ -262,7 +262,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/fundamental_rig
 
 #### general jurisdiction
 
-a court's authority to hear any type of case not exclusively dedicated to another court\*[^12] (compare to exclusive jurisdiction
+a court's authority to hear any type of case not exclusively dedicated to another court\*[^12] (compare to [exclusive jurisdiction](glossary.md#exclusive-jurisdiction))
 
 ***
 
@@ -332,7 +332,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/judicial_review
 
 #### jurisdiction
 
-a court's authority to hear a particular type of dispute\*[^13] (see also [general jurisdiction](glossary.md#general-jurisdiction), [specific jurisdiction](glossary.md#specific-jurisdiction), [original jurisdiction](glossary.md#original-jurisdiction), [appellate jurisdiction](glossary.md#appellate-jurisdiction), exclusive jurisdiction, and [concurrent jurisdiction](glossary.md#concurrent-jurisdiction), [diversity jurisdiction](glossary.md#diversity-of-citizenship))
+a court's authority to hear a particular type of dispute\*[^13] (see also [general jurisdiction](glossary.md#general-jurisdiction), [specific jurisdiction](glossary.md#specific-jurisdiction), [original jurisdiction](glossary.md#original-jurisdiction), [appellate jurisdiction](glossary.md#appellate-jurisdiction), [exclusive jurisdiction](glossary.md#exclusive-jurisdiction), and [concurrent jurisdiction](glossary.md#concurrent-jurisdiction), [diversity jurisdiction](glossary.md#diversity-of-citizenship))
 
 ***
 
