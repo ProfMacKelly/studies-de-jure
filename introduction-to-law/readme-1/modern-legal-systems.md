@@ -45,6 +45,10 @@ Civil law systems are used throughout Europe, Central and South America, Asia an
 
 There are also communist and socialist legal systems that differ significantly from traditional civil law systems. Legal scholars debate whether this is a separate type of legal system or a subset of modern civil law systems. In a communist or socialist legal system, the nation has a code but most property is owned by the government or agricultural cooperatives. In addition, the judiciary is subservient to the Communist party and is not an independent branch of government.
 
+{% hint style="info" %}
+See this article about the [Common Law and Civil Law traditions](https://www.law.berkeley.edu/wp-content/uploads/2017/11/CommonLawCivilLawTraditions.pdf).
+{% endhint %}
+
 ## Religious Law Systems
 
 Religious law systems arise from the sacred texts of religious traditions and usually apply to all aspects of life, including social and business relations. In religious legal systems, a religious document is used as a primary legal source. All major world religions–Judaism, Christianity, Islam, Buddhism and Hinduism–have a religious legal system. The Islamic legal system (Sharia) with Islamic jurisprudence (Fiqh) is the most widely used religious legal system in the world. Most nations that have religious legal systems use them to supplement their secular national system. Only Saudi Arabia (Islamic) and the Vatican (Christian) are pure theocracies that have only a religious legal system in their nations.

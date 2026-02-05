@@ -20,7 +20,7 @@ The United States is a **Rule of Law** system.
 
 ### Rule of Law: A Principle
 
-"**Rule of Law**" also refers to a [principle ](../../glossary.md#rule-of-law)that everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights. The U.S. Constitution is based on the principle that people have rights that cannot be taken away by the government. Instead, the role of the government is to protect the individual rights of its citizens. The U.S. Constitution’s preamble states, “We the People…in Order to…insure domestic Tranquility.” This is just one example of how the U.S. legal system was established to address the functions of a legal system.
+"**Rule of Law**" also refers to a [principle](../../glossary.md#rule-of-law) that everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights. The U.S. Constitution is based on the principle that people have rights that cannot be taken away by the government. Instead, the role of the government is to protect the individual rights of its citizens. The U.S. Constitution’s preamble states, “We the People…in Order to…insure domestic Tranquility.” This is just one example of how the U.S. legal system was established to address the functions of a legal system.
 
 ## Functions of Law in the United States
 
@@ -32,7 +32,7 @@ The American legal system was developed with the goal of establishing a set of s
 
 ### Promoting Consistency
 
-The American legal system follows the British Common Law system, which is designed to leverage past judicial reasoning, while also promoting fairness through consistency. Judges in the Common Law system help shape the law through their rulings and interpretations. This body of past decisions is known as case law. Judges use case law to inform their own rulings. Indeed, judges rely on precedent, i.e., previous court rulings on similar cases, for ruling on their own cases.
+The American legal system [follows the British Common Law system](#user-content-fn-1)[^1], which is designed to leverage past judicial reasoning, while also promoting fairness through consistency. Judges in the Common Law system help shape the law through their rulings and interpretations. This body of past decisions is known as case law. Judges use case law to inform their own rulings. Indeed, judges rely on precedent, i.e., previous court rulings on similar cases, for ruling on their own cases.
 
 However, the body of American law is now so robust that American cases rarely cite English materials, except for a British classic or a famous old case. Additionally, foreign law is not cited as binding precedent. Therefore, the current American practice of the common law tradition refers more to the process of judges looking to the precedent set jurisdictionally, and substantially similar to, American case law.
 
@@ -59,3 +59,5 @@ Based on the British legal system, the American legal system is divided into a f
 Except where otherwise noted, this page's content is adapted from [What is Law and What Functions Does It Serve ](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-1/)in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 </details>
+
+[^1]: with the exception of Louisiana
