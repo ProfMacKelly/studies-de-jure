@@ -12,7 +12,7 @@ In nations with various ethnic and tribal groups, it is often difficult for a si
 
 ### Rule of Law: A System
 
-The geopolitical situations described above highlight the struggle of a nation to implement and maintain a [**Rule of Law** system](../../glossary.md#rule-of-law), which is a system in which laws are public knowledge, are clear in meaning, and apply equally to everyone. These systems uphold national political and civil liberties. Rule of law systems establish authority, create expectations for behavior, and establish redress for grievances and penalties for deviance. Governance of conflict and the attainment of peace among the governed are its primary goals. One of the greatest benefits of the Rule of Law is that it allows people to understand what is expected of them.
+The geopolitical situations described above highlight the struggle of a nation to implement and maintain a [Rule of Law](../../glossary.md#rule-of-law) system, which is a system in which laws are public knowledge, are clear in meaning, and apply equally to everyone. These systems uphold national political and civil liberties. Rule of law systems establish authority, create expectations for behavior, and establish redress for grievances and penalties for deviance. Governance of conflict and the attainment of peace among the governed are its primary goals. One of the greatest benefits of the Rule of Law is that it allows people to understand what is expected of them.
 
 {% hint style="info" %}
 The United States is a **Rule of Law** system.
