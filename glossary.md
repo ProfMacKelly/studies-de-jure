@@ -797,6 +797,12 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/suspect_classif
 
 ### T
 
+#### trier of fact
+
+a judge or jury responsible for evaluating the evidence presented in a legal proceeding and making findings of fact. The trier of fact assesses the credibility of witnesses, weighs the evidence, draws reasonable inferences, and reaches a verdict or decision based on these factual determinations\*[^36] (in the American judicial system, the jury's purpose is generally to function as the trier of fact, although judges serve as triers of fact in various circumstances)
+
+***
+
 #### torts
 
 acts or omissions (i.e., failure to act when the law requires) that give rise to injury or harm and amounts to a civil wrong for which a court may impose liability
@@ -809,7 +815,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 #### unjust enrichment
 
-when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^36]
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^37]
 
 ***
 
@@ -859,13 +865,13 @@ Source: [Model Penal Code § 2.01](https://www.criminallawweb.net/web1/mpc/PART1
 
 #### writ of certiorari
 
-generally associated with the U.S. Supreme Court, an order from an appellate court to a lower court to deliver its record in a case so that the higher court may review it\*[^37]&#x20;
+generally associated with the U.S. Supreme Court, an order from an appellate court to a lower court to deliver its record in a case so that the higher court may review it\*[^38]&#x20;
 
 ***
 
 #### writ of prohibition
 
-a judicial order that a higher court may use to prevent a lower court from taking an action\*[^38]
+a judicial order that a higher court may use to prevent a lower court from taking an action\*[^39]
 
 [^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/acceptance) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
@@ -937,8 +943,10 @@ a judicial order that a higher court may use to prevent a lower court from takin
 
 [^35]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/specific_jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^36]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
+[^36]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/trier_of_fact) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^37]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_certiorari) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)&#x20;
+[^37]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
 
-[^38]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)&#x20;
+[^38]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_certiorari) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)&#x20;
+
+[^39]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)&#x20;
