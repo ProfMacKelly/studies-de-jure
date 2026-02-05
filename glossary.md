@@ -787,7 +787,7 @@ Source: [Model Penal Code § 2.01](https://www.criminallawweb.net/web1/mpc/PART1
 
 a judicial order that a higher court may use to prevent a lower court from taking an action
 
-Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/) �
+Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)&#x20;
 
 [^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/acceptance) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
