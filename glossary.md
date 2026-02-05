@@ -492,6 +492,12 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/plaintiff)
 
 ***
 
+#### private law
+
+a branch of law that deals with matters involving individuals, their properties, and personal relationships\*[^14]
+
+***
+
 #### procedural
 
 a classification of law relating to the rules, processes, and methods of enforcing substantive laws (e.g., the requirements of reasonable suspicion for stops and frisks, and probable cause for searches and seizures)
@@ -510,19 +516,19 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/prosecuting_att
 
 #### promise
 
-assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*[^14]
+assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*[^15]
 
 ***
 
 #### promisee&#x20;
 
-a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*[^15]
+a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*[^16]
 
 ***
 
 #### promisor&#x20;
 
-a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*[^16]
+a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*[^17]
 
 ***
 
@@ -570,9 +576,15 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/public-defender)
 
 ***
 
+#### public law
+
+a branch of law concerning individuals' interactions with the state and outlining how the government should function\*[^18]&#x20;
+
+***
+
 #### puffery (puffing)
 
-in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*[^17]
+in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*[^19]
 
 ***
 
@@ -584,7 +596,7 @@ in commercial law, a statement of opinion overstated (exaggerated) assertion/cla
 
 #### ratify
 
-To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^18]
+To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^20]
 
 ***
 
@@ -620,14 +632,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by 
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^19]
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^21]
 
 ***
 
 #### rule of law
 
-* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^20]
-* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^21]
+* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^22]
+* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^23]
 
 ***
 
@@ -643,7 +655,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/incorporation_d
 
 #### social norms
 
-informal, "invisible" rules that influence and/or govern behavior in groups and societies, based on what groups and societies view as "good," "right," and important"; most individuals tend to adhere to these norms; distinct from formal norms, which are established by codified (written) laws\*[^22]
+informal, "invisible" rules that influence and/or govern behavior in groups and societies, based on what groups and societies view as "good," "right," and important"; most individuals tend to adhere to these norms; distinct from formal norms, which are established by codified (written) laws\*[^24]
 
 ***
 
@@ -741,7 +753,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 #### unjust enrichment
 
-when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^23]
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^25]
 
 ***
 
@@ -821,22 +833,26 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibi
 
 [^13]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^14]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promise) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^14]: [Justia Legal Dictionary](https://dictionary.justia.com/private-law)
 
-[^15]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^15]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promise) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^16]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^16]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^17]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/puffing) by [Cornell Law School Legal Information ](https://www.law.cornell.edu/)
+[^17]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^18]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^18]: [Justia Legal Dictionary](https://dictionary.justia.com/public-law)
 
-[^19]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^19]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/puffing) by [Cornell Law School Legal Information ](https://www.law.cornell.edu/)
 
-[^20]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
+[^20]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^21]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+[^21]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^22]: [Introduction to Sociology](https://courses.lumenlearning.com/suny-esc-introtosociology/chapter/social-norms/); [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/social-norms/)&#x20;
+[^22]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
 
-[^23]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
+[^23]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
+
+[^24]: [Introduction to Sociology](https://courses.lumenlearning.com/suny-esc-introtosociology/chapter/social-norms/); [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/social-norms/)&#x20;
+
+[^25]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
