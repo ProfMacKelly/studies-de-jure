@@ -118,7 +118,7 @@ The common law still plays an important role in criminal lawmaking, even though 
 
 In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of "human being" and determined that the definition did not include a fetus.&#x20;
 
-The court reasoned that it _could not create a new crime_ without violating the Due Process Clause, Separation of Powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, except for specific acts of a physician or the .
+The court reasoned that it _could not create a new crime_ without violating the Due Process Clause, Separation of Powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, except for specific acts of a physician or the expectant mother .
 {% endhint %}
 
 ### Powerful Nature of Case Law
