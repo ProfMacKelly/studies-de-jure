@@ -2,6 +2,8 @@
 
 {% include ".gitbook/includes/under-construction.md" %}
 
+### A
+
 #### acceptance
 
 assent to the terms of an offer\*[^1]
@@ -70,6 +72,8 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appellee) by [C
 
 ***
 
+### B
+
 #### bid
 
 an offer to pay or charge a specific price, under set terms, for an item or service\*[^3]
@@ -99,6 +103,8 @@ when a party to a contract fails to perform their promised obligations
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/breach_of_contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 ***
+
+### C
 
 #### civil law
 
@@ -150,6 +156,8 @@ a branch of law concerned with crimes and the punishment of individuals who comm
 
 ***
 
+### D
+
 #### defendant
 
 an individual or entity against whom (1) a lawsuit is filed or (2) a criminal charge is brought
@@ -157,6 +165,8 @@ an individual or entity against whom (1) a lawsuit is filed or (2) a criminal ch
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/defendant) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/); [Justia Legal Dictionary](https://dictionary.justia.com/defendant)
 
 ***
+
+### E
 
 #### elements
 
@@ -190,6 +200,8 @@ Source: [Understanding Extra-Judicial Confessions: Legal Implications and Eviden
 
 ***
 
+### F
+
 #### Fifth Amendment
 
 No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
@@ -215,6 +227,16 @@ a constitutional right recognized by the U.S. Supreme Court as requiring a high 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/fundamental_right) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 ***
+
+### G
+
+***
+
+### H
+
+***
+
+### I
 
 #### ibid.
 
@@ -256,6 +278,8 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/intermediate_sc
 
 ***
 
+### J
+
 #### judgment
 
 a final decision made by a court or tribunal after considering all of the relevant evidence, rights, and obligations involved
@@ -280,6 +304,12 @@ Source: [Model Penal Code § 3.02](https://www.criminallawweb.net/web1/mpc/PART1
 
 ***
 
+### K
+
+***
+
+### L
+
 #### legal fiction
 
 an assumption and acceptance of something as fact by a court, although it may not be true, to allow a rule to operate or be applied in a manner that differs from its original purpose while leaving the letter of the law unchanged\*[^7]
@@ -301,6 +331,8 @@ a model code assembled by the American Legal Institute that was first promulgate
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/model_penal_code_\(mpc\)) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/); [Model Penal Code](https://archive.org/details/ModelPenalCode_ALI) by [American Law Institute](https://www.ali.org/)
 
 ***
+
+### M
 
 #### moot
 
@@ -330,6 +362,8 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 ***
 
+### N
+
 #### negligence per se
 
 "negligence in itself"; in a tort case, a defendant who violates a statute or regulation without an excuse is automatically considered to have breached their duty of care and is therefore negligent as a matter of law
@@ -343,6 +377,8 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 a contract provision—usually in an employer/employee or business sale context— in which one party promises not to engage in conduct that would increase competition for the other party for a specific period of time.\*[^10]
 
 ***
+
+### O
 
 #### obligor
 
@@ -413,6 +449,8 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/overbreadth) by
 see "overbreadth"
 
 ***
+
+### P
 
 #### person
 
@@ -538,6 +576,12 @@ in commercial law, a statement of opinion overstated (exaggerated) assertion/cla
 
 ***
 
+### Q
+
+***
+
+### R
+
 #### ratify
 
 To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^18]
@@ -586,6 +630,8 @@ a series of treatises published by the American Law Institute (ALI) that articul
 * **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^21]
 
 ***
+
+### S
 
 #### selective incorporation
 
@@ -675,6 +721,8 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/suspect_classif
 
 ***
 
+### T
+
 #### torts
 
 acts or omissions (i.e., failure to act when the law requires) that give rise to injury or harm and amounts to a civil wrong for which a court may impose liability
@@ -682,6 +730,8 @@ acts or omissions (i.e., failure to act when the law requires) that give rise to
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 ***
+
+### U
 
 #### unjust enrichment
 
@@ -704,6 +754,8 @@ trial court in the federal court system
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/united_states_district_courts) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 ***
+
+### V
 
 #### vacate
 
@@ -728,6 +780,8 @@ when the actor has control over their conduct, which does not include (a) reflex
 Source: [Model Penal Code § 2.01](https://www.criminallawweb.net/web1/mpc/PART1/snippets/2_01.htm) by [American Law Institute](https://www.ali.org/)
 
 ***
+
+### W
 
 #### writ of prohibition
 
