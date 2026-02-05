@@ -40,7 +40,6 @@
     * [Federalism](introduction-to-law/readme-1/court-system-overview.md)
     * [Modern Legal Systems](introduction-to-law/readme-1/modern-legal-systems.md)
     * [Sources of Law](introduction-to-law/readme-1/sources-of-law.md)
-  * [Page 1](introduction-to-law/page-1.md)
   * [Procedures Prior to Trial](introduction-to-law/procedures-prior-to-trial.md)
   * [Carroll v. United States](introduction-to-law/carroll-v.-united-states/README.md)
   * [Chimel v. California](introduction-to-law/chimel-v.-california/README.md)
@@ -299,3 +298,4 @@
 * [🏠 Copy of Home](readme-1.md)
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
+* [Page 1](page-1.md)
