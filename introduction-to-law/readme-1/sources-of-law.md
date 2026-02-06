@@ -13,8 +13,6 @@ In the United States, our laws come primarily from:
 [_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)[ ](https://youtu.be/wNlilK7uuT4)_by_ [_LawShelf_](https://www.youtube.com/@LawShelf)_._ (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
 {% endembed %}
 
-{% @lucid/lucid-component url="https://lucid.app/lucidchart/8d71d2f6-172b-4195-ad3a-3fa3430823e2/edit?invitationId=inv_dcc9271a-4a09-4064-ba46-e4af4df188b8&viewport_loc=415,-499,1737,805,0_0" %}
-
 ## Constitutions
 
 ### **Federal/National**
