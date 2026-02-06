@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🏛️ Introduction to Law and the Courts Sourcebook
 
 :construction\_site: This book is under construction. :construction:

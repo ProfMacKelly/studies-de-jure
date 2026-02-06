@@ -4,7 +4,7 @@
 
 There are four main legal systems in the modern world:
 
-1. Common law;
+1. [Common law](../../glossary.md#common-law);
 2. Civil law;
 3. Religious law; and
 4. Customary law/monarchy.
