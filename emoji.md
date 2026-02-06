@@ -22,9 +22,9 @@ hidden: true
 
 🎯✅✔ ‍🔑 📌📢📄📑📋🤝⚠️🚫🔗📖📚
 
-🏛️⚖️ 📜𓂃🪶
+🏛️⚖️ 📜𓂃🪶<img src=".gitbook/assets/image (6).png" alt="" data-size="line"><img src=".gitbook/assets/image (5).png" alt="" data-size="line">
 
-🔍👇👆👉👈→↓↑←
+🔍👇👆👉👈→↓↑←🧩🗣️
 
 🔨🚧
 
@@ -38,15 +38,5 @@ hidden: true
 
 💼
 
-🚀
-
-<div><figure><img src=".gitbook/assets/class-freepik.png" alt="" width="128"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/teacher-bert_flint.png" alt="" width="128"><figcaption></figcaption></figure></div>
-
-
-
-
-
-&#x20;
-
-![](.gitbook/assets/teacher-bert_flint.png)
+<i class="fa-chalkboard-teacher">:chalkboard-teacher:</i>
 
