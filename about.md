@@ -4,11 +4,11 @@ This site adds contributes to ongoing worldwide initiatives to increase access t
 
 [Studies De Jure](https://studies-de-jure.gitbook.io/learn) hosts a collection of [openly licensed](glossary.md#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). The Sourcebooks section of the site contains primarily content for undergraduate legal courses. Complying with copyright licensing terms, I have adapted, remixed, and/or incorporated other creators' work into these materials to avoid reinventing the wheel, as well as integrated content that I authored, for a customized and interactive experience. Attributions to the contributing authors' works that I adapted and/or remixed and their licensing information are identified on each page.
 
-**A note about generative AI:** If I used the assistance of text or image generation tools, that will be clearly noted in the Attribution and Licensing section at the bottom of the relevant page(s). Any stylistic elements that are commonly associated with generative AI output (such as emojis[^2], [em dashes](#user-content-fn-3)[^3], bullet point lists, etc.) are my independent and intentional stylistic choices.
+Finally, a note about generative AI:  If I used the assistance of text or image generation tools, that will be clearly noted in the Attribution and Licensing section at the bottom of the relevant page(s). Any stylistic elements that are commonly associated with generative AI output (such as emojis[^2], [em dashes](#user-content-fn-3)[^3], bullet point lists, etc.) are my independent and intentional stylistic choices.
 
 I hope these resources are helpful!
 
-\~ Matt Mac Kelly, JD, EdD
+\~ _Matt Mac Kelly, JD, EdD_
 
 ## Navigation Tips
 
