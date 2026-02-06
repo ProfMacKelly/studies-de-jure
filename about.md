@@ -1,12 +1,14 @@
 # About This Site
 
-{% include ".gitbook/includes/under-construction.md" %}
+This site adds contributes to ongoing worldwide initiatives to increase access to educational resources for students through open educational resources (OER). Among a number of other advantages, OER resources (a) help mitigate some of the substantially increasing costs of education, (b) allow educators the flexibility to provide materials customized to their students' needs, and (c) are easy to update.\*[^1] (After all, instructors and students alike experience of the student's dilemma of whether to pay the premium price of a required textbook's "new edition" or save money with a potentially outdated older edition. And let's face it, students have no realistic way of determining whether there are any meaningful differences between a "new edition" and a previous version. Sometimes, there are, sometimes, there aren't.)&#x20;
 
-***
+[Studies De Jure](https://studies-de-jure.gitbook.io/learn) hosts a collection of [openly licensed](glossary.md#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). The Sourcebooks section of the site contains primarily content for undergraduate legal courses. Complying with copyright licensing terms, I have adapted, remixed, and/or incorporated other creators' work into these materials to avoid reinventing the wheel, as well as integrated content that I authored, for a customized and interactive experience. Attributions to the contributing authors' works that I adapted and/or remixed and their licensing information are identified on each page.
 
-This site hosts a collection of [openly licensed](glossary.md#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly, JD, EdD, and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices. Attributions and licensing information are identified on each page.
+**A note about generative AI:** If I used the assistance of text or image generation tools, that will be clearly noted in the Attribution and Licensing section at the bottom of the relevant page(s). Any stylistic elements that are commonly associated with generative AI output (such as emojis[^2], [em dashes](#user-content-fn-3)[^3], bullet point lists, etc.) are my independent and intentional stylistic choices.
 
-\~ _Matt Mac Kelly_
+I hope these resources are helpful!
+
+\~ Matt Mac Kelly, JD, EdD
 
 ## Navigation Tips
 
@@ -18,13 +20,13 @@ Use the table of contents left-side panel to browse through the resources. Click
 
 ### Interactive Elements
 
-Engage with any interactive elements such as links, annotations, [annotations, expandable widgets](#user-content-fn-1)[^1], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
+Engage with any interactive elements such as links, annotations, [annotations, expandable widgets](#user-content-fn-4)[^4], videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
 <details>
 
 <summary><mark style="color:red;"><strong>How Annotations Work in This Sourcebook</strong></mark></summary>
 
-The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-2)[^2] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.
+The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-5)[^5] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.
 
 Also, instead of traditional footnotes or endnotes, many references and citations to original source content are located in these annotations.
 
@@ -62,7 +64,7 @@ _**The content on this site contains legal information intended for educational 
 
 <details>
 
-<summary>Attributions and Licensing</summary>
+<summary>Other Attributions and Licensing</summary>
 
 This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed/reserved by [Gitbook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).\
 \
@@ -70,6 +72,12 @@ This site's [scale/books](https://www.flaticon.com/free-icon/laws_1728907?term=s
 
 </details>
 
-[^1]: Such as this: [**How Annotations Work in This Sourcebook**](about.md#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
+[^1]: See, e.g., M'hammed Abdous, [_Unlocking the Potential of Open Educational Resources: Trends, Benefits, and Challenges in U.S. Higher Education_](https://www.odu.edu/facultydevelopment/article/unlocking-the-potential-of-open-educational-resources-trends-benefits), Old Dominion University (Oct. 17, 2024); Lindsay Josephs, [_The Future of OER in Higher Education_](https://www.aacsb.edu/insights/articles/2024/05/the-future-of-oer-in-higher-education), Association to Advance Collegiate Schools of Business (May 7, 2024).
 
-[^2]: This is the annotation.
+[^2]: No apologies. They're fun, they're at the center of a [number of legal issues](https://blog.ericgoldman.org/archives/category/emojis).
+
+[^3]: Generative AI seems to have given the em dash a bad name. Not only are em dashes actually commonly seen in legal writing and textbook publishing, but they have also been used in [literary writing no later than the 17th century](https://publishingstate.com/who-first-used-the-em-dash-a-short-history-of-a-long-mark/2025/#early-typographic-roots).
+
+[^4]: Such as this: [**How Annotations Work in This Sourcebook**](about.md#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
+
+[^5]: This is the annotation.
