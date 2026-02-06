@@ -16,11 +16,11 @@ The Wisconsin Court System: Demystifying the Judicial Branch (Wisconsin Legislat
 * Read the following pages of the PDF below:
   * 10-21 (up to Trial of a Civil or Criminal Case). (Note: The page numbers relate to the **pages in the PDF**.)
 
-{% file src="../../.gitbook/assets/Demystifying_the_Judicial_Branch.pdf" %}
+{% file src="../../../.gitbook/assets/Demystifying_the_Judicial_Branch.pdf" %}
 
 * Criminal Procedure: The Basics (Wisconsin Legislative Reference Bureau)
 
-{% file src="../../.gitbook/assets/wi criminal procedure - the basics.pdf" %}
+{% file src="../../../.gitbook/assets/wi criminal procedure - the basics.pdf" %}
 
 ## Wisconsin Felony Procedure
 
