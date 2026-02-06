@@ -119,14 +119,16 @@ In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140
 The court reasoned that it _could not create a new crime_ without violating the Due Process Clause, Separation of Powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, except for specific acts of a physician or the expectant mother .
 {% endhint %}
 
-### Powerful Nature of Case Law
+### The Integral Role of Case Law
 
 Generally, if there is a statute on an issue, the statute is _superior_ to case law, just as the Constitution is superior to statutory law. However, judges _interpret_ constitutional and statutory law, making case law a _powerful_ source of law. A judge can interpret a constitution in a way that adds or creates exceptions to its protections. A judge can also interpret a statute in a way that makes it unconstitutional and unenforceable. This is called the power of **judicial review**. [_Marbury v. Madison_](https://scholar.google.com/scholar_case?case=9834052745083343188\&q=Marbury+v.+Madison,+5+U.S.+\(1+Cranch\)+137\&hl=en\&as_sdt=1000003), 5 U.S. (1 Cranch) 137 (1803).
 
 {% hint style="info" %}
-**Example of Judicial Review**
+#### &#x20;🔍 **Example of Judicial Review**
 
-An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the U.S. Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the U.S. Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object. Note how _Johnson_ not only _invalidates_ a state statute as being inferior to the U.S. Constitution but also _changes_ the U.S. Constitution by adding flag burning to the First Amendment’s protection of speech.
+An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the U.S. Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the U.S. Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object.&#x20;
+
+Note how _Johnson_ not only (1) treated a state's laws as valid as long as it does not deprive its citizens of fundamental rights guaranteed by U.S. Constitution—a function of the 14th Amendment— but also (2) construed the First Amendment as if the Constitution clearly included flag burning as protected speech of speech.
 {% endhint %}
 
 ## Treaties and Conventions
