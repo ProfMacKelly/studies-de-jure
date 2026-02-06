@@ -686,9 +686,7 @@ a legal doctrine, most commonly used in tort law, that holds an employer or prin
 
 #### respondent
 
-the party against whom a petition is filed (i.e., the party opposing the [petitioner](glossary.md#petitioner)/ [appellant](/broken/pages/c2a4e275bb11370122f9467f7c83e0ad3fc07ce0#appellant)), especially one for the purposes of appeal
-
-Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+the party against whom a petition is filed (i.e., the party opposing the [petitioner](glossary.md#petitioner)/[appellant](glossary.md#appellant)), especially one for the purposes of appeal\*[^2]
 
 ***
 
@@ -886,3 +884,5 @@ generally associated with the U.S. Supreme Court, an order from an appellate cou
 a judicial order that a higher court may use to prevent a lower court from taking an action\*
 
 [^1]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondeat_superior) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+[^2]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
