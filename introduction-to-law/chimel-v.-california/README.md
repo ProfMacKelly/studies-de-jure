@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Chimel v. California
 
 [395 U.S. 752](https://casetext.com/case/chimel-v-california) (1969)

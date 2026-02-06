@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Carroll v. United States
 
 [267 U.S. 132](https://casetext.com/case/carroll-v-united-states) (1925)

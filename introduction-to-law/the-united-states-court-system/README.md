@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # The United States Court System
 
 {% hint style="success" %}
