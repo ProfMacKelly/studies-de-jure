@@ -24,7 +24,7 @@ hidden: true
 
 🏛️⚖️ 📜𓂃🪶<img src=".gitbook/assets/image (6).png" alt="" data-size="line"><img src=".gitbook/assets/image (5).png" alt="" data-size="line">
 
-🔍👇👆👉👈→↓↑←🧩🗣️💬
+🔍👇👆👉👈→↓↑←🧩🗣️💬💥🛠️
 
 🔨🚧
 
