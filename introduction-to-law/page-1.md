@@ -2,7 +2,11 @@
 hidden: true
 ---
 
-# Page 1
+# Glossary GitBook Agent Command and Quiz Embed
+
+```
+// “Use the glossary pattern with \* GitBook annotations, no Source: lines.”
+```
 
 [Attribution Snippets](https://app.gitbook.com/o/2KDFCqgo3cAQVrPSYfS9/s/gb3latek59GhBxzDZlwy/)
 

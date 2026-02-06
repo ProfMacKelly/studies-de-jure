@@ -298,4 +298,4 @@
 * [🏠 Copy of Home](readme-1.md)
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
-* [Page 1](introduction-to-law/page-1.md)
+* [Glossary GitBook Agent Command and Quiz Embed](introduction-to-law/page-1.md)
