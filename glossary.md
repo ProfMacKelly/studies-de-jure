@@ -550,7 +550,7 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/plaintiff)
 
 #### precedent
 
-a court decision that is considered an authority for deciding subsequent cases involving identical or similar facts, or similar legal issues [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/strict_liability) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+a court decision that is considered an authority for deciding subsequent cases involving identical or similar facts, or similar legal issues\*[^1] (see also [stare decisis](glossary.md#stare-decisis))
 
 ***
 
@@ -686,19 +686,19 @@ when a party's assent to the terms of an agreement is consensual (i.e., free and
 
 #### respondeat superior
 
-a legal doctrine, most commonly used in tort law, that holds an employer or principal legally responsible for the wrongful acts of an employee or agent, if such acts occur within the scope of the employment or agency\*[^1]
+a legal doctrine, most commonly used in tort law, that holds an employer or principal legally responsible for the wrongful acts of an employee or agent, if such acts occur within the scope of the employment or agency\*[^2]
 
 ***
 
 #### respondent
 
-the party against whom a petition is filed (i.e., the party opposing the [petitioner](glossary.md#petitioner)/[appellant](glossary.md#appellant)), especially one for the purposes of appeal\*[^2]
+the party against whom a petition is filed (i.e., the party opposing the [petitioner](glossary.md#petitioner)/[appellant](glossary.md#appellant)), especially one for the purposes of appeal\*[^3]
 
 ***
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^3]
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^4]
 
 ***
 
@@ -733,7 +733,7 @@ the authority of a court to exercise [personal jurisdiction](glossary.md#persona
 
 #### stare decisis
 
-xdoctrine that courts will adhere to precedent in making their decisions. Stare decisis means “to stand by things decided” in Latin [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/strict_liability) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+meaning, “to stand by things decided” in Latin, the judicial doctrine that courts will adhere to precedent in making their decisions\*[^5] (see also [precedent](glossary.md#precedent))
 
 ***
 
@@ -895,8 +895,12 @@ generally associated with the U.S. Supreme Court, an order from an appellate cou
 
 a judicial order that a higher court may use to prevent a lower court from taking an action\*
 
-[^1]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondeat_superior) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/precedent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^2]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^2]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondeat_superior) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^3]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^3]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+[^4]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+[^5]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/stare_decisis) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
