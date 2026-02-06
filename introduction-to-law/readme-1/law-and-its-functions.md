@@ -32,7 +32,7 @@ The American legal system was developed with the goal of establishing a set of s
 
 ### Promoting Consistency
 
-The American legal system [follows the British Common Law system](#user-content-fn-1)[^1], which is designed to leverage past judicial reasoning, while also promoting fairness through consistency. Judges in the Common Law system help shape the law through their rulings and interpretations. This body of past decisions is known as case law. Judges use case law to inform their own rulings. Indeed, judges rely on precedent, i.e., previous court rulings on similar cases, for ruling on their own cases.
+The American legal system [follows the British Common Law system](#user-content-fn-1)[^1], which is designed to leverage past judicial reasoning, while also promoting fairness through consistency. Judges in the Common Law systems help shape the law through their rulings and interpretations. This body of past decisions is known as case law. Judges use case law to inform their own rulings. Indeed, judges rely on [precedent](../../glossary.md#precedent) (i.e., previous court rulings on similar cases, for ruling on their own cases).
 
 However, the body of American law is now so robust that American cases rarely cite English materials, except for a British classic or a famous old case. Additionally, foreign law is not cited as binding precedent. Therefore, the current American practice of the common law tradition refers more to the process of judges looking to the precedent set jurisdictionally, and substantially similar to, American case law.
 
@@ -42,13 +42,13 @@ Congruent with the goal of establishing standards and promoting consistency, law
 
 ### Resolving Disputes
 
-Conflicts are to be expected given people’s varying needs, desires, objectives, values systems, and perspectives. The American legal system provides a formal means for resolving conflicts through the courts. In addition to the federal court and individual state systems, there are also several informal means for resolving disputes that are collectively called alternative dispute resolution (ADR). Examples of these are mediation and arbitration.
+Conflicts are to be expected given people’s varying needs, desires, objectives, values systems, and perspectives. The American legal system provides a formal means for resolving conflicts through the courts. In addition to the federal court and individual state systems, there are also several informal means for resolving disputes that are collectively called **alternative dispute resolution (ADR)**. Examples of these are **mediation** and **arbitration**.
 
 ### Protecting Liberties and Rights
 
-The United States Constitution and state laws provide people with many liberties and rights. American laws operate with the purpose and function of protecting these liberties and rights from violations by persons, companies, governments, or other entities.
+The U.S. Constitution and state laws provide people with many liberties and rights. American laws operate with the purpose and function of protecting these liberties and rights from violations by persons, companies, governments, or other entities.
 
-Based on the British legal system, the American legal system is divided into a federal system and a state and local system. The overall goal of both systems is to provide order and a means of dispute settlement, as well as to protect citizens’ rights.
+Also based on the British legal system, the American legal system is divided into a federal system and a state and local system. The overall goal of both systems is to provide order and a means of dispute settlement, as well as to protect citizens’ rights.
 
 ***
 
@@ -60,4 +60,4 @@ Except where otherwise noted, this page's content is adapted from [What is Law a
 
 </details>
 
-[^1]: with the exception of Louisiana
+[^1]: with the exception of Louisiana, which follows a Civil Law sytem
