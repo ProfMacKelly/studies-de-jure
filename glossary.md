@@ -548,6 +548,12 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/plaintiff)
 
 ***
 
+#### precedent
+
+a court decision that is considered an authority for deciding subsequent cases involving identical or similar facts, or similar legal issues [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/strict_liability) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+***
+
 #### private law
 
 a branch of law that deals with matters involving individuals, their properties, and personal relationships\*
@@ -692,7 +698,7 @@ the party against whom a petition is filed (i.e., the party opposing the [petiti
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^3]
 
 ***
 
@@ -722,6 +728,12 @@ informal, "invisible" rules that influence and/or govern behavior in groups and 
 #### specific jurisdiction
 
 the authority of a court to exercise [personal jurisdiction](glossary.md#personal-jurisdiction) over a corporate defendant based on some "minimum contacts" between the defendant and the state in which the court sits\*
+
+***
+
+#### stare decisis
+
+xdoctrine that courts will adhere to precedent in making their decisions. Stare decisis means “to stand by things decided” in Latin [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/strict_liability) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 ***
 
@@ -886,3 +898,5 @@ a judicial order that a higher court may use to prevent a lower court from takin
 [^1]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondeat_superior) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
 [^2]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+[^3]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
