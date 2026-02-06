@@ -60,6 +60,8 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appeal) by [Cor
 
 when a party is automatically entitled to an appellate court reviewing their case if they choose to appeal a decision of a lower court\* (as opposed to appealing to a court with [discretionary jurisdiction](glossary.md#discretionary-jurisdiction), which can refuse to review the decision of a lower court)
 
+***
+
 #### appellant
 
 the party who appeals a lower court's judgment or order to a higher court to overturn or modify a decision made by the lower court (some courts refer to this party as the petitioner)
@@ -302,7 +304,7 @@ Source: See R. 3.5, [The Bluebook: A Uniform System of Citation (online edition)
 
 #### injunctive relief
 
-a court-ordered remedy that restricts a party from committing specific actions or requires a party to complete specific actions (also known as an injunction)\*[^1]
+a court-ordered remedy that restricts a party from committing specific actions or requires a party to complete specific actions (also known as an injunction)\*
 
 ***
 
@@ -676,9 +678,15 @@ when a party's assent to the terms of an agreement is consensual (i.e., free and
 
 ***
 
+#### respondeat superior
+
+a legal doctrine, most commonly used in tort law, that holds an employer or principal legally responsible for the wrongful acts of an employee or agent, if such acts occur within the scope of the employment or agency\*[^1]
+
+***
+
 #### respondent
 
-the party against whom a petition is filed (i.e., the party opposing the [petitioner](/broken/pages/c2a4e275bb11370122f9467f7c83e0ad3fc07ce0#petitioner)/ [appellant](/broken/pages/c2a4e275bb11370122f9467f7c83e0ad3fc07ce0#appellant)), especially one for the purposes of appeal
+the party against whom a petition is filed (i.e., the party opposing the [petitioner](glossary.md#petitioner)/ [appellant](/broken/pages/c2a4e275bb11370122f9467f7c83e0ad3fc07ce0#appellant)), especially one for the purposes of appeal
 
 Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
@@ -877,4 +885,4 @@ generally associated with the U.S. Supreme Court, an order from an appellate cou
 
 a judicial order that a higher court may use to prevent a lower court from taking an action\*
 
-[^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/injunction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^1]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondeat_superior) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
