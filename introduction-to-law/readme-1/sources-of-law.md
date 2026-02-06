@@ -9,6 +9,8 @@ In the United States, our laws come primarily from:
 * Treaties and conventions; and
 * Executive orders.
 
+#### 🎞️ Watch and Learn: Sources of Law
+
 {% embed url="https://youtu.be/y-rAjwNhp_8" %}
 [_Sources of Law in the United States_](https://youtu.be/y-rAjwNhp_8)[ ](https://youtu.be/wNlilK7uuT4)_by_ [_LawShelf_](https://www.youtube.com/@LawShelf)_._ (See the [transcript.](https://www.lawshelf.com/videos/entry/sources-of-law-in-the-united-states))
 {% endembed %}
@@ -17,7 +19,7 @@ In the United States, our laws come primarily from:
 
 ### **Federal/National**
 
-The most fundamental law in the United States is the [U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces, but does not have the power to declare war. That duty falls to Congress. And, third, the Constitution guarantees civil liberties and individual rights.
+The most fundamental law in the United States is the [U.S. Constitution](https://constitution.congress.gov/constitution/), which is the supreme law of the nation. Any law that conflicts with it is void. The Constitution serves three important functions. First, it establishes the structure of our national government and identifies the powers of the legislative, executive, and judicial branches. Second, it defines the boundaries of each branch’s authority and creates “checks” on each branch by the other branches. For example, the president is the commander-in-chief of the armed forces but does not have the power to declare war. That duty falls to Congress. And third, the Constitution guarantees civil liberties and individual rights.
 
 The power granted to the federal government by the Constitution is limited. Any powers not expressly granted to the federal government by the Constitution are reserved to the states. This means that if the Constitution does not give the federal government power over a particular area, then the states regulate it.
 
@@ -87,7 +89,7 @@ Administrative laws are enacted by **administrative agencies**, which are govern
 
 **Executive orders** are another type of administrative law. [Article II, Section 1](https://constitution.congress.gov/constitution/article-2/) of the U.S. Constitution gives the president the power to “take care that the laws be faithfully executed.” Under this power, the president may issue **executive orders** requiring officials in the executive branch to perform their duties in a particular manner. State governors have the same authority under state constitutions. Although they are not laws that apply directly to individuals and businesses, executive orders are important legal documents because they direct the government’s enforcement efforts.
 
-## Common Law (aka Case Law)
+## More on Common Law (aka Case Law) and Stare Decisis
 
 Binding legal principles also come from the courts. When appellate courts decide a case, they may interpret and apply legal principles in a way that are binding on lower courts in the future. The process of applying a prior appellate decision to a case is called **precedent**. Simply put, precedent is when judges use past decisions to guide them. The benefit of precedent is that it makes the law predictable and furthers the rule of law by applying legal principles to the greater community, not just individuals.
 
