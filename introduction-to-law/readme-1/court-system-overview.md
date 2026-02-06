@@ -2,16 +2,27 @@
 
 The United States’ system of government is called **federalism**. Federalism, as set forth in the U.S. Constitution, divides governmental power between the _federal government_ and each of the _states_. This prevents a concentrated source of governmental power in one individual or a small group of individuals. Because of federalism, the United States has one federal legal system, and each state has its own state legal system. Thus, in the United States, a plethora of legal systems all operate harmoniously at the same time.
 
+### 🎞️Watch and Learn: Federalism
+
 {% embed url="https://youtu.be/J0gosGXSgsI" %}
-_(Learn how to access the_ [_transcript._](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/)_)_
+[_Federalism_](https://youtu.be/J0gosGXSgsI) by [Crash Course](https://www.youtube.com/@crashcourse). _(Learn how to access the_ [_transcript._](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/)_)_
 {% endembed %}
 
 ## The Scope of Federal Law [![Edit section](https://a.mtstatic.com/skins/common/icons/icon-trans.gif?_=a97de9e640dec836ce36fd7e1c341ae98d5ae1fb:site_7336)](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/02%3A_The_Legal_System_in_the_United_States/2.01%3A_Federalism)
 
 The government’s power to regulate comes from the U.S. Constitution. The _federal_ government derives its authority to create law from [Article I, § 8](https://constitution.congress.gov/constitution/article-1/#article-1-section-8), which discusses federal Congress’s _**exclusive**_ or **delegated powers**. These include the power to regulate currency and coin, establish a post office, promote science and art by regulating the rights to discoveries and writings, declare war and raise armies, conduct foreign affairs, regulate interstate and foreign commerce, and make laws necessary and proper to execute other powers expressly granted in the Constitution. Courts have interpreted the last two powers mentioned in the [**Commerce Clause**](https://constitution.congress.gov/constitution/article-1/#article-1-section-8-clause-3) and the [**Necessary and Proper Clause**](https://constitution.congress.gov/constitution/article-1/#article-1-section-8-clause-18) to be the _broadest_ sources of federal regulatory authority.
 
+#### 🎞️Watch and Learn: The Commerce Clause
+
 {% embed url="https://youtu.be/m3rcDlECWZA" %}
-_(Learn how to access the_ [_transcript._](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/)_)_
+[_Does the Commerce Clause Apply Only to Commerce?_](https://youtu.be/m3rcDlECWZA) by [The Federalist Society](https://www.youtube.com/@TheFederalistSociety). _(Learn how to access the_ [_transcript._](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/)_)_
+{% endembed %}
+
+#### 🎞️Watch and Learn: The Necessary and Proper Clause
+
+{% embed url="https://youtu.be/xpVZ_hZhdPM" %}
+[_Enumerated Powers, the Necessary and Proper Clause, and Prigg v. Pennsylvania_](https://youtu.be/xpVZ_hZhdPM) by [The Federalist Society](https://www.youtube.com/@TheFederalistSociety). \
+&#xNAN;_(Learn how to access the_ [_transcript._](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/)_)_
 {% endembed %}
 
 To simplify and summarize precedent defining federal regulatory authority, federal laws are meant to regulate in two areas. First, federal laws regulate issues that concern the _country_, rather than just one city, county, or state. The federal government regulates foreign affairs, for example, because this affects the United States of America, not just one particular region. Second, federal laws regulate commerce, which is economic activity, that _crosses from state to state_. Some common examples are television broadcasts, the Internet, and any form of transportation such as airlines.
@@ -33,7 +44,7 @@ Federal laws are _the same_ in every state, but state laws _differ_ from state t
 The power to enact criminal laws belongs almost _exclusively_ to the states. This is because of the [Tenth Amendment](https://constitution.congress.gov/constitution/amendment-10/), which vests in states a [**police power**](https://www.law.cornell.edu/wex/police_powers) to provide for the health, safety, and welfare of state citizens. Approximately 90 percent of all criminal laws are state, rather than federal. Often, federal crimes are also state crimes and can be prosecuted and punished by both the state and federal government without violating the principle of double jeopardy.
 
 {% hint style="info" %}
-**Example: Diversity Among State Laws**
+#### 🔍 **Example: Diversity Among State Laws**
 
 In Nevada, prostitution is legal under certain circumstances. [N.R.S. § 201.354](http://www.leg.state.nv.us/nrs/NRS-201.html#NRS201Sec354). An individual who engages in prostitution inside a licensed “house of prostitution” in Nevada is not exposed to criminal liability. However, if the _same individual_ engages in prostitution in a _different state_, they may be subject to a criminal prosecution. (Prostitution will be discussed in detail in [Chapter 12](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/12%3A_Crimes_against_the_Public/12.03%3A_Vice_Crimes?readerView#Crimes_Involving_Prostitution).)
 
@@ -45,7 +56,7 @@ Another illustration is that the age of consent for "sexual conduct" in Ohio is 
 Our legal system is divided up to conform to the principle of federalism, so a potential exists for conflict between federal law and state law. A federal law may make something _illegal_; a state law may insist that it is _legal_. Whenever a conflict occurs between federal and state law, courts must follow the federal law. This is called **federal supremacy**. As the [Supremacy Clause of Article VI](https://constitution.congress.gov/constitution/article-6/#article-6-clause-2) of the federal Constitution states, “This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.”
 
 {% hint style="info" %}
-**Example: Diversity Among State Laws**
+🔍 **Example: Diversity Among State Laws**
 
 In Washington and several other states, an individual may possess and use marijuana for medicinal purposes with a prescription. Washington State Medicinal Marijuana Act, [§ 69.51A RCW](https://app.leg.wa.gov/rcw/default.aspx?cite=69.51A). (See all states that have legalized medical and recreational marijuana [here](https://medicalmarijuana.procon.org/legal-medical-marijuana-states-and-dc/).) Federal law continues to prohibit possession and use of marijuana, and it does not distinguish between medical and recreational marijuana (however, a strictly regulated exception exists under certain circumstances for medical research). [21 U.S.C. Ch. 13 § 801 et. seq](https://uscode.house.gov/view.xhtml?path=/prelim@title21/chapter13\&edition=prelim).
 

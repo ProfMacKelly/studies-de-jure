@@ -34,7 +34,9 @@ The American legal system was developed with the goal of establishing a set of s
 
 The American legal system [follows the British Common Law system](#user-content-fn-1)[^1], which is designed to leverage past judicial reasoning, while also promoting fairness through consistency. Judges in the [Common Law systems](../../glossary.md#common-law) help shape the law through their rulings and interpretations. This body of past decisions is known as case law. Judges use case law to inform their own rulings. Indeed, judges rely on [precedent](../../glossary.md#precedent) (i.e., previous court rulings on similar cases, for ruling on their own cases).
 
-Civil Law system
+{% hint style="info" %}
+📝Common Law and Civil Law systems will be discussed further in the [next section](modern-legal-systems.md#civil-law-systems).
+{% endhint %}
 
 However, the body of American law is now so robust that American cases rarely cite English materials, except for a British classic or a famous old case. Additionally, foreign law is not cited as binding precedent. Therefore, the current American practice of the common law tradition refers more to the process of judges looking to the precedent set jurisdictionally, and substantially similar to, American case law.
 
@@ -62,4 +64,4 @@ Except where otherwise noted, this page's content is adapted from [What is Law a
 
 </details>
 
-[^1]: with the exception of Louisiana, which follows a Civil Law sytem
+[^1]: with the exception of Louisiana, which follows a [Civil Law system](modern-legal-systems.md#civil-law-systems)

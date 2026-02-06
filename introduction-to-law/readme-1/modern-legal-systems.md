@@ -13,11 +13,11 @@ As the world becomes more interdependent, a fifth category of legal systems has 
 
 | Type of Legal System | Characteristics                                                                                                                                                                                                                                                                                         |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Common Law           | <ul><li>Written judicial decisions of appellate courts are binding legal authority on lower courts when interpreting and applying the same or similar questions of law</li><li>The legal system is adversarial</li><li>The outcome of a case is often decided by a jury of the parties’ peers</li></ul> |
-| Civil Law            | <ul><li>All legal rules are in comprehensive legislative enactments often called Codes</li><li>Written judicial decisions of appellate courts are not binding legal authority</li><li>The legal system is inquisitorial</li></ul>                                                                       |
-| Religious Law        | <ul><li>Religious documents are used as legal sources</li><li>All major world religions have a religious legal system</li><li>Most nations that have religious legal systems use them to supplement a secular national system</li></ul>                                                                 |
-| Customary Law        | <ul><li>Legal system used by a monarchy or tribe</li><li>Grants specific legal powers to kings, queens, sultans or tribal leaders as heads of state</li><li>Monarchs and leaders often seen to be “above the law”</li></ul>                                                                             |
-| Hybrid Law           | <ul><li>Combination of 2 or more legal systems within a nation</li></ul>                                                                                                                                                                                                                                |
+| **Common Law**       | <ul><li>Written judicial decisions of appellate courts are binding legal authority on lower courts when interpreting and applying the same or similar questions of law</li><li>The legal system is adversarial</li><li>The outcome of a case is often decided by a jury of the parties’ peers</li></ul> |
+| **Civil Law**        | <ul><li>All legal rules are in comprehensive legislative enactments often called Codes</li><li>Written judicial decisions of appellate courts are not binding legal authority</li><li>The legal system is inquisitorial</li></ul>                                                                       |
+| **Religious Law**    | <ul><li>Religious documents are used as legal sources</li><li>All major world religions have a religious legal system</li><li>Most nations that have religious legal systems use them to supplement a secular national system</li></ul>                                                                 |
+| **Customary Law**    | <ul><li>Legal system used by a monarchy or tribe</li><li>Grants specific legal powers to kings, queens, sultans or tribal leaders as heads of state</li><li>Monarchs and leaders often seen to be “above the law”</li></ul>                                                                             |
+| **Hybrid Law**       | <ul><li>Combination of 2 or more legal systems within a nation</li></ul>                                                                                                                                                                                                                                |
 
 ## Common Law Systems
 
@@ -36,7 +36,7 @@ The common law tradition is unique to England, the United States, and former Bri
 Civil law systems were developed in Europe and are based on Roman and Napoleonic law. Civil law systems are also called code systems because all the legal rules are in one or more comprehensive legislative enactments. During Napoleon’s reign, a comprehensive book of laws—a code—was developed for all of France. The code covered criminal law and procedure, non-criminal law and procedure, and commercial law. The code is used to resolve only cases brought to the courts, which are usually decided by judges without a jury.
 
 {% hint style="warning" %}
-Be sure to avoid confusing civil law as a _system_ with civil law in the United States. In the U.S. legal sytem, "civl law" refers to areas of law that are not criminal in nature.
+📢 Be sure to avoid confusing civil law as a _system_ with civil law in the United States. In the U.S. legal system, "civil law" refers to areas of law that are not criminal in nature\*[^1]
 {% endhint %}
 
 Civil law systems are inquisitorial systems in which judges actively investigate cases. Judges have the authority to request documents and testimony, as well as to shape the parties’ legal claims. In addition, judges are not required to follow the decisions of other courts in similar cases. The law is in the code, not in the cases. The legislature, not the courts, is the primary place to enact and modify laws.
@@ -46,7 +46,9 @@ Civil law systems are used throughout Europe, Central and South America, Asia an
 There are also communist and socialist legal systems that differ significantly from traditional civil law systems. Legal scholars debate whether this is a separate type of legal system or a subset of modern civil law systems. In a communist or socialist legal system, the nation has a code but most property is owned by the government or agricultural cooperatives. In addition, the judiciary is subservient to the Communist party and is not an independent branch of government.
 
 {% hint style="info" %}
-See this article about the [Common Law and Civil Law traditions](https://www.law.berkeley.edu/wp-content/uploads/2017/11/CommonLawCivilLawTraditions.pdf).
+#### 📖 Read&#x20;
+
+Read this short article about the [Common Law and Civil Law traditions](https://www.law.berkeley.edu/wp-content/uploads/2017/11/CommonLawCivilLawTraditions.pdf).
 {% endhint %}
 
 ## Religious Law Systems
@@ -70,3 +72,5 @@ Hybrid legal systems are a combination of two or more legal systems within a nat
 Except where otherwise noted, this page's content is adapted from [Modern Legal Systems of the World](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-1/#chapter-23-section-3) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 </details>
+
+[^1]: except for Louisiana

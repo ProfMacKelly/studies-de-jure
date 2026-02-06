@@ -20,12 +20,6 @@ This book [openly licensed](#user-content-fn-2)[^2] and free to be reused, redis
 [readme-1](readme-1/)
 {% endcontent-ref %}
 {% endstep %}
-
-{% step %}
-{% content-ref url="/broken/pages/sfBNmDFlV1lAu5uTRWwH" %}
-[Broken link](/broken/pages/sfBNmDFlV1lAu5uTRWwH)
-{% endcontent-ref %}
-{% endstep %}
 {% endstepper %}
 
 [^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
