@@ -6,13 +6,13 @@
 
 #### acceptance
 
-assent to the terms of an offer\*[^1]
+assent to the terms of an offer\*
 
 ***
 
 #### act (action)
 
-a bodily movement whether voluntary or involuntary\*[^2]
+a bodily movement whether voluntary or involuntary\*
 
 ***
 
@@ -58,9 +58,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appeal) by [Cor
 
 #### appeal as of right
 
-when a party is automatically entitled to an appellate court reviewing their case if they choose to appeal a decision of a lower court\*[^3] (as opposed to appealing to a court with [discretionary jurisdiction](glossary.md#discretionary-jurisdiction), which can refuse to review the decision of a lower court)
-
-
+when a party is automatically entitled to an appellate court reviewing their case if they choose to appeal a decision of a lower court\* (as opposed to appealing to a court with [discretionary jurisdiction](glossary.md#discretionary-jurisdiction), which can refuse to review the decision of a lower court)
 
 #### appellant
 
@@ -72,7 +70,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appellant) by [
 
 #### appellate jurisdiction
 
-the authority of a court to hear appeals from lower courts (typically, trial courts)\*[^4]
+the authority of a court to hear appeals from lower courts (typically, trial courts)\*
 
 ***
 
@@ -88,7 +86,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appellee) by [C
 
 #### bid
 
-an offer to pay or charge a specific price, under set terms, for an item or service\*[^5]
+an offer to pay or charge a specific price, under set terms, for an item or service\*
 
 ***
 
@@ -144,7 +142,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) b
 
 #### concurrent jurisdiction
 
-when multiple courts have the power to hear the same type of dispute\*[^6]
+when multiple courts have the power to hear the same type of dispute\*
 
 ***
 
@@ -158,19 +156,19 @@ Source: [Model Penal Code § 1.13(5)](https://www.criminallawweb.net/web1/mpc/mp
 
 #### consideration
 
-something of value that is part of the mutual exchange of promises between the parties to a contract\*[^7]
+something of value that is part of the mutual exchange of promises between the parties to a contract\*
 
 ***
 
 #### contract
 
-an agreement between parties, creating mutual obligations that are enforceable by law\*[^8]
+an agreement between parties, creating mutual obligations that are enforceable by law\*
 
 ***
 
 #### criminal law
 
-a branch of law concerned with crimes and the punishment of individuals who commit crimes\*[^9]
+a branch of law concerned with crimes and the punishment of individuals who commit crimes\*
 
 ***
 
@@ -186,13 +184,13 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/defendant) by [
 
 #### diversity of citizenship
 
-when there is no common state citizenship between the plaintiffs and defendants in a suit\*[^10]
+when there is no common state citizenship between the plaintiffs and defendants in a suit\*
 
 ***
 
 #### discretionary jurisdiction
 
-generally associated with the U.S. Supreme Court or a state's corresponding court of last resort, the authority of an appellate court to choose whether to hear an appeal from a lower court\*[^11]
+generally associated with the U.S. Supreme Court or a state's corresponding court of last resort, the authority of an appellate court to choose whether to hear an appeal from a lower court\*
 
 ***
 
@@ -224,7 +222,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ex_post_facto) 
 
 #### exclusive jurisdiction
 
-authority of a specific court—and no others—to hear a particular case\*[^12]
+authority of a specific court—and no others—to hear a particular case\*
 
 ***
 
@@ -268,7 +266,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/fundamental_rig
 
 #### general jurisdiction
 
-a court's authority to hear any type of case not exclusively dedicated to another court\*[^13] (compare to [exclusive jurisdiction](glossary.md#exclusive-jurisdiction))
+a court's authority to hear any type of case not exclusively dedicated to another court\* (compare to [exclusive jurisdiction](glossary.md#exclusive-jurisdiction))
 
 ***
 
@@ -299,6 +297,12 @@ Source: R.6.2.2, [The Indigo Book: A Manual of Legal Citation](https://indigoboo
 used to reference a source that is referenced later in the same document
 
 Source: See R. 3.5, [The Bluebook: A Uniform System of Citation (online edition)](https://www.legalbluebook.com/bluebook/v21/rules/3-subdivisions/3-5-internal-cross-references) by [The Columbia Law Review](https://www.columbialawreview.org/), [The Harvard Law Review](https://harvardlawreview.org/), [The University of Pennsylvania Law Review](https://pennlawreview.com/), and [The Yale Law Journal](https://www.yalelawjournal.org/) (eds.)
+
+***
+
+#### injunctive relief
+
+a court-ordered remedy that restricts a party from committing specific actions or requires a party to complete specific actions (also known as an injunction)\*[^1]
 
 ***
 
@@ -338,7 +342,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/judicial_review
 
 #### jurisdiction
 
-a court's authority to hear a particular type of dispute\*[^14] (see also [general jurisdiction](glossary.md#general-jurisdiction), [specific jurisdiction](glossary.md#specific-jurisdiction), [original jurisdiction](glossary.md#original-jurisdiction), [appellate jurisdiction](glossary.md#appellate-jurisdiction), [exclusive jurisdiction](glossary.md#exclusive-jurisdiction), and [concurrent jurisdiction](glossary.md#concurrent-jurisdiction), [diversity jurisdiction](glossary.md#diversity-of-citizenship))
+a court's authority to hear a particular type of dispute\* (see also [general jurisdiction](glossary.md#general-jurisdiction), [specific jurisdiction](glossary.md#specific-jurisdiction), [original jurisdiction](glossary.md#original-jurisdiction), [appellate jurisdiction](glossary.md#appellate-jurisdiction), [exclusive jurisdiction](glossary.md#exclusive-jurisdiction), and [concurrent jurisdiction](glossary.md#concurrent-jurisdiction), [diversity jurisdiction](glossary.md#diversity-of-citizenship))
 
 ***
 
@@ -358,7 +362,7 @@ Source: [Model Penal Code § 3.02](https://www.criminallawweb.net/web1/mpc/PART1
 
 #### legal fiction
 
-an assumption and acceptance of something as fact by a court, although it may not be true, to allow a rule to operate or be applied in a manner that differs from its original purpose while leaving the letter of the law unchanged\*[^15]
+an assumption and acceptance of something as fact by a court, although it may not be true, to allow a rule to operate or be applied in a manner that differs from its original purpose while leaving the letter of the law unchanged\*
 
 ***
 
@@ -396,7 +400,7 @@ Model Penal Code
 
 #### mutual assent
 
-the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*[^16]; a party's assent must be [real assent](glossary.md#real-assent)\*[^17]
+the mutual willingness of all parties to a contract to abide by the terms (a requirement of a valid contract)\*; a party's assent must be [real assent](glossary.md#real-assent)\*
 
 ***
 
@@ -420,7 +424,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/natural_person)
 
 #### non-compete clause
 
-a contract provision—usually in an employer/employee or business sale context— in which one party promises not to engage in conduct that would increase competition for the other party for a specific period of time.\*[^18]
+a contract provision—usually in an employer/employee or business sale context— in which one party promises not to engage in conduct that would increase competition for the other party for a specific period of time.\*
 
 ***
 
@@ -428,19 +432,19 @@ a contract provision—usually in an employer/employee or business sale context�
 
 #### obligor
 
-a person/entity that assumes a contractual duty/obligation to repay money or other credit extended by a lender, in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **debtor**\*[^19]&#x20;
+a person/entity that assumes a contractual duty/obligation to repay money or other credit extended by a lender, in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **debtor**\*
 
 ***
 
 #### obligee
 
-a person/entity to whom an obligor/debtor is contractually entitled to receive payment in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **creditor**\*[^20]
+a person/entity to whom an obligor/debtor is contractually entitled to receive payment in the context of [secured transactions](https://www.law.cornell.edu/wex/secured_transactions) (such as loaning/lending contracts when debt is secured by another's property); synonymous with **creditor**\*
 
 ***
 
 #### offer
 
-part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*[^21]
+part of a negotiation in which a party agrees to do or not do something in exchange for [consideration](glossary.md#consideration)\*
 
 ***
 
@@ -484,7 +488,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/order) by [Corn
 
 #### original jurisdiction
 
-a court’s authority to hear and decide a case for the first time before any [appellate ](glossary.md#appeal)review occurs\*[^22]
+a court’s authority to hear and decide a case for the first time before any [appellate ](glossary.md#appeal)review occurs\*
 
 ***
 
@@ -514,7 +518,7 @@ Source: [Model Penal Code § 1.13(8)](https://www.criminallawweb.net/web1/mpc/mp
 
 #### personal jurisdiction
 
-the power of a court to subject a defendant to a legally binding judgment, decision, or order\*[^23]
+the power of a court to subject a defendant to a legally binding judgment, decision, or order\*
 
 ***
 
@@ -544,7 +548,7 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/plaintiff)
 
 #### private law
 
-a branch of law that deals with matters involving individuals, their properties, and personal relationships\*[^24]
+a branch of law that deals with matters involving individuals, their properties, and personal relationships\*
 
 ***
 
@@ -566,19 +570,19 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/prosecuting_att
 
 #### promise
 
-assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*[^25]
+assurance of intent by a person or entity to complete an action or refrain from doing the action. A promise may be an action in exchange for a good or service, a payment, or delivery (typically in the context of a contract)\*
 
 ***
 
-#### promisee&#x20;
+#### promisee
 
-a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*[^26]
+a person who receives a [promise](glossary.md#promise) from a [promisor](glossary.md#promisor), typically in the context of a contractual agreement\*
 
 ***
 
-#### promisor&#x20;
+#### promisor
 
-a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*[^27]
+a person who makes a [promise ](glossary.md#promise)to a [promisee](glossary.md#promisor-1), typically in the context of a contractual agreement\*
 
 ***
 
@@ -628,13 +632,13 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/public-defender)
 
 #### public law
 
-a branch of law concerning individuals' interactions with the state and outlining how the government should function\*[^28]&#x20;
+a branch of law concerning individuals' interactions with the state and outlining how the government should function\*
 
 ***
 
 #### puffery (puffing)
 
-in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*[^29]
+in commercial law, a statement of opinion overstated (exaggerated) assertion/claim about a good or service to a prospective buyer with the goal of making a sale of that good or service that _cannot_ be reasonably relied upon by the prospective buyer\*
 
 ***
 
@@ -646,7 +650,7 @@ in commercial law, a statement of opinion overstated (exaggerated) assertion/cla
 
 #### ratify
 
-To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*[^30]
+To ratify means to approve or enact a legally binding act that would not otherwise be binding in the absence of such approval\*
 
 ***
 
@@ -668,7 +672,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/rational_basis_
 
 #### real assent
 
-when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\*[^17] (see also [mutual assent](glossary.md#mutual-assent))
+when a party's assent to the terms of an agreement is consensual (i.e., free and voluntary)\* (see also [mutual assent](glossary.md#mutual-assent))
 
 ***
 
@@ -682,14 +686,14 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by 
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^31]
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*
 
 ***
 
 #### rule of law
 
-* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*[^32]
-* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*[^33]
+* **rule of law principle |** the principle under which everyone is bound by laws that are (1) established by the government, (2) equally enforced, (3) adjudicated independently, and (4) consistent with one's rights and the principles underlying those rights\*
+* **rule of law system |** a "durable system of laws, institutions, norms, and community commitment that delivers four universal principles: accountability, just law, open government, and accessible and impartial justice"\*
 
 ***
 
@@ -705,13 +709,13 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/incorporation_d
 
 #### social norms
 
-informal, "invisible" rules that influence and/or govern behavior in groups and societies, based on what groups and societies view as "good," "right," and important"; most individuals tend to adhere to these norms; distinct from formal norms, which are established by codified (written) laws\*[^34]
+informal, "invisible" rules that influence and/or govern behavior in groups and societies, based on what groups and societies view as "good," "right," and important"; most individuals tend to adhere to these norms; distinct from formal norms, which are established by codified (written) laws\*
 
 ***
 
 #### specific jurisdiction
 
-the authority of a court to exercise [personal jurisdiction](glossary.md#personal-jurisdiction) over a corporate defendant based on some "minimum contacts" between the defendant and the state in which the court sits\*[^35]
+the authority of a court to exercise [personal jurisdiction](glossary.md#personal-jurisdiction) over a corporate defendant based on some "minimum contacts" between the defendant and the state in which the court sits\*
 
 ***
 
@@ -799,7 +803,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/suspect_classif
 
 #### trier of fact
 
-a judge or jury responsible for evaluating the evidence presented in a legal proceeding and making findings of fact. The trier of fact assesses the credibility of witnesses, weighs the evidence, draws reasonable inferences, and reaches a verdict or decision based on these factual determinations\*[^36] (in the American judicial system, the jury's purpose is generally to function as the trier of fact, although judges serve as triers of fact in various circumstances)
+a judge or jury responsible for evaluating the evidence presented in a legal proceeding and making findings of fact. The trier of fact assesses the credibility of witnesses, weighs the evidence, draws reasonable inferences, and reaches a verdict or decision based on these factual determinations\* (in the American judicial system, the jury's purpose is generally to function as the trier of fact, although judges serve as triers of fact in various circumstances)
 
 ***
 
@@ -815,7 +819,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/tort) by [Corne
 
 #### unjust enrichment
 
-when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*[^37]
+when someone retains a benefit like money from another person when fairness and justice require giving restitution to the party that conferred the benefit\*
 
 ***
 
@@ -865,88 +869,12 @@ Source: [Model Penal Code § 2.01](https://www.criminallawweb.net/web1/mpc/PART1
 
 #### writ of certiorari
 
-generally associated with the U.S. Supreme Court, an order from an appellate court to a lower court to deliver its record in a case so that the higher court may review it\*[^38]&#x20;
+generally associated with the U.S. Supreme Court, an order from an appellate court to a lower court to deliver its record in a case so that the higher court may review it\*
 
 ***
 
 #### writ of prohibition
 
-a judicial order that a higher court may use to prevent a lower court from taking an action\*[^39]
+a judicial order that a higher court may use to prevent a lower court from taking an action\*
 
-[^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/acceptance) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^2]: [Model Penal Code § 1.13(2)](https://www.criminallawweb.net/web1/mpc/mpc.html) by [American Law Institute](https://www.ali.org/)
-
-[^3]: [LSData](https://lsd.law/define/appeal-as-of-right)
-
-[^4]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/appellate_jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^5]: [The Offer](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/6-2-the-offer/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
-
-[^6]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/concurrent_jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^7]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/consideration) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^8]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/contract) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^9]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/criminal_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/diversity_of_citizenship) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^11]: see [U.S. Constitution Annotated](https://www.law.cornell.edu/constitution-conan/article-3/section-2/clause-2/supreme-court-appellate-jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^12]: [Justia Legal Dictionary](https://dictionary.justia.com/exclusive-jurisdiction)
-
-[^13]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/general_jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^14]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^15]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/legal_fiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^16]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/mutual_assent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^17]: [Chapter 10 - Real Assent](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/chapter-10-real-assent/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024)
-
-[^18]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/noncompetition_agreement) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^19]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^20]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/obligee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^21]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/offer) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^22]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/original_jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^23]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/personal_jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^24]: [Justia Legal Dictionary](https://dictionary.justia.com/private-law)
-
-[^25]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promise) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^26]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisee) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^27]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/promisor) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^28]: [Justia Legal Dictionary](https://dictionary.justia.com/public-law)
-
-[^29]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/puffing) by [Cornell Law School Legal Information ](https://www.law.cornell.edu/)
-
-[^30]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/ratify) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^31]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^32]: [Overview - Rule of Law](https://www.uscourts.gov/educational-resources/educational-activities/overview-rule-law) by the [Administrative Office of the United States Courts](https://www.uscourts.gov/topics/administrative-office-us-courts)
-
-[^33]: [_What is the Rule of Law_](https://worldjusticeproject.org/about-us/overview/what-rule-law) by the [World Justice Project](https://worldjusticeproject.org/)
-
-[^34]: [Introduction to Sociology](https://courses.lumenlearning.com/suny-esc-introtosociology/chapter/social-norms/); [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/social-norms/)&#x20;
-
-[^35]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/specific_jurisdiction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^36]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/trier_of_fact) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
-
-[^37]: Source: [Justia Legal Dictionary](https://dictionary.justia.com/unjust-enrichment)
-
-[^38]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_certiorari) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)&#x20;
-
-[^39]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/writ_of_prohibition) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)&#x20;
+[^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/injunction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
