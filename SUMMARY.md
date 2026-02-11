@@ -164,6 +164,7 @@
     * [Contract Elements](sourcebooks/business-law-i/common-law-contracts/contract-elements/README.md)
       * [Introduction to Elements of a Contract](sourcebooks/business-law-i/common-law-contracts/contract-elements/introduction-and-terminology.md)
       * [The Offer](sourcebooks/business-law-i/common-law-contracts/contract-elements/the-offer.md)
+    * [Acceptance](sourcebooks/business-law-i/common-law-contracts/acceptance.md)
     * [Remedies](sourcebooks/business-law-i/common-law-contracts/remedies.md)
     * [Performance and Breach](sourcebooks/business-law-i/common-law-contracts/performance-and-breach.md)
     * [Affirmative Defenses to Breach Claims](sourcebooks/business-law-i/common-law-contracts/affirmative-defenses-to-breach-claims.md)

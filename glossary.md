@@ -6,13 +6,13 @@
 
 #### acceptance
 
-assent to the terms of an offer\*
+assent to the terms of an offer; express or implied act (i.e., conduct) that shows willingness to be bound by the terms of an offer
 
 ***
 
 #### act (action)
 
-a bodily movement whether voluntary or involuntary\*
+a bodily movement whether voluntary or involuntary\*[^1]
 
 ***
 
@@ -128,7 +128,7 @@ Source: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/civil_law) by [
 
 #### common law
 
-law developed through judicial decisions rather than enacted statutes, regulations, treaties, or the Constitution\*[^1]
+law developed through judicial decisions rather than enacted statutes, regulations, treaties, or the Constitution\*[^2]
 
 ***
 
@@ -278,31 +278,31 @@ a court's authority to hear any type of case not exclusively dedicated to anothe
 
 #### ibid.
 
-used to reference the exact same source and page number the source/page immediately preceding it (compare to id.)\*[^2]
+used to reference the exact same source and page number the source/page immediately preceding it (compare to id.)\*[^3]
 
 ***
 
 #### id.
 
-used to reference the exact same source as the source immediately preceding it, although the location within the source may be different (compare to ibid.)\*[^3]
+used to reference the exact same source as the source immediately preceding it, although the location within the source may be different (compare to ibid.)\*[^4]
 
 ***
 
 #### infra.
 
-used to reference a source that is referenced later in the same document\*[^4]
+used to reference a source that is referenced later in the same document\*[^5]
 
 ***
 
 #### injunction
 
-a court order that directs a person to do something or to stop doing something; is an equitable remedy issued in situations where monetary compensation would be inadequate, typically to prevent irreparable harm\*[^5]
+a court order that directs a person to do something or to stop doing something; is an equitable remedy issued in situations where monetary compensation would be inadequate, typically to prevent irreparable harm\*[^6]
 
 ***
 
 #### injunctive relief
 
-a court-ordered remedy that restricts a party from committing specific actions or requires a party to complete specific actions (also known as an injunction)\*[^6]&#x20;
+a court-ordered remedy that restricts a party from committing specific actions or requires a party to complete specific actions (also known as an injunction)\*[^7]&#x20;
 
 ***
 
@@ -548,7 +548,7 @@ Source: [Justia Legal Dictionary](https://dictionary.justia.com/plaintiff)
 
 #### precedent
 
-a court decision that is considered an authority for deciding subsequent cases involving identical or similar facts, or similar legal issues\*[^7] (see also [stare decisis](glossary.md#stare-decisis))
+a court decision that is considered an authority for deciding subsequent cases involving identical or similar facts, or similar legal issues\*[^8] (see also [stare decisis](glossary.md#stare-decisis))
 
 ***
 
@@ -684,19 +684,19 @@ when a party's assent to the terms of an agreement is consensual (i.e., free and
 
 #### respondeat superior
 
-a legal doctrine, most commonly used in tort law, that holds an employer or principal legally responsible for the wrongful acts of an employee or agent, if such acts occur within the scope of the employment or agency\*[^8]
+a legal doctrine, most commonly used in tort law, that holds an employer or principal legally responsible for the wrongful acts of an employee or agent, if such acts occur within the scope of the employment or agency\*[^9]
 
 ***
 
 #### respondent
 
-the party against whom a petition is filed (i.e., the party opposing the [petitioner](glossary.md#petitioner)/[appellant](glossary.md#appellant)), especially one for the purposes of appeal\*[^9]
+the party against whom a petition is filed (i.e., the party opposing the [petitioner](glossary.md#petitioner)/[appellant](glossary.md#appellant)), especially one for the purposes of appeal\*[^10]
 
 ***
 
 #### Restatement(s) of the Law
 
-a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^10]
+a series of treatises published by the American Law Institute (ALI) that articulate and clarify the principles governing specific areas of law\*[^11]
 
 ***
 
@@ -731,7 +731,7 @@ the authority of a court to exercise [personal jurisdiction](glossary.md#persona
 
 #### stare decisis
 
-meaning, “to stand by things decided” in Latin, the judicial doctrine that courts will adhere to precedent in making their decisions\*[^11] (see also [precedent](glossary.md#precedent))
+meaning, “to stand by things decided” in Latin, the judicial doctrine that courts will adhere to precedent in making their decisions\*[^12] (see also [precedent](glossary.md#precedent))
 
 ***
 
@@ -893,24 +893,26 @@ generally associated with the U.S. Supreme Court, an order from an appellate cou
 
 a judicial order that a higher court may use to prevent a lower court from taking an action\*
 
-[^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/common_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^1]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/acceptance) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^2]: Source: [The Bluebook v. California Style Manual](https://community.pepperdine.edu/law/writing-center/content/bluebook-v-california-style.pdf) by Vicki Steiner via [Pepperdine Law School](https://community.pepperdine.edu/law/)
+[^2]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/common_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^3]: R.6.2.2, [The Indigo Book: A Manual of Legal Citation](https://indigobook.github.io/versions/indigobook-2.0-rev2023-2.pdf) by Christopher Sprigman & Jennifer Romig et al. eds., [Public.Resource.Org](https://public.resource.org/) 2d ed. (2021)
+[^3]: Source: [The Bluebook v. California Style Manual](https://community.pepperdine.edu/law/writing-center/content/bluebook-v-california-style.pdf) by Vicki Steiner via [Pepperdine Law School](https://community.pepperdine.edu/law/)
 
-[^4]: See R. 3.5, [The Bluebook: A Uniform System of Citation (online edition)](https://www.legalbluebook.com/bluebook/v21/rules/3-subdivisions/3-5-internal-cross-references) by [The Columbia Law Review](https://www.columbialawreview.org/), [The Harvard Law Review](https://harvardlawreview.org/), [The University of Pennsylvania Law Review](https://pennlawreview.com/), and [The Yale Law Journal](https://www.yalelawjournal.org/) (eds.)
+[^4]: R.6.2.2, [The Indigo Book: A Manual of Legal Citation](https://indigobook.github.io/versions/indigobook-2.0-rev2023-2.pdf) by Christopher Sprigman & Jennifer Romig et al. eds., [Public.Resource.Org](https://public.resource.org/) 2d ed. (2021)
 
-[^5]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/injunction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^5]: See R. 3.5, [The Bluebook: A Uniform System of Citation (online edition)](https://www.legalbluebook.com/bluebook/v21/rules/3-subdivisions/3-5-internal-cross-references) by [The Columbia Law Review](https://www.columbialawreview.org/), [The Harvard Law Review](https://harvardlawreview.org/), [The University of Pennsylvania Law Review](https://pennlawreview.com/), and [The Yale Law Journal](https://www.yalelawjournal.org/) (eds.)
 
-[^6]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/injunctive_relief) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^6]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/injunction) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^7]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/precedent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^7]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/injunctive_relief) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^8]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondeat_superior) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^8]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/precedent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^9]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^9]: &#x20;[Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondeat_superior) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^10]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/respondent) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
 
-[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/stare_decisis) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+[^11]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/restatement_of_the_law) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
+
+[^12]: [Wex Legal Encyclopedia](https://www.law.cornell.edu/wex/stare_decisis) by [Cornell Law School Legal Information Institute](https://www.law.cornell.edu/)
