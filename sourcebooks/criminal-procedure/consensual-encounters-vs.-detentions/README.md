@@ -10,8 +10,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="investigative-detentions-terry-stops.md" %}
-[investigative-detentions-terry-stops.md](investigative-detentions-terry-stops.md)
+{% content-ref url="investigative-detentions-terry-stops/" %}
+[investigative-detentions-terry-stops](investigative-detentions-terry-stops/)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
