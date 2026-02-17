@@ -46,7 +46,9 @@ The issue in _Harlow_ was the scope of immunity from personal liability of "seni
 \
 At the time of _Harlow_, qualified immunity was commonly referred to as "good faith" immunity. At the time, good faith had both an objective and a subjective component. _Harlow_ did away with the subjective component, and it clarified the objective component, which is discussed in the following paragraph (which made it a single-component standard; i.e., objective reasonableness).
 
-When discussing qualified immunity ("good faith"), the court discussed what is called the "objective reasonable test":\
+When discussing qualified immunity ("good faith"), the court discussed what is called the "objective reasonable test":
+
+\
 \[G]overnment officials performing **discretionary** functions, generally are shielded from liability for civil damages **insofar as their conduct does not violate clearly established statutory or constitutional rights** of which a **reasonable person would have known.** (Emphasis added.)\
 \[However, **if] the law was clearly established**, the immunity defense ordinarily should fail, since **a reasonably competent public official should know the law governing his conduct**.
 
