@@ -102,6 +102,7 @@
       * [Investigative Detentions](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/investigative-detentions.md)
       * [Cases, Notes, & Questions](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/README.md)
         * [Terry v. Ohio](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-v.-ohio.md)
+        * [Minnesota v. Dickerson](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/minnesota-v.-dickerson.md)
         * [Stuff to organize Terry v. Ohio](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/stuff-to-organize-terry-v.-ohio.md)
 * [🛡️ Criminal Justice Liability Law](cj-liability/README.md)
   * [Front Matter](sourcebooks/cj-liability/front-matter.md)
