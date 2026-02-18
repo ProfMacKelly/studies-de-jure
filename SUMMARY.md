@@ -122,7 +122,7 @@
   * [Vicarious Liability Principles](cj-liability/unit-5-vicarious-liability-principles/README.md)
     * [Monell v. Dept. of Social Services](cj-liability/unit-5-vicarious-liability-principles/monell-v.-dept.-of-social-services.md)
     * [Clipper v. Takoma Park](cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)
-    * [Forrest v. Parry](cj-liability/unit-5-vicarious-liability-principles/forrest-v.-parry.md)
+    * [Cleavinger v. Saxner](cj-liability/unit-5-vicarious-liability-principles/forrest-v.-parry.md)
   * [Defenses to Civil Litigation and Risk Management](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/README.md)
     * [Absolute and Qualified Immunity, Generally](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/README.md)
       * [Malley v. Briggs](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/malley-v.-briggs.md)
