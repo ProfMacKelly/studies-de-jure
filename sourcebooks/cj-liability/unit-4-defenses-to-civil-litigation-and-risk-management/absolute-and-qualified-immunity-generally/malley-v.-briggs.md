@@ -1,7 +1,5 @@
 # Malley v. Briggs
 
-
-
 <details>
 
 <summary><mark style="color:$danger;"><strong>Instructional note:</strong></mark> <a href="https://www.courtlistener.com/opinion/110763/harlow-v-fitzgerald/"><em><strong>Harlow v. Fitzgerald</strong></em></a> <strong>has been referenced in earlier cases and will be referenced here as well. Expand this block to read it the summary of what is frequently referred to as the "</strong><em><mark style="color:green;"><strong>Harlow</strong></mark></em><mark style="color:green;"><strong> standard</strong></mark><strong>" for immunity.</strong> </summary>

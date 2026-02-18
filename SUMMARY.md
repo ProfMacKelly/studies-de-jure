@@ -126,7 +126,7 @@
     * [Immunity: Absolute and Qualified](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/immunity-absolute-and-qualified/README.md)
       * [Cleavinger v. Saxner](cj-liability/unit-5-vicarious-liability-principles/forrest-v.-parry.md)
       * [Anderson v. Creighton](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/anderson-v.-creighton.md)
-      * [Malley v. Briggs](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/immunity-absolute-and-qualified/malley-v.-briggs.md)
+      * [Malley v. Briggs](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/malley-v.-briggs.md)
     * [Absolute and Qualified Immunity, Generally](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/README.md)
       * [Articles](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/articles.md)
       * [Estate of Cavanaugh v. Andrade](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/estate-of-cavanaugh-v.-andrade.md)
