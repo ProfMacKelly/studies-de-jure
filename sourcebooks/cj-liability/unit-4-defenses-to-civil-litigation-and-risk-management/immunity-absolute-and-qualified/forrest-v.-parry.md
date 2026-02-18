@@ -102,7 +102,7 @@ _It is so ordered._
 
 ***
 
-{% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+{% include "../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
 
 [^1]: This activity apparently resulted in a visit to the Terre Haute facility by an Assistant Surgeon General and in a lawsuit concerning the last of the four hospital deaths.  See [_Green_ v. _Carlson,_ 581 F. 2d 669 (CA7 1978),](https://scholar.google.com/scholar_case?case=13837954781783332722\&q=leavinger+v.+Saxner+\&hl=en\&as_sdt=6,50) aff'd, [446 U. S. 14 (1980)](https://scholar.google.com/scholar_case?case=646415463381202802\&q=leavinger+v.+Saxner+\&hl=en\&as_sdt=6,50).
 

@@ -78,7 +78,7 @@ Judicial decisions and annotations thereto by third parties are not subject to c
 
 Note: Hyperlinks within this case are not original. Some of these hyperlinks (such as cases and footnotes) may direct you to an external publicly accessible display of the case. This is helpful for reference purposes, and no copyright is claimed here over a third party's hyperlinking choices and methodologies, if applicable.
 
-Subject to limitations above, if any, this page is in the public domain.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line">
+Subject to limitations above, if any, this page is in the public domain.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="line">
 
 </details>
 
