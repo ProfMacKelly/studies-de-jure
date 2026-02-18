@@ -1,6 +1,6 @@
 # Cleavinger v. Saxner
 
-[930 F.3d 93](https://www.courtlistener.com/opinion/4638072/alanda-forrest-v-kevin-parry/) (3d Cir. Ct. App. 2019)
+[474 U.S. 193](https://scholar.google.com/scholar_case?case=18394044920338678572\&hl=en\&as_sdt=6,50) (1985)
 
 Supreme Court of United States
 
