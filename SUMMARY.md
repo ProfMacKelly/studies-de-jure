@@ -100,6 +100,7 @@
       * [Footnotes to Consensual Encounters](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/footnotes-to-consensual-encounters.md)
     * [Investigative Detentions (Terry Stops)](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/README.md)
       * [Investigative Detentions](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/investigative-detentions.md)
+      * [Page 2](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/page-2.md)
       * [Cases, Notes, & Questions](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/README.md)
         * [Stuff to organize Terry v. Ohio](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/stuff-to-organize-terry-v.-ohio.md)
         * [Terry Stops, Generally](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/README.md)
