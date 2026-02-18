@@ -26,6 +26,20 @@
 {% endstep %}
 
 {% step %}
-**More forthcoming**
+{% content-ref url="performance-and-breach.md" %}
+[performance-and-breach.md](performance-and-breach.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="conditions.md" %}
+[conditions.md](conditions.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="affirmative-defenses-to-breach-claims/" %}
+[affirmative-defenses-to-breach-claims](affirmative-defenses-to-breach-claims/)
+{% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
