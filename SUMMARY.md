@@ -125,7 +125,7 @@
     * [Forrest v. Parry](sourcebooks/cj-liability/unit-5-vicarious-liability-principles/forrest-v.-parry.md)
   * [Legal Defenses and Risk Management](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/README.md)
     * [Immunity: Absolute and Qualified](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/immunity-absolute-and-qualified/README.md)
-      * [Cleavinger v. Saxner](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/immunity-absolute-and-qualified/forrest-v.-parry.md)
+      * [Cleavinger v. Saxner](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/immunity-absolute-and-qualified/cleavinger-v.-saxner.md)
       * [Malley v. Briggs](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/malley-v.-briggs.md)
       * [Anderson v. Creighton](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/anderson-v.-creighton.md)
     * [Absolute and Qualified Immunity, Generally](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/README.md)
