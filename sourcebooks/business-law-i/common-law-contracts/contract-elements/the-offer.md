@@ -72,7 +72,7 @@ Unless the offer states a specific time, it remains open for a reasonable time. 
 
 ## What Is Not an Offer
 
-Regardless of whether the elements of an offer appear to exist, the following are circumstances that _**cannot**_ be a valid offer:
+Before discussing the required elements of a valid offer, it is helpful to start with some circumstances that _**cannot**_ be a valid offer:
 
 | Type of Invalid Offers | Definition                                                                                                                                                | Example                                                                                                                                                                                                               |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
