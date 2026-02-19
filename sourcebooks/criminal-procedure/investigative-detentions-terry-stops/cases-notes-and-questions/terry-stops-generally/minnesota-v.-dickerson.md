@@ -96,7 +96,7 @@ For these reasons, the judgment of the Minnesota Supreme Court is _affirmed._
 
 </details>
 
-{% include "../../../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+{% include "../../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
 
 [^1]: &#x20;[481 N. W. 2d 840](https://cite.case.law/nw2d/481/840/), 845 (1992)
 

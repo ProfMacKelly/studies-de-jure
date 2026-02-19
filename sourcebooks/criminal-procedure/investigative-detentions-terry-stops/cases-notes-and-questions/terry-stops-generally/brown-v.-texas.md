@@ -74,7 +74,7 @@ The application of \[statute] to detain appellant and require him to identify hi
 
 ***
 
-{% include "../../../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+{% include "../../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
 
 [^1]: The entire section reads as follows: "§ 38.02. Failure to Identify as Witness \[...] (a) A person commits an offense if he intentionally refuses to report or gives a false report of his name and residence address to a peace officer who has lawfully stopped him and requested the information."
 

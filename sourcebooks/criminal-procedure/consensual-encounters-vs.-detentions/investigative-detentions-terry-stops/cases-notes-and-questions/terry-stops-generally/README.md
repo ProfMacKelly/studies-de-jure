@@ -1,2 +1,0 @@
-# Terry Stops, Generally
-
