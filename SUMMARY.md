@@ -86,7 +86,7 @@
       * [Whren v. United States](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/cases-and-notes/whren-v.-united-states.md)
       * [District of Columbia v. Wesby](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/cases-and-notes/district-of-columbia-v.-wesby.md)
       * [Racial Profiling](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/cases-and-notes/racial-profiling.md)
-  * [Consensual Encounters vs. Detentions](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/README.md)
+  * [Consensual Encounters vs. Seizures](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/README.md)
     * [Consensual Encounters](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/README.md)
       * [Overview](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/overview.md)
       * [The "Free to Terminate" Test](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/consensual-encounters/the-free-to-terminate-test.md)
