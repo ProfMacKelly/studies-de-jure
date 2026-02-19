@@ -104,7 +104,7 @@
         * [Stuff to organize Terry v. Ohio](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/stuff-to-organize-terry-v.-ohio.md)
         * [Terry Stops & Terry Frisks, Generally](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/README.md)
           * [Terry v. Ohio](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/terry-v.-ohio.md)
-          * [Brown v. Texas](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/page-2.md)
+          * [Brown v. Texas](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/brown-v.-texas.md)
           * [Minnesota v. Dickerson](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/minnesota-v.-dickerson.md)
         * [Terry Stops of Vehicles](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/README.md)
           * [U.S. v. Place](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/u.s.-v.-place.md)
