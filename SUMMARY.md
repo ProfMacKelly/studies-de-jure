@@ -110,6 +110,7 @@
           * [U.S. v. Place](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/u.s.-v.-place.md)
           * [U.S. v. Sharpe](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/u.s.-v.-sharpe.md)
           * [U.S. v. Arvizu](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/u.s.-v.-arvizu.md)
+      * [Investigative Detentions — References](sourcebooks/criminal-procedure/consensual-encounters-vs.-detentions/investigative-detentions-terry-stops/investigative-detentions-references.md)
 * [🛡️ Criminal Justice Liability Law](cj-liability/README.md)
   * [Front Matter](sourcebooks/cj-liability/front-matter.md)
   * [Preface: Your Obligation to Know the Law](cj-liability/your-obligation-to-know-the-law.md)
