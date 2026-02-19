@@ -16,7 +16,7 @@ Justice White delivered the opinion of the Court.
 
 In this ease, we consider whether the Fourth Amendment permits the seizure of contraband detected through a police officer’s sense of touch during a protective patdown search.
 
-what's up.\[1]\(#user-content-fn-1)\[^1]
+what's up.[*](#user-content-fn-1)[^1]
 
 ### **I**
 
@@ -74,7 +74,7 @@ For these reasons, the judgment of the Minnesota Supreme Court is _affirmed._
 
 ### _footnotes_
 
-\[^1]: ajflkjfj
+[^1]: ajflkjfj
 
 <details>
 
@@ -92,7 +92,7 @@ Most state and federal courts have recognized a so-called “plain-feel” or �
 
 {% include "../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
 
-[^1]: _sdfdsf._
+
 
 [^2]: [481 N. W. 2d 840](https://cite.case.law/nw2d/481/840/), 845 (1992)
 
