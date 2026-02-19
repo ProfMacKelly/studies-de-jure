@@ -46,7 +46,7 @@ The flaw in the State's case is that none of the circumstances preceding the off
 
 In the absence of any basis for suspecting appellant of misconduct, the balance between the public interest and appellant's right to personal security and privacy tilts in favor of freedom from police interference. The Texas statute under which appellant was stopped and required to identify himself is designed to advance a weighty social objective in large metropolitan centers: prevention of crime. But even assuming that purpose is served to some degree by stopping and demanding identification from an individual without any specific basis for believing he is involved in criminal activity, the guarantees of the Fourth Amendment do not allow it. When such a stop is not based on objective criteria, the risk of arbitrary and abusive police practices exceeds tolerable limits.&#x20;
 
-The application of \[sttute] to detain appellant and require him to identify himself violated the Fourth Amendment because the officers lacked any reasonable suspicion to believe appellant was engaged or had engaged in criminal conduct.\*[^3] Accordingly, appellant may not be punished for refusing to identify himself, and the conviction is reversed.
+The application of \[statute] to detain appellant and require him to identify himself violated the Fourth Amendment because the officers lacked any reasonable suspicion to believe appellant was engaged or had engaged in criminal conduct.\*[^3] Accordingly, appellant may not be punished for refusing to identify himself, and the conviction is reversed.
 
 ## APPENDIX TO OPINION OF THE COURT&#x20;
 
@@ -60,7 +60,7 @@ The application of \[sttute] to detain appellant and require him to identify him
 
 "THE COURT: Okay, I'd like you to tell me what those are.
 
-"MR. PATTON: Well, the Governmental interest to maintain the safety and security of the society and the citizens to live in the society, and there are certainly strong Governmental interests in that direction and because of that, these interests outweigh the interests of an individual for a certain amount of intrusion upon his personal liberty. I think these Governmental interests outweigh the individual's interests in 54\*54 this respect, as far as simply asking an individual for his name and address under the proper circumstances.
+"MR. PATTON: Well, the Governmental interest to maintain the safety and security of the society and the citizens to live in the society, and there are certainly strong Governmental interests in that direction and because of that, these interests outweigh the interests of an individual for a certain amount of intrusion upon his personal liberty. I think these Governmental interests outweigh the individual's interests in this respect, as far as simply asking an individual for his name and address under the proper circumstances.
 
 "THE COURT: But why should it be a crime to not answer?
 
@@ -82,6 +82,6 @@ The application of \[sttute] to detain appellant and require him to identify him
 
 [^1]: The entire section reads as follows: "§ 38.02. Failure to Identify as Witness \[...] (a) A person commits an offense if he intentionally refuses to report or gives a false report of his name and residence address to a peace officer who has lawfully stopped him and requested the information."
 
-[^2]: This situation is to be distinguished from the observations of a trained, experienced police officer who is able to perceive and articulate meaning in given conduct which would be wholly innocent to the untrained observer. See United States v. Brignoni-Ponce, 422 U. S. 873, 884-885 (1975); Christensen v. United States, 104 U. S. App. D. C. 35, 36, 259 F. 2d 192, 193 (1958).
+[^2]: This situation is to be distinguished from the observations of a trained, experienced police officer who is able to perceive and articulate meaning in given conduct which would be wholly innocent to the untrained observer. See [_United States_ v. _Brignoni-Ponce,_ 422 U. S. 873, 884-885 (1975)](https://scholar.google.com/scholar_case?case=17010248136028194244\&hl=en\&as_sdt=6,50); [_Christensen_ v. _United States,_ 104 U. S. App. D. C. 35, 36, 259 F. 2d 192, 193 (1958)](https://scholar.google.com/scholar_case?case=12356778353815783905\&hl=en\&as_sdt=6,50).
 
-[^3]: We need not decide whether an individual may be punished for refusing to identify himself in the context of a lawful investigatory stop which satisfies Fourth Amendment requirements. See Dunaway v. New York, 442 U. S. 200, 210 n. 12 (1979); Terry v. Ohio, 392 U. S. 1, 34 (1968) (WHITE, J., concurring). The County Court Judge who convicted appellant was troubled by this question, as shown by the colloquy set out in the Appendix to this opinion.
+[^3]: We need not decide whether an individual may be punished for refusing to identify himself in the context of a lawful investigatory stop which satisfies Fourth Amendment requirements. _See_ [_Dunaway_ v. _New York,_ 442 U. S. 200, 210 n. 12 (1979)](https://scholar.google.com/scholar_case?case=2553869472151391304\&hl=en\&as_sdt=6,50); [_Terry_ v. _Ohio,_ 392 U. S. 1, 34 (1968) (WHITE, J., concurring)](https://scholar.google.com/scholar_case?case=17773604035873288886\&hl=en\&as_sdt=6,50). The County Court Judge who convicted appellant was troubled by this question, as shown by the colloquy set out in the Appendix to this opinion.
