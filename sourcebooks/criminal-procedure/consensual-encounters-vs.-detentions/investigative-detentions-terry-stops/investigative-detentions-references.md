@@ -1,5 +1,6 @@
 ---
 description: Reference list for Investigative Detentions.
+hidden: true
 ---
 
 # Investigative Detentions — References
