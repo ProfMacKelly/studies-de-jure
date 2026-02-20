@@ -81,6 +81,7 @@
     * [Foundations & Terminology Preview](sourcebooks/criminal-procedure/setting-the-stage/foundations-and-terminology.md)
   * [Overview of Probable Cause and Reasonable Suspicion](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/README.md)
     * [The Principles of Probable Cause and Reasonable Suspicion](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/principles-of-pc-and-rs.md)
+    * [Copy of The Principles of Probable Cause and Reasonable Suspicion](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/copy-principles-of-pc-and-rs.md)
     * [Cases and Notes](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/cases-and-notes/README.md)
       * [Illinois v. Gates](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/cases-and-notes/illinois-v.-gates.md)
       * [Whren v. United States](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/cases-and-notes/whren-v.-united-states.md)
