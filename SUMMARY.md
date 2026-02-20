@@ -112,6 +112,7 @@
     * [Investigative Detentions — References](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/investigative-detentions-references.md)
   * [Arrests & Probable Cause](sourcebooks/criminal-procedure/arrests-and-probable-cause/README.md)
     * [Probable Cause and Reasonable Suspicion: A Closer Look](sourcebooks/criminal-procedure/arrests-and-probable-cause/probable-cause-and-reasonable-suspicion-a-closer-look.md)
+    * [Arrests](sourcebooks/criminal-procedure/arrests-and-probable-cause/arrests.md)
 * [🛡️ Criminal Justice Liability Law](cj-liability/README.md)
   * [Front Matter](sourcebooks/cj-liability/front-matter.md)
   * [Preface: Your Obligation to Know the Law](cj-liability/your-obligation-to-know-the-law.md)
