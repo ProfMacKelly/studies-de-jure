@@ -1,4 +1,4 @@
-# Foundations & Terminology
+# Foundations & Terminology Preview
 
 ## Constitutional Bases for Search and Seizure
 
@@ -54,17 +54,17 @@ Courts use a “totality of the circumstances” test to determine whether proba
 
 ## Introduction to Reasonable Suspicion
 
-While detentions constitute an important public service, they are also “a sensitive area of police activity”\*[^2] that can be a “major source of friction”\*[^3] between officers and the public. That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”\*[^4]
+While detentions constitute an important public service, they are also “a sensitive area of police activity”\*[^2] that can be a “major source of friction”\*[^3] between officers and the public. That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”[<sup>1</sup>](#user-content-fn-4)[^4]
 
-Reasonable suspicion is similar to probable cause to the extent that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”\*[^5] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”\*[^6]&#x20;
+Reasonable suspicion is similar to probable cause to the extent that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”[<sup>2</sup>](#user-content-fn-5)[^5] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”[<sup>3</sup>](#user-content-fn-6)[^6]&#x20;
 
 Second, reasonable suspicion may be based on information that is not as reliable as the information needed to establish probable cause. Again quoting the Supreme Court:
 
-> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.\*[^7]
+> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.[<sup>4</sup>](#user-content-fn-7)[^7]
 
-Although the circumstances that justify detentions are “bewilderingly diverse,”\*[^8] reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”\*[^9] Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”\*[^10]&#x20;
+Although the circumstances that justify detentions are “bewilderingly diverse,”[<sup>5</sup>](#user-content-fn-8)[^8] reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”[<sup>6</sup>](#user-content-fn-9)[^9] Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”[<sup>7</sup>](#user-content-fn-10)[^10]&#x20;
 
-This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”\*[^11]
+This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”[<sup>8</sup>](#user-content-fn-11)[^11]
 
 <details>
 
