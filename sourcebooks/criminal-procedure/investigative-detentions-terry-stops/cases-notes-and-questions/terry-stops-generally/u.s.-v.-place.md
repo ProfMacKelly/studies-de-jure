@@ -4,13 +4,13 @@ In this case—in the context of a stop—in addition to illustrating that dog s
 
 ***
 
-Supreme Court of the United States
-
-**United States. v. Place**
-
 [462 U.S. 696](https://opencasebook.org/casebooks/11777-jpp-308-in-progress/resources/3.6-united-states-v-place/annotate/) (1983)
 
-\[...]
+Supreme Court of the United States
+
+**United States**\
+**v.**\
+**Place**
 
 Justice O’Connor delivered the opinion of the Court.
 

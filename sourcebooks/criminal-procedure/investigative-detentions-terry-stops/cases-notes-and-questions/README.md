@@ -8,8 +8,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="terry-stops-of-vehicles/" %}
-[terry-stops-of-vehicles](terry-stops-of-vehicles/)
+{% content-ref url="/broken/pages/rnRUi3sZL7I8INnJGlGH" %}
+[Broken link](/broken/pages/rnRUi3sZL7I8INnJGlGH)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}

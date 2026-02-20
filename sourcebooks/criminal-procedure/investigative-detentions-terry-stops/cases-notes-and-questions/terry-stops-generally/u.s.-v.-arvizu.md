@@ -4,11 +4,13 @@ In this case, the Court continues its efforts to define the "reasonable suspicio
 
 ***
 
+[534 U.S. 266](https://cite.case.law/us/534/266/) (2002)
+
 Supreme Court of the United States
 
-**United States v. Ralph Arvizu**
-
-Decided Jan. 15, 2002 – [534 U.S. 266](https://cite.case.law/us/534/266/)
+**United States**\
+**v.**\
+**Ralph Arvizu**
 
 Chief Justice REHNQUIST delivered the opinion of the \[unanimous] Court.
 

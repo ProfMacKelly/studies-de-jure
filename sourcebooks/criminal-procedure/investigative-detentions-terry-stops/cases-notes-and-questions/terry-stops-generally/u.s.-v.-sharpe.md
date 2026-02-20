@@ -4,11 +4,13 @@ The next case sheds further light on the permissible scope of investigatory stop
 
 ***
 
+[470 U.S. 675](https://cite.case.law/us/470/675/) (1985)
+
 Supreme Court of the United States
 
-**United States v. William Harris Sharpe**
-
-Decided March 20, 1985 – [470 U.S. 675](https://cite.case.law/us/470/675/)
+**United States**\
+**v.**\
+**William Harris Sharpe**&#x20;
 
 Chief Justice BURGER delivered the opinion of the Court.
 
