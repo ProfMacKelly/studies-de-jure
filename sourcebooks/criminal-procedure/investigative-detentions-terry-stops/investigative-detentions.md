@@ -433,7 +433,13 @@ Second, although not technically an absolute requirement,[<sup>192</sup>](#user-
 
 One other thing. The courts sometimes note whether officers explained to the suspect why they wanted to talk with him further, why they were seeking consent to search, or why they wanted to run a warrant check. Explanations such as these are relevant because this type of openness is more consistent with a contact than a detention, and it would indicate to the suspect that the officers were seeking his voluntary cooperation.[<sup>195</sup>](#user-content-fn-194)[^194]
 
-### References
+<details>
+
+<summary>Attributions &#x26; Licensing</summary>
+
+Unless otherwise indicated, this page's content is adapted from the following source(s): [4.1: Investigative Detentions](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/04%3A_Detentions_Based_on_Reasonable_Suspicion/4.1%3A_Investigative_Detentions)—[POV](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/03%3A_Consensual_Encounters__Investigative_Contacts/3.1%3A_Investigative_Contacts_-_POV) in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+
+</details>
 
 [^1]: Terry v. Ohio (1968) 392 U.S. 1, 16.
 
