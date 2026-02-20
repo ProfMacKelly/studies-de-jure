@@ -4,8 +4,8 @@
 
 {% stepper %}
 {% step %}
-{% content-ref url="../arrests-and-probable-cause/probable-cause-and-reasonable-suspicion-a-closer-look.md" %}
-[probable-cause-and-reasonable-suspicion-a-closer-look.md](../arrests-and-probable-cause/probable-cause-and-reasonable-suspicion-a-closer-look.md)
+{% content-ref url="principles-of-pc-and-rs.md" %}
+[principles-of-pc-and-rs.md](principles-of-pc-and-rs.md)
 {% endcontent-ref %}
 {% endstep %}
 
