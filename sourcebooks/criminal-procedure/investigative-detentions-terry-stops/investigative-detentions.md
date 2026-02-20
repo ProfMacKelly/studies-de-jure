@@ -1,6 +1,6 @@
 # Terry Stops (AKA Investigative Detentions)
 
-### Terry Stops (AKA Investigative Detentions)
+## Introduction
 
 “It must be recognized that whenever a police officer accosts an individual and restrains his freedom to walk away, he has ‘seized’ that person.”[<sup>1</sup>](#user-content-fn-1)[^1]
 
@@ -8,42 +8,38 @@ Of all the police field operations that deter and thwart crime, and result in th
 
 The outcome of detentions will, of course, vary. Some result in arrests. Some provide investigators with useful—often vital—information. Some are fruitless. All are dangerous.
 
-To help reduce the danger and to confirm or dispel their suspicions, officers may do a variety of things. For example, they may order the detainee to identify himself, stand or sit in a certain place, and state whether he is armed. Under certain circumstances, they may pat search the detainee or conduct a protective search of his car. If they think he just committed a crime that was witnessed by someone, they might conduct a field showup. To determine if he is wanted, they will usually run a warrant check. If they cannot develop probable cause, they will sometimes complete a field contact card for inclusion in a database or for referral to detectives.
+To help reduce the danger and to confirm or dispel their suspicions, officers may do a variety of things. For example, they may order the detainee to identify himself, stand or sit in a certain place, and state whether he is armed. Under certain circumstances, they may pat search the detainee or conduct a protective search of his car. If they think he just committed a crime that was witnessed by someone, they might conduct a field "showup." To determine if he is wanted, they will usually run a warrant check. If they cannot develop probable cause, they will sometimes complete a field contact card for inclusion in a database or for referral to detectives.
 
-But, for the most part, officers will try to confirm or dispel their suspicions by asking questions.“When circumstances demand immediate investigation by the police,” said the Court of Appeal, “the most useful, most available tool for such investigation is general on-the-scene questioning.”[<sup>2</sup>](#user-content-fn-2)[^2]
+But, for the most part, officers will try to confirm or dispel their suspicions by asking questions. “When circumstances demand immediate investigation by the police,” said the Court of Appeal, “the most useful, most available tool for such investigation is general on-the-scene questioning.”[<sup>2</sup>](#user-content-fn-2)[^2]
 
 Because detentions are so useful to officers and beneficial to the community, it might seem odd that they did not exist—at least not technically—until 1968. That’s when the Supreme Court ruled in the landmark case of _Terry v. Ohio_[<sup>3</sup>](#user-content-fn-3)[^3] that officers who lacked probable cause to arrest could detain a suspect temporarily if they had a lower level of proof known as “reasonable suspicion.”[<sup>4</sup>](#user-content-fn-4)[^4]
 
-In reality, however, law enforcement officers throughout the country had been stopping and questioning suspected criminals long before 1968. But _Terry_ marks the point at which the Supreme Court ruled that this procedure was constitutional, and also set forth the rules under which detentions must be conducted.
+In reality, however, law enforcement officers throughout the country had been stopping and questioning suspected criminals long before 1968. But _Terry_ marks the point at which the Supreme Court ruled that this procedure was constitutional and also set forth the rules under which detentions must be conducted.
 
 What are those rules? We will cover them all in this article but, for now, it should be noted that they can be divided into two broad categories:
 
-1. **Grounds to detain**: Officers must have had sufficient grounds to detain the suspect; i.e., reasonable suspicion.
+1. **Grounds to detain**: Officers must have had sufficient grounds to detain the suspect (i.e., _reasonable suspicion_).
 2. **Procedure**: The procedures that officers utilized to confirm or dispel their suspicion and to protect themselves must have been objectively reasonable.
 
 Taking note of these requirements, the Court in _Terry_ pointed out that “our inquiry is a dual one— whether the officer’s action was justified at its inception, and whether it was reasonably related in scope to the circumstances which justified the interference in the first place.”[<sup>5</sup>](#user-content-fn-5)[^5]
 
-One more thing before we begin: In addition to investigative detentions, there are two other types of temporary seizures. The first (and most common) is the traffic stop. Although traffic stops are technically “arrests” when (as is usually the case) the officer witnessed the violation and, therefore, had probable cause, traffic stops are subject to the same rules as investigative detentions.[<sup>6</sup>](#user-content-fn-6)[^6] The other type of detention is known as a “special needs detention” which is a temporary seizure that advances a community interest other than the investigation of a suspect or a suspicious circumstance. (We covered the subject of special needs detentions in the Winter 2003 edition in the article “Detaining Witnesses” which can be downloaded on Online (www.le.alcoda.org).
+One more thing before we begin: In addition to investigative detentions, there are two other types of temporary seizures. The first (and most common) is the traffic stop. Although traffic stops are technically “arrests” when (as is usually the case) the officer witnessed the violation and, therefore, had probable cause, traffic stops are subject to the same rules as investigative detentions.[<sup>6</sup>](#user-content-fn-6)[^6] The other type of detention is known as a “special needs detention” which is a temporary seizure that advances a community interest other than the investigation of a suspect or a suspicious circumstance.
 
-### Reasonable Suspicion
+## Reasonable Suspicion
 
 While detentions constitute an important public service, they are also a “sensitive area of police activity”[<sup>7</sup>](#user-content-fn-7)[^7] that can be a “major source of friction” between officers and the public.[<sup>8</sup>](#user-content-fn-8)[^8] That is why law enforcement officers are permitted to detain people only if they were aware of circumstances that constituted reasonable suspicion. In the words of the United States Supreme Court, “An investigative stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity.”[<sup>9</sup>](#user-content-fn-9)[^9]
 
-Reasonable suspicion is similar to probable cause in that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”[<sup>10</sup>](#user-content-fn-10)[^10] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”[<sup>11</sup>](#user-content-fn-11)[^11] Second, reasonable suspicion may be based on information that is not as reliable as the information needed to establish probable cause. Again quoting the Supreme Court:
+Reasonable suspicion is similar to probable cause in that both terms designate a particular level of suspicion. They differ, however, in two respects. First, while probable cause requires a “fair probability” of criminal activity, reasonable suspicion requires something less, something that the Supreme Court recently described as a “moderate chance.”[<sup>10</sup>](#user-content-fn-10)[^10] Or, to put it another way, reasonable suspicion “lies in an area between probable cause and a mere hunch.”[<sup>11</sup>](#user-content-fn-11)[^11] Second, reasonable suspicion may be based on information that is not as reliable as the information needed to establish probable cause. Again, quoting the Supreme Court:
 
-Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.[<sup>12</sup>](#user-content-fn-12)[^12]
+> Reasonable suspicion is a less demanding standard than probable cause not only in the sense that reasonable suspicion can be established with information that is different in quantity or content than that required to establish probable cause, but also in the sense that reasonable suspicion can arise from information that is less reliable.[<sup>12</sup>](#user-content-fn-12)[^12]
 
 Although the circumstances that justify detentions are “bewilderingly diverse,”[<sup>13</sup>](#user-content-fn-13)[^13] reasonable suspicion ordinarily exists if officers can articulate one or more specific circumstances that reasonably indicate, based on common sense or the officers’ training and experience, that “criminal activity is afoot and that the person to be stopped is engaged in that activity.”[<sup>14</sup>](#user-content-fn-14)[^14] Thus, officers “must be able to articulate something more than an inchoate and unparticularized suspicion or hunch.”[<sup>15</sup>](#user-content-fn-15)[^15]
 
-This does not mean that officers must have direct evidence that connects the suspect to a specific crime.On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court,“\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”[<sup>16</sup>](#user-content-fn-16)[^16]
+This does not mean that officers must have direct evidence that connects the suspect to a specific crime. On the contrary, it is sufficient that the circumstances were merely _consistent_ with criminal activity. In the words of the California Supreme Court, “\[W]hen circumstances are consistent with criminal activity, they permit—even demand—an investigation.”[<sup>16</sup>](#user-content-fn-16)[^16]
 
-We covered the subject of reasonable suspicion in the 2008 article entitled “Probable Cause to Arrest” which can be downloaded on Online (www.le.alcoda.org).
+## Detention Procedure
 
-### Detention Procedure
-
-In the remainder of this article, we will discuss the requirement that officers conduct their detentions in an objectively reasonable manner. As with many areas of the law, it will be helpful to start with the general principles.
-
-**General principles**
+### **General Principles**
 
 The propriety of the officers’ conduct throughout detentions depends on two things. First, they must have restricted their actions to those that are reasonably necessary to, (1) protect themselves, and (2) complete their investigation.[<sup>17</sup>](#user-content-fn-17)[^17] As the Fifth Circuit explained in United States v. Campbell, “In the course of \[their] investigation, the officers had two goals: to investigate and to protect themselves during their investigation.”[<sup>18</sup>](#user-content-fn-18)[^18]
 
@@ -51,39 +47,39 @@ Second, even if the investigation was properly focused, a detention will be inva
 
 Although officers are allowed a great deal of discretion in determining how best to protect themselves and conduct their investigation, the fact remains that detentions are classified as “seizures” under the Fourth Amendment, which means they are subject to the constitutional requirement of objective reasonableness.[<sup>20</sup>](#user-content-fn-20)[^20] For example, even if a showup was reasonably necessary, a detention may be deemed unlawful if the officers were not diligent in arranging for the witness to view the detainee. Similarly, even if there existed a legitimate need for additional officer-safety precautions, a detention may be struck down if the officers did not limit their actions to those that were reasonably necessary under the circumstances.
 
-**DE FACTO ARRESTS**
+### **De Facto Arrests**
 
-A detention that does not satisfy one or both of these requirements may be invalidated in two ways. First, it will be deemed a de facto arrest if the safety precautions were excessive, if the detention was unduly prolonged, or if the detainee was unnecessarily transported from the scene. While de facto arrests are not unlawful per se, they will be upheld only if the officers had probable cause to arrest.[<sup>21</sup>](#user-content-fn-21)[^21] As the court noted in _United States v. Shabazz_, “A prolonged investigative detention may be tantamount to a de facto arrest, a more intrusive custodial state which must be based upon probable cause rather than mere reasonable suspicion.”[<sup>22</sup>](#user-content-fn-22)[^22]
+A detention that does not satisfy one or both of these requirements may be invalidated in two ways. First, it will be deemed a de facto arrest if the safety precautions were excessive, if the detention was unduly prolonged, or if the detainee was unnecessarily transported from the scene. While de facto arrests are not unlawful per se, they will be upheld only if the officers had probable cause to arrest.[<sup>21</sup>](#user-content-fn-21)[^21] As the court noted in [_United States v. Shabazz_](https://scholar.google.com/scholar_case?case=12119685229736097130\&hl=en\&as_sdt=6,50), “A prolonged investigative detention may be tantamount to a de facto arrest, a more intrusive custodial state which must be based upon probable cause rather than mere reasonable suspicion.”[<sup>22</sup>](#user-content-fn-22)[^22]
 
-Unfortunately, the term “de facto arrest” may be misleading because it can be interpreted to mean that an arrest results whenever the officers’ actions were more consistent with an arrest than a detention; e.g., handcuffing. But, as we will discuss later, arrest-like actions can result in a de facto arrest only if they were not reasonably necessary.[<sup>23</sup>](#user-content-fn-23)[^23]
+Unfortunately, the term “de facto arrest” may be misleading because it can be interpreted to mean that an arrest results whenever the officers’ actions were more consistent with an arrest than a detention (e.g., handcuffing. But, as we will discuss later, arrest-like actions can result in a de facto arrest only if they were not reasonably necessary).[<sup>23</sup>](#user-content-fn-23)[^23]
 
-In many cases, of course, the line between a detention and de facto arrest will be difficult to detect.[<sup>24</sup>](#user-content-fn-24)[^24] As the Seventh Circuit observed in _U.S. v. Tilmon_, “Subtle, and perhaps tenuous, distinctions exist between a _Terry_ stop, a _Terry_ stop rapidly evolving into an arrest, and a de facto arrest.”[<sup>25</sup>](#user-content-fn-25)[^25] So, in “borderline” cases—meaning cases in which the detention “has one or two arrest-like features but otherwise is arguably consistent with a Terry stop”— the assessment “requires a fact-specific inquiry into whether the measures used were reasonable in light of the circumstances that prompted the stop or that developed during its course.”[<sup>26</sup>](#user-content-fn-26)[^26]
+In many cases, of course, the line between a detention and de facto arrest will be difficult to detect.[<sup>24</sup>](#user-content-fn-24)[^24] As the Seventh Circuit observed in [_U.S. v. Tilmon_](https://scholar.google.com/scholar_case?case=6032318534261864616\&hl=en\&as_sdt=6,50), “Subtle, and perhaps tenuous, distinctions exist between a _Terry_ stop, a _Terry_ stop rapidly evolving into an arrest, and a de facto arrest.”[<sup>25</sup>](#user-content-fn-25)[^25] So, in “borderline” cases—meaning cases in which the detention “has one or two arrest-like features but otherwise is arguably consistent with a Terry stop”— the assessment “requires a fact-specific inquiry into whether the measures used were reasonable in light of the circumstances that prompted the stop or that developed during its course.”[<sup>26</sup>](#user-content-fn-26)[^26]
 
 Second, even if a detention did not resemble an arrest, it may be invalidated on grounds that the officers investigated matters for which reasonable suspicion did not exist; or if they did not promptly release the suspect when they realized that their suspicions were unfounded or that they would be unable to confirm them.
 
-**TOTALITY OF CIRCUMSTANCES**
+### **Totality of Circumstances**
 
 In determining whether the officers acted in a reasonable manner, the courts will consider the totality of circumstances, not just those that might warrant criticism.[<sup>27</sup>](#user-content-fn-27)[^27] Thus, the First Circuit pointed out, “A court inquiring into the validity of a _Terry_ stop must use a wide lens.”[<sup>28</sup>](#user-content-fn-28)[^28]
 
-**COMMON SENSE**
+### **Common Sense**
 
 Officers and judges are expected to evaluate the surrounding circumstances in light of common sense, not hypertechnical analysis. In the words of the United States Supreme Court, “Much as a ‘bright line’ rule would be desirable, in evaluating whether an investigative detention is unreasonable, common sense and ordinary human experience must govern over rigid criteria.”[<sup>29</sup>](#user-content-fn-29)[^29]
 
-**TRAINING AND EXPERIENCE**
+### **Training and Experience**
 
 A court may consider theofficers’interpretationofthecircumstancesbased on their training and experience if the interpretation was reasonable.[<sup>30</sup>](#user-content-fn-30)[^30] For example, the detainee’s movements and speech will sometimes indicate to trained officers that he is about to fight or run.
 
-**NO “LEAST INTRUSIVE MEANS” REQUIREMENT**
+### **No “Least Intrusive Means” Requirement**
 
 There are several appellate decisions on the books in which the courts said or implied that a detention will be invalidated if the officers failed to utilize the “least intrusive means” of conducting their investigation and protecting themselves. In no uncertain terms, however, the Supreme Court has ruled that the mere existence of a less intrusive alternative is immaterial. Instead, the issue is whether the officers were negligent in failing to recognize and implement it. As the Court explained in _U.S. v. Sharpe_, “The question is not simply whether some other alternative was available, but whether the police acted unreasonably in failing to recognize or to pursue it.”[<sup>31</sup>](#user-content-fn-31)[^31] The Court added that, in making this determination, judges must keep in mind that most detentions are “swiftly developing” and that judges “can almost always imagine some alternative means by which the objectives of the police might have been accomplished.”
 
-**DEVELOPMENTS AFTER THE STOP**
+### **Developments After the Stop**
 
 The courts understand that detentions are not static events, and that the reasonableness of the officers’ actions often depends on what happened as things progressed, especially whether the officers reasonably became more or less suspicious, or more or less concerned for their safety.[<sup>32</sup>](#user-content-fn-32)[^32] For example, in _U.S. v. Sowers_ the court noted the following:
 
 Based on unfolding events, the trooper’s attention shifted away from the equipment violations that prompted the initial stop toward a belief that the detainees were engaged in more serious skullduggery. Such a shift in focus is neither unusual not impermissible.[<sup>33</sup>](#user-content-fn-33)[^33] Similarly, the Seventh Circuit said that “\[o]fficers faced with a fluid situation are permitted to graduate their responses to the demands of the particular circumstances confronting them.”[<sup>34</sup>](#user-content-fn-34)[^34] Or, in the words of the California Court of Appeal, “Levels of force and intrusion in an investigatory stop may be legitimately escalated to meet supervening events,” and “\[e]ven a complete restriction of liberty, if brief and not excessive under the circumstances, may constitute a valid _Terry_ stop and not an arrest.”[<sup>35</sup>](#user-content-fn-35)[^35]
 
-**DETENTIONS BASED ON REASONABLE SUSPICION PLUS**
+### **Detentions Based on "Reasonable Suspicion Plus"**
 
 Before moving on, we should note that some courts have sought to avoid the problems that often result from the artificial distinction between lawful detentions and de facto arrests by simply permitting more intrusive actions when there is a corresponding increase in the level of suspicion. In one such case, _U.S. v. Tilmon_, the court explained:
 
@@ -93,7 +89,7 @@ In another case, _Lopez Lopez v. Aran_, the First Circuit said that “where the
 
 Having discussed the basic principles that the courts apply in determining whether a detention was conducted in a reasonable manner, we will now look at how the courts have analyzed the various procedures that officers typically utilize in the course of investigative detentions.
 
-**Using force to detain**
+## **Using Force to Detain**
 
 If a suspect refuses to comply with an order to stop, officers may of course use force to accomplish the detention. This is because the right to detain “is meaningless unless officers may, when necessary, _forcibly_ detain a suspect.”[<sup>39</sup>](#user-content-fn-38)[^38] Or, as the Ninth Circuit explained in _U.S. v. Thompson_:
 
@@ -103,51 +99,47 @@ How much force is permitted? All that can really be said is that officers may us
 
 Note that in most cases in which force is reasonably necessary, the officers will have probable cause to arrest the detainee for resisting, delaying, or obstructing.[<sup>41</sup>](#user-content-fn-41)[^41] If so, it would be irrelevant that the detention had become a de facto arrest.
 
-**Officer-safety precautions**
+## **Officer-Safety Precautions**
 
 It is “too plain for argument,” said the Supreme Court, that officer-safety concerns during detentions are “both legitimate and weighty.”[<sup>42</sup>](#user-content-fn-42)[^42] This is largely because the officers are “particularly vulnerable” since “a full custodial arrest has not been effected, and the officer must make a quick decision as to how to protect himself and others from possible danger.”[<sup>43</sup>](#user-content-fn-43)[^43]
 
-Sometimes the danger is apparent, as when the detainee was suspected of having committed a felony, especially a violent felony or one in which the perpetrators were armed.[<sup>44</sup>](#user-content-fn-44)[^44] Or it maybe the detainee’s conduct that indicates he presents a danger; e.g., he refuses to comply with an officer’s order to keep his hands in sight, or he is extremely jittery, or he won’t stop moving around.[<sup>45</sup>](#user-content-fn-45)[^45]
+Sometimes the danger is apparent, as when the detainee was suspected of having committed a felony, especially a violent felony or one in which the perpetrators were armed.[<sup>44</sup>](#user-content-fn-44)[^44] Or maybe the detainee’s conduct that indicates he presents a danger; e.g., he refuses to comply with an officer’s order to keep his hands in sight, or he is extremely jittery, or he won’t stop moving around.[<sup>45</sup>](#user-content-fn-45)[^45]
 
-And then there are situations that are dangerous but the officers don’t know how dangerous.[<sup>46</sup>](#user-content-fn-46)[^46] For example, they may be unaware that the detainee is wanted for a felony or that he possesses evidence that would send him to prison if it was discovered. Thus, in _Arizona v. Johnson_, a traffic stop case, the Supreme Court noted that the risk of a violent encounter “stems not from the ordinary reaction of a motorist stopped for a speeding violation, but from the fact that evidence of a more serious crime might be uncovered during the stop.”[<sup>47</sup>](#user-content-fn-47)[^47]
+And then there are situations that are dangerous, but the officers don’t know how dangerous.[<sup>46</sup>](#user-content-fn-46)[^46] For example, they may be unaware that the detainee is wanted for a felony or that he possesses evidence that would send him to prison if it was discovered. Thus, in _Arizona v. Johnson_, a traffic stop case, the Supreme Court noted that the risk of a violent encounter “stems not from the ordinary reaction of a motorist stopped for a speeding violation, but from the fact that evidence of a more serious crime might be uncovered during the stop.”[<sup>47</sup>](#user-content-fn-47)[^47]
 
 It is noteworthy that, in the past, it was sometimes argued that any officer-safety precaution was too closely associated with an arrest to be justified by anything less than probable cause. But, as the Seventh Circuit commented, that has changed, thanks to the swelling ranks of armed and violence-prone criminals:
 
-\[W]e have over the years witnessed a multifaceted expansion of _Terry_. For better or for worse, the trend has led to permitting of the use of handcuffs, the placing of suspects in police cruisers, the drawing of weapons and other measures of force more traditionally associated with arrest than with investigatory detention.[<sup>48</sup>](#user-content-fn-48)[^48]
+> \[W]e have over the years witnessed a multifaceted expansion of _Terry_. For better or for worse, the trend has led to permitting of the use of handcuffs, the placing of suspects in police cruisers, the drawing of weapons and other measures of force more traditionally associated with arrest than with investigatory detention.[<sup>48</sup>](#user-content-fn-48)[^48]
 
 Thus, officers may now employ any officer-safety precautions that were reasonably necessary under the circumstances—with emphasis on the word “reasonably.”[<sup>49</sup>](#user-content-fn-49)[^49] The Ninth Circuit put it this way: “\[W]e allow intrusive and aggressive police conduct without deeming it an arrest in those circumstances when it is a reasonable response to legitimate safety concerns on the part of the investigating officers.”[<sup>50</sup>](#user-content-fn-50)[^50] Or in the words of the Fifth Circuit:
 
-\[P]ointing a weapon at a suspect, ordering a suspect to lie on the ground, and handcuffing a suspect—whether singly or in combination—do not automatically convert an investigatory detention into an arrest \[unless] the police were unreasonable in failing to use less intrusive procedures to conduct their investigationsafely.[<sup>51</sup>](#user-content-fn-51)[^51]
+> \[P]ointing a weapon at a suspect, ordering a suspect to lie on the ground, and handcuffing a suspect—whether singly or in combination—do not automatically convert an investigatory detention into an arrest \[unless] the police were unreasonable in failing to use less intrusive procedures to conduct their investigationsafely.[<sup>51</sup>](#user-content-fn-51)[^51]
 
 With this in mind, we will now look at how the courts are evaluating the most common officer safety measures.
 
-**KEEP HANDS IN SIGHT**
+### **Keep Hands in Sight**
 
 Commanding a detainee to keep his hands in sight is so minimally intrusive that it is something that officers may do as a matter of routine.[<sup>52</sup>](#user-content-fn-52)[^52]
 
-**OFFICER-SAFETY QUESTIONS**
+### **Officer-Safety Questions**
 
-Officers may ask questions that are reasonably necessary to determine if, or to what extent, a detainee constitutes a threat— provided the questioning is brief and to the point. For example, officers may ask the detainee if he has any weapons or drugs in his possession,or if he is on probation or parole.[<sup>53</sup>](#user-content-fn-53)[^53]
+Officers may ask questions that are reasonably necessary to determine if, or to what extent, a detainee constitutes a threat— provided the questioning is brief and to the point. For example, officers may ask the detainee if he has any weapons or drugs in his possession, or if he is on probation or parole.[<sup>53</sup>](#user-content-fn-53)[^53]
 
-**CONTROLLING DETAINEES’ MOVEMENTS**
+### **Controlling Detainees’ Movements**
 
 For their safety (and also in order to carry out their investigation efficiently), officers may require the detainee to stand or sit in a particular place. Both objectives are covered in the section “Controlling the detainee’s movements,” beginning on page ten.
 
-**LIE ON THE GROUND**
+### **Lie on the Ground**
 
 Ordering a detainee to lie on the ground is much more intrusive than merely ordering him to sit on the curb. Consequently, such a precaution cannot be conducted as a matter of routine but, instead, is permitted only if there was some justification for it.[<sup>54</sup>](#user-content-fn-54)[^54]
 
-**PAT SEARCHING**
+### **Frisking (AKA Pat Searching)**
 
 Officers may pat search a detainee if they reasonably believed that he was armed or otherwise presented a threat to officers or others. Although the courts routinely say that officers must have reasonably believed that the detainee was armed and dangerous, either is sufficient. This is because it is apparent that a suspect who is armed with a weapon is necessarily dangerous to any officer who is detaining him, even if he was cooperative and exhibited no hostility.[<sup>55</sup>](#user-content-fn-55)[^55] For example, pat searches are permitted whenever officers reasonably believed that the detainee committed a crime in which a weapon was used, or a crime in which weapons are commonly used; e.g., drug trafficking. A pat search is also justified if officers reasonably believed that the detainee posed an immediate threat, even if there was no reason to believe he was armed.[<sup>56</sup>](#user-content-fn-56)[^56]
 
-We covered the subject of pat searches in the Winter 2008 edition which can be downloaded on Point of View Online at www.le.alcoda.org.
+### **Handcuffing**
 
-**HANDCUFFING**
-
-Although handcuffing “minimizes the risk of harm to both officers and detainees,”[<sup>57</sup>](#user-content-fn-57)[^57] it is not considered standard operating procedure.[<sup>58</sup>](#user-content-fn-58)[^58] Instead, it is permitted only if there was reason to believe that physical restraint was warranted.[<sup>59</sup>](#user-content-fn-59)[^59] In the words of the Court of Appeal:
-
-\[A] police officer may handcuff a detainee without converting the detention into an arrest if the handcuffing is brief and reasonably necessary under the circumstances.[<sup>60</sup>](#user-content-fn-60)[^60]
+Although handcuffing “minimizes the risk of harm to both officers and detainees,”[<sup>57</sup>](#user-content-fn-57)[^57] it is not considered standard operating procedure.[<sup>58</sup>](#user-content-fn-58)[^58] Instead, it is permitted only if there was reason to believe that physical restraint was warranted.[<sup>59</sup>](#user-content-fn-59)[^59] In the words of the Court of Appeals: "\[A] police officer may handcuff a detainee without converting the detention into an arrest if the handcuffing is brief and reasonably necessary under the circumstances."[<sup>60</sup>](#user-content-fn-60)[^60]
 
 What circumstances tend to indicate that handcuffing was reasonably necessary? The following are examples:
 
@@ -164,7 +156,7 @@ What circumstances tend to indicate that handcuffing was reasonably necessary? T
 * Detainee was transported to another location.[<sup>71</sup>](#user-content-fn-71)[^71]
 * Officers were awaiting victim’s arrival for a showup.[<sup>72</sup>](#user-content-fn-72)[^72]
 
-**Three other points**
+#### **Three Other Points**
 
 First, if there was reason to believe that handcuffing was necessary, it is immaterial that officers had previously pat searched the detainee and did not detect a weapon. This is because a pat down “is not an infallible method of locating concealed weapons.”[<sup>73</sup>](#user-content-fn-73)[^73]
 
@@ -172,17 +164,17 @@ Second, in close cases it is relevant that the officers told the detainee that, 
 
 Third, even if handcuffing was necessary, it may convert a detention into a de facto arrest if the handcuffs were applied for an unreasonable length of time,[<sup>75</sup>](#user-content-fn-75)[^75] or if they were applied more tightly than necessary. As the Seventh Circuit put it, “\[A]n officer may not knowingly use handcuffs in a way that will inflict unnecessary pain or injury on an individual who presents little or no risk of flight or threat of injury.”[<sup>76</sup>](#user-content-fn-76)[^76] Similarly, the Ninth Circuit observed that “no reasonable officer could believe that the abusive application of handcuffs was constitutional.”[<sup>77</sup>](#user-content-fn-77)[^77]
 
-**WARRANT CHECKS**
+### **Warrant Checks**
 
 Because wanted detainees necessarily pose an increased threat, officers may run warrant checks as a matter of routine. Because warrant checks are also an investigative tool, this subject is covered in the section, “Conducting the investigation.”
 
-**PROTECTIVE CAR SEARCHES**
+### **Protective Car Searches**
 
 When a person is detained in or near his car, a gun or other weapon in the vehicle could be just as dangerous to the officers as a weapon in his waistband. Consequently, the United States Supreme Court ruled that officers may look for weapons inside the passenger compartment if they reasonably believed that a weapon— even a “legal” one—was located there.[<sup>78</sup>](#user-content-fn-78)[^78]
 
-For example, in _People v. Lafitte_[<sup>79</sup>](#user-content-fn-79)[^79] Orange County sheriff’s deputies stopped Lafitte at about 10:15 P.M. because he was driving with a broken headlight. While one of the deputies was talking with him, the other shined a flashlight inside the passenger compartment and saw a knife on the open door of the glove box. The deputy then seized the knife and searched for more weapons. He found one—a handgun—in a trash bag hanging from the ashtray. Although the court described the knife as “legal,” and although Lafitte had been cooperative throughout the detention, the court ruled the search was justified because “the discovery of the weapon is the crucial fact which provides a reasonable basis for the officer’s suspicion.” Note that a protective vehicle search may be conducted even though the detainee had been handcuffed or was otherwise restrained.[<sup>80</sup>](#user-content-fn-80)[^80]
+For example, in _People v. Lafitte,_[<sup>79</sup>](#user-content-fn-79)[^79] Orange County sheriff’s deputies stopped Lafitte at about 10:15 P.M. because he was driving with a broken headlight. While one of the deputies was talking with him, the other shined a flashlight inside the passenger compartment and saw a knife on the open door of the glove box. The deputy then seized the knife and searched for more weapons. He found one—a handgun—in a trash bag hanging from the ashtray. Although the court described the knife as “legal,” and although Lafitte had been cooperative throughout the detention, the court ruled the search was justified because “the discovery of the weapon is the crucial fact which provides a reasonable basis for the officer’s suspicion.” Note that a protective vehicle search may be conducted even though the detainee had been handcuffed or was otherwise restrained.[<sup>80</sup>](#user-content-fn-80)[^80]
 
-**DETENTION AT GUNPOINT**
+### **Detention at Gunpoint**
 
 Although a detention at gunpoint is a strong indication that the detainee was under arrest, the courts have consistently ruled that such a safety measure will not require probable cause if, (1) the precaution was reasonably necessary, and (2) the weapon was reholstered after it was safe to do so.[<sup>81</sup>](#user-content-fn-81)[^81] Said the Fifth Circuit, “\[I]n and of itself, the mere act of drawing or pointing a weapon during an investigatory detention does not cause it to exceed the permissible grounds of a Terry stop or to become a de facto arrest.”[<sup>82</sup>](#user-content-fn-82)[^82] The Seventh Circuit put it this way:
 
@@ -190,7 +182,7 @@ Although we are troubled by the thought of allowing policemen to stop people at 
 
 For instance, in _United States v. Watson_ a detainee argued that, even though the officers reasonably believed that he was selling firearms illegally, they “had no right to frighten him by pointing their guns at him.” The court responded, “The defendant’s case is weak; since the police had reasonable suspicion to think they were approaching an illegal seller of guns who had guns in the car, they were entitled for their own protection to approach as they did.”[<sup>84</sup>](#user-content-fn-84)[^84]
 
-**FELONY CAR STOPS**
+## **Felony Car Stops**
 
 When officers utilize felony car stop procedures, they usually have probable cause to arrest one or more of the occupants of the vehicle. So they seldom need to worry about the intrusiveness of felony stops.
 
@@ -198,31 +190,31 @@ But the situation is different if officers have only reasonable suspicion. Speci
 
 \[The officer] concluded that to attempt to stop the car by means suitable to a simple traffic infraction—in the prosecutor’s words, “just pull up alongside and flash your lights and ask them to pull over”—“would not be technically sound as far as my safety or safety of other officers.” We cannot fault \[the officer] for this reasoning, or for proceeding as he did.[<sup>85</sup>](#user-content-fn-85)[^85]
 
-Felony extraction procedures may also be used on all passengers in a vehicle at the conclusion of a pursuit, even though officers had no proof that the passengers were involved in the crime that prompted the driver to flee. For instance, in _Allen v. City of Los Angeles_, a passenger claimed that a felony stop was unlawful as to him “because he attempted to persuade \[the driver] to pull over and stop.” That’s “irrelevant,” said the court, because the officers “couldnot have known the extent of\[the passenger’s] involvement until after they questioned him.”[<sup>86</sup>](#user-content-fn-86)[^86]&#x20;
+Felony extraction procedures may also be used on all passengers in a vehicle at the conclusion of a pursuit, even though officers had no proof that the passengers were involved in the crime that prompted the driver to flee. For instance, in _Allen v. City of Los Angeles_, a passenger claimed that a felony stop was unlawful as to him “because he attempted to persuade \[the driver] to pull over and stop.” That’s “irrelevant,” said the court, because the officers “couldnot have known the extent of\[the passenger’s] involvement until after they questioned him.”[<sup>86</sup>](#user-content-fn-86)[^86]
 
-**UTILIZING TASERS**
+### **Utilizing Tasers**
 
 Officers may employ a taser against a detainee if the detainee “poses an immediate threat to the officer or a member of the public.”[<sup>87</sup>](#user-content-fn-87)[^87] Having stopped the detainee, and having taken appropriate officer-safety precautions, officers will begin their investigation into the circumstances that generated reasonable suspicion. As we will now discuss, there are several things that officers may do to confirm or dispel their suspicions. Controlling the detainee’s movements Throughout the course of investigative detentions and traffic stops, officers may position the detainee and his companions or otherwise control their movements. While this is permitted as an officer-safety measure (as noted earlier), it is also justified by the officers’ need to conduct their investigation in an orderly fashion.[<sup>88</sup>](#user-content-fn-88)[^88] As the Supreme Court explained, it would be unreasonable to expect officers “to allow people to come and go freely from the physical focal point of \[a detention].”[<sup>89</sup>](#user-content-fn-89)[^89]
 
-**GET OUT, STAY INSIDE**
+### **Get Out, Stay Inside**
 
 If the detainee was the driver or passenger in a vehicle, officers may order him and any occupants who are not detained to step outside or remain inside.[<sup>90</sup>](#user-content-fn-90)[^90] And if any occupants had already exited, officers may order them to return to the vehicle.[<sup>91</sup>](#user-content-fn-91)[^91] In discussing the officer-safety rationale for ordering detainees to exit, the Supreme Court noted that “face-to-face confrontation diminishes the possibility, otherwise substantial, that the driver can make unobserved movements.”[<sup>92</sup>](#user-content-fn-42)[^42]
 
-**STAY IN A CERTAIN PLACE**
+### **Stay in a Certain Place**
 
 Officers may order the detainee and his companions to sit on the ground, on the curb, or other handy place; e.g., push bar.[<sup>93</sup>](#user-content-fn-92)[^92]
 
-**CONFINE IN PATROL CAR**
+### **Confine in Patrol Car**
 
 A detainee may be confined in a patrol car if there was some reason for it.[<sup>94</sup>](#user-content-fn-93)[^93] For example, it may be sufficient that the officers were awaiting the arrival of a witness for a show up;[<sup>95</sup>](#user-content-fn-94)[^94] or waiting for an officer with experience in drug investigations;[<sup>96</sup>](#user-content-fn-95)[^95] or when it was necessary to prolong the detention to confirm the detainee’s identity;[<sup>97</sup>](#user-content-fn-96)[^96] or if the detainee was uncooperative;[<sup>98</sup>](#user-content-fn-97)[^97] or if the officers needed to focus their attention on another matter, such as securing a crime scene or dealing with the detainee’s associates.[<sup>99</sup>](#user-content-fn-98)[^98]
 
-**SEPARATING DETAINEES**
+### **Separating Detainees**
 
 If officers have detained two or more suspects, they may separate them to prevent the “mutual reinforcement” that may result when a suspect who has not yet been questioned is able to hear his accomplice’s story.[<sup>100</sup>](#user-content-fn-99)[^99]
 
 Separating detainees is also permitted for officersafety purposes. Thus, in _People v. Maxwell_ the court noted that, “upon effecting the early morning stop of a vehicle containing three occupants, the officer was faced with the prospect of interviewing the two passengers in an effort to establish the identity of the driver. His decision to separate them for his own protection, while closely observing defendant as he rummaged through his pockets for identification, was amply justified.”[<sup>101</sup>](#user-content-fn-100)[^100]
 
-**Identifying the detainee**
+## **Identifying the Detainee**
 
 One of the first things that officers will do as they begin their investigation is determine the detainee’s name. “Without question,” said the Court of Appeal, “an officer conducting a lawful Terry stop must have the right to make this limited inquiry, otherwise the officer’s right to conduct an investigative detention would be a mere fiction.”[<sup>102</sup>](#user-content-fn-101)[^101]
 
@@ -230,11 +222,11 @@ This is also the opinion of the Supreme Court, which added that identifying deta
 
 Not only do officers have a right to require that the detainee identify himself, they also have a right to confirm his identity by insisting that he present “satisfactory” documentation.[<sup>104</sup>](#user-content-fn-103)[^103] “\[W]here there is such a right to so detain,” explained the Court of Appeal, “there is a companion right to request, and obtain, the detainee’s identification.”[<sup>105</sup>](#user-content-fn-104)[^104]
 
-**WHAT IS “SATISFACTORY” ID**
+### **What Is “Satisfactory” ID**
 
 A current driver’s license or the “functional equivalent” of a license is presumptively “satisfactory” unless there was reason to believe it was forged or altered.[<sup>106</sup>](#user-content-fn-105)[^105] A document will be deemed the functional equivalent of a driver’s license if it contained all of the following: the detainee’s photo, brief physical description, signature, mailing address, serial numbering, and information establishing that the document is current.[<sup>107</sup>](#user-content-fn-106)[^106] While other documents are not presumptively satisfactory, officers may exercise discretion in determining whether they will suffice.[<sup>108</sup>](#user-content-fn-107)[^107]
 
-**REFUSAL TO ID**
+### **Refusal to ID**
 
 If a detainee will not identify himself, there are several things that officers may do. For one thing, they may prolong the detention for a reasonable time to pursue the matter. As the Court of Appeal observed, “To accept the contention that the officer can stop the suspect and request identification, but that the suspect can turn right around and refuse to provide it, would reduce the authority of the officer to identify a person lawfully stopped by him to a mere fiction.”[<sup>109</sup>](#user-content-fn-108)[^108]
 
@@ -242,17 +234,17 @@ Officers may also arrest the detainee for willfully delaying or obstructing an o
 
 Also note that a detainee’s refusal to furnish ID is a suspicious circumstance that may be a factor in determining whether there was probable cause to arrest him.[<sup>111</sup>](#user-content-fn-110)[^110]
 
-**SEARCH FOR ID**
+### **Search for ID**
 
 If the detainee denies that he possesses ID, but he is carrying a wallet, officers may, (1) order him to look through the wallet for ID while they watch, or (2) search it themselves for ID.[<sup>112</sup>](#user-content-fn-111)[^111] Officers may not, however, pat search the detainee for the sole purpose of determining whether he possesses a wallet.[<sup>113</sup>](#user-content-fn-112)[^112]
 
 If the detainee is an occupant of a vehicle and he says he has no driver’s license or other identification in his possession, officers may conduct a search of the passenger compartment for documentation if they reasonably believed it would be impossible, impractical, or dangerous to permit the detainee or other occupants to conduct the search. For example, these searches have been upheld when the officers reasonably believed the car was stolen,[<sup>114</sup>](#user-content-fn-113)[^113] the driver fled,[<sup>115</sup>](#user-content-fn-114)[^114] the driver refused to explain his reason for loitering in a residential area at 1:30 A.M.,[<sup>116</sup>](#user-content-fn-115)[^115] and a suspected DUI driver initially refused to stop and there were two other men in the vehicle.[<sup>117</sup>](#user-content-fn-116)[^116]
 
-**IDENTIFYING DETAINEE’S COMPANIONS**
+### **Identifying Detainee’s Companions**
 
 Officers may request—but not demand—that the detainee’s companions identify themselves, and they may attempt to confirm the IDs if it does not unduly prolong the stop. As the First Circuit advised, “\[B]ecause passengers present a risk to officer safety equal to the risk presented by the driver, an officer may ask for identification from passengers and run background checks on them as well.”[<sup>118</sup>](#user-content-fn-117)[^117]
 
-**Duration of the detention**
+## **Duration of the Detention**
 
 As we will discuss shortly, officers may try to confirm or dispel their suspicions in a variety of ways, such as questioning the detainee, conducting a showup, and seeking consent to search. But before we discuss these and other procedures, it is necessary to review an issue that pervades all of them: the overall length of the detention.
 
@@ -268,11 +260,11 @@ For example, in rejecting an argument that a detention took too long, the court 
 
 Gallegos makes much of the fact that his detention lasted forty-five minutes to an hour. While the length of Gallegos’s detention remains relevant, more important is that \[the officers’] actions did not involve any delay unnecessary to their legitimate investigation.[<sup>125</sup>](#user-content-fn-124)[^124]
 
-**OFFICERS NEED NOT RUSH**
+## **Officers Need Not Rush**
 
 To say that officers must be diligent, does not mean they must “move at top speed” or even rush.[<sup>126</sup>](#user-content-fn-125)[^125] Nor does it mean (as we will discuss later) that they may not prolong the detention for a short while to ask questions that do not directly pertain to the crime under investigation. Instead, it simply means the detention must not be “measurably extended.”[<sup>127</sup>](#user-content-fn-126)[^126]
 
-**EXAMPLES**
+### **Examples**
 
 The following are circumstances that were found to warrant extended detentions:
 
@@ -300,13 +292,13 @@ The following are circumstances that were found to warrant extended detentions:
 
 For instance, in _People v. Soun_ (discussed earlier) police officers in Oakland detained six suspects in a robbery-murder that had occurred the day before in San Jose. Although the men were detained for approximately 45 minutes, the Court of Appeal ruled the delay was justifiable in light of several factors; specifically, the number of detainees, the need for officer-safety precautions that were appropriate to a murder investigation, and the fact that the Oakland officers needed to confer with the investigating officers in San Jose.[<sup>139</sup>](#user-content-fn-138)[^138]
 
-**DELAYS ATTRIBUTABLE TO THE DETAINEE**
+### **Delays Attributable to the Detainee**
 
 One of the most common reasons for prolonging an investigative detention or traffic stop is that the detainee said or did something that made it necessary to interrupt the normal progression of the stop.[<sup>140</sup>](#user-content-fn-139)[^139] For example, in _United States v. Sharpe_ the Supreme Court ruled that an extended detention became necessary when the occupants of two cars did not immediately stop when officers lit them up but, instead, attempted to split up. As a result, they were detained along different parts of the roadway, which necessarily made the detention more time consuming.[<sup>141</sup>](#user-content-fn-140)[^140]
 
 Similarly, a delay for further questioning may be necessary because the detainee lied or was deceptive. Thus, the court _U.S. v. Suitt_ ruled that a lengthy detention was warranted because “Suitt repeatedly gave hesitant, evasive, and incomplete answers.”[<sup>142</sup>](#user-content-fn-141)[^141] Finally, it should be noted that the clock stops running when officers develop probable cause to arrest, or when they convert the detention into a contact. See “Converting detentions into contacts,” below.
 
-**Questioning the detainee**
+## **Questioning the Detainee**
 
 In most cases, the fastest way for officers to confirm or dispel their suspicion is to pose questions to the detainee and, if any, his companions. Thus, after noting that such questioning is “the great engine of the investigation,” the Court of Appeal observed in _People v. Manis_:
 
@@ -314,7 +306,7 @@ When circumstances demand immediate investigation by the police, the most useful
 
 Detainees cannot, however, be required to answer an officer’s questions. For example, in _Ganwich v. Knapp_ the Ninth Circuit ruled that officers acted improperly when they told the detainees that they would not be released until they started cooperating. Said the court, “\[I]t was not at all reasonable to condition the plaintiffs’ release on their submission to interrogation.”[<sup>144</sup>](#user-content-fn-143)[^143]
 
-**MIRANDA COMPLIANCE**
+### **Miranda Compliance**
 
 Although detainees are not free to leave, a Miranda waiver is not ordinarily required because the circumstances surrounding most detentions do not generate the degree of compulsion to speak that the Miranda procedure was designed to alleviate.[<sup>145</sup>](#user-content-fn-144)[^144] “The comparatively nonthreatening character of detentions of this sort,” said the Supreme Court, “explains the absence of any suggestion in our opinions that \[detentions] are subject to the dictates of _Miranda_.”[<sup>146</sup>](#user-content-fn-145)[^145]
 
@@ -326,7 +318,7 @@ The question arises: Is a waiver required if the detainee is in handcuffs? In mo
 
 A further question: Is a suspect “in custody” for _Miranda_ purposes if he was initially detained at gunpoint? It appears not if, (1) the precaution was warranted, (2) the weapon was reholstered before the detainee was questioned, and (3) there were no other circumstances that indicated the detention had become an arrest. As the court said in _People v. Taylor_, “Assuming the citizen is subject to no other restraints, the officer’s initial display of his reholstered weapon does not require him to give _Miranda_ warnings before asking the citizen questions.”[<sup>152</sup>](#user-content-fn-151)[^151]
 
-**OFF-TOPIC QUESTIONING**
+### **Off-Topic Questioning**
 
 Until last year, one of the most hotly debated issues in the law of detentions (especially traffic stops) was whether a detention becomes an arrest if officers prolonged the stop by questioning the detainee about matters that did not directly pertain to the matter upon which reasonable suspicion was based. Although some courts would rule that all off-topic questioning was unlawful, most held that such questioning was allowed if it did not prolong the stop (e.g., the officer questioned the suspect while writing a citation or while waiting for warrant information), or if the length of the detention was no longer than “normal.”[<sup>153</sup>](#user-content-fn-152)[^152]
 
@@ -334,7 +326,7 @@ In 2009, however, the Supreme Court resolved the issue in the case of _Arizona v
 
 Questions that hold potential for detecting crime, yet create little or no inconvenience, do not turn reasonable detention into unreasonable detention. They do not signal or facilitate oppressive police tactics that may burden the public—for all suspects (even the guilty ones) may protect themselves fully by declining to answer.[<sup>155</sup>](#user-content-fn-154)[^154]
 
-**Warrant checks**
+### **More on Warrant Checks**
 
 Officers who have detained a person (even a traffic violator[<sup>156</sup>](#user-content-fn-155)[^155]) may run a warrant check and rap sheet if it does not measurably extend the length of the stop.[<sup>157</sup>](#user-content-fn-156)[^156] This is because warrant checks further the public interest in apprehending wanted suspects,[<sup>158</sup>](#user-content-fn-157)[^157] and because knowing whether detainees are wanted and knowing their criminal history helps enable officers determine whether they present a heightened threat.[<sup>159</sup>](#user-content-fn-158)[^158] As the Ninth Circuit put it:
 
@@ -342,7 +334,7 @@ On learning a suspect’s true name, the officer can run a background check to d
 
 While a detention may be invalidated if there was an unreasonable delay in obtaining warrant information, a delay should not cause problems if officers had reason to believe a warrant was outstanding, and they were just seeking confirmation.[<sup>161</sup>](#user-content-fn-160)[^160]
 
-**Showups**
+## **Showups**
 
 Officers may prolong a detention for the purpose of conducting a showup if the crime under investigation had just occurred, and the detainee would be arrestable if he was ID’d by the victim or a witness.[<sup>162</sup>](#user-content-fn-161)[^161]
 
@@ -350,21 +342,21 @@ Single-person showups are, of course, inherently suggestive because, unlike phys
 
 \[T]he element of suggestiveness inherent in the procedure is offset by the reliability of an identification made while the events are fresh in the witness’s mind, and because the interests of both the accused and law enforcement are best served by an immediate determination as to whether the correct person has been apprehended.[<sup>164</sup>](#user-content-fn-163)[^163]
 
-**SHOWUPS FOR OLDER CRIMES**
+### **Showups for Older Crimes**
 
 Although most showups are conducted when the crime under investigation occurred recently, there is no prohibition against conducting showups for older crimes. According to the Court of Appeal, “\[N]o case has held that a single-person showup in the absence of compelling circumstances is per se unconstitutional.”[<sup>165</sup>](#user-content-fn-164)[^164]
 
 Still, because showup IDs are more susceptible to attack in trial on grounds of unreliability, it would be better not to use the showup procedure unless there was an overriding reason for not conducting a physical or photo lineup. As the court noted in _People v. Sandoval_, the showup procedure “should not be used without a compelling reason because of the great danger of suggestion from a one-to-one viewing which requires only the assent of the witness.”[<sup>166</sup>](#user-content-fn-165)[^165]
 
-**TRANSPORTING THE DETAINEE**
+### **Transporting the Detainee**
 
-As a general rule, showups are permitted only if they occur at the scene of the detention. This subject is discussed below in the section, “Transporting the detainee.”
+As a general rule, showups are permitted only if they occur at the scene of the detention. This subject is discussed below.
 
-**DILIGENCE**
+#### **Diligence**
 
 Because officers must be diligent in carrying out their duties, they must be prompt in arranging for the witness to be transported to the scene of the detention. For example, in _People v. Bowen_[<sup>167</sup>](#user-content-fn-166)[^166] SFPD officers detained two suspects in a purse snatch that had occurred about a half hour earlier. The court noted that the officers “immediately” radioed their dispatcher and requested that the victim be transported to the scene of the detention. When the victim did not arrive promptly, they asked their dispatcher for an “estimation of the time of arrival of the victim,” at which point they were informed that the officer who was transporting her “was caught in traffic and would arrive shortly.” All told, the suspects were detained for about 25 minutes before the victim arrived and identified them. In rejecting the argument that the delay had transformed the detention into a de facto arrest, the court pointed out that the officers had “immediately” requested that the victim be brought to the scene; and when they realized there would be a delay, they asked their dispatcher for the victim’s ETA. Because these circumstances demonstrated that the officers took care to minimize the length of the detention, the court ruled it was lawful.
 
-**REDUCING SUGGESTIVENESS**
+#### **Reducing Suggestiveness**
 
 As noted earlier, showups are inherently suggestive because the witness is not required to identify the perpetrator from among other people of similar physical appearance. Furthermore, some witnesses might assume that, because officers do not go around detaining people at random in hopes that someone will ID them, there must be a good reason to believe that the person the are looking at is the culprit. This assumption may be inadvertently bolstered if the witness sees the detainee in handcuffs or if he is sitting behind the cage in a patrol car.
 
@@ -377,7 +369,7 @@ Still, the courts have consistently ruled that showup IDs are admissible at tria
 * Do not speak with the other witnesses who will be going with us.
 * When we arrive, do not say anything in their presence that would indicate you did or did not recognize someone. You will all be questioned separately.
 
-**Transporting the detainee**
+#### **Transporting the Detainee**
 
 A detention will ordinarily become a de facto arrest if the detainee was transported to the crime scene, police station, or some other place.[<sup>169</sup>](#user-content-fn-168)[^168] This is because the act of removing the detainee from the scene constitutes an exercise of control that is more analogous to a physical arrest than a detention. Moreover, officers can usually accomplish their objectives by less intrusive means.
 
@@ -395,35 +387,35 @@ Keep in mind that this exception will be applied only if officers are able to ar
 
 \[T]here will always exist “security reasons” to move the subject of a Terry-type stop to a confined area pending investigation. But if this kind of incremental increase in security were sufficient to warrant the involuntary movement of a suspect to an official holding area, then such a measure would be justified in every Terry-type investigatory stop.[<sup>178</sup>](#user-content-fn-177)[^177]
 
-**Other procedures**
+## **Other Procedures**
 
-**CONSENT SEARCHES**
+### **Consent Searches**
 
 During an investigative detention, officers may, of course, seek the detainee’s consent to search his person, vehicle, or personal property if a search would assist the officers in confirming or dispelling their suspicions.[<sup>179</sup>](#user-content-fn-178)[^178] If a search would not be pertinent to the matter upon which reasonable suspicion was based (such as traffic stops), officers may nevertheless seek consent to search because, as noted earlier, a brief request in the course of a lawful detention does not render the detention unlawful.[<sup>180</sup>](#user-content-fn-179)[^179] As the Supreme Court explained in _Florida v. Bostick_, “\[E]ven when officers have no basis for suspecting a particular individual, they may generally request consent to search his or her luggage.”[<sup>181</sup>](#user-content-fn-180)[^180]
 
 Note, however, that consent may be deemed invalid if a court finds that it was obtained after the officers had completed all of their duties pertaining to the stop, and were continuing to detain the suspect without sufficient cause.[<sup>182</sup>](#user-content-fn-181)[^181] Officers may, however, seek consent to search if they converted the detention into a contact. (See “Converting detentions into contacts,” next page.)
 
-**FIELD CONTACT CARDS**
+### **Field Contact Cards**
 
 For various reasons, officers may want to obtain certain information about the detainee, such as his physical description, vehicle description, the location of the detention, the names of his companions, and a summary of the circumstances surrounding the stop. Oftentimes, this information will be uploaded to a database or routed to a particular investigator or outside agency.
 
 In any event, a brief delay for this purpose should not cause problems because, as the Court of Appeal observed, “Field identification cards perform a legitimate police function. If done expeditiously and in an appropriate manner after a lawful stop and in response to circumstances which indicate that a crime has taken place and there is cause to believe that the person detained is involved in same, the procedure is not constitutionally infirm.”[<sup>183</sup>](#user-content-fn-182)[^182]
 
-**FINGERPRINTING THE DETAINEE**
+### **Fingerprinting the Detainee**
 
 Officers may fingerprint the detainee if, (1) they reasonably believed that fingerprinting would help confirm or dispel their suspicion, and (2) the procedure was carried out promptly. As the Supreme Court observed:
 
 There is thus support in our cases for the view that the Fourth Amendment would permit seizures for the purpose of fingerprinting, if there is reasonable suspicion that the suspect has committed a criminal act, if there is a reasonable basis for believing that fingerprinting will establish or negate the suspect’s connection with that crime, and if the procedure is carried out with dispatch.[<sup>184</sup>](#user-content-fn-183)[^183]
 
-**PHOTOGRAPHING THE DETAINEE**
+### **Photographing the Detainee**
 
 A detainee may, of course, be photographed if he consented.[<sup>185</sup>](#user-content-fn-184)[^184] But what if he doesn’t consent? Although we are unaware of any cases in which the issue has been addressed, it seems likely that it would be judged by the same standards as nonconsensual fingerprinting; i.e., taking a photograph of the detainee should be permitted if the officers reasonably believed that the photograph would help them confirm or dispel their suspicion, and the procedure was carried out promptly.[<sup>186</sup>](#user-content-fn-185)[^185]
 
-**Terminating the detention**
+### **Terminating the Detention**
 
 Officers must discontinue the detention within a reasonable time after they determine that grounds for the stop did not exist.[<sup>187</sup>](#user-content-fn-186)[^186] In the words of the Eighth Circuit, “\[A]n investigative stop must cease once reasonable suspicion or probable cause dissipates.”[<sup>188</sup>](#user-content-fn-187)[^187] Officers must also terminate the detention if it becomes apparent that they would be unable to confirm or dispel their suspicions within a reasonable time. And, of course, a traffic stop must end promptly after the driver has signed a promise to appear.[<sup>189</sup>](#user-content-fn-188)[^188]
 
-**Converting detentions into contacts**
+### **Converting Detentions into Contacts**
 
 Many of the procedural problems that officers encounter during detentions can be avoided by converting the detention into a consensual encounter or “contact.” After all, if the suspect knows he can leave at any time, and if he says he doesn’t mind answering some more questions, there is no reason to prohibit officers from asking more questions.
 
@@ -432,6 +424,8 @@ To convert a detention into a contact, the officers must make it clear to the su
 Second, although not technically an absolute requirement,[<sup>192</sup>](#user-content-fn-191)[^191] they should inform the suspect that he is now free to leave.[<sup>193</sup>](#user-content-fn-192)[^192] As the Court of Appeal observed in People v. Profit, “\[D]elivery of such a warning weighs heavily in favor of finding voluntariness and consent.”[<sup>194</sup>](#user-content-fn-193)[^193]
 
 One other thing. The courts sometimes note whether officers explained to the suspect why they wanted to talk with him further, why they were seeking consent to search, or why they wanted to run a warrant check. Explanations such as these are relevant because this type of openness is more consistent with a contact than a detention, and it would indicate to the suspect that the officers were seeking his voluntary cooperation.[<sup>195</sup>](#user-content-fn-194)[^194]
+
+***
 
 <details>
 
