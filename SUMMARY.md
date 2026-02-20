@@ -109,7 +109,6 @@
         * [U.S. v. Place](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/u.s.-v.-place.md)
         * [U.S. v. Sharpe](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/u.s.-v.-sharpe.md)
         * [U.S. v. Arvizu](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-of-vehicles/u.s.-v.-arvizu.md)
-    * [Investigative Detentions — References](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/investigative-detentions-references.md)
   * [Arrests & Probable Cause](sourcebooks/criminal-procedure/arrests-and-probable-cause/README.md)
     * [Probable Cause and Reasonable Suspicion: A Closer Look](sourcebooks/criminal-procedure/arrests-and-probable-cause/probable-cause-and-reasonable-suspicion-a-closer-look.md)
     * [Arrests](sourcebooks/criminal-procedure/arrests-and-probable-cause/arrests.md)
