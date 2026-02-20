@@ -77,7 +77,7 @@
   * [Setting the Stage](sourcebooks/criminal-procedure/setting-the-stage/README.md)
     * [Key Constitutional Text](sourcebooks/criminal-procedure/setting-the-stage/key-constitutional-text.md)
     * [Introduction to the Fourth Amendment](sourcebooks/criminal-procedure/setting-the-stage/introduction-to-the-fourth-amendment.md)
-    * [Foundations & Terminology](sourcebooks/criminal-procedure/setting-the-stage/foundations-and-terminology.md)
+    * [Foundations & Terminology Preview](sourcebooks/criminal-procedure/setting-the-stage/foundations-and-terminology.md)
   * [Overview of Probable Cause and Reasonable Suspicion](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/README.md)
     * [Introduction](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/introduction.md)
     * [The Principles of Probable Cause and Reasonable Suspicion](sourcebooks/criminal-procedure/overview-of-probable-cause-and-reasonable-suspicion/the-principles-of-probable-cause-and-reasonable-suspicion.md)
