@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Contract Law: Sales Contracts & Warranties
 
 {% hint style="info" %}
