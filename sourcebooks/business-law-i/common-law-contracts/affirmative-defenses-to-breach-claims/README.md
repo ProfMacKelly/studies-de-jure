@@ -81,3 +81,5 @@ Sometimes a party to a contract files for **bankruptcy** protection. The bankrup
 This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
 
 </details>
+
+x
