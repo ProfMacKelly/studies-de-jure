@@ -50,4 +50,28 @@
 [affirmative-defenses-to-breach-claims](affirmative-defenses-to-breach-claims/)
 {% endcontent-ref %}
 {% endstep %}
+
+{% step %}
+{% content-ref url="remedies.md" %}
+[remedies.md](remedies.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="the-parol-evidence-rule.md" %}
+[the-parol-evidence-rule.md](the-parol-evidence-rule.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="remedies-1.md" %}
+[remedies-1.md](remedies-1.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="conclusion.md" %}
+[conclusion.md](conclusion.md)
+{% endcontent-ref %}
+{% endstep %}
 {% endstepper %}

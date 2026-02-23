@@ -188,6 +188,7 @@
     * [Assignment, Delegation, and Third-Party Beneficiaries](sourcebooks/business-law-i/common-law-contracts/remedies.md)
     * [The Parol Evidence Rule](sourcebooks/business-law-i/common-law-contracts/the-parol-evidence-rule.md)
     * [Remedies](sourcebooks/business-law-i/common-law-contracts/remedies-1.md)
+    * [Conclusion](sourcebooks/business-law-i/common-law-contracts/conclusion.md)
   * [Contract Law: Sales Contracts & Warranties](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/README.md)
     * [Page 2](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/page-2.md)
   * [Antitrust Law](sourcebooks/business-law-i/antitrust-law.md)
