@@ -190,7 +190,7 @@
     * [Remedies](sourcebooks/business-law-i/common-law-contracts/remedies-1.md)
     * [Conclusion](sourcebooks/business-law-i/common-law-contracts/conclusion.md)
   * [Contract Law: Sales Contracts & Warranties](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/README.md)
-    * [Introduction](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/introduction.md)
+    * [Introduction](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/page-2.md)
     * [Scope of the UCC](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/scope-of-the-ucc.md)
     * [Sales Contract Formation](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/sales-contract-formation.md)
     * [Performance](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/performance.md)

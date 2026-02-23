@@ -7,11 +7,9 @@ hidden: true
 {% hint style="info" %}
 #### **LEARNING OBJECTIVES** 🎯
 
-1. Explain what constitutes a contract.
-2. Discuss the requirements for forming a valid, enforceable contract.
-3. Identify applicable affirmative defenses to performance of a contract in different contexts.
-4. Explain the mechanics of a contract breach and its consequences.
-5. Identify remedies for breach of contract
+1. Explain the primary differences between the Uniform Commercial Code and common law contract principles.
+2. Discuss key provisions of the Uniform Commercial Code and how they apply to merchants who sell goods.
+3. Explain how the Uniform Commercial Code applies to mixed contracts
 {% endhint %}
 
 ***
@@ -20,8 +18,8 @@ hidden: true
 
 {% stepper %}
 {% step %}
-{% content-ref url="introduction.md" %}
-[introduction.md](introduction.md)
+{% content-ref url="page-2.md" %}
+[page-2.md](page-2.md)
 {% endcontent-ref %}
 {% endstep %}
 
