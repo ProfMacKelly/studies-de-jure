@@ -1,6 +1,14 @@
 # Contract Law: Common Law Contracts
 
-{% include "../../../.gitbook/includes/learning-objectives.md" %}
+{% hint style="info" %}
+#### **LEARNING OBJECTIVES** 🎯
+
+1. Explain what constitutes a contract.
+2. Discuss the requirements for forming a valid, enforceable contract.
+3. Identify applicable affirmative defenses to performance of a contract in different contexts.
+4. Explain the mechanics of a contract breach and its consequences.
+5. Identify remedies for breach of contract
+{% endhint %}
 
 ***
 

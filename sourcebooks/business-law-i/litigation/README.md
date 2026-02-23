@@ -1,13 +1,13 @@
 # Litigation
 
-{% hint style="success" %}
-**LEARNING OBJECTIVES**
+{% hint style="info" %}
+#### **LEARNING OBJECTIVES** 🎯
 
-1. Identify the parties involved in litigation.
-2. Explore the responsibilities of attorneys.
+1. &#x20;Identify the parties involved in litigation.
+2. Discuss the responsibilities of attorneys.
 3. Understand the roles and types of juries.
-4. Explore the standing requirement.
-5. Follow a trial from opening statements to closing arguments.
+4. Explain the standing requirement.
+5. Identify the stages of a civil action from the commencement of a lawsuit through post-trial appeals.
 {% endhint %}
 
 ***
