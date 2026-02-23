@@ -9,7 +9,8 @@ hidden: true
 
 1. Explain the primary differences between the Uniform Commercial Code and common law contract principles.
 2. Discuss key provisions of the Uniform Commercial Code and how they apply to merchants who sell goods.
-3. Explain how the Uniform Commercial Code applies to mixed contracts
+3. Explain how the Uniform Commercial Code applies to mixed contracts.
+4. Discern between express warranties and the different types of implied warranties (i.e., merchantability, fitness for a particular purpose, and title).
 {% endhint %}
 
 ***
