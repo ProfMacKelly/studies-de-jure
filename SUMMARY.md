@@ -295,7 +295,7 @@
 ***
 
 * [🔤 Glossary](glossary.md)
-* [🏠 Copy of Home](readme-1.md)
+* [Callouts](readme-1.md)
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
 * [Glossary GitBook Agent Command and Quiz Embed](introduction-to-law/page-1.md)

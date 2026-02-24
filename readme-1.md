@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🏠 Copy of Home
+# Callouts
 
 ## Welcome to Studies De Jure
 
@@ -52,6 +52,8 @@ However, they can do so indirectly by lobbying Congress on laws that it consider
 
 ***
 
+&#x20;
+
 {% hint style="success" %}
 #### Sidebar
 
@@ -64,6 +66,8 @@ However, they can do so indirectly by lobbying Congress on laws that it consider
 7. Understand the three branches of government and how they check and balance each other’s powers.
 8. Explore the state and federal court systems.
 {% endhint %}
+
+&#x20;
 
 [^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
 
