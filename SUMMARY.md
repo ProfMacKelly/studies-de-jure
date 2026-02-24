@@ -195,7 +195,7 @@
     * [Sales Contract Formation](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/sales-contract-formation.md)
     * [Performance](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/performance.md)
     * [Warranties](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/warranties/README.md)
-      * [Page 2](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/warranties/page-2.md)
+      * [Bhotiwihok v. Fairlife](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/warranties/bhotiwihok-v.-fairlife.md)
     * [Conclusion](sourcebooks/business-law-i/contract-law-sales-contracts-and-warranties/conclusion.md)
   * [Antitrust Law](sourcebooks/business-law-i/antitrust-law.md)
   * [Business and the United States Constitution](sourcebooks/business-law-i/business-and-the-united-states-constitution.md)
