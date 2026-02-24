@@ -39,8 +39,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="warranties.md" %}
-[warranties.md](warranties.md)
+{% content-ref url="warranties/" %}
+[warranties](warranties/)
 {% endcontent-ref %}
 {% endstep %}
 
