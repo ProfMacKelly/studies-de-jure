@@ -105,6 +105,7 @@
       * [Terry Stops & Terry Frisks, Generally](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/README.md)
         * [Terry v. Ohio](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/terry-v.-ohio.md)
         * [Brown v. Texas](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/brown-v.-texas.md)
+        * [Copy of Brown v. Texas](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/brown-v.-texas-1.md)
         * [Minnesota v. Dickerson](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/minnesota-v.-dickerson.md)
         * [U.S. v. Place](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/u.s.-v.-place.md)
         * [U.S. v. Sharpe](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/u.s.-v.-sharpe.md)
