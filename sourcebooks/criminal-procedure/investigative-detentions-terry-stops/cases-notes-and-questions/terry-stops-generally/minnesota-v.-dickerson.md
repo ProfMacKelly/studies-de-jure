@@ -34,11 +34,15 @@ On the evening of November 9, 1989, two Minneapolis police officers were patroll
 
 The officers pulled their squad car into the alley and ordered respondent to stop and submit to a patdown search. The search revealed no weapons, but the officer conducting the search did take an interest in a small lump in respondent’s nylon jacket. The officer later testified:
 
+
+
+
+
 > “\[A]s I pat-searched the front of his body, I felt a lump, a small lump, in the front pocket. I examined it with my fingers and it slid and it felt to be a lump of crack cocaine in cellophane.” ...
 
 The officer then reached into respondent’s pocket and retrieved a small plastic bag containing one fifth of one gram of crack cocaine. Respondent was arrested and charged in Hennepin County District Court with possession of a controlled substance.
 
-Before trial, respondent moved to suppress the cocaine. The trial court first concluded that the officers were justified under _Terry_ v. _Ohio,_ [392 U.S. 1](/broken/pages/AU9NK0lHVlTasNmzA9qr) (1968), in stopping respondent to investigate whether he might be engaged in criminal activity. The court further found that the officers were justified in frisking respondent to ensure that he was not carrying a weapon. Finally, analogizing to the “plain-view” doctrine, under which officers may make a warrantless seizure of contraband found in plain view during a lawful search for other items, the trial court ruled that the officers’ seizure of the cocaine did not violate the Fourth Amendment:
+Before trial, respondent moved to suppress the cocaine. The trial court first concluded that the officers were justified under _Terry_ v. _Ohio,_ [392 U.S. 1](terry-v.-ohio.md) (1968), in stopping respondent to investigate whether he might be engaged in criminal activity. The court further found that the officers were justified in frisking respondent to ensure that he was not carrying a weapon. Finally, analogizing to the “plain-view” doctrine, under which officers may make a warrantless seizure of contraband found in plain view during a lawful search for other items, the trial court ruled that the officers’ seizure of the cocaine did not violate the Fourth Amendment:
 
 > “To this Court there is no distinction as to which sensory perception the officer uses to conclude that the material is contraband. An experienced officer may rely upon his sense of smell in DWI stops or in recognizing the smell of burning marijuana in an automobile. The sound of a shotgun being racked would clearly support certain reactions by an officer. The sense of touch, grounded in experience and training, is as reliable as perceptions drawn from other senses. ‘Plain feel/ therefore, is no different than plain view and will equally support the seizure here.” ...
 
