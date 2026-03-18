@@ -1,10 +1,6 @@
 # Procunier v. Navarette
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://cite.case.law/us/434/555/).]
-
-***
-
-434 U.S. 555 (1978)
+[434 U.S. 555 ](https://case.law/caselaw/?reporter=us\&volume=434\&case=0555-01)(1978)
 
 Supreme Court of the United States
 
@@ -78,3 +74,7 @@ _Reversed._
 12. Although some of the items of correspondence with which respondent claims interference concerned legal matters or were addressed to lawyers, respondent is foreclosed from asserting any claim with respect to mail interference based on infringement of his right of access to the courts because such a claim was dismissed with prejudice in an earlier phase of this case. Order of Feb. 9, 1973, No. C-72-1954 SW (ND Cal.). In his Points and Authorities Against Motion to Dismiss filed in connection with the present complaint on April 17, 1974, respondent stated that “\[t]he claim against mail interference does not purport to allege denial of access to the courts,” and explained that “\[i]n ruling on defendants’ previous Motion to Dismiss, in February, 1973, this Court dismissed plaintiff’s claim against mail interference insofar as it alleged denial of access to the courts.” Record 171.
 13. There is thus no occasion to address this case on the assumption that Navarette’s mailing privileges were protected by a constitutional rule of which petitioners could reasonably have been expected to be aware in 1971 and 1972 and to inquire whether petitioners knew or should have known that their conduct was in violation of that constitutional proscription.
 14. Because of the disposition of this case on immunity grounds, we do not address petitioners’ other submissions: that § 1983 does not afford a remedy for negligent deprivation of constitutional rights and that state prisoners have no First and Fourteenth Amendment rights in their outgoing mail.
+
+***
+
+{% include "../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
