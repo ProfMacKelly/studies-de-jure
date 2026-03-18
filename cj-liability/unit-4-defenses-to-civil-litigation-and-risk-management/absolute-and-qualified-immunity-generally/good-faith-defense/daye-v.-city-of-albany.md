@@ -1,6 +1,6 @@
 # Daye v. City of Albany
 
-[496 F. Supp. 1227 ](https://www.courtlistener.com/opinion/8886859/daye-v-city-of-albany/)(M.D. Ga. 1980)
+[496 F. Supp. 1227](https://www.courtlistener.com/opinion/8886859/daye-v-city-of-albany/) (M.D. Ga. 1980)
 
 Middle District of Georgia
 
