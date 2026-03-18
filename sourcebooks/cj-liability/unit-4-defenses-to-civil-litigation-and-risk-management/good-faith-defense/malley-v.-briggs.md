@@ -10,7 +10,7 @@ Supreme Court of United States
 
 JUSTICE WHITE delivered the opinion of the Court.
 
-This case presents the question of the degree of immunity accorded a defendant police officer in a damages action under 42 U.S. C. § 1983 when it is alleged that the officer caused the plaintiffs to be unconstitutionally arrested by presenting a judge with a complaint and a supporting affidavit which failed to establish probable cause.
+This case presents the question of the degree of immunity accorded a defendant police officer in a damages action under 42 U.S.C. § 1983 when it is alleged that the officer caused the plaintiffs to be unconstitutionally arrested by presenting a judge with a complaint and a supporting affidavit which failed to establish probable cause.
 
 ## I
 
