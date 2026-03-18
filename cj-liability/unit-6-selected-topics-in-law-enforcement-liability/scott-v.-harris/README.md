@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Scott v. Harris
 
 [_Scott v. Harris_](https://scholar.google.com/scholar_case?case=18309800007705573319\&q=550+U.S.+372\&hl=en\&as_sdt=6,50) (2007) involves the use of force to seize a fleeing subject during a high-speed pursuit.

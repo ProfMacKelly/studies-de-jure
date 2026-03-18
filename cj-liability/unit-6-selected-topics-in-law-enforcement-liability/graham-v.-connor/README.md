@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Graham v. Connor
 
 \[Note: Edited from the [original](https://scholar.google.com/scholar_case?case=4306215806680760770\&q=490+U.S.+386\&hl=en\&as_sdt=6,50)]
