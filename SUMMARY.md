@@ -135,6 +135,7 @@
       * [Articles](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/articles.md)
       * [Estate of Cavanaugh v. Andrade](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/estate-of-cavanaugh-v.-andrade.md)
       * [Procunier v. Navarette](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/procunier-v.-navarette.md)
+      * [more case ideas - Look at real version with footnotes Procunier v. Navarette](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/procunier-v.-navarette-1.md)
     * [Good-Faith Defense](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/good-faith-defense/README.md)
       * [Daye v. City of Albany](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity-generally/good-faith-defense/daye-v.-city-of-albany.md)
       * [Malley v. Briggs](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/good-faith-defense/malley-v.-briggs.md)
