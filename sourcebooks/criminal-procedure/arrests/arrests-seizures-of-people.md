@@ -1,20 +1,20 @@
-# Arrests & Other Seizures of Persons
+# Arrests & Seizures of Persons
 
 > _“An arrest is distinguished by the involuntary, highly intrusive nature of the encounter.”_[<sup>1</sup>](#user-content-fn-1)[^1]
 
 There is hardly anything that is more likely to louse up a criminal’s day than hearing the words: “You’re under arrest.” After all, it means the miscreant is now subject to an immediate, complete, and sometimes permanent loss of freedom. As the United States Supreme Court observed, an arrest is “the quintessential seizure of the person.”[<sup>2</sup>](#user-content-fn-2)[^2]
 
-For these reasons, arrests are subject to several requirements that, as the Court explained, are intended “to safeguard citizens from rash and unreasonable interferences with privacy and from unfounded charges of crime.”[<sup>3</sup>](#user-content-fn-3)[^3] As we will discuss, these requirements can be divided into three categories:
+For these reasons, arrests are subject to several requirements that, as the Court explained, are intended “to safeguard citizens from rash and unreasonable intrusions into their privacy and from unfounded charges of crime.”[<sup>3</sup>](#user-content-fn-3)[^3] As we will discuss, these requirements can be divided into three categories:
 
 1. **GROUNDS FOR ARREST:** Grounds for an arrest means having probable cause.
 2. **MANNER OF ARREST:** The requirements pertaining to the arrest procedure include giving notice, the use of deadly and non-deadly force, the issuance and execution of arrest warrants, restrictions on warrantless misdemeanor arrests, searches incident to arrest, and entries of homes to arrest an occupant.
-3. POST-ARREST PROCEDURE: In this category are such things as booking, phone calls, attorney visits, disposition of arrestees, probable cause hearings, arraignment, and even “perp walks.”
+3. **POST-ARREST PROCEDURE:** In this category are such things as booking, phone calls, attorney visits, disposition of arrestees, probable cause hearings, arraignment, and even “perp walks.”
 
 Before we begin, it should be noted that there are technically three types of arrests. Here, the discussion focuses on the conventional arrest, which is defined as a seizure of a person for the purpose of making him available to answer pending or anticipated criminal charges.[<sup>4</sup>](#user-content-fn-4)[^4] A conventional arrest ordinarily occurs when the suspect was told he was under arrest, although the arrest does not technically occur until the suspect submits to the officer’s authority or is physically restrained.[<sup>5</sup>](#user-content-fn-5)[^5]
 
 The other two are de facto and traffic arrests. De facto arrests occur inadvertently when a detention becomes excessive in its scope or intrusiveness.[<sup>6</sup>](#user-content-fn-6)[^6] Like all arrests, de facto arrests are unlawful unless there was probable cause. A traffic arrest occurs when an officer stops a vehicle after seeing the driver commit an infraction. This is deemed an arrest because the officer has probable cause, and the purpose of the stop is to enforce the law, not conduct an investigation.[<sup>7</sup>](#user-content-fn-7)[^7] Still, these stops are subject to the rules pertaining to investigative detentions.[<sup>8</sup>](#user-content-fn-8)[^8]
 
-## Probable Cause
+## Revisiting Probable Cause
 
 Perhaps the most basic principle of criminal law is that an arrest requires probable cause. In fact, this requirement and the restrictions on force and searches are the only rules pertaining to arrest procedure that are based on the Constitution, which means they are enforced by the exclusionary rule. All the others are based on state statutes.[<sup>9</sup>](#user-content-fn-9)[^9]
 
@@ -30,9 +30,7 @@ Perhaps the most basic principle of criminal law is that an arrest requires prob
 
 The other type of mistake occurs when officers were wrong in their belief that there was probable cause to arrest. These types of mistakes render the arrest unlawful.[<sup>16</sup>](#user-content-fn-16)[^16]
 
-## PREMATURE WARRANTLESS ARRESTS
-
-Although officers may consider their training and experience in determining whether probable cause to arrest exists, they must not jump to conclusions or ignore information that undermines probable cause. This is especially true if there was time to conduct further investigation before making the arrest. As the Seventh Circuit pointed out, “A police officer may not close her or his eyes to facts that would help clarify the circumstances of an arrest. Reasonable avenues of investigation must be pursued.”[<sup>17</sup>](#user-content-fn-17)[^17]
+**PREMATURE WARRANTLESS ARRESTS:** Although officers may consider their training and experience in determining whether probable cause to arrest exists, they must not jump to conclusions or ignore information that undermines probable cause. This is especially true if there was time to conduct further investigation before making the arrest. As the Seventh Circuit pointed out, “A police officer may not close her or his eyes to facts that would help clarify the circumstances of an arrest. Reasonable avenues of investigation must be pursued.”[<sup>17</sup>](#user-content-fn-17)[^17]
 
 For example, in _Gillan v. City_ _of San Marino_ [<sup>18</sup>](#user-content-fn-18)[^18] a young woman told officers that, several months earlier while attending high school, she had been sexually molested by Gillan, her basketball coach. So they arrested him—even though the woman was unable to provide many details about the crime, even though some of the details she provided were inconsistent, even though she had a motive to lie (she had “strong antipathy” toward Gillian because of his coaching decisions), and even though they surreptitiously heard Gillan flatly deny the charge when confronted by the woman. After the DA refused to file charges, Gillan sued the officers for false arrest, and the jury awarded him over $4 million.
 
@@ -42,19 +40,19 @@ In another case, _Cortez v. McCauley_,[<sup>19</sup>](#user-content-fn-19)[^19] 
 
 In ruling that the officers were not entitled to qualified immunity, the Tenth Circuit pointed out that they “did not wait to receive the results of the medical examination of the child (the results were negative), did not interview the child or her mother, and did not seek to obtain a warrant.” Said the court, “We believe that the duty to investigate prior to a warrantless arrest is obviously applicable when a double-hearsay statement, allegedly derived from a two-year old, is the only information law enforcement possesses.”
 
-**Warrantless Arrests**
+## **Warrantless Arrests**
 
 When officers have probable cause to arrest, the courts prefer that they seek an arrest warrant.[<sup>20</sup>](#user-content-fn-20)[^20] But they also understand that a rule prohibiting warrantless arrests would “constitute an intolerable handicap for legitimate law enforcement.”[<sup>21</sup>](#user-content-fn-21)[^21] Consequently, warrantless arrests are permitted regardless of whether officers had time to obtain a warrant.[<sup>22</sup>](#user-content-fn-22)[^22] As we will discuss, however, there are certain statutory restrictions if the crime was a misdemeanor.
 
-**Arrests for felonies and “wobblers”**
+### **Arrests for felonies and “wobblers”**
 
-If the suspect was arrested for a felony, the only requirement under the Fourth Amendment and California law is that they have probable cause.[<sup>23</sup>](#user-content-fn-23)[^23] That’s also true if the crime was a “wobbler,” meaning a crime that could have been prosecuted as a felony or misdemeanor.[<sup>24</sup>](#user-content-fn-24)[^24] Accordingly, if the crime was a felony or wobbler, officers may make the arrest at any time of the day or night,[<sup>25</sup>](#user-content-fn-25)[^25] and it is immaterial that the crime did not occur in their presence.[<sup>26</sup>](#user-content-fn-26)[^26]
+If the suspect was arrested for a felony, the only requirement under the Fourth Amendment is that they have probable cause.[<sup>23</sup>](#user-content-fn-23)[^23] That’s also true if the crime was a “wobbler,” meaning a crime that could have been prosecuted as a felony or misdemeanor.[<sup>24</sup>](#user-content-fn-24)[^24] Accordingly, if the crime was a felony or wobbler, officers may make the arrest at any time of the day or night,[<sup>25</sup>](#user-content-fn-25)[^25] and it is immaterial that the crime did not occur in their presence.[<sup>26</sup>](#user-content-fn-26)[^26]
 
-**Arrests for misdemeanors**
+### **Arrests for misdemeanors**
 
 Because most misdemeanors are much less serious than felonies, there are three requirements (in addition to probable cause) that must be satisfied if the arrest was made without a warrant.
 
-**TIME OF ARREST**
+#### **TIME OF Day**
 
 The arrest must have been made between the hours of 6 A.M. and 10 P.M. There are, however, four exceptions to this rule. Specifically, officers may make a warrantless misdemeanor arrest at any time in any of the following situations:
 
