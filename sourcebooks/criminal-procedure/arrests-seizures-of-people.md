@@ -1,28 +1,24 @@
----
-hidden: true
----
+# Arrests & Other Seizures of Persons
 
-# Arrests
-
-_“An arrest is distinguished by the involuntary, highly intrusive nature of the encounter.”_[<sup>1</sup>](#user-content-fn-1)[^1]
+> _“An arrest is distinguished by the involuntary, highly intrusive nature of the encounter.”_[<sup>1</sup>](#user-content-fn-1)[^1]
 
 There is hardly anything that is more likely to louse up a criminal’s day than hearing the words: “You’re under arrest.” After all, it means the miscreant is now subject to an immediate, complete, and sometimes permanent loss of freedom. As the United States Supreme Court observed, an arrest is “the quintessential seizure of the person.”[<sup>2</sup>](#user-content-fn-2)[^2]
 
-For these reasons, arrests are subject to several requirements that, as the Court explained, are intended “to safeguard citizens from rash and unreasonable interferences with privacy and from unfounded charges of crime.”[<sup>3</sup>](#user-content-fn-3)[^3] As we will discuss in this article, these requirements can be divided into three categories:
+For these reasons, arrests are subject to several requirements that, as the Court explained, are intended “to safeguard citizens from rash and unreasonable interferences with privacy and from unfounded charges of crime.”[<sup>3</sup>](#user-content-fn-3)[^3] As we will discuss, these requirements can be divided into three categories:
 
-1. GROUNDS FOR ARREST: Grounds for an arrest means having probable cause.
-2. MANNER OF ARREST: The requirements pertaining to the arrest procedure include giving notice, the use of deadly and non-deadly force, the issuance and execution of arrest warrants, restrictions on warrantless misdemeanor arrests, searches incident to arrest, and entries of homes to arrest an occupant.
+1. **GROUNDS FOR ARREST:** Grounds for an arrest means having probable cause.
+2. **MANNER OF ARREST:** The requirements pertaining to the arrest procedure include giving notice, the use of deadly and non-deadly force, the issuance and execution of arrest warrants, restrictions on warrantless misdemeanor arrests, searches incident to arrest, and entries of homes to arrest an occupant.
 3. POST-ARREST PROCEDURE: In this category are such things as booking, phone calls, attorney visits, disposition of arrestees, probable cause hearings, arraignment, and even “perp walks.”
 
-Before we begin, it should be noted that there are technically three types of arrests. The one we will be covering in this article is the conventional arrest, which is defined as a seizure of a person for the purpose of making him available to answer pending or anticipated criminal charges.[<sup>4</sup>](#user-content-fn-4)[^4] A conventional arrest ordinarily occurs when the suspect was told he was under arrest, although the arrest does not technically occur until the suspect submits to the officer’s authority or is physically restrained.[<sup>5</sup>](#user-content-fn-5)[^5]
+Before we begin, it should be noted that there are technically three types of arrests. Here, the discussion focuses on the conventional arrest, which is defined as a seizure of a person for the purpose of making him available to answer pending or anticipated criminal charges.[<sup>4</sup>](#user-content-fn-4)[^4] A conventional arrest ordinarily occurs when the suspect was told he was under arrest, although the arrest does not technically occur until the suspect submits to the officer’s authority or is physically restrained.[<sup>5</sup>](#user-content-fn-5)[^5]
 
 The other two are de facto and traffic arrests. De facto arrests occur inadvertently when a detention becomes excessive in its scope or intrusiveness.[<sup>6</sup>](#user-content-fn-6)[^6] Like all arrests, de facto arrests are unlawful unless there was probable cause. A traffic arrest occurs when an officer stops a vehicle after seeing the driver commit an infraction. This is deemed an arrest because the officer has probable cause, and the purpose of the stop is to enforce the law, not conduct an investigation.[<sup>7</sup>](#user-content-fn-7)[^7] Still, these stops are subject to the rules pertaining to investigative detentions.[<sup>8</sup>](#user-content-fn-8)[^8]
 
-### Probable Cause
+## Probable Cause
 
 Perhaps the most basic principle of criminal law is that an arrest requires probable cause. In fact, this requirement and the restrictions on force and searches are the only rules pertaining to arrest procedure that are based on the Constitution, which means they are enforced by the exclusionary rule. All the others are based on state statutes.[<sup>9</sup>](#user-content-fn-9)[^9]
 
-Although we covered the subject of probable cause at length in a series of articles last year, there are some things that should be noted here.
+### A Few Reminders and Notes
 
 **DEFINED**: Probable cause to arrest exists if there was a “fair probability” or “substantial chance” that the suspect committed a crime.[<sup>10</sup>](#user-content-fn-10)[^10]
 
@@ -34,7 +30,7 @@ Although we covered the subject of probable cause at length in a series of artic
 
 The other type of mistake occurs when officers were wrong in their belief that there was probable cause to arrest. These types of mistakes render the arrest unlawful.[<sup>16</sup>](#user-content-fn-16)[^16]
 
-### PREMATURE WARRANTLESS ARRESTS
+## PREMATURE WARRANTLESS ARRESTS
 
 Although officers may consider their training and experience in determining whether probable cause to arrest exists, they must not jump to conclusions or ignore information that undermines probable cause. This is especially true if there was time to conduct further investigation before making the arrest. As the Seventh Circuit pointed out, “A police officer may not close her or his eyes to facts that would help clarify the circumstances of an arrest. Reasonable avenues of investigation must be pursued.”[<sup>17</sup>](#user-content-fn-17)[^17]
 
@@ -69,7 +65,7 @@ The arrest must have been made between the hours of 6 A.M. and 10 P.M. There are
 
 What is a “public” place? In the context of the Fourth Amendment, it is broadly defined as any place in which the suspect cannot reasonably expect privacy.[<sup>28</sup>](#user-content-fn-28)[^28] Thus, a suspect is in a “public” place if he was on the street or in a building open to the public. Furthermore, the walkways and pathways in front of a person’s home usually qualify as “public places” because the public is impliedly invited to use them.[<sup>29</sup>](#user-content-fn-29)[^29] In fact, the Supreme Court has ruled that a suspect who is standing at the threshold of his front door is in a “public place.”[<sup>30</sup>](#user-content-fn-28)[^28]
 
-### THE “IN THE PRESENCE” RULE
+## THE “IN THE PRESENCE” RULE
 
 As a general rule, officers may not make warrantless misdemeanor arrests unless they have probable cause to believe the crime was committed in their “presence.”[<sup>31</sup>](#user-content-fn-30)[^30] In discussing this requirement, the Court of Appeal explained, “This simply means that such an arrest may be made when circumstances exist that would cause a reasonable person to believe that a crime has been committed in his presence.”[<sup>32</sup>](#user-content-fn-31)[^31] If the crime was not committed in the officers’ presence, and if they believe the suspect should be charged, they will ordinarily submit the case to prosecutors for review. They may not issue a citation in lieu of arrest.[<sup>33</sup>](#user-content-fn-32)[^32]
 
@@ -138,7 +134,7 @@ Officers are not required to confirm the propriety of a warrant that appears val
 
 **INVESTIGATING THE ARRESTEE’S IDENTITY**
 
-An arrest will ordinarily be upheld if the name of the arrestee and the name of the person listed on the warrant were the same.7[<sup>0</sup>](arrests.md#user-content-fn-0)<sup>\[^0]</sup> But officers may not ignore objective facts that reasonably indicate the person they were arresting was not, in fact, the person named in the warrant; e.g., discrepancy in physical description, date of birth.[<sup>58</sup>](#user-content-fn-55)[^55]
+An arrest will ordinarily be upheld if the name of the arrestee and the name of the person listed on the warrant were the same.7[<sup>0</sup>](arrests-seizures-of-people.md#user-content-fn-0)<sup>\[^0]</sup> But officers may not ignore objective facts that reasonably indicate the person they were arresting was not, in fact, the person named in the warrant; e.g., discrepancy in physical description, date of birth.[<sup>58</sup>](#user-content-fn-55)[^55]
 
 **CONFIRMING THE WARRANT**
 
@@ -274,7 +270,7 @@ Officers may search the passenger compartment of a vehicle in which the arrestee
 
 **RESIDENCES**
 
-If the suspect was arrested inside a residence, officers may search places and things in the area within his grabbing or lunging distance at the time he was arrested.[<sup>109</sup>](#user-content-fn-98)[^98] Officers may also search the area “immediately adjoining” the place of arrest—even if it was not within his immediate control—but these searches must be limited to spaces in which a potential attacker might be hiding.[<sup>110</sup>](#user-content-fn-105)[^105] \[For a more detailed discussion of this subject, see the 2005 article entitled “Searches Incident to Arrest” on Online.]
+If the suspect was arrested inside a residence, officers may search places and things in the area within his grabbing or lunging distance at the time he was arrested.[<sup>109</sup>](#user-content-fn-98)[^98] Officers may also search the area “immediately adjoining” the place of arrest—even if it was not within his immediate control—but these searches must be limited to spaces in which a potential attacker might be hiding.[<sup>110</sup>](#user-content-fn-105)[^105]&#x20;
 
 **Use of Force**
 
@@ -386,8 +382,6 @@ Officers may also enter a residence without a warrant to arrest an occupant if t
 
 If officers obtained consent to enter from the suspect or other occupant, the legality of their entry will usually depend on whether they misled the consenting person as to their objective, so that an immediate arrest would have exceeded the scope of consent. For example, if officers said they merely wanted to enter (“Can we come in?”) or talk (“We’d like to talk to you.), a court might find that they exceeded the permissible scope of the consent if they immediately arrested him.[<sup>170</sup>](#user-content-fn-164)[^164] But there should be no problem if officers intended to make the arrest only if, after speaking with the suspect, they believed that probable cause existed or continued to exist.[<sup>171</sup>](#user-content-fn-165)[^165]
 
-\[For a more detailed discussion of this subject, see the 2005 article “Entry to Arrest” on Online.]
-
 **Post-Arrest Procedure**
 
 Although the lawfulness of an arrest will depend on what the officers did at or near the time the suspect was taken into custody, there are certain procedural requirements that must be met after the arrest is made.
@@ -418,11 +412,19 @@ After an arrestee has been charged with a crime by prosecutors (and thus becomes
 
 A defendant must be arraigned within 48 hours of his arrest[<sup>185</sup>](#user-content-fn-179)[^179] unless, (1) he was released from custody,[<sup>186</sup>](#user-content-fn-180)[^180] or (2) he was being held on other charges or a parole hold.[<sup>187</sup>](#user-content-fn-181)[^181] Unlike the time limit for probable cause determinations, the 48-hour countdown does not include Sundays and holidays.[<sup>188</sup>](#user-content-fn-182)[^182] Furthermore, if time expires when court is in session, the defendant may be arraigned anytime that day.[<sup>189</sup>](#user-content-fn-183)[^183] If court is not in session, he may be arraigned anytime the next day.[<sup>190</sup>](#user-content-fn-184)[^184] If, however, the arrest occurred on Wednesday after the courts closed, the arraignment must take place on Friday, unless Wednesday or Friday were court holidays.[<sup>191</sup>](#user-content-fn-183)[^183]
 
-Note that short delays are permitted if there was good cause; e.g., defendant was injured or sick.[<sup>192</sup>](#user-content-fn-185)[^185] A short delay may also be justified if, (1) the crime was serious; (2) officers were at all times diligently engaged in actions they reasonably believed were necessary to obtain necessary evidence or apprehend additional perpetrators; and (3) officers reasonably believed that these actions could not be postponed without risking the loss of necessary evidence, the identification or apprehension of additional suspects, or otherwise compromising the integrity of their investigation.
+Note that short delays are permitted if there was good cause; e.g., defendant was injured or sick.[<sup>192</sup>](#user-content-fn-185)[^185] A short delay may also be justified if, (1) the crime was serious; (2) officers were at all times diligently engaged in actions they reasonably believed were necessary to obtain necessary evidence or apprehend additional perpetrators; and (3) officers reasonably believed that these actions could not be postponed without risking the loss of necessary evidence, the identification or apprehension of additional suspects, or otherwise compromising the integrity of their investigation.[<sup>193</sup>](arrests-seizures-of-people.md#user-content-fn-193)
+
+***
+
+<details>
+
+<summary>Attributions &#x26; Licensing</summary>
+
+Unless otherwise indicated, this page's content is adapted from the following source(s): [5.2 Probable Cause to Arrest ](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/05%3A_Arrests_Based_on_Probable_Cause/5.2%3A_Probable_Cause_to_Arrest)in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+
+</details>
 
 
-
-[5.3: Arrests](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/05%3A_Arrests_Based_on_Probable_Cause/5.3%3A_Arrests)
 
 [^1]: Cortez v. McCauley (10th Cir. 2007) 478 F.3d 1108, 1115.
 
