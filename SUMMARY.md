@@ -112,6 +112,7 @@
         * [U.S. v. Arvizu](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/u.s.-v.-arvizu.md)
         * [Hiibel v. Sixth Judicial District Court](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/hiibel-v.-sixth-judicial-district-court.md)
   * [Arrests](sourcebooks/criminal-procedure/arrests/README.md)
+    * [Arrests & Seizures of Persons](sourcebooks/criminal-procedure/arrests/page2.md)
     * [Arrests & Seizures of Persons](sourcebooks/criminal-procedure/arrests/arrests-seizures-of-people.md)
 * [🛡️ Criminal Justice Liability Law](cj-liability/README.md)
   * [Front Matter](sourcebooks/cj-liability/front-matter.md)
@@ -302,5 +303,3 @@
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
 * [Glossary GitBook Agent Command and Quiz Embed](introduction-to-law/page-1.md)
-* [Page 2](page-2.md)
-* [page2](page2.md)
