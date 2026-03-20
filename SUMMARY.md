@@ -302,5 +302,4 @@
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
 * [Glossary GitBook Agent Command and Quiz Embed](introduction-to-law/page-1.md)
-* [5.3 Arrests](5.3-arrests.md)
 * [Page 2](page-2.md)
