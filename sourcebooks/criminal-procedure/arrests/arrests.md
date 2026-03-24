@@ -1,4 +1,4 @@
-# 5.3: Arrests - Workforce LibreTexts
+# Arrests
 
 _“An arrest is distinguished by the involuntary, highly intrusive nature of the encounter.”_[<sup>1</sup>](#user-content-fn-1)[^1]
 
