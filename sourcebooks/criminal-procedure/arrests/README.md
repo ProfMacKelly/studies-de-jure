@@ -1,24 +1,13 @@
----
-hidden: true
----
-
 # Arrests
 
-{% stepper %}
-{% step %}
 {% content-ref url="overview.md" %}
-[pc-rs-revisted.md](pc-rs-revisted.md)
+[overview.md](overview.md)
 {% endcontent-ref %}
-{% endstep %}
 
-{% step %}
 {% content-ref url="the-free-to-terminate-test.md" %}
-[probable-cause-to-arrest.md](probable-cause-to-arrest.md)
+[the-free-to-terminate-test.md](the-free-to-terminate-test.md)
 {% endcontent-ref %}
-{% endstep %}
 
-{% step %}
 {% content-ref url="the-free-to-terminate-test.md" %}
-[arrests.md](arrests.md)
+[the-free-to-terminate-test.md](the-free-to-terminate-test.md)
 {% endcontent-ref %}
-{% endstep %}

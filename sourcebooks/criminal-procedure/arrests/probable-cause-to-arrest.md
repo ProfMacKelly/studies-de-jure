@@ -371,6 +371,16 @@ Depending on the nature of the crime, it may be relevant that the suspect was we
 
 More and more, electronic communications records are providing officers with important information that establishes or helps to establish probable cause. Examples include phone numbers dialed and the length of the calls, cell site contact information (e.g., near scene of the crime when the crime occurred), date and time that a certain computer accessed a certain internet site, the identity of the sender and receiver of an email and when the communication occurred, the Ip address assigned to a particular computer.[<sup>199</sup>](#user-content-fn-194)[^194]
 
+***
+
+<details>
+
+<summary>Attributions &#x26; Licensing</summary>
+
+Unless otherwise indicated, this page's content is adapted from the following source(s): [5.2 Probable Cause to Arrest](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/05%3A_Arrests_Based_on_Probable_Cause/5.2%3A_Probable_Cause_to_Arrest) in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+
+</details>
+
 [^1]: Source: Crime in the United States 2012, FBI.
 
 [^2]: United States v. Arvizu (2002) 534 U.S. 255, 274 \[“abstract”]; United States v. Cortez (1981) 499 U.S. 411, 417 \[“elusive”].
