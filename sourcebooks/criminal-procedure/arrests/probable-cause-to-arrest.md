@@ -4,6 +4,8 @@ _In 2012, the number of people arrested in the U.S. for felonies and misdemeanor
 
 That’s a lot of arrests. And all of them were made by officers who thought they had probable cause. Some were mistaken.
 
+## Introduction
+
 While some false arrests are inexcusable, most are made in good faith as the result of a slight defect in the concept of probable cause: Nobody really knows what it means. In fact, even the United States Supreme Court described it as something that is both “elusive” and “abstract,”[<sup>2</sup>](#user-content-fn-2)[^2] two words that would ordinarily be used to describe such unintelligible concepts as the meaning of life and Einstein’s Theory of Relativity. But unlike philosophers and physicists who have years (or lifetimes) to ponder the questions before them, officers must often reach their conclusions on-the-spot, and may have to do so based on information that is disordered, incomplete, or conflicting. Plus their information often comes from sources whose motives and reliability are unknown or questionable.[<sup>3</sup>](#user-content-fn-3)[^3]
 
 So unless probable cause happens to be an easy call, or unless officers have the luxury of conducting further investigation or waiting for an arrest warrant, they must try to make the correct decision based on whatever information is at hand and whatever inferences and conclusions they can draw from it.[<sup>4</sup>](#user-content-fn-4)[^4] This necessarily requires an understanding of the basic principles of probable cause and how to determine the reliability of the various sources of information. Both of these subjects have been explored to some degree earlier.
@@ -16,27 +18,27 @@ Another advantage of being able to catalogue the relevant circumstances is that 
 
 One other thing: Most of these circumstances we will cover are relevant in establishing both probable cause to arrest and reasonable suspicion to detain. The only difference is that probable cause requires information of higher quality and quantity than reasonable suspicion. Again, this subject was covered at length in the Spring-Summer edition.
 
-**Description Similarities**
+## **Description Similarities**
 
 When a witness sees the perpetrator of a crime but does not know him, probable cause will frequently be based, at least in part, on physical similarities between the perpetrator and suspect, their clothing, or their vehicles. And, of course, any similarity becomes much more significant if there was something unique or unusual about it; e.g., a distinctive tattoo or scar.[<sup>6</sup>](#user-content-fn-7)[^7] As the Court of Appeal observed, “Uniqueness of the points of comparison must also be considered in testing whether the description would be inapplicable to a great many others.”[<sup>7</sup>](#user-content-fn-8)[^8]
 
-**Physical Appearance**
+### **Physical Appearance**
 
 Each individual physical similarity between the perpetrator and suspect— height, weight, build, age, race, hair color—has little significance. In other words, neither a “mere resemblance” to the perpetrator nor a resemblance to a “vague” physical description will carry much weight, even for an investigative detention.[<sup>8</sup>](#user-content-fn-9)[^9] Instead, what matters—and it matters a lot— is the number of independent corresponding characteristics.[<sup>9</sup>](#user-content-fn-10)[^10]
 
-**Clothing**
+### **Clothing**
 
 Similar or matching clothing or other attire is highly relevant especially if the crime occurred so recently that it was unlikely that the perpetrator had time to change clothes.[<sup>10</sup>](#user-content-fn-11)[^11] And, of course, multiple similarities in the clothing and the manner in which they were worn are also important; e.g., red 49er baseball cap worn backwards.[<sup>11</sup>](#user-content-fn-12)[^12]
 
-**Vehicle Similarities**
+### **Vehicle Similarities**
 
 If a vehicle was used in the commission of the crime, each similarity between the perpetrator’s and suspect’s vehicles is necessarily significant; e.g., similar license plate numbers,[<sup>12</sup>](#user-content-fn-13)[^13] both vehicles were very old,[<sup>13</sup>](#user-content-fn-14)[^14] both were light colored compact station wagons.[<sup>14</sup>](#user-content-fn-15)[^15] And these similarities become even more important if there was some additional independent reason to connect the vehicle to the crime; e.g., an occupant resembled the perpetrator, the car was spotted near the crime scene, the occupants acted in a suspicious manner.[<sup>15</sup>](#user-content-fn-16)[^16]
 
-**Corresponding Number Of People**
+### **Corresponding Number Of People**
 
 If there were two or more perpetrators, it is significant that officers detained a group of suspects shortly after the crime was committed and the number of suspects corresponded with the number of perpetrators.[<sup>16</sup>](#user-content-fn-17)[^17]
 
-**Discrepancies**
+### **Discrepancies**
 
 The courts understand that witnesses may inadvertently provide officers with descriptions of perpetrators and vehicles that are not entirely accurate. Thus, officers may make allowances for the types of errors they have come to expect.[<sup>17</sup>](#user-content-fn-18)[^18] As the Court of Appeal observed, “Crime victims often have limited opportunity for observation; their reports may be hurried, perhaps garbled by fright or shock.”[<sup>18</sup>](#user-content-fn-19)[^19] For example, the following discrepancies in vehicle descriptions were considered insignificant:
 
@@ -49,19 +51,19 @@ Three other things about discrepancies: First, the courts are not so forgiving w
 
 Second, if the crime had just occurred, and if officers detained a group of suspects, the fact that the number of people in the group was larger or smaller than the number of perpetrators is not considered a significant discrepancy. This is because, as the California Court of Appeal observed in a robbery case, “it is a matter of common knowledge that holdup gangs often operate in varying numbers and combinations, and the victim of a robbery does not always see all of the participants.”[<sup>24</sup>](#user-content-fn-25)[^25] Third, even if witnesses did not see a getaway car, officers may usually infer that one was used. Thus, if the suspect was in a vehicle when he was detained or arrested, the fact that witnesses did not see a vehicle will not ordinarily constitute a discrepancy.[<sup>25</sup>](#user-content-fn-26)[^26]
 
-**Suspect’s Location**
+## **Suspect’s Location**
 
 While probable cause may often be based largely on a suspect’s presence in a certain house, car, or other private place, officers may not ordinarily arrest or detain a person merely because he was present in a place that was open to the public.[<sup>26</sup>](#user-content-fn-27)[^27] Still, the suspect’s presence at a public location is often highly relevant.[<sup>27</sup>](#user-content-fn-28)[^28] And it may become critical if there was some independent circumstantial evidence of his involvement in a crime, such as a similar physical, clothing, or vehicle description, or any of the various suspicious circumstances we will discuss later. Also note that if the suspect’s presence in a certain location was incriminating, it is significant that there were few, if any, other people in the area because, for example, it was late at night or early in the morning.[<sup>28</sup>](#user-content-fn-29)[^29]&#x20;
 
-**Near The Crime Scene**
+### **Near The Crime Scene**
 
 A suspect’s presence at or near the scene of a crime—whether before, during, or just after the crime occurred—is of course a relevant circumstance. And, thanks to modern technology, this circumstance is becoming increasingly important as officers are often able to determine the suspect’s whereabouts at a particular time by means of Gps tracking or cell tower triangulation.[<sup>29</sup>](#user-content-fn-30)[^30]
 
-**On Actual Escape Route**
+### **On Actual Escape Route**
 
 If a witness reported that he saw the perpetrator flee on a certain street, it would be of major importance that officers saw the suspect on that street or on an artery at a time and distance consistent with flight by the perpetrator.[<sup>30</sup>](#user-content-fn-31)[^31]
 
-**On A Logical Escape Route**
+### **On A Logical Escape Route**
 
 Officers may be able to predict a perpetrator’s escape route based on their knowledge of traffic patterns in the area. If so, it would be significant that the suspect was traveling along a logical escape route if his distance from the crime scene and the elapsed time were consistent with flight by the perpetrator. Examples:
 
@@ -69,31 +71,31 @@ Officers may be able to predict a perpetrator’s escape route based on their kn
 * Shortly after a gang-related drive-by murder, Lapd officers found the shooters’ car abandoned, and they reasonably believed the occupants had fled on foot. An officer assigned to a gang unit figured the shooters would be heading to their own neighborhood “by a route which avoided the territories of rival and hostile gangs,” and he knew their “most logical route.” Along that route, he detained several young men who were wearing the colors of the perpetrators’ gang.[<sup>32</sup>](#user-content-fn-33)[^33]
 * At about 8 P.M., two men robbed a motel in Coronado, an island in San Diego Bay with only two bridges leading in and out. Police dispatch transmitted a very general description of the suspects but no vehicle description. Within minutes, an officer at one of the bridges saw a car occupied by two men who matched the general description. Two other men in the car ducked down when the officer started following them.[<sup>33</sup>](#user-content-fn-34)[^34]
 
-**High Crime Area**
+### **High Crime Area**
 
 A suspect’s presence in a “high crime area” is virtually irrelevant.[<sup>34</sup>](#user-content-fn-35)[^35] “It is true, unfortunately,” said the Court of Appeal, “that today it may be fairly said that our entire nation is a high crime area where narcotic activity is prevalent. Therefore, such factors, standing alone, are not sufficient to justify interference with an otherwise innocent-appearing citizen.”[<sup>35</sup>](#user-content-fn-36)[^36] It is, however, a circumstance that may become relevant in light of other circumstances,[<sup>36</sup>](#user-content-fn-37)[^37] especially if officers or witnesses saw the suspect engage in conduct that is associated with the type of criminal activity that is prevalent in the area.
 
 For example, in In re Michael S.[<sup>37</sup>](#user-content-fn-38)[^38] the court upheld the detention of a suspected auto burglar mainly because he was in an area in which officers had received “many complaints” of vehicle tampering, and the officers saw him “secreted or standing between two parked cars, looking first into one and then into the other as if examining them.” (As for hand-to-hand transactions in high crime areas, see “Suspicious Activity” (High crime area), below.)
 
-**Inside A Perimeter**
+### **Inside A Perimeter**
 
 A suspect’s presence inside a police perimeter is significant, especially if the perimeter was fairly tight and was set up quickly after the crime occurred. For example, in People v. Rivera [<sup>38</sup>](#user-content-fn-39)[^39] the court ruled that an officer had probable cause to arrest two men suspected of having just broken into an Atm because, among other things, he “knew that 10 surveillance units and at least 10 other patrol cars, with their lights f lashing, had formed a perimeter to contain the suspects.”
 
-**Reaction to Seeing Officers**
+## **Reaction to Seeing Officers**
 
 Even if they are not doing anything illegal at the moment, criminals tend to become nervous when they see an officer or patrol car. So officers naturally view this as a suspicious circumstance. And so do the courts—but with two qualifications: First, the officers must have had reason to believe the suspect had seen and recognized them. Second, the nature of the reaction must have been sufficiently suspicious.
 
-**Proving recognition**
+### **Proving recognition**
 
 As noted, a suspect’s reaction to seeing officers can be deemed suspicious only if it reasonably appeared he had recognized them as officers. As the Court of Appeal explained, “Absent a showing the citizen should reasonably know that those who are approaching are law enforcement officers, no reasonable inference of criminal conduct may be drawn.”[<sup>39</sup>](#user-content-fn-40)[^40] In most cases, this requirement is easily satisfied if (1) the reaction occurred immediately after the suspect looked in the officers’ direction; and (2) the officers were in a marked patrol car or were wearing a standard uniform or other clearly identifiable departmental attire. But if the officers were in plain clothes or in an unmarked car, the relevance of the suspect’s reaction will depend on whether there was some circumstantial evidence of recognition. Thus, in _People v. Huntsman_ [<sup>40</sup>](#user-content-fn-41)[^41] the court ruled that the defendant’s flight from officers was not incriminating because the officers “were in plain clothes and were driving an unmarked car at night.”
 
 In addition to marked cars, there are semi-marked vehicles; i.e., vehicles with enough exposed police equipment or other markings that most people— especially criminals—will easily spot them. As the Court of Appeal put it, some of these cars are “about as inconspicuous as three bull elephants in a backyard swimming pool.”[<sup>41</sup>](#user-content-fn-42)[^42] Still, when this issue arises at a hearing on a motion to suppress evidence, officers must be able to prove that they reasonably believed the defendant had identified them or their car. This might be accomplished by describing in detail the various police markings and equipment that were readily visible. Thus, in U.S. v. Nash the court ruled that an officer’s vehicle was clearly identifiable mainly because it was “a dark blue Dodge equipped with several antennae and police lights on the rear shelf.”[<sup>42</sup>](#user-content-fn-43)[^43]
 
-**Suspicious reactions**
+### **Suspicious reactions**
 
 Assuming that the officers reasonably believed the suspect had recognized them, the significance of his reaction will depend on the extent to which it indicated alarm or fear.[<sup>43</sup>](#user-content-fn-44)[^44] The following reactions are especially noteworthy.
 
-**Flight**
+### **Flight**
 
 Running from an officer is one of the strongest nonverbal admissions of guilt a person can make. In the words of the Supreme Court, flight is “the consummate act of evasion; it is not necessarily indicative of wrongdoing, but it is certainly suggestive of such.”[<sup>44</sup>](#user-content-fn-45)[^45] Nevertheless, the Court ruled that flight will not automatically establish grounds to detain. Instead, there must have been least one additional suspicious circumstance; i.e., “flight plus.”[<sup>45</sup>](#user-content-fn-46)[^46] For example, the courts have ruled that the following additional circumstances were sufficient to establish grounds to detain:
 
@@ -107,7 +109,7 @@ Running from an officer is one of the strongest nonverbal admissions of guilt a 
 
 Note that if officers already have grounds to detain the suspect, his flight may convert reasonable suspicion into probable cause to arrest, or at least provide grounds to arrest him for obstructing an officer in the performance of his duties.[<sup>53</sup>](#user-content-fn-53)[^53]
 
-**Attempting To Hide From Officers**
+### **Attempting To Hide From Officers**
 
 Like flight, a person’s attempt to hide from officers—including “slouching, crouching, or any other arguably evasive movement”[<sup>54</sup>](#user-content-fn-54)[^54]—is a highly suspicious circumstance.[<sup>55</sup>](#user-content-fn-55)[^55] Here are some examples:
 
@@ -115,7 +117,7 @@ Like flight, a person’s attempt to hide from officers—including “slouching
 * Officers saw the suspect hide behind a fence and peer out toward the street.[<sup>57</sup>](#user-content-fn-57)[^57]
 * When their parked car was spotlighted by an officer, two people in the front seat “immediately bent down toward the floorboard.”[<sup>58</sup>](#user-content-fn-58)[^58]
 
-**Attempting To Avoid Officers**
+### **Attempting To Avoid Officers**
 
 Although not as suspicious as an obvious attempt to hide, it is relevant that, upon observing officers, the suspect attempted to avoid them by, for example, walking away or quickly changing direction. As the Third Circuit observed, although walking away from officers “hardly amounts to headlong flight,” it is “a factor that can be considered in the totality of the circumstances.”[<sup>59</sup>](#user-content-fn-59)[^59] Some examples:
 
@@ -126,11 +128,13 @@ Although not as suspicious as an obvious attempt to hide, it is relevant that, u
 * When a driver saw a patrol car late at night, he “accelerated his vehicle and made two quick turns and an abrupt stop, hurriedly dousing his auto lights.”[<sup>64</sup>](#user-content-fn-64)[^64]
 * When a man who was suspected of selling drugs to a passing motorist saw an officer, he “abruptly withdrew from the \[buyer’s] car window” and the driver of the car drove off.[<sup>65</sup>](#user-content-fn-65)[^65]
 
-**Warning To Accomplice**
+### **Warning To Accomplice**
 
 If two or more suspects were standing together when one of them apparently spotted an officer, his immediate warning to the other is considered highly suspicious; e.g., “Jesus Christ, the cops,”[<sup>66</sup>](#user-content-fn-66)[^66] “Oh shit. Don’t say anything,”[<sup>67</sup>](#user-content-fn-67)[^67] “Police!”[<sup>68</sup>](#user-content-fn-68)[^68] “Rollers!”[<sup>69</sup>](#user-content-fn-69)[^69] “The man is across the street.”[<sup>70</sup>](#user-content-fn-70)[^70] Exclamations such as these naturally become even more suspicious if there was an immediate avoidance response; e.g., “Let’s get out of here,”[<sup>71</sup>](#user-content-fn-71)[^71] “Bobby, Bobby, run, it’s the narcs.”[<sup>72</sup>](#user-content-fn-72)[^72]
 
-Sudden Reach: Any sudden—almost instinctive— reaching into a pocket or other container or place upon seeing an officer is highly suspicious because of the possibility that the suspect is reaching for a weapon or disposable evidence. The following are examples that have been noted by the courts:
+### Sudden Reach
+
+Any sudden—almost instinctive— reaching into a pocket or other container or place upon seeing an officer is highly suspicious because of the possibility that the suspect is reaching for a weapon or disposable evidence. The following are examples that have been noted by the courts:
 
 * When a suspected drug dealer saw a patrol car, he suddenly put his hand inside his jacket.[<sup>73</sup>](#user-content-fn-73)[^73]
 * The suspect “put his hands in his pockets and started ‘digging’ in them.”[<sup>74</sup>](#user-content-fn-74)[^74]
@@ -139,7 +143,7 @@ Sudden Reach: Any sudden—almost instinctive— reaching into a pocket or other
 * The suspect “reached towards the front of his pants several times.”[<sup>77</sup>](#user-content-fn-77)[^77]
 * The suspect “shoved his hand into his right trouser pocket quite rapidly.”[<sup>78</sup>](#user-content-fn-78)[^78]
 
-**Attempt To Hide, Conceal, Or Discard**
+### **Attempt To Hide, Conceal, Or Discard**
 
 An apparent attempt to hide an unknown object upon seeing an officer is certainly suspicious because it is usually reasonable to infer that the item was a weapon, contraband, or other evidence of a crime.[<sup>79</sup>](#user-content-fn-79)[^79] Although such an attempt is especially relevant if officers could see that there was, in fact, an object of some sort that the suspect was attempting to conceal, the important thing is that the suspect’s actions were reasonably interpreted as such.
 
@@ -154,7 +158,7 @@ The following are examples of actions that reasonably indicated the suspect was 
 * A suspected drug dealer sitting inside his car kept his left hand hidden from the officer who had detained him.[<sup>86</sup>](#user-content-fn-86)[^86]
 * As the suspect was looking in her purse for Id, she “attempted to obstruct \[the officer’s] view.”[<sup>87</sup>](#user-content-fn-87)[^87]
 
-**Extreme Attention To Officers**
+### **Extreme Attention To Officers**
 
 A person’s extreme or unusual attention to officers may be noteworthy, especially if accompanied by some physical response and if officers could provide detailed testimony as to what the suspect did and why it appeared suspicious. Here are some examples:
 
@@ -165,11 +169,11 @@ A person’s extreme or unusual attention to officers may be noteworthy, especia
 
 Instead of paying inordinate attention to officers, a suspect will sometimes pretend that he didn’t see them. This, too, can be relevant, especially if officers can explain why it appeared to be a ploy. For example, in _U.S. v. Arvizu_ the Supreme Court ruled it was somewhat suspicious that a driver, as he passed a patrol car, “appeared stiff and his posture very rigid. He did not look at \[the officer] and seemed to be trying to pretend that \[the officer] was not there.”[<sup>92</sup>](#user-content-fn-92)[^92]
 
-**Suspicious Activities**
+## **Suspicious Activities**
 
 Officers sometimes see people doing things that, although not illegal, are suspicious or at least consistent with criminal activity.[<sup>93</sup>](#user-content-fn-93)[^93] While such conduct will seldom constitute probable cause to arrest, it is frequently sufficient for a detention.[<sup>94</sup>](#user-content-fn-94)[^94] However, the extent to which an activity can reasonably be deemed “suspicious” will often depend on the officer’s training and experience and the setting in which it occurred; e.g., the time of day or night, the location, and anything else that adds color or meaning to it. As the Court of Appeal observed, “Running down a street is in itself indistinguishable from the action of a citizen engaged in a program of physical fitness. Viewed in context of immediately preceding gunshots, it is highly suspicious.”[<sup>95</sup>](#user-content-fn-95)[^95]
 
-**Excessive Alertness**
+### **Excessive Alertness**
 
 Before, during, and after committing a crime, people instinctively tend to look around a lot to see if anyone is watching. This is especially true of robbers, burglars, and people who sell or buy drugs on the street. As the Court of Appeal noted, “Those involved in the narcotics trade are a skittish group—literally hunted animals to whom everyone is an enemy until proven to the contrary.”[<sup>96</sup>](#user-content-fn-96)[^96] Here are some examples of suspicious alertness:
 
@@ -183,7 +187,7 @@ Before, during, and after committing a crime, people instinctively tend to look 
 
 • Two men leaving a jewelry store (after robbing it) kept looking back at the store.[<sup>101</sup>](#user-content-fn-101)[^101]
 
-**Countersurveillance**
+### **Countersurveillance**
 
 Another common and suspicious activity of paranoic or merely vigilant criminals is counter surveillance walking or driving, which generally consists of tactics that make it difficult for officers to follow them or at least force the officers to engage in conspicuous surveillance. Here are some examples of counter surveillance driving by suspected drug traffickers:
 
@@ -193,7 +197,7 @@ Another common and suspicious activity of paranoic or merely vigilant criminals 
 * Suspect “pulled to the curb, allowing a surveillance unit to pass \[then] drove to a residence after first going past it and making a U-turn.”[<sup>105</sup>](#user-content-fn-105)[^105]
 * Suspect drove “up and down side streets, making numerous U-turns, stopping, backing up, and finally arriving at the Ganesha Street property.”[<sup>106</sup>](#user-content-fn-106)[^106]
 
-**Late Night Activity**
+### **Late Night Activity**
 
 Some crimes are typically committed late at night when there are usually fewer potential witnesses; e.g., robberies, commercial burglaries. Consequently, the time of night in which an activity occurred can add meaning to it. Examples:
 
@@ -205,55 +209,32 @@ Some crimes are typically committed late at night when there are usually fewer p
 * 2:35 A.M.: Officer saw a man “exiting from darkened private property where valuable merchandise was located.”[<sup>112</sup>](#user-content-fn-112)[^112]
 * 3:30 A.M.: Two men who were walking in a business area started running when they saw a patrol car approaching.[<sup>113</sup>](#user-content-fn-113)[^113]
 
-**Casing**
+### **Casing**
 
 Conduct that is indicative of casing a location for a crime (typically robbery or burglary) is, of course, highly suspicious. In fact, such conduct resulted in one of the most important cases in criminal law: _Terry v. Ohio_.[<sup>114</sup>](#user-content-fn-114)[^114] In Terry, an officer noticed two men standing together in downtown Cleveland, Ohio at about 2:30 P.M. As the officer watched, he noticed one of the men walk over to a nearby store and look in the window. The man then “rejoined his companion at the corner, and the two conferred briefly. Then the second man went through the same series of motions.” The two men “repeated this ritual alternately between five and six times apiece—in all, roughly a dozen trips.” At this point, the officer detained the men because, as he testified, he suspected they were “casing a job, a stick-up” and that he “considered it his duty” to investigate. The U.S. Supreme Court agreed that the men’s conduct warranted a detention.
 
-**Hand-To-Hand Exchanges**
+### **Hand-To-Hand Exchanges**
 
 Hand-to-hand exchanges are common occurrences and are therefore not, in and of themselves, suspicious.[<sup>115</sup>](#user-content-fn-115)[^115] But they can easily become so depending on a combination of surrounding circumstances, such as:
 
-**Nature Of Item Exchanged**
+* **Nature Of Item Exchanged:** The object of the exchange looked like illegal drugs; e.g., “two small, thin, white, filterless cigarettes.”[<sup>116</sup>](#user-content-fn-116)[^116]
+* **Packaging Of Item Exchanged:** The object was packaged in a manner consistent with drug packaging; e.g., a baggie,[<sup>117</sup>](#user-content-fn-117)[^117] a “flat waxed paper package of the size and appearance used for the sale of marijuana in small quantities.”[<sup>118</sup>](#user-content-fn-118)[^118]
+* **Location Of Transaction:** The transaction occurred in an area where street sales of drugs, stolen property, or weapons commonly occur.[<sup>119</sup>](#user-content-fn-119)[^119]
+* **Money Exchange:** The suspected buyer gave money to the suspected seller.[<sup>120</sup>](#user-content-fn-120)[^120]
+* **Furtiveness:** The parties acted in a manner indicating they did not want to be seen; e.g., seller “looked about furtively,”[<sup>121</sup>](#user-content-fn-121)[^121] seller “walked over to an apparent hiding place before and after the exchange,”[<sup>122</sup>](#user-content-fn-122)[^122] the buyer hid the object of the transaction in a cigarette case which he then placed in his pocket,”[<sup>123</sup>](#user-content-fn-123)[^123] when the parties saw an approaching police car “their conversation ceased and their hands went into their pockets very rapidly.”[<sup>124</sup>](#user-content-fn-124)[^124]&#x20;
+* **Panicky Reaction To Officers:** Upon observing the officers, one or both of the suspects displayed signs of panic. This subject was covered in the section “Reaction to Seeing Officers,” above.
+* **Multiple Exchanges:** The apparent seller engaged in several such transactions with various buyers.[<sup>125</sup>](#user-content-fn-125)[^125]&#x20;
+* **Prior Arrests:** The seller or buyer had prior arrests for selling or possessing contraband.[<sup>126</sup>](#user-content-fn-123)[^123]
 
-The object of the exchange looked like illegal drugs; e.g., “two small, thin, white, filterless cigarettes.”[<sup>116</sup>](#user-content-fn-116)[^116]
-
-**Packaging Of Item Exchanged**
-
-The object was packaged in a manner consistent with drug packaging; e.g., a baggie,[<sup>117</sup>](#user-content-fn-117)[^117] a “flat waxed paper package of the size and appearance used for the sale of marijuana in small quantities.”[<sup>118</sup>](#user-content-fn-118)[^118]
-
-**Location Of Transaction**
-
-The transaction occurred in an area where street sales of drugs, stolen property, or weapons commonly occur.[<sup>119</sup>](#user-content-fn-119)[^119]
-
-**Money Exchange**
-
-The suspected buyer gave money to the suspected seller.[<sup>120</sup>](#user-content-fn-120)[^120]
-
-**Furtiveness**
-
-The parties acted in a manner indicating they did not want to be seen; e.g., seller “looked about furtively,”[<sup>121</sup>](#user-content-fn-121)[^121] seller “walked over to an apparent hiding place before and after the exchange,”[<sup>122</sup>](#user-content-fn-122)[^122] the buyer hid the object of the transaction in a cigarette case which he then placed in his pocket,”[<sup>123</sup>](#user-content-fn-123)[^123] when the parties saw an approaching police car “their conversation ceased and their hands went into their pockets very rapidly.”[<sup>124</sup>](#user-content-fn-124)[^124]&#x20;
-
-**Panicky Reaction To Officers**
-
-Upon observing the officers, one or both of the suspects displayed signs of panic. This subject was covered in the section “Reaction to Seeing Officers,” above.
-
-**Multiple Exchanges**
-
-The apparent seller engaged in several such transactions with various buyers.[<sup>125</sup>](#user-content-fn-125)[^125]&#x20;
-
-**Prior Arrests**
-
-The seller or buyer had prior arrests for selling or possessing contraband.[<sup>126</sup>](#user-content-fn-123)[^123]
-
-**Advancing On Officers**
+#### **Advancing On Officers**
 
 A suspect’s act of quickly approaching officers who are about to contact or detain him is a suspicious (and worrisome) response. Thus, in _People v. Hubbard_ the following testimony by an officer established reasonable suspicion for a pat search: “Like I said, all three suspects alighted from the vehicle almost simultaneously. They all got out on us.”[<sup>127</sup>](#user-content-fn-126)[^126] Similarly, _U.S. v. Mattarolo_, the court upheld a pat search because “\[t]he defendant’s swift approach caused the officer to get out of his squad car quickly so as not to be trapped with the means of protecting himself consequently limited.”[<sup>128</sup>](#user-content-fn-127)[^127]
 
-**“Unusual” Activity**
+### **“Unusual” Activity**
 
 A detention may be based, at least in part, on activity that is “so unusual, so far removed from everyday experience that it cries out for investigation,” even if “there is no specific crime to which it seems to relate.”[<sup>129</sup>](#user-content-fn-128)[^128]
 
-**Nervousness**
+## **Nervousness**
 
 Although a suspect’s nervousness upon being contacted or detained is a relevant factor,[<sup>130</sup>](#user-content-fn-129)[^129] its significance usually depends on whether it was extreme or unusual.[<sup>131</sup>](#user-content-fn-130)[^130] The following fall into that category:
 
@@ -264,15 +245,15 @@ Although a suspect’s nervousness upon being contacted or detained is a relevan
 
 Although less significant, the following indications of nervousness have been noted: suspect looked “shocked,”[<sup>136</sup>](#user-content-fn-135)[^135] suspect appeared “nervous and anxious to leave the area,”[<sup>137</sup>](#user-content-fn-123)[^123] and suspect appeared nervous and was hesitant in answering questions.[<sup>138</sup>](#user-content-fn-136)[^136] Much less significant—but not irrelevant [<sup>139</sup>](#user-content-fn-137)[^137]—is a suspect’s failure to make eye contact with officers.[<sup>140</sup>](#user-content-fn-138)[^138]
 
-**Lies and Evasions**
+## **Lies and Evasions**
 
-When a suspect lies, evades a question, gives conflicting statements or tells an unbelievable story it is ordinarily reasonable to infer that the truth would incriminate him.[<sup>141</sup>](#user-content-fn-139)[^139] Consequently, the following are all suspicious circumstances:
+When a suspect lies, evades a question, gives conflicting statements or tells an unbelievable story it is ordinarily reasonable to infer that the truth would incriminate him.[<sup>141</sup>](#user-content-fn-139)[^139] Consequently, the following are all suspicious circumstances.
 
-**Material Lies**
+### **Material Lies**
 
 The most incriminating lie is one that pertains to a material issue of guilt.[<sup>142</sup>](#user-content-fn-140)[^140] Said the court in _People v. Williams_, “Deliberately false statements to the police about matters that are within a suspect’s knowledge and materially relate to his or her guilt or innocence have long been considered cogent evidence of consciousness of guilt, for they suggest there is no honest explanation for incriminating circumstances.”[<sup>143</sup>](#user-content-fn-141)[^141] In fact, when a suspect lies about a material matter, the jury at his trial may be instructed that such an act may properly be deemed a demonstration of guilt.[<sup>144</sup>](#user-content-fn-142)[^142]
 
-**Lies About Peripheral Issues**
+### **Lies About Peripheral Issues**
 
 Although less indicative of guilt than a lie about a material issue, lies about peripheral issues, such as the following, may also be viewed as incriminating:
 
@@ -284,17 +265,17 @@ Although less indicative of guilt than a lie about a material issue, lies about 
 * Suspect lied that he and the murder victim were not married.[<sup>150</sup>](#user-content-fn-148)[^148]
 * Suspect lied when he said he didn’t know his accomplice.[<sup>151</sup>](#user-content-fn-149)[^149]
 
-**Suspect Gives Inconsistent Statement**
+### **Suspect Gives Inconsistent Statement**
 
 A suspect who is making up a story while being questioned will frequently give conflicting information, often because he forgot what he said earlier or because he learned that his old story did not fit with the known facts. This is an especially significant circumstance if the conflict pertained to a material issue. For example, in _People v. Memro_ the California Supreme Court pointed out that “patently inconsistent statements to such a vital matter as the whereabouts of \[the murder victim] near the time he vanished had no discernible innocent meaning and strongly indicated consciousness of guilt.”[<sup>152</sup>](#user-content-fn-150)[^150]
 
-**Suspects Give Conflicting Stories**
+### **Suspects Give Conflicting Stories**
 
 When two or more suspects are being questioned separately, they will often give conflicting stories because they do not know what the other had said. For example, in a stolen property case, _People v. Garcia_, one suspect said the stolen Tv he was carrying belonged to some dude, but his companion said it belonged to the suspect. The court said it sounded fishy.[<sup>153</sup>](#user-content-fn-151)[^151]
 
 Inconsistencies often frequently occur when officers stop a car and briefly question the occupants separately about where they came from, where they were going and why. Although these inconsistencies will not necessarily establish grounds to arrest or prolong the detention, they may naturally generate some suspicion. For example, in _U.S. v. Guerrero_ [<sup>154</sup>](#user-content-fn-152)[^152] one of two suspected drug couriers said they had come to Kansas City “to work construction,” while the other said they were just visiting for the day. In ruling that the officers had grounds to detain the pair further, the court said that their “differing renditions of their travel plans” was “most important to the overall evaluation.”
 
-**Independent Witness Gave Different Story**
+### **Independent Witness Gave Different Story**
 
 Officers might reasonably believe that a suspect was lying if his statement was in material conflict with that of an independent witness who appeared to be believable. Some examples:
 
@@ -308,7 +289,7 @@ Officers might reasonably believe that a suspect was lying if his statement was 
 * A burglary suspect told officers she was waiting for a friend, but she didn’t know her friend’s name; plus she said her friend would be arriving on a Bart train from San Jose, but there are no Bart stations in San Jose (at least until 2017).[<sup>163</sup>](#user-content-fn-160)[^160]
 * A suspected rapist claimed he had been jogging, but he wasn’t perspiring or breathing hard, nor did he have a rapid pulse.[<sup>164</sup>](#user-content-fn-90)[^90]
 
-**Ambiguous AnswerS**
+### **Ambiguous Answers**
 
 Even though a suspect technically answered the officer’s questions, his answers may be suspicious because they were ambiguous or bewildering.[<sup>165</sup>](#user-content-fn-161)[^161]
 
@@ -318,19 +299,19 @@ Even though a suspect technically answered the officer’s questions, his answer
 * Suspect gave “vague or conflicting answers to simple questions about his itinerary.”[<sup>168</sup>](#user-content-fn-164)[^164]
 * Suspect gave “vague” description of her travel plans and she “could not remember the flight details”
 
-**Withholding Information**
+### **Withholding Information**
 
 A suspect’s act of withholding material information from officers is a suspicious circumstance; e.g., murder suspect withheld information about his relationship with the victim.[<sup>169</sup>](#user-content-fn-165)[^165]
 
-**Knowing Too Much**
+### **Knowing Too Much**
 
 A favorite of mystery writers for generations, a suspect’s act of providing officers with information that could only have been known by the perpetrator is so devastating that scores of fictional murderers, upon realizing their error, have felt compelled to immediately confess. Although he did not immediately do so, the defendant in People v. Spears was caught in exactly such a trap.[<sup>170</sup>](#user-content-fn-166)[^166] Spears, an employee of a Chili’s restaurant in Cupertino, shot and killed the manager in the manager’s office shortly before the restaurant was to open for the day. When other employees arrived for work and Spears “discovered” the manager’s body, he exclaimed, “He’s been shot!” The manager had, in fact, been shot— three times to the head—but the damage to his skull was so extensive that only the killer would have known he had been shot, not bludgeoned. Spears was convicted.
 
-**Possession of Evidence**
+## **Possession of Evidence**
 
 Another classic indication of guilt is that the suspect possessed the fruits or instrumentalities of the crime under investigation. But this one is a little more complicated because there are actually two independent legal issues: (1) Was the evidence “incriminating”? (2) Did the suspect actually “possess” it?
 
-**Types of incriminating evidence**
+### **Types of incriminating evidence**
 
 There are essentially two types of incriminating evidence that a suspect may possess: contraband and circumstantial evidence of guilt. “Contraband” is anything that is illegal to possess, e.g., stolen property, child pornography, certain drugs, and illegal weapons.[<sup>171</sup>](#user-content-fn-167)[^167] Possession of contraband automatically results in probable cause.
 
@@ -344,7 +325,7 @@ The other type of incriminating evidence, circumstantial evidence of guilt, is a
 * A robbery suspect possessed a handcuff key; the victim had been handcuffed.[<sup>178</sup>](#user-content-fn-174)[^174]
 * A suspected car thief possessed a car with missing or improperly attached license plates, indications of Vin plate tampering, switched plates, a broken side window, or evidence of ignition tampering.[<sup>179</sup>](#user-content-fn-175)[^175]
 
-**Types of “possession”**
+### **Types of “possession”**
 
 In addition to having probable cause to believe the evidence is incriminating, officers must be able to establish probable cause to believe the suspect “possessed” it. There are types of possession: actual and constructive. Actual possession occurs if the evidence “is in the defendant’s immediate possession or control.”[<sup>180</sup>](#user-content-fn-176)[^176] Examples include evidence in the suspect’s pockets or evidence that officers saw him discard or try to hide.[<sup>181</sup>](#user-content-fn-177)[^177]
 
@@ -354,39 +335,39 @@ Constructive possession means the object is not in the defendant’s physical po
 
 The question, then, is what constitutes sufficient circumstantial evidence of sole or joint control? The following circumstances are frequently cited by the courts:
 
-**Contraband In Suspect’S Residence**
+### **Contraband In Suspect’s Residence**
 
 It is usually reasonable to infer that a suspect had control over contraband or other evidence in common areas of his home and in rooms over which he had joint or exclusive control; e.g., the kitchen,[<sup>184</sup>](#user-content-fn-179)[^179] in a light fixture,[<sup>185</sup>](#user-content-fn-180)[^180] in a bedroom.[<sup>186</sup>](#user-content-fn-181)[^181]
 
-**Contraband In A Vehicle**
+### **Contraband In A Vehicle**
 
 The driver and all passengers in a vehicle are usually considered to be in control of items to which they had immediate access or which were in plain view; e.g., on the floorboard,[<sup>187</sup>](#user-content-fn-182)[^182] behind an armrest,[<sup>188</sup>](#user-content-fn-183)[^183] on a tape deck,[<sup>189</sup>](#user-content-fn-184)[^184] behind the back seat.[<sup>190</sup>](#user-content-fn-185)[^185]
 
-**Companion In Possession**
+### **Companion In Possession**
 
 When officers have probable cause to believe a person possesses contraband, they may also have probable cause to arrest his companion for possession if there were facts that reasonably indicated they were acting in concert.[<sup>191</sup>](#user-content-fn-186)[^186]
 
-**Indicia**
+### **"Indicia"**
 
-A suspect’s control over a certain place or thing may be established by the presence of documents or other indicia linking him to the location; e.g., rent receipts, utility bills, driver’s license.[<sup>192</sup>](#user-content-fn-187)[^187]
+A suspect’s control over a certain place or thing may be established by the presence of documents or other indicia (i.e., indications or signs) that link them to the location (e.g., rent receipts, utility bills, driver’s license).[<sup>192</sup>](#user-content-fn-187)[^187]
 
-**Other Relevant Circumstances**
+## **Other Relevant Circumstances**
 
 Apart from circumstances that are too obvious to require discussion (e.g., confessions, fingerprint match,[<sup>193</sup>](#user-content-fn-188)[^188] Dna hit,[<sup>194</sup>](#user-content-fn-189)[^189] showup or lineup Id[<sup>195</sup>](#user-content-fn-190)[^190] ), the following circumstances are frequently cited in establishing probable cause and reasonable suspicion:
 
-**Suspect’S Physical Condition**
+### **Suspect’s Physical Condition**
 
 The fact that the suspect was injured, dirty, out-of-breath, sweating, or had torn clothing is highly suspicious if officers reasonably believed that the perpetrator would have been in such a condition.[<sup>196</sup>](#user-content-fn-191)[^191]
 
-**Suspect’S Rap Sheet**
+### **Suspect’s Rap Sheet**
 
 While it is somewhat significant that the suspect had been arrested or convicted in the past, it is highly significant that the crime was similar to the one under investigation.[<sup>197</sup>](#user-content-fn-192)[^192]
 
-**Gang Clothing**
+### **Gang Clothing**
 
 Depending on the nature of the crime, it may be relevant that the suspect was wearing clothing that is associated with a street gang.[<sup>198</sup>](#user-content-fn-193)[^193]
 
-Electronic Communication Records
+### Electronic Communication Records
 
 More and more, electronic communications records are providing officers with important information that establishes or helps to establish probable cause. Examples include phone numbers dialed and the length of the calls, cell site contact information (e.g., near scene of the crime when the crime occurred), date and time that a certain computer accessed a certain internet site, the identity of the sender and receiver of an email and when the communication occurred, the Ip address assigned to a particular computer.[<sup>199</sup>](#user-content-fn-194)[^194]
 
