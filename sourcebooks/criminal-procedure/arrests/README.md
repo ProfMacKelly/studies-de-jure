@@ -7,7 +7,7 @@ hidden: true
 {% stepper %}
 {% step %}
 {% content-ref url="overview.md" %}
-[PC-RS-Revisted.md](pc-rs-revisted.md)
+[pc-rs-revisted.md](pc-rs-revisted.md)
 {% endcontent-ref %}
 {% endstep %}
 
