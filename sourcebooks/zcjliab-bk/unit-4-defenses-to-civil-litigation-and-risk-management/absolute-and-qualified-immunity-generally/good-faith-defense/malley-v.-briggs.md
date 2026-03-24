@@ -1,2 +1,0 @@
-# Malley v. Briggs
-
