@@ -2,60 +2,62 @@ import re
 import sys
 from pathlib import Path
 
-
-# Matches inline GitBook-style annotation markers like:
-# [<sup>5</sup>](#user-content-fn-5)[^5]
+# Matches inline GitBook-style markers like:
+# [<sup>17</sup>](#user-content-fn-17)[^17]
 INLINE_FOOTNOTE_RE = re.compile(
     r'\[<sup>(\d+)</sup>\]\(#user-content-fn-(\d+)\)\[\^(\d+)\]'
 )
 
 # Matches footnote definition lines like:
-# [^5]: Footnote text
+# [^17]: Footnote text
+# including continuation lines until the next footnote definition
 DEFINITION_RE = re.compile(
-    r'(?m)^\[\^(\d+)\]:(.*(?:\n(?!\[\^\d+\]:).*)*)'
+    r'(?ms)^\[\^(\d+)\]:(.*?)(?=^\[\^\d+\]:|\Z)'
 )
 
 
 def renumber_gitbook_footnotes(text: str):
     """
-    Renumber GitBook-style inline annotation markers and matching footnote
-    definition labels so numbering becomes sequential in the order the inline
-    markers appear in the body text.
+    Renumber GitBook-style inline footnote markers and matching footnote
+    definition labels so numbering is sequential in the order the inline
+    markers appear in the document.
 
     Returns:
-        new_text (str): transformed markdown
-        mapping (dict[int, int]): old_number -> new_number
+        new_text (str)
+        mapping (dict[int, int]) old_number -> new_number
     """
 
-    # Step 1: collect inline footnotes in body order
+    # Find all inline markers in body order
     matches = list(INLINE_FOOTNOTE_RE.finditer(text))
     if not matches:
         raise ValueError(
-            "No inline GitBook-style footnote markers were found in the file."
+            "No GitBook-style inline footnote markers were found."
         )
 
     old_numbers_in_order = []
     seen = set()
 
     for m in matches:
-        n1, n2, n3 = m.groups()
+        sup_num, anchor_num, ref_num = m.groups()
 
-        # Sanity check: the three numbers inside each marker should match
-        if not (n1 == n2 == n3):
+        # Make sure all three numbers in one marker match
+        if not (sup_num == anchor_num == ref_num):
             raise ValueError(
-                f"Mismatched inline marker found: {m.group(0)}\n"
-                f"The three numbers inside the marker do not match."
+                f"Malformed marker with mismatched numbers:\n{m.group(0)}"
             )
 
-        old_num = int(n1)
+        old_num = int(sup_num)
         if old_num not in seen:
             seen.add(old_num)
             old_numbers_in_order.append(old_num)
 
-    # Step 2: build old -> new mapping
-    mapping = {old: new for new, old in enumerate(old_numbers_in_order, start=1)}
+    # Build mapping based on surviving body order
+    mapping = {
+        old_num: new_num
+        for new_num, old_num in enumerate(old_numbers_in_order, start=1)
+    }
 
-    # Step 3: replace inline markers
+    # Replace every inline marker fully
     def replace_inline(match: re.Match) -> str:
         old_num = int(match.group(1))
         new_num = mapping[old_num]
@@ -63,24 +65,21 @@ def renumber_gitbook_footnotes(text: str):
 
     new_text = INLINE_FOOTNOTE_RE.sub(replace_inline, text)
 
-    # Step 4: replace footnote definition labels
-    # Only labels are renumbered; footnote text itself is preserved.
+    # Replace footnote definition labels at bottom
     def replace_definition(match: re.Match) -> str:
         old_num = int(match.group(1))
         body = match.group(2)
 
+        # Keep only definitions that still have a surviving inline reference
         if old_num in mapping:
             new_num = mapping[old_num]
             return f'[^{new_num}]:{body}'
-        else:
-            # If a footnote definition exists at bottom but no surviving inline
-            # reference points to it, remove it.
-            return ''
+        return ''
 
     new_text = DEFINITION_RE.sub(replace_definition, new_text)
 
-    # Step 5: clean up any large blank gaps left by removed unused definitions
-    new_text = re.sub(r'\n{3,}', '\n\n', new_text)
+    # Clean up excessive blank lines that may result from removed definitions
+    new_text = re.sub(r'\n{3,}', '\n\n', new_text).rstrip() + '\n'
 
     return new_text, mapping
 
@@ -99,7 +98,9 @@ def main():
     if len(sys.argv) >= 3:
         output_path = Path(sys.argv[2])
     else:
-        output_path = input_path.with_name(input_path.stem + "_renumbered" + input_path.suffix)
+        output_path = input_path.with_name(
+            f"{input_path.stem}_renumbered{input_path.suffix}"
+        )
 
     text = input_path.read_text(encoding="utf-8")
 
@@ -111,7 +112,7 @@ def main():
 
     output_path.write_text(new_text, encoding="utf-8")
 
-    print(f"Done.")
+    print("Done.")
     print(f"Input : {input_path}")
     print(f"Output: {output_path}")
     print("\nRenumbering map:")
