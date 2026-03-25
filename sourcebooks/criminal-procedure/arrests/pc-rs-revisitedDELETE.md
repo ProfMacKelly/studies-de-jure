@@ -1,6 +1,6 @@
 # Probable Cause and Reasonable Suspicion Revisited
 
-Although some general basics already have been addressed throughout this book, now is a good time to revisit them and, in some cases, drill down further.&#x20;
+Although some general basics already have been addressed throughout this book, now is a good time to revisit them and, in some cases, drill down further.
 
 ## Introduction
 
