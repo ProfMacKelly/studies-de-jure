@@ -18,11 +18,13 @@ When people start to learn about probable cause or reasonable suspicion, they us
 
 Nevertheless, the Supreme Court has refused to assign a probability percentage to these concepts because it views them as nontechnical standards based on common sense, not mathematical precision.[<sup>9</sup>](#user-content-fn-8)[^8] “The probable cause standard,” said the Court, “is incapable of precise definition or quantification into percentages because it deals with probabilities and depends on the totality of circumstances.”[<sup>10</sup>](#user-content-fn-9)[^9] Similarly, the Tenth Circuit observed, “Besides the difficulty of agreeing on a single number, such an enterprise would, among other things, risk diminishing the role of judgment based on situation-sense.”[<sup>11</sup>](#user-content-fn-10)[^10] Still, based on inklings from the United States Supreme Court, it is possible to provide at least a ballpark probability percentage for probable cause.
 
-Reasonable suspicion, on the other hand, remains an enigma.
-
 ### **Probable cause**
 
 Many people assume that probable cause requires at least a 51% probability because anything less would not be “probable.” While this is technically true, the Supreme Court has ruled that, in the context of probable cause, the word “probable” has a somewhat different meaning. Specifically, it has said that probable cause requires neither a preponderance of the evidence nor “any showing that such belief be correct or more likely true than false,”[<sup>12</sup>](#user-content-fn-11)[^11] and that it requires only a “fair” probability, not a statistical probability.[<sup>13</sup>](#user-content-fn-12)[^12] Thus, it is apparent that probable cause requires something less than a 50% chance.[<sup>14</sup>](#user-content-fn-13)[^13] How much less? Although no court has tried to figure it out, we suspect it is not much lower than 50%.
+
+Ultimately, we're left with the principle that probable cause to arrest exists if there is a “fair probability” or “substantial chance” that the suspect committed a crime.
+
+This still is not a precise definition, but reasonable suspicion continues to be less so.
 
 ### **Reasonable suspicion**
 
