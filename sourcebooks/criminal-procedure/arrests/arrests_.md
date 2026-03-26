@@ -34,21 +34,21 @@ Perhaps the most basic principle of criminal law is that an arrest requires prob
     The other type of mistake occurs when officers were wrong in their belief that there was probable cause to arrest. These types of mistakes render the arrest unlawful.[<sup>16</sup>](#user-content-fn-16)[^16]
 {% endhint %}
 
+## **Warrantless Arrests**
+
+When officers have probable cause to arrest, the default rule (which comes from the text of the Fourth Amendment) is that they must obtain an arrest warrant prior to making an arrest.[<sup>20</sup>](#user-content-fn-17)[^17] But the court understand that an absolute rule prohibiting warrantless arrests would “constitute an intolerable handicap for legitimate law enforcement.”[<sup>21</sup>](#user-content-fn-18)[^18] Consequently, warrantless arrests are permitted regardless of whether officers had time to obtain a warrant.[<sup>22</sup>](#user-content-fn-19)[^19] As we will discuss, however, there are certain statutory restrictions if the crime was a misdemeanor.
+
 ### Premature Warrantless Arrests
 
-Although officers may consider their training and experience in determining whether probable cause to arrest exists, they must not jump to conclusions or ignore information that undermines probable cause. This is especially true if there was time to conduct further investigation before making the arrest. As the Seventh Circuit pointed out, “A police officer may not close her or his eyes to facts that would help clarify the circumstances of an arrest. Reasonable avenues of investigation must be pursued.”[<sup>17</sup>](#user-content-fn-17)[^17]
+Although officers may consider their training and experience in determining whether probable cause to arrest exists, they must not jump to conclusions or ignore information that undermines probable cause. This is especially true if there was time to conduct further investigation before making the arrest. As the Seventh Circuit pointed out, “A police officer may not close her or his eyes to facts that would help clarify the circumstances of an arrest. Reasonable avenues of investigation must be pursued.”[<sup>17</sup>](#user-content-fn-20)[^20]
 
-For example, in _Gillan v. City_ _of San Marino_,[<sup>18</sup>](#user-content-fn-18)[^18] a young woman told officers that, several months earlier while attending high school, she had been sexually molested by Gillan, her basketball coach. So they arrested him—even though the woman was unable to provide many details about the crime, even though some of the details she provided were inconsistent, even though she had a motive to lie (she had “strong antipathy” toward Gillian because of his coaching decisions), and even though they surreptitiously heard Gillan flatly deny the charge when confronted by the woman. After the district attorney refused to file charges, Gillan sued the officers for false arrest, and the jury awarded him over $4 million.
+For example, in _Gillan v. City_ _of San Marino_,[<sup>18</sup>](#user-content-fn-21)[^21] a young woman told officers that, several months earlier while attending high school, she had been sexually molested by Gillan, her basketball coach. So they arrested him—even though the woman was unable to provide many details about the crime, even though some of the details she provided were inconsistent, even though she had a motive to lie (she had “strong antipathy” toward Gillian because of his coaching decisions), and even though they surreptitiously heard Gillan flatly deny the charge when confronted by the woman. After the district attorney refused to file charges, Gillan sued the officers for false arrest, and the jury awarded him over $4 million.
 
 On appeal, the court upheld the verdict, noting that the information known to the officers was “not sufficiently consistent, specific, or reliable” to constitute probable cause. Among other things, the court noted that “\[s]ome of the allegations were generalized and not specific as to time, date, or other details, including claims of touching in the gym. Other accusations concerning more specific events either lacked sufficient detail or were inconsistent in the details provided.”
 
-In another case, _Cortez v. McCauley_,[<sup>19</sup>](#user-content-fn-19)[^19] a woman brought her two-year old daughter to an emergency room in New Mexico because her daughter had said that Cortez, an acquaintance, “hurt her pee pee.” A nurse at the hospital notified police who immediately arrested Cortez at his home. After prosecutors refused to file charges against him, Cortez sued the officers for false arrest.
+In another case, _Cortez v. McCauley_,[<sup>19</sup>](#user-content-fn-22)[^22] a woman brought her two-year old daughter to an emergency room in New Mexico because her daughter had said that Cortez, an acquaintance, “hurt her pee pee.” A nurse at the hospital notified police who immediately arrested Cortez at his home. After prosecutors refused to file charges against him, Cortez sued the officers for false arrest.
 
 In ruling that the officers were not entitled to qualified immunity, the Tenth Circuit pointed out that they “did not wait to receive the results of the medical examination of the child (the results were negative), did not interview the child or her mother, and did not seek to obtain a warrant.” Said the court, “We believe that the duty to investigate prior to a warrantless arrest is obviously applicable when a double-hearsay statement, allegedly derived from a two-year old, is the only information law enforcement possesses.”
-
-## **Warrantless Arrests**
-
-When officers have probable cause to arrest, the courts prefer that they seek an arrest warrant.[<sup>20</sup>](#user-content-fn-20)[^20] But they also understand that a rule prohibiting warrantless arrests would “constitute an intolerable handicap for legitimate law enforcement.”[<sup>21</sup>](#user-content-fn-21)[^21] Consequently, warrantless arrests are permitted regardless of whether officers had time to obtain a warrant.[<sup>22</sup>](#user-content-fn-22)[^22] As we will discuss, however, there are certain statutory restrictions if the crime was a misdemeanor.
 
 ### **Arrests for Felonies and “Wobblers”**
 
@@ -111,7 +111,7 @@ Note that because this rule is not based on the Fourth Amendment, a violation ca
 
 ## **Warrant Arrests**
 
-As noted earlier, an arrest is lawful under the Fourth Amendment if officers have probable cause. What, then, is the purpose of seeking an arrest warrant? After all, the United States Supreme Court has pointed out that it “has never invalidated an arrest supported by probable cause solely because the officers failed to secure a warrant.”[<sup>49</sup>](#user-content-fn-21)[^21]
+As noted earlier, an arrest is lawful under the Fourth Amendment if officers have probable cause. What, then, is the purpose of seeking an arrest warrant? After all, the United States Supreme Court has pointed out that it “has never invalidated an arrest supported by probable cause solely because the officers failed to secure a warrant.”[<sup>49</sup>](#user-content-fn-18)[^18]
 
 There are essentially four situations in which officers will apply for a warrant. First, if the suspect has fled or if officers will otherwise be unable to make an immediate arrest, they may seek a warrant in order to download the arrest authorization into an arrest-warrant database such as NCIC. Second, as we will discuss later, an arrest warrant will ordinarily be required if officers will need to forcibly enter the suspect’s residence to make the arrest. Third, as discussed earlier, a warrant may be required if the crime was a misdemeanor that was not committed in an officer’s presence. Finally, if officers are uncertain about the existence of probable cause, they may seek an arrest warrant so as to obtain a judge’s determination on the issue which, in most cases, will also trigger the good faith rule.[<sup>50</sup>](#user-content-fn-48)[^48] Apart from these practical reasons for seeking an arrest warrant, there is a philosophical one: the courts prefers that officers seek warrants when possible because, as the United States Supreme Court explained, they prefer to have “a neutral judicial officer assess whether the police have probable cause.” [<sup>51</sup>](#user-content-fn-49)[^49]
 
@@ -223,7 +223,7 @@ Officers may conduct a search incident to arrest if the following circumstances 
 
 The following places and things may be searched incident to an arrest:
 
-**Arrestee’S Clothing**
+**Arrestee’s Clothing**
 
 Officers may conduct a “full search” of the arrestee.[<sup>96</sup>](#user-content-fn-92)[^92] Although the term “full search” is vague, the courts have ruled that it permits a more intensive search than a pat down; and that it entails a “relatively extensive exploration” of the arrestee, including his pockets.[<sup>97</sup>](#user-content-fn-94)[^94]
 
@@ -435,17 +435,17 @@ Unless otherwise indicated, this page's content is adapted from the following so
 
 [^16]: See People v. Teresinski (1982) 30 Cal.3d 822, 831.
 
-[^17]: BeVier v. Hucal (7th Cir. 1986) 806 F.2d 123, 128.
+[^17]: See Wong Sun v. United States (1963) 371 U.S. 471, 481-82 \[“The arrest warrant procedure serves to insure that the deliberate, impartial judgment of a judicial officer will be interposed between the citizen and the police”].
 
-[^18]: (2007) 147 Cal.App.4th 1033.
+[^18]: Gerstein v. Pugh (1975) 420 U.S. 103, 113.
 
-[^19]: (10th Cir. 2007) 478 F.3d 1108.
+[^19]: See United States v. Watson (1976) 423 U.S. 411, 423; U.S. v. Bueno-Vargas (9th Cir. 2004) 383 F.3d 1104, 1107, fn.4.
 
-[^20]: See Wong Sun v. United States (1963) 371 U.S. 471, 481-82 \[“The arrest warrant procedure serves to insure that the deliberate, impartial judgment of a judicial officer will be interposed between the citizen and the police”].
+[^20]: BeVier v. Hucal (7th Cir. 1986) 806 F.2d 123, 128.
 
-[^21]: Gerstein v. Pugh (1975) 420 U.S. 103, 113.
+[^21]: (2007) 147 Cal.App.4th 1033.
 
-[^22]: See United States v. Watson (1976) 423 U.S. 411, 423; U.S. v. Bueno-Vargas (9th Cir. 2004) 383 F.3d 1104, 1107, fn.4.
+[^22]: (10th Cir. 2007) 478 F.3d 1108.
 
 [^23]: See Carroll v. United States (1925) 267 U.S. 132 156; Pen. Code § 836(a)(3).
 
