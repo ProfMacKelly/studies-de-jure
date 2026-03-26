@@ -14,8 +14,8 @@
 {% endstep %}
 
 {% step %}
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="arrests_.md" %}
+[arrests\_.md](arrests_.md)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
