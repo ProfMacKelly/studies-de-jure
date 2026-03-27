@@ -1,10 +1,8 @@
 # Wilson v. City of Lafayette
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://scholar.google.com/scholar_case?case=17590769527396692335\&hl=en\&as_sdt=6,50).]
-
 ***
 
-Docket No. 11-1403 (10th Cir. 2013)
+[Docket No. 11-1403 ](https://scholar.google.com/scholar_case?case=17590769527396692335\&hl=en\&as_sdt=6,50)(10th Cir. 2013)
 
 Court of Appeals for the Tenth Circuit
 
@@ -55,3 +53,8 @@ We sympathize with the Wilsons over their terrible loss. But the Supreme Court h
 The judgment of the district court is affirmed.
 
 \[...]
+
+***
+
+{% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+
