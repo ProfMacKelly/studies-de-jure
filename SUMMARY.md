@@ -312,3 +312,4 @@
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
 * [Glossary GitBook Agent Command and Quiz Embed](introduction-to-law/page-1.md)
+* [Virginia v. Moore, 553 US 164 - Supreme Court 2008 - Google Scholar](virginia-v.-moore-553-us-164-supreme-court-2008-google-scholar.md)
