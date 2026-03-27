@@ -72,22 +72,10 @@ def transform_gitbook_textbook(text):
     #    1. text
     #    1) text
     #    [1]: text
-    #    [\[1\]](https://example.com/...) text
     #    -> [^1]: text
     if footer.strip():
-        footer_label_pattern = (
-            r'^\s*(?:'
-            r'\[\\\[(\d+)\\\]\]\((?:\\.|[^()])*\)'   # [\[1\]](https://...)
-            r'|'
-            r'(?:\[\^?)?(\d+)(?:\][:.]|[.):])'       # 1.   1)   [1]:
-            r')\s+'
-        )
-
-        def replace_footer_label(match):
-            n = match.group(1) or match.group(2)
-            return f'[^{n}]: '
-
-        footer = re.sub(footer_label_pattern, replace_footer_label, footer, flags=re.MULTILINE)
+        footer_label_pattern = r'^\s*(?:\[\^?)?(\d+)(?:\][:.]|[.):])\s+'
+        footer = re.sub(footer_label_pattern, r'[^\1]: ', footer, flags=re.MULTILINE)
         result = f"{body.strip()}\n\n{header}\n{footer.strip()}"
     else:
         result = body.strip()

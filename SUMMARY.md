@@ -73,6 +73,7 @@
   * [Procedures Prior to Trial](introduction-to-law/procedures-prior-to-trial-1/README.md)
     * [Commencing Criminal Prosecutions](introduction-to-law/procedures-prior-to-trial-1/commencing-criminal-prosecutions.md)
 * [🚔 Criminal Procedure](sourcebooks/criminal-procedure.md)
+  * [Virginia test](sourcebooks\criminal-procedure\Virginia v. Moore, 553 US 164 - Supreme Court 2008.md)
   * [Front Matter](sourcebooks/criminal-procedure/front-matter.md)
   * [Setting the Stage](sourcebooks/criminal-procedure/setting-the-stage/README.md)
     * [Introduction](sourcebooks/criminal-procedure/setting-the-stage/introduction.md)
