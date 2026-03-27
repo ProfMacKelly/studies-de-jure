@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # more case ideas - Look at real version with footnotes Procunier v. Navarette
 
 [434 U.S. 555 ](https://case.law/caselaw/?reporter=us\&volume=434\&case=0555-01)(1978)
@@ -77,4 +81,4 @@ _Reversed._
 
 ***
 
-{% include "../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+{% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
