@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🏠 Home](README.md)
-* [About This Site](about.md)
+* [About This Site](about/README.md)
+  * [Page 2](about/page-2.md)
 
 ## Primers
 
@@ -141,7 +142,7 @@
     * [Clipper v. Takoma Park](cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)
     * [Forrest v. Parry](sourcebooks/cj-liability/unit-5-vicarious-liability-principles/forrest-v.-parry.md)
   * [Legal Defenses and Risk Management](cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/README.md)
-    * [Immunity: Absolute and Qualified](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity/README.md)
+    * [Immunity: Absolute and Qualified](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/immunity-absolute-and-qualified/README.md)
       * [Articles](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity/articles.md)
       * [Cleavinger v. Saxner](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity/cleavinger-v.-saxner.md)
       * [Malley v. Briggs](sourcebooks/cj-liability/unit-4-defenses-to-civil-litigation-and-risk-management/absolute-and-qualified-immunity/malley-v.-briggs.md)
