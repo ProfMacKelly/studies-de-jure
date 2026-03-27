@@ -60,7 +60,7 @@ _It is so ordered._
 
 #### Footnotes
 
-1. The Creightons also named other defendants and advanced various other claims against both Anderson and the other defendants. Only the _Bivens_ claim against Anderson remains at issue in this case, however.&#x20;
+1. The Creightons also named other defendants and advanced various other claims against both Anderson and the other defendants. Only the _Bivens_ claim against Anderson remains at issue in this case, however.
 2. The dissent, which seemingly would adopt this approach, seeks to avoid the unqualified liability that would follow by advancing the suggestion that officials generally (though not law enforcement officials, see _post,_ at 654, 661-662, and officials accused of violating the Fourth Amendment, see _post,_ at 659-667) be permitted to raise a defense of reasonable good faith, which apparently could be asserted and proved only at trial. See _post,_ at 653. But even when so modified (and even for the fortunate officials to whom the modification applies) the approach would totally abandon the concern — which was the driving force behind Harlow’s substantial reformulation of qualified-immunity principles — that “insubstantial claims” against government officials be resolved prior to discovery and on summary judgment if possible. _Harlow,_ 457 U. S., at 818-819. A passably clever plaintiff would always be able to identify an abstract clearly established right that the defendant could be alleged to have violated, and the good-faith defense envisioned by the dissent would be available only at trial.
 3. The Creightons argue that the qualified immunity doctrine need not be expanded to apply to the circumstances of this case, because the Federal Government and various state governments have established programs through which they reimburse officials for expenses and liability incurred in suits challenging actions they have taken in their official capacities. Because our holding today does not extend official qualified immunity beyond the bounds articulated in _Harlow_ and our subsequent cases, an argument as to why we should not do so is beside the point. Moreover, even assuming that conscientious officials care only about their personal liability and not the liability of the government they serve, the Creightons do not and could not reasonably contend that the programs to which they refer make reimbursement sufficiently certain and generally available to justify reconsideration of the balance struck in _Harlow_ and subsequent cases. See [28 CFR § 50.15](https://cite.case.law/citations/?q=28%20C.F.R.%20%C2%A7%2050.15)(c) (1987) _(permitting_ reimbursement of Department of Justice employees when the Attorney General finds reimbursement appropriate); 5 F. Harper, F. James, & O. Gray, Law of Torts § 29.9, n. 20 (2d ed. 1986) (listing various state programs).
 4. Of course, it is the American rather than the English common-law tradition that is relevant, cf. _Malley,_ [_supra,_ ](https://cite.case.law/us/475/335/#p341)[at 340-342](https://cite.case.law/us/475/335/#p341); and the American rule appears to have been considerably less draconian than the English. See Restatement (Second) of Torts §§ 204, 206 (1965) (officers with an arrest warrant are privileged to enter a third party’s house to effect arrest if they reasonably believe the fugitive to be there).
@@ -78,11 +78,11 @@ Judicial decisions and annotations thereto by third parties are not subject to c
 
 Note: Hyperlinks within this case are not original. Some of these hyperlinks (such as cases and footnotes) may direct you to an external publicly accessible display of the case. This is helpful for reference purposes, and no copyright is claimed here over a third party's hyperlinking choices and methodologies, if applicable.
 
-Subject to limitations above, if any, this page is in the public domain.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line">
+Subject to limitations above, if any, this page is in the public domain. [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)&#x20;
 
 </details>
 
-[<br>](https://app.gitbook.com/o/2KDFCqgo3cAQVrPSYfS9/s/GadqYnQq6nrcfzJhclgF/~/edit/~/changes/235/sourcebooks/cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park)
+[<br>](../../../../cj-liability/unit-5-vicarious-liability-principles/clipper-v.-takoma-park.md)
 
 [^1]: [457 U. S., at 814](https://cite.case.law/us/457/800/)
 
