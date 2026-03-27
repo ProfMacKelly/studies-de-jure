@@ -1,8 +1,7 @@
 # Table of contents
 
 * [🏠 Home](README.md)
-* [About This Site](about/README.md)
-  * [Page 2](about/page-2.md)
+* [About This Site](about.md)
 
 ## Primers
 
@@ -74,7 +73,7 @@
   * [Procedures Prior to Trial](introduction-to-law/procedures-prior-to-trial-1/README.md)
     * [Commencing Criminal Prosecutions](introduction-to-law/procedures-prior-to-trial-1/commencing-criminal-prosecutions.md)
 * [🚔 Criminal Procedure](sourcebooks/criminal-procedure.md)
-  * [Virginia test](sourcebooks\criminal-procedure\Virginia v. Moore, 553 US 164 - Supreme Court 2008.md)
+  * [\[Virginia test\](sourcebooks\criminal-procedure\Virginia v. Moore, 553 US 164 - Supreme Court 2008.md)](sourcebooks/criminal-procedure/virginia-test-sourcebooks-criminal-procedure-virginia-v.-moore-553-us-164-supreme-court-2008-md.md)
   * [Front Matter](sourcebooks/criminal-procedure/front-matter.md)
   * [Setting the Stage](sourcebooks/criminal-procedure/setting-the-stage/README.md)
     * [Introduction](sourcebooks/criminal-procedure/setting-the-stage/introduction.md)
@@ -313,4 +312,3 @@
 * [Attributions](attributions.md)
 * [Emoji](emoji.md)
 * [Glossary GitBook Agent Command and Quiz Embed](introduction-to-law/page-1.md)
-* [Virginia v. Moore, 553 US 164 - Supreme Court 2008 - Google Scholar](virginia-v.-moore-553-us-164-supreme-court-2008-google-scholar.md)
