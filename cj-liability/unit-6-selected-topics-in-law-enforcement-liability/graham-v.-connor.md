@@ -1,14 +1,12 @@
 # Graham v. Connor
 
-\[Note: Edited from the [original](https://scholar.google.com/scholar_case?case=4306215806680760770\&q=490+U.S.+386\&hl=en\&as_sdt=6,50)]
-
 {% hint style="info" %}
 <mark style="background-color:yellow;">**After reading this case,**</mark> [<mark style="background-color:yellow;">**watch this short talk**</mark>](graham-v.-connor.md#fletc-talks-graham-v.-connor) <mark style="background-color:yellow;">**by the Federal Law Enforcement Training Centers. It contains several practical tips, particularly about report writing in the context of**</mark><mark style="background-color:yellow;">**&#x20;**</mark>_<mark style="background-color:yellow;">**Graham v. Connor**</mark>_<mark style="background-color:yellow;">**.**</mark>
 {% endhint %}
 
 ***
 
-490 U.S. 386 (1989)
+[490 U.S. 386](https://scholar.google.com/scholar_case?case=4306215806680760770\&q=490+U.S.+386\&hl=en\&as_sdt=6,50) (1989)
 
 Supreme Court of the United States
 
@@ -71,6 +69,14 @@ JUSTICE BLACKMUN, with whom JUSTICE BRENNAN and JUSTICE MARSHALL join, concurrin
 {% embed url="https://www.youtube.com/watch?ab_channel=FederalLawEnforcementTrainingCenters&t=1s&v=zhtQovjR2C0" %}
 FLETC Talks - Graham v. Connor
 {% endembed %}
+
+
+
+***
+
+{% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+
+
 
 [^1]: [827 F.2d 945 ](https://scholar.google.com/scholar_case?case=7226541936933773809\&q=+827+F.2d+945+\&hl=en\&as_sdt=6,50)(1987).
 
