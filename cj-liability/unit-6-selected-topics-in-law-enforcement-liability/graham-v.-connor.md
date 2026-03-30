@@ -1,7 +1,7 @@
 # Graham v. Connor
 
 {% hint style="info" %}
-<mark style="background-color:yellow;">**After reading this case,**</mark> [<mark style="background-color:yellow;">**watch this short talk**</mark>](./#fletc-talks-graham-v.-connor) <mark style="background-color:yellow;">**by the Federal Law Enforcement Training Centers. It contains several practical tips, particularly about report writing in the context of**</mark><mark style="background-color:yellow;">**&#x20;**</mark>_<mark style="background-color:yellow;">**Graham v. Connor**</mark>_<mark style="background-color:yellow;">**.**</mark>
+<mark style="background-color:yellow;">**After reading this case,**</mark> [<mark style="background-color:yellow;">**watch this short talk**</mark>](graham-v.-connor.md#fletc-talks-graham-v.-connor) <mark style="background-color:yellow;">**by the Federal Law Enforcement Training Centers. It contains several practical tips, particularly about report writing in the context of**</mark><mark style="background-color:yellow;">**&#x20;**</mark>_<mark style="background-color:yellow;">**Graham v. Connor**</mark>_<mark style="background-color:yellow;">**.**</mark>
 {% endhint %}
 
 ***
@@ -74,7 +74,7 @@ FLETC Talks - Graham v. Connor
 
 ***
 
-{% include "../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+{% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
 
 
 
