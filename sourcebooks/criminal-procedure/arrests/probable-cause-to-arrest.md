@@ -53,7 +53,7 @@ Second, if the crime had just occurred, and if officers detained a group of susp
 
 ### Suspect’s Location
 
-While probable cause may often be based largely on a suspect’s presence in a certain house, car, or other private place, officers may not ordinarily arrest or detain a person merely because he was present in a place that was open to the public.[<sup>26</sup>](#user-content-fn-26)[^26] Still, the suspect’s presence at a public location is often highly relevant.[<sup>27</sup>](#user-content-fn-27)[^27] And it may become critical if there was some independent circumstantial evidence of his involvement in a crime, such as a similar physical, clothing, or vehicle description, or any of the various suspicious circumstances we will discuss later. Also note that if the suspect’s presence in a certain location was incriminating, it is significant that there were few, if any, other people in the area because, for example, it was late at night or early in the morning.[<sup>28</sup>](#user-content-fn-28)[^28]&#x20;
+While probable cause may often be based largely on a suspect’s presence in a certain house, car, or other private place, officers may not ordinarily arrest or detain a person merely because he was present in a place that was open to the public.[<sup>26</sup>](#user-content-fn-26)[^26] Still, the suspect’s presence at a public location is often highly relevant.[<sup>27</sup>](#user-content-fn-27)[^27] And it may become critical if there was some independent circumstantial evidence of his involvement in a crime, such as a similar physical, clothing, or vehicle description, or any of the various suspicious circumstances we will discuss later. Also note that if the suspect’s presence in a certain location was incriminating, it is significant that there were few, if any, other people in the area because, for example, it was late at night or early in the morning.[<sup>28</sup>](#user-content-fn-28)[^28]
 
 #### Near The Crime Scene
 
@@ -221,9 +221,9 @@ Hand-to-hand exchanges are common occurrences and are therefore not, in and of t
 * **Packaging Of Item Exchanged**: The object was packaged in a manner consistent with drug packaging; e.g., a baggie,[<sup>117</sup>](#user-content-fn-116)[^116] a “flat waxed paper package of the size and appearance used for the sale of marijuana in small quantities.”[<sup>118</sup>](#user-content-fn-117)[^117]
 * **Location Of Transaction**: The transaction occurred in an area where street sales of drugs, stolen property, or weapons commonly occur.[<sup>119</sup>](#user-content-fn-118)[^118]
 * **Money Exchange**: The suspected buyer gave money to the suspected seller.[<sup>120</sup>](#user-content-fn-119)[^119]
-* **Furtiveness**: The parties acted in a manner indicating they did not want to be seen; e.g., seller “looked about furtively,”[<sup>121</sup>](#user-content-fn-120)[^120] seller “walked over to an apparent hiding place before and after the exchange,”[<sup>122</sup>](#user-content-fn-121)[^121] the buyer hid the object of the transaction in a cigarette case which he then placed in his pocket,”[<sup>123</sup>](#user-content-fn-122)[^122] when the parties saw an approaching police car “their conversation ceased and their hands went into their pockets very rapidly.”[<sup>124</sup>](#user-content-fn-123)[^123]&#x20;
+* **Furtiveness**: The parties acted in a manner indicating they did not want to be seen; e.g., seller “looked about furtively,”[<sup>121</sup>](#user-content-fn-120)[^120] seller “walked over to an apparent hiding place before and after the exchange,”[<sup>122</sup>](#user-content-fn-121)[^121] the buyer hid the object of the transaction in a cigarette case which he then placed in his pocket,”[<sup>123</sup>](#user-content-fn-122)[^122] when the parties saw an approaching police car “their conversation ceased and their hands went into their pockets very rapidly.”[<sup>124</sup>](#user-content-fn-123)[^123]
 * **Panicky Reaction To Officers**: Upon observing the officers, one or both of the suspects displayed signs of panic. This subject was covered in the section “Reaction to Seeing Officers,” above.
-* **Multiple Exchanges**: The apparent seller engaged in several such transactions with various buyers.[<sup>125</sup>](#user-content-fn-124)[^124]&#x20;
+* **Multiple Exchanges**: The apparent seller engaged in several such transactions with various buyers.[<sup>125</sup>](#user-content-fn-124)[^124]
 * **Prior Arrests**: The seller or buyer had prior arrests for selling or possessing contraband.[<sup>126</sup>](#user-content-fn-122)[^122]
 
 #### Advancing On Officers
@@ -349,7 +349,17 @@ Apart from circumstances that are too obvious to require discussion (e.g., confe
 * **Gang Clothing**: Depending on the nature of the crime, it may be relevant that the suspect was wearing clothing that is associated with a street gang.[<sup>198</sup>](#user-content-fn-192)[^192]
 * **Electronic Communication Records**: More and more, electronic communications records are providing officers with important information that establishes or helps to establish probable cause. Examples include phone numbers dialed and the length of the calls, cell site contact information (e.g., near scene of the crime when the crime occurred), date and time that a certain computer accessed a certain internet site, the identity of the sender and receiver of an email and when the communication occurred, the Ip address assigned to a particular computer.[<sup>199</sup>](#user-content-fn-193)[^193]
 
-### References
+***
+
+<details>
+
+<summary>Attributions &#x26; Licensing</summary>
+
+Unless otherwise indicated, this page's content is adapted from the following source(s): [5.2 Probable Cause to Arrest](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)/05%3A_Arrests_Based_on_Probable_Cause/5.2%3A_Probable_Cause_to_Arrest) in [_Principles and Procedures of the Justice System_](https://workforce.libretexts.org/Bookshelves/Corrections/Principles_and_Procedures_of_the_Justice_System_\(Alvarez\)) by [Larry Alvarez](https://www.canyons.edu/directory/larry-alvarez.php), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This page is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+
+</details>
+
+
 
 [^1]: Source: Crime in the United States 2012, Fbi.
 
