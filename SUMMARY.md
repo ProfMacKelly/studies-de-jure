@@ -112,7 +112,7 @@
         * [U.S. v. Arvizu](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/u.s.-v.-arvizu.md)
         * [Hiibel v. Sixth Judicial District Court](sourcebooks/criminal-procedure/investigative-detentions-terry-stops/cases-notes-and-questions/terry-stops-generally/hiibel-v.-sixth-judicial-district-court.md)
   * [Arrests](sourcebooks/criminal-procedure/arrests/README.md)
-    * [Probable Cause and Reasonable Suspicion Revisited](sourcebooks/criminal-procedure/arrests/probable-cause-and-reasonable-suspicion-revisited.md)
+    * [Probable Cause and Reasonable Suspicion Revisited](sourcebooks/criminal-procedure/arrests/pc-rs-revisited.md)
     * [Probable Cause to Arrest](sourcebooks/criminal-procedure/arrests/probable-cause-to-arrest.md)
     * [Arrests](sourcebooks/criminal-procedure/arrests/arrests_.md)
     * [Cases: Arrests, Generally](sourcebooks/criminal-procedure/arrests/cases-arrests-generally/README.md)
