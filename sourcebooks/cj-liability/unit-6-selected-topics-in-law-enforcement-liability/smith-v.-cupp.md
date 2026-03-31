@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Smith v. Cupp
 
 ## [Smith V. Cupp, 430 F. 3D 766 - Court Of Appeals, 6Th Circuit 2005](https://scholar.google.com/Scholar_Case?Case=15304192610876087680\&Q=Smith+V.+Cupp\&Hl=En\&As_Sdt=4,111,126)
