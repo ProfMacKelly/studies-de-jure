@@ -156,7 +156,7 @@
       * [Brief—Graham v. Connor](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/graham-v.-connor/brief-graham-v.-connor.md)
     * [Scott v. Harris](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/scott-v.-harris/README.md)
       * [Brief—Scott v. Harris](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/scott-v.-harris/brief-scott-v.-harris.md)
-    * [Wilson v. City of Lafayette](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/wilson-v.-city-of-lafayette/README.md)
+    * [Wilson v. City of Lafayette](cj-liability/unit-6-selected-topics-in-law-enforcement-liability/wilson-v.-city-of-lafayette.md)
       * [Brief—Wilson v. Lafayette](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/wilson-v.-city-of-lafayette/brief-wilson-v.-lafayette.md)
     * [Brief this: Tennesee v. Garner](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/brief-this-tennesee-v.-garner.md)
     * [Page 2](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/page-2.md)
