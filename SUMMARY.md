@@ -159,7 +159,7 @@
     * [Wilson v. City of Lafayette](cj-liability/unit-6-selected-topics-in-law-enforcement-liability/wilson-v.-city-of-lafayette.md)
       * [Brief—Wilson v. Lafayette](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/wilson-v.-city-of-lafayette/brief-wilson-v.-lafayette.md)
     * [Brief this: Tennesee v. Garner](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/brief-this-tennesee-v.-garner.md)
-    * [Page 2](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/page-2.md)
+    * [Smith v. Cupp](sourcebooks/cj-liability/unit-6-selected-topics-in-law-enforcement-liability/smith-v.-cupp.md)
   * [Selected Topics in Correctional Liability](cj-liability/unit-7-selected-topics-in-correctional-liability.md)
   * [Other Administrative Liability Issues](cj-liability/unit-8-other-administrative-liability-issues/README.md)
     * [Bonenberger v. Plymouth Township](cj-liability/unit-8-other-administrative-liability-issues/bonenberger-v.-plymouth-township.md)
