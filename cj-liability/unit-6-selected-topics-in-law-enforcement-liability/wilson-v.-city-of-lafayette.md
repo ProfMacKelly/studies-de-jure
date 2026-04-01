@@ -57,4 +57,3 @@ The judgment of the district court is affirmed.
 ***
 
 {% include "../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
-
