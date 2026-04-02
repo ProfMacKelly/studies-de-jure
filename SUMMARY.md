@@ -123,6 +123,7 @@
       * [Payton v. New York](sourcebooks/criminal-procedure/arrests/cases-warrants-and-in-home-arrests/payton-v.-new-york.md)
       * [Welsh v. Wisconsin](sourcebooks/criminal-procedure/arrests/cases-warrants-and-in-home-arrests/welsh-v.-wisconsin.md)
       * [Steagald v. United States](sourcebooks/criminal-procedure/arrests/cases-warrants-and-in-home-arrests/steagald-v.-united-states.md)
+          * [Case Brief—Steagald](sourcebooks/criminal-procedure/NOTES/warrants-and-in-home-arrests/steagald-v.-united-states-1981.md)
       * [Wilson v. Arkansas](sourcebooks/criminal-procedure/arrests/cases-warrants-and-in-home-arrests/wilson-v.-arkansas.md)
       * [Richards v. Wisconsin](sourcebooks/criminal-procedure/arrests/cases-warrants-and-in-home-arrests/richards-v.-wisconsin.md)
 * [🛡️ Criminal Justice Liability Law](cj-liability/README.md)
