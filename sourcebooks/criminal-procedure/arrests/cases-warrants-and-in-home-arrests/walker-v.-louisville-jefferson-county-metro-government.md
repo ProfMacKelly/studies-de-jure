@@ -1,13 +1,7 @@
 # Walker v. Louisville/Jefferson County Metro Government
 
-\[Note: Edited from the [original](https://www.govinfo.gov/content/pkg/USCOURTS-kywd-3_21-cv-00161/pdf/USCOURTS-kywd-3_21-cv-00161-0.pdf)]
-
-***
-
-Civil Action No. 3:21-cv-161-DJH-LLK
-
-MEMORANDUM OPINION AND ORDER, February 1, 2022
-
+[Civil Action No. 3:21-cv-161-DJH-LLK](https://www.govinfo.gov/content/pkg/USCOURTS-kywd-3_21-cv-00161/pdf/USCOURTS-kywd-3_21-cv-00161-0.pdf)\
+MEMORANDUM OPINION AND ORDER, February 1, 2022\
 United States District Court for the Western District of Kentucky
 
 **Kenneth Walker, III.**\
@@ -133,3 +127,7 @@ Walker asserts that Hoover, James, Nobles, and Campbell should be held liable fo
 &#x20;    (4) The Metro defendants’ motion to dismiss . . . is GRANTED in part and DENIED in part. It is GRANTED as to Defendants Huckelberry, Phan, and Burbrink on Count I. It is DENIED as to Goodlett on Count I; Hoover, James, Nobles, and Campbell on Counts II and III; and Louisville/Jefferson County Metro Government on Count IV. The Clerk of Court is DIRECTED to terminate Lieutenant Jerry Huckelberry, Sergeant Luke Phan, and Major Kimberly Burbrink as defendants in the record of this matter.  &#x20;
 
 <table data-header-hidden><thead><tr><th width="134"></th><th></th></tr></thead><tbody><tr><td><p><strong>Endnotes</strong> </p><p> </p></td><td></td></tr><tr><td><p>1 </p><p> </p></td><td><p>No relation to Plaintiff Kenneth Walker, III.  </p><p> </p></td></tr><tr><td><p>2 </p><p> </p></td><td><p>These individuals include Detective Joshua Jaynes, Detective Brett Hankison, Detective Myles Cosgrove, Sergeant Jonathan Mattingly, Lieutenant Shawn Hoover, Detective Tony James, Detective Michael Nobles, Officer Michael Campbell, Officer Andrea Shaw, Sergeant Chad Tinnell, Sergeant Amanda Seelye, and Former Chief Steve Conrad.  </p><p> </p></td></tr></tbody></table>
+
+***
+
+{% include "../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
