@@ -2,12 +2,9 @@
 
 In this case, the Court attempted to provide more guidance about when knocking and announcing is not required.
 
-\[Edited from the [original](https://www.courtlistener.com/opinion/118103/richards-v-wisconsin/).]
-
 ***
 
-520 U.S. 385 (1997)
-
+[520 U.S. 385](https://www.courtlistener.com/opinion/118103/richards-v-wisconsin/) (1997)\
 Supreme Court of the United States
 
 **Steiney Richards**\

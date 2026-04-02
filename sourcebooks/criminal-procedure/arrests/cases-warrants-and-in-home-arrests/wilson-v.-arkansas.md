@@ -2,12 +2,9 @@
 
 In this case, the Court considers the question of whether the Fourth Amendment generally requires the knocking and announcing and, if so, what exceptions limit the general rule.
 
-\[Edited from the [original](https://www.courtlistener.com/opinion/117936/wilson-v-arkansas/).]
-
 ***
 
-514 U.S. 927 (1995)
-
+[514 U.S. 927](https://www.courtlistener.com/opinion/117936/wilson-v-arkansas/) (1995)\
 Supreme Court of the United States
 
 **Sharlene Wilson**\
@@ -65,6 +62,8 @@ These considerations may well provide the necessary justification for the unanno
 In _Wilson_, the Court stated that obeying the “knock and announce” rule was part of conducting a “reasonable” search under the Fourth Amendment. The Court also stated, however, that certain searches may be conducted without knocking and announcing. Indeed, after the Court remanded Sharlene Wilson’s case to the Arkansas court system, she was not released. It seems that Arkansas courts determined that under the facts presented, it was reasonable for officers to enter Wilson’s home without knocking and announcing.
 
 Although best known to today’s students for her role in knock-and-announce doctrine, Sharlene Wilson was briefly famous two decades ago—at least among followers of certain conspiracy theories—for other reasons. During her imprisonment, [it was reported ](https://www.washingtonpost.com/archive/entertainment/books/1996/06/16/prelude-to-a-presidency/f649fee8-9848-4b78-b251-1b7d585fda40/)that Wilson claimed to have seen then-Arkansas Governor Bill Clinton using cocaine and attending “cocaine parties.” It was [also suggested ](http://ontology.buffalo.edu/smith/clinton/arkansas.htm)that Wilson had been sent to prison in an effort to prevent her from harming Clinton’s political ambitions. Her case was celebrated by certain activists who sought her release, and Governor Mike Huckabee (father of future White House press secretary Sarah Sanders) [reduced her sentence ](https://www.wnd.com/1999/12/581/)in 1999, making Wilson eligible for parole. Then, after marrying Bryson Jacobs—the boyfriend mentioned in the _Wilson_ opinion—she [began a ministry tour](https://www.mail-archive.com/ctrl@listserv.aol.com/msg64487.html).
+
+***
 
 <details>
 
