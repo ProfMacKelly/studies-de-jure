@@ -1,11 +1,6 @@
 # Welsh v. Wisconsin
 
-\[Edited from the [original](https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/).]
-
-***
-
-466 U.S. 740 (1984)
-
+[466 U.S. 740](https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/) (1984)\
 Supreme Court of the United States
 
 **Edward G. Welsh**\
