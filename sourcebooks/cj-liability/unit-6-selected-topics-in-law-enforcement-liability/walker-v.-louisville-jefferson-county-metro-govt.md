@@ -1,4 +1,8 @@
-# walker v. louisville jefferson county metro govt
+---
+hidden: true
+---
+
+# Walker v. Louisville/Jefferson County Metro Gov't
 
 [Civil Action No. 3:21-cv-161-DJH-LLK](https://www.govinfo.gov/content/pkg/USCOURTS-kywd-3_21-cv-00161/pdf/USCOURTS-kywd-3_21-cv-00161-0.pdf)\
 Memorandum Opinion and Order, February 1, 2022\
