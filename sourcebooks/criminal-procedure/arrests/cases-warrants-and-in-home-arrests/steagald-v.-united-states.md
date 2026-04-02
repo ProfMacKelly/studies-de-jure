@@ -1,11 +1,6 @@
 # Steagald v. United States
 
-\[Edited from the [original](https://www.courtlistener.com/opinion/110464/steagald-v-united-states/).]
-
-***
-
-451 U.S. 204 (1981)
-
+[451 U.S. 204](https://www.courtlistener.com/opinion/110464/steagald-v-united-states/) (1981)\
 Supreme Court of the United States
 
 **Gary Keith Steagald**\
@@ -32,7 +27,7 @@ Prior to trial, petitioner moved to suppress all evidence uncovered during the v
 
 The question before us is a narrow one. \[...] The search at issue here took place in the absence of consent or exigent circumstances. Except in such special situations, we have consistently held that the entry into a home to conduct a search or make an arrest is unreasonable under the Fourth Amendment unless done pursuant to a warrant. See [_Payton v. New York_](#user-content-fn-1)[^1]. Thus, as we recently observed: “In terms that apply equally to seizures of property and to seizures of persons, the Fourth Amendment has drawn a firm line at the entrance to the house. Absent exigent circumstances, that threshold may not reasonably be crossed without a warrant.” [_Payton v. New York_](#user-content-fn-2)[^2]. Here, of course, the agents had a warrant—one authorizing the arrest of Ricky Lyons. However, the Fourth Amendment claim here is not being raised by Ricky Lyons. Instead, the challenge to the search is asserted by a person not named in the warrant who was convicted on the basis of evidence uncovered during a search of his residence for Ricky Lyons. Thus, the narrow issue before us is whether an arrest warrant—as opposed to a search warrant—is adequate to protect the Fourth Amendment interests of persons not named in the warrant, when their homes are searched without their consent and in the absence of exigent circumstances.
 
-The purpose of a warrant is to allow a neutral judicial officer to assess whether the police have probable cause to make an arrest or conduct a search. As we have often explained, the placement of this checkpoint between the Government and the citizen implicitly acknowledges that an “officer engaged in the often competitive enterprise of ferreting out crime,” Johnson v. United States, supra, 333 U.S. at 14, may lack sufficient objectivity to weigh correctly the strength of the evidence supporting the contemplated action against the individual’s interests in protecting his own liberty and the privacy of his home. [_Coolidge v. New Hampshire_](#user-content-fn-3)[^3]. However, while an arrest warrant and a search warrant both serve to subject the probable-cause determination of the police to judicial review, the interests protected by the two warrants differ. An arrest warrant is issued by a magistrate upon a showing that probable cause exists to believe that the subject of the warrant has committed an offense and thus the warrant primarily serves to protect an individual from an unreasonable seizure. A search warrant, in contrast is issued upon a showing of probable cause to believe that the legitimate object of a search is located in a particular place, and therefore safeguards an individual’s interest in the privacy of his home and possessions against the unjustified intrusion of the police.
+The purpose of a warrant is to allow a neutral judicial officer to assess whether the police have probable cause to make an arrest or conduct a search. As we have often explained, the placement of this checkpoint between the Government and the citizen implicitly acknowledges that an “officer engaged in the often competitive enterprise of ferreting out crime,” _Johnson v. United States_ \[...], may lack sufficient objectivity to weigh correctly the strength of the evidence supporting the contemplated action against the individual’s interests in protecting his own liberty and the privacy of his home. [_Coolidge v. New Hampshire_](#user-content-fn-3)[^3]. However, while an arrest warrant and a search warrant both serve to subject the probable-cause determination of the police to judicial review, the interests protected by the two warrants differ. An arrest warrant is issued by a magistrate upon a showing that probable cause exists to believe that the subject of the warrant has committed an offense and thus the warrant primarily serves to protect an individual from an unreasonable seizure. A search warrant, in contrast is issued upon a showing of probable cause to believe that the legitimate object of a search is located in a particular place, and therefore safeguards an individual’s interest in the privacy of his home and possessions against the unjustified intrusion of the police.
 
 Thus, whether the arrest warrant issued in this case adequately safeguarded the interests protected by the Fourth Amendment depends upon what the warrant authorized the agents to do. To be sure, the warrant embodied a judicial finding that there was probable cause to believe the Ricky Lyons had committed a felony, and the warrant therefore authorized the officers to seize Lyons. However, the agents sought to do more than use the warrant to arrest Lyons in a public place or in his home; instead, they relied on the warrant as legal authority to enter the home of a third person based on their belief that Ricky Lyons might be a guest there. Regardless of how reasonable this belief might have been, it was never subjected to the detached scrutiny of a judicial officer. Thus, while the warrant in this case may have protected Lyons from an unreasonable seizure, it did absolutely nothing to protect petitioner’s privacy interest in being free from an unreasonable invasion and search of his home. Instead, petitioner’s only protection from an illegal entry and search was the agent’s personal determination of probable cause. In the absence of exigent circumstances, we have consistently held that such judicially untested determinations are not reliable enough to justify an entry into a person’s home to arrest him without a warrant, or a search of a home for objects in the absence of a search warrant. Payton v. New York, supra. We see no reason to depart from this settled course when the search of a home is for a person rather than an object.
 
@@ -50,7 +45,7 @@ First, the situations in which a search warrant will be necessary are few. As no
 
 Moreover, in those situations in which a search warrant is necessary, the inconvenience incurred by the police is simply not that significant. First, if the police know of the location of the felon when they obtain an arrest warrant, the additional burden of obtaining a search warrant at the same time is miniscule. The inconvenience of obtaining such a warrant does not increase significantly when an outstanding arrest warrant already exists. In this case, for example, Agent Goodowens knew the address of the house to be searched two days in advance, and planned the raid from the federal courthouse in Atlanta where, we are informed, three fulltime magistrates were on duty. In routine search cases such as this, the short time required to obtain a search warrant from a magistrate will seldom hinder efforts to apprehend a felon. Finally, if a magistrate is not nearby, a telephonic search warrant can usually be obtained.\*[^8]
 
-Whatever practical problems remain, however, cannot outweigh the constitutional interests at stake. Any warrant requirement impedes to some extent the vigor with which the Government can seek to enforce its laws, yet the Fourth Amendment recognizes that this restraint is necessary in some cases to protect against unreasonable searches and seizures. We conclude that this is such a case. The additional burden imposed on the police by a warrant requirement is minimal. In contrast, the right protectedthat of presumptively innocent people to be secure in their homes from unjustified, forcible intrusions by the Governmentis weighty. Thus, in order to render the instant search reasonable under the Fourth Amendment, a search warrant was required.
+Whatever practical problems remain, however, cannot outweigh the constitutional interests at stake. Any warrant requirement impedes to some extent the vigor with which the Government can seek to enforce its laws, yet the Fourth Amendment recognizes that this restraint is necessary in some cases to protect against unreasonable searches and seizures. We conclude that this is such a case. The additional burden imposed on the police by a warrant requirement is minimal. In contrast, the right protected—that of presumptively innocent people to be secure in their homes from unjustified, forcible intrusions by the Government—is weighty. Thus, in order to render the instant search reasonable under the Fourth Amendment, a search warrant was required.
 
 Accordingly, the judgment of the Court of Appeals is reversed, and the case is remanded to that court for further proceedings consistent with this opinion.
 
@@ -90,6 +85,10 @@ The genuinely unfortunate aspect of today's ruling is not that fewer fugitives w
 
 **\[Footnotes omitted.]**
 
+***
+
+{% include "../../../../criminal-procedure/.gitbook/includes/untitled (2) (1).md" %}
+
 
 
 [^1]: [445 U.S. 573](https://www.courtlistener.com/opinion/110235/payton-v-new-york/?q=cites%3A77608) (1980)
@@ -104,7 +103,7 @@ The genuinely unfortunate aspect of today's ruling is not that fewer fugitives w
 
 [^6]: [423 U.S. 411](https://www.courtlistener.com/opinion/109352/united-states-v-watson/) (1976)
 
-[^7]: See _United States_ v. _Santana,_ [427 U.S. 38](https://www.courtlistener.com/opinion/109504/united-states-v-santana/), 42-43 (1976); _Warden_ v. _Hayden,_ [387 U.S. 294 ](https://www.courtlistener.com/opinion/107465/warden-md-penitentiary-v-hayden/)\*222 (1967)
+[^7]: See _United States_ v. _Santana,_ [427 U.S. 38](https://www.courtlistener.com/opinion/109504/united-states-v-santana/), 42-43 (1976); _Warden_ v. _Hayden,_ [387 U.S. 294 ](https://www.courtlistener.com/opinion/107465/warden-md-penitentiary-v-hayden/)(1967)
 
 [^8]: &#x20;See [Fed. Rule Crim. Proc. 41](https://www.law.cornell.edu/rules/frcrmp/rule_41)(c)(1), (2).
 
