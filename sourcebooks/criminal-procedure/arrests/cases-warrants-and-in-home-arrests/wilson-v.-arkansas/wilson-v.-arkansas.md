@@ -69,7 +69,7 @@ H: Yes
 
 **Rule:** Common law knock and announce principle is part of the test for reasonableness under the 4th Amend; depending on the circumstances, unannounced entry can be unreasonable
 
-### **easoning**
+### **Reasoning**
 
 #### **1. Historical/Common-Law Foundation**
 
