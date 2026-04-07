@@ -6,7 +6,7 @@ hidden: true
 
 ## Richards v. Wisconsin (1997)
 
-Although Wilson said reasonableness requires flexibility in considering countervailing interests
+Although _Wilson_ said reasonableness requires flexibility in considering countervailing interests
 
 F:
 
@@ -52,4 +52,4 @@ R
 
 Also, denial of a "no-knock" warrant does not preclude the officers from making a no-knock entry if the circumstances at the time of entry justified is
 
-(Really, this goes to the purpose of knock: prevent violence, property-damage, and impositions on privacy, not to prevent police from conducting a search for which they have a valid warrant; — more explanation in the later case if [_Hudson v. Michigan_](https://www.oyez.org/cases/2005/04-1360)_,_ which further notes that the balancing test results in exclusion not being more beneficial to the public interest than non-exclusion (e.g., benefit of deterring misconduct through exclusion not great given the rule's purpose and the fact civil suits and internal police discipilne are availabe for the violation
+(Really, this goes to the **purpose of knock: prevent violence, property-damage, and impositions on privacy, not to prevent police from conducting a search for which they have a valid warrant**; — more explanation in the later case if [_Hudson v. Michigan_](https://www.oyez.org/cases/2005/04-1360)_,_ which further notes that the balancing test results in **exclusion not being more beneficial to the public interest than non-exclusion** (e.g., benefit of deterring misconduct through exclusion not great given the rule's purpose and the fact civil suits and internal police discipline are available for the violation
