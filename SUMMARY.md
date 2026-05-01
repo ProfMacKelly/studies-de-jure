@@ -171,6 +171,7 @@
     * [Mys v. Michigan Dept. of State Police](cj-liability/unit-8-other-administrative-liability-issues/mys-v.-michigan-dept.-of-state-police.md)
   * [more case ideas - Look at real version with footnotes Procunier v. Navarette](sourcebooks/cj-liability/procunier-v.-navarette.md)
 * [💼 Business Law I](sourcebooks/business-law-i/README.md)
+  * [quiz](sourcebooks/business-law-i/quiz-snippet.html)  
   * [Front Matter](sourcebooks/business-law-i/front-matter.md)
   * [Introduction to the Law & Legal Systems](sourcebooks/business-law-i/intro-to-law-and-legal-systems/README.md)
     * [Why Legal Literacy is Fundamental to Business Success](sourcebooks/business-law-i/intro-to-law-and-legal-systems/1.1-the-relationship-between-business-and-law.md)
