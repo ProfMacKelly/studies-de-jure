@@ -1,7 +1,7 @@
 # Contract Law: Sales Contracts & Warranties
 
 {% hint style="info" %}
-#### **LEARNING OBJECTIVES** 🎯
+**LEARNING OBJECTIVES 🎯**
 
 1. Explain the primary differences between the Uniform Commercial Code and common law contract principles.
 2. Discuss key provisions of the Uniform Commercial Code and how they apply to merchants who sell goods.

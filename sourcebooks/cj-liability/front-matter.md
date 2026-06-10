@@ -65,7 +65,7 @@ At the bottom of the page, usually in the lower-right side, you may toggle betwe
 <figure><img src="https://3740340822-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX7KyXZptCmBnyJBn0ocw%2Fuploads%2FKPXjC3KBTdMhESBhAbDb%2Fday-night.jpeg?alt=media&#x26;token=703dc55b-4ae2-45b5-b4e9-052591a44afb" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
 
 {% hint style="danger" %}
-#### 📢 Legal Notice
+**📢 Legal Notice**
 
 This book contains legal information intended for educational purposes only and _should not be construed as legal advice_; please consult a qualified legal professional before making legal decisions.
 {% endhint %}

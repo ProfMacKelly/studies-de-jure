@@ -44,9 +44,9 @@ This dual system of government in the United States is called **federalism**, wh
 ![Separation of powers of state governments. (CC BY 4.0; Source)](https://biz.libretexts.org/@api/deki/files/55868/clipboard_e9b6d7c4384f9e9fbfa0164d329612b8d.png?revision=1)
 
 {% hint style="info" %}
-#### 🔍 **Constitutional Law: Example of Government and Private Acts**
+**🔍 Constitutional Law: Example of Government and Private Acts**
 
-Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the U.S. Constitution guarantees each individual the right to speak freely.&#x20;
+Cora stands on a public sidewalk and criticizes the President's foreign relations policies. Although other individuals may be annoyed by Cora’s words, the government _cannot_ arrest or criminally prosecute Cora for her speech because the First Amendment of the U.S. Constitution guarantees each individual the right to speak freely.
 
 On the other hand, if Cora walks into a retail department store and criticizes the owner, the owner could eject Cora immediately. The store and its personnel are _private_, not the government, and they _do not_ need to provide the same freedoms the Constitution provides.
 {% endhint %}
@@ -68,7 +68,7 @@ Of all sources of law in the United States, the U.S. Constitution is considered 
 While the Constitution applies to government action, statutes apply to and regulate _individual_ or _private_ action. A **statute** is a written (and published) law that can be enacted in one of two ways. Most statutes are written and voted into law by the _legislative_ branch of government. This is simply a group of individuals elected for this purpose. The U.S. legislative branch is called **Congress**, and Congress votes federal statutes into law. Every state has a legislative branch as well, called a **state legislature**, and a state legislature votes state statutes into law. Often, states codify their _criminal_ statutes into a **penal code**.
 
 {% hint style="info" %}
-#### 🔍 **The Model Penal Code**
+**🔍 The Model Penal Code**
 
 Despite its name, the [**Model Penal Code**](https://www.criminallawweb.net/web1/mpc/mpc.html) is **not** enforceable statutory law. Criminal laws differ significantly from state to state, so in the early 1960s, a group of legal scholars, lawyers, and judges who were members of the American Law Institute drafted a set of suggested criminal statutes called the **Model Penal Code**.
 
@@ -98,9 +98,9 @@ Binding legal principles also come from the courts. When appellate courts decide
 Case precedent is generally an _appeal_ rather than a _trial_. There is often more than one level of appeal, so some appeals come from higher courts than others. Many complex rules govern the use of **precedent**. Lawyers primarily use precedent in their arguments, rather than **statutes** or the **Constitution**, because it is so specific. With proper research, lawyers can usually find precedent that matches or comes very close to matching the facts of any particular case. In the most general sense, judges tend to follow precedent that is _newer_, from a _high court_, and from the _same court system_, either federal or state.
 
 {% hint style="info" %}
-#### 🔍 **Example of&#x20;**_**Stare Decisis**_**&#x20;and Use of Precedent**
+**🔍 Example of&#x20;**_**Stare Decisis**_**&#x20;and Use of Precedent**
 
-Geoffrey is a defense attorney for Conrad, who is on trial for first-degree murder. The murder prosecution is taking place in New Mexico. Geoffrey finds case precedent from a New York Court of Appeals decision dated 1999, indicating that Conrad should have been prosecuted for _voluntary manslaughter_, not first-degree murder.&#x20;
+Geoffrey is a defense attorney for Conrad, who is on trial for first-degree murder. The murder prosecution is taking place in New Mexico. Geoffrey finds case precedent from a New York Court of Appeals decision dated 1999, indicating that Conrad should have been prosecuted for _voluntary manslaughter_, not first-degree murder.
 
 Brandon, the prosecuting attorney, finds case precedent from the New Mexico Supreme Cour&#x74;_,_ dated 2008, indicating that a first-degree murder prosecution is appropriate. The trial court will probably follow the precedent submitted by Brandon because it is newer, from a higher court, and from the same court system as the trial.
 {% endhint %}
@@ -114,9 +114,9 @@ Generally, **statutes** (products of legislatures) must define criminal conduct.
 The common law still plays an important role in criminal lawmaking, even though most crimes are now embodied in statutes. Classification of crimes as felonies and misdemeanors is a reflection of English common law. Legislatures often create statutes out of former common law crimes. Judges look to the common law when defining statutory terms, establishing criminal procedure, and creating defenses to crimes. The United States is considered a common law country. Every state except Louisiana, which is influenced by the Napoleonic French Civil Code (and possibly Spanish Civil Code) adopts the common law as the law of the state _except_ where a statute provides otherwise.
 
 {% hint style="info" %}
-#### 🔍 **Example of a Court’s Refusal to Create a Common Law Crime**
+**🔍 Example of a Court’s Refusal to Create a Common Law Crime**
 
-In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of "human being" and determined that the definition did not include a fetus.&#x20;
+In [_Keeler v. Superior Court_](http://scholar.google.com/scholar_case?case=2140632244672927312\&hl=en\&as_sdt=2\&as_vis=1\&oi=scholarr%20470), 470 P.2d 617 (1970), the defendant attacked his pregnant ex-wife, and her baby was thereafter stillborn. The California Supreme Court disallowed a murder charge against Keeler under California Penal Code § 187 because the statute criminalized only the malicious killing of a “human being.” The court reached its decision after examining the common-law definition of "human being" and determined that the definition did not include a fetus.
 
 The court reasoned that it _could not create a new crime_ without violating the Due Process Clause, Separation of Powers, and California Penal Code § 6, which prohibits the creation of common-law crimes. After the _Keeler_ decision, the California Legislature changed [Penal Code § 187](http://codes.lp.findlaw.com/cacode/PEN/3/1/8/1/s187) to include a fetus, except for specific acts of a physician or the expectant mother .
 {% endhint %}
@@ -126,9 +126,9 @@ The court reasoned that it _could not create a new crime_ without violating the 
 Generally, if there is a statute on an issue, the statute is _superior_ to case law, just as the Constitution is superior to statutory law. However, judges _interpret_ constitutional and statutory law, making case law a _powerful_ source of law. A judge can interpret a constitution in a way that adds or creates exceptions to its protections. A judge can also interpret a statute in a way that makes it unconstitutional and unenforceable. This is called the power of **judicial review**. [_Marbury v. Madison_](https://scholar.google.com/scholar_case?case=9834052745083343188\&q=Marbury+v.+Madison,+5+U.S.+\(1+Cranch\)+137\&hl=en\&as_sdt=1000003), 5 U.S. (1 Cranch) 137 (1803).
 
 {% hint style="info" %}
-#### &#x20;🔍 **Example of Judicial Review**
+**🔍 Example of Judicial Review**
 
-An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the U.S. Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the U.S. Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object.&#x20;
+An example of judicial review is set forth in [_Texas v. Johnson_](https://scholar.google.com/scholar_case?case=2084618710761560217\&q=491+U.S.+397\&hl=en\&as_sdt=1000003), 491 U.S. 397 (1989). In _Johnson_, the U.S. Supreme Court ruled that burning a flag is protected self-expression under the First Amendment to the U.S. Constitution. Thus, the Court reversed the defendant’s conviction under a Texas statute that criminalized the desecration of a venerated object.
 
 Note how _Johnson_ not only (1) treated a state's laws as valid as long as it does not deprive its citizens of fundamental rights guaranteed by U.S. Constitution—a function of the 14th Amendment— but also (2) construed the First Amendment as if the Constitution clearly included flag burning as protected speech of speech.
 {% endhint %}
@@ -156,6 +156,6 @@ _**Table** Hierarchy of Sources of Law_
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [1.6 Sources of Law](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s05-06-sources-of-law.html) in [_Introduction to Criminal Law_](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) by Tara Storm, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en) <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [1.6 Sources of Law](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s05-06-sources-of-law.html) in [_Introduction to Criminal Law_](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) by Tara Storm, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en) <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>

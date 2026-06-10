@@ -61,7 +61,7 @@ At the bottom of the page, usually in the lower-right side, you may toggle betwe
 <figure><img src="https://3740340822-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FX7KyXZptCmBnyJBn0ocw%2Fuploads%2FKPXjC3KBTdMhESBhAbDb%2Fday-night.jpeg?alt=media&#x26;token=703dc55b-4ae2-45b5-b4e9-052591a44afb" alt=""><figcaption><p>Toggle screen display between day and night</p></figcaption></figure>
 
 {% hint style="danger" %}
-#### 📢 Legal Notice
+**📢 Legal Notice**
 
 This book contains legal information intended for educational purposes only and _should not be construed as legal advice_; please consult a qualified legal professional before making legal decisions.
 {% endhint %}
@@ -75,10 +75,6 @@ This book contains legal information intended for educational purposes only and 
 This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1). No copyright or license is claimed for the content on this page other than those claimed and reserved by [GitBook](https://www.gitbook.com/?utm_source=content\&utm_medium=trademark\&utm_campaign=NkEGS7hzeqa35sMXQZ4X).
 
 </details>
-
-
-
-
 
 [^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)).
 

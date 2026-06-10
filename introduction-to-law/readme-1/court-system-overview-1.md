@@ -70,7 +70,6 @@ The highest appellate court for the state court system is usually called the sta
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [2.3 The Court System](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s06-03-the-court-system.html) in [_Introduction to Criminal Law_](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) by Tara Storm, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en) <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [2.3 The Court System](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s06-03-the-court-system.html) in [_Introduction to Criminal Law_](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) by Tara Storm, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en) <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
-

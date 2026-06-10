@@ -1,4 +1,4 @@
-# Your Obligation to Know the Law
+# Preface: Your Obligation to Know the Law
 
 In short, employees of the government—including criminal justice professionals, of course—are [**required to know the law**](#user-content-fn-1)[^1]; this obligation not only includes the [codified law](#user-content-fn-2)[^2] but also the judicial cases interpreting the codified law. Thus, future and current criminal justice professionals must understand the case law that governs their conduct.
 
@@ -10,7 +10,7 @@ This class is not law school, and it is not about turning students into lawyers.
 
 <summary>Licensing</summary>
 
-Except where otherwise noted, this page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). <img src="../.gitbook/assets/CC BY NC SA badge (1) (1).png" alt="" data-size="line">
+Except where otherwise noted, this page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). <img src="../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
 

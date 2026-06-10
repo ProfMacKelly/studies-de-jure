@@ -1,9 +1,9 @@
 # Litigation
 
 {% hint style="info" %}
-#### **LEARNING OBJECTIVES** 🎯
+**LEARNING OBJECTIVES 🎯**
 
-1. &#x20;Identify the parties involved in litigation.
+1. Identify the parties involved in litigation.
 2. Discuss the responsibilities of attorneys.
 3. Understand the roles and types of juries.
 4. Explain the standing requirement.

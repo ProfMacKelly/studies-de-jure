@@ -1,7 +1,7 @@
 # Contract Law: Common Law Contracts
 
 {% hint style="info" %}
-#### **LEARNING OBJECTIVES** 🎯
+**LEARNING OBJECTIVES 🎯**
 
 1. Explain what constitutes a contract.
 2. Discuss the requirements for forming a valid, enforceable contract.

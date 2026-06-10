@@ -14,14 +14,14 @@ Offers can be formal or informal, but three key elements must exist for an offer
 
 ### Serious Intent
 
-As noted above, the offer must demonstrate the [offeror](../../../../glossary.md#offeror) (i.e., the party making the offer) genuinely assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer). Specifically, the intent requirement is satisfied only if there was **serious intent** to make an offer to enter into a contract.&#x20;
+As noted above, the offer must demonstrate the [offeror](../../../../glossary.md#offeror) (i.e., the party making the offer) genuinely assents to enter into a mutually binding contract with the [offeree](../../../../glossary.md#offeree) (i.e., the party intended to receive the offer). Specifically, the intent requirement is satisfied only if there was **serious intent** to make an offer to enter into a contract.
 
-If there is a dispute over whether one of the parties seriously intended to make an offer, the courts use the objective **reasonable person test**: <mark style="background-color:yellow;">Would a</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**reasonable person**</mark><mark style="background-color:yellow;">, looking at the words and conduct, think that a genuine offer was made?</mark> If not, then the offer was invalid. If it objectively appears that the purported offer was a joke, then the offer was invalid. Also, seriousness is commonly—but not always—lacking during casual negotiations and when making promises in a social setting.
+If there is a dispute over whether one of the parties seriously intended to make an offer, the courts use the objective **reasonable person test**: <mark style="background-color:yellow;">Would a</mark> <mark style="background-color:yellow;">**reasonable person**</mark><mark style="background-color:yellow;">, looking at the words and conduct, think that a genuine offer was made?</mark> If not, then the offer was invalid. If it objectively appears that the purported offer was a joke, then the offer was invalid. Also, seriousness is commonly—but not always—lacking during casual negotiations and when making promises in a social setting.
 
 {% hint style="warning" %}
-#### 📢 The Reasonable Person Test in Contract Law
+**📢 The Reasonable Person Test in Contract Law**
 
-In contract law, if a party's intent is in question, the courts look for "objective manifestations of intent \[conduct, words, context, etc.] ... viewed from the vantage point of a reasonable person in the position of the other party."\*[^1]
+In contract law, if a party's intent is in question, the courts look for "objective manifestations of intent \[conduct, words, context, etc.] ... viewed from the vantage point of a reasonable person in the position of the other party."\*
 {% endhint %}
 
 Common factors courts consider (but certainly not exclusively) when evaluating seriousness using the reasonable person test include:
@@ -32,7 +32,7 @@ Common factors courts consider (but certainly not exclusively) when evaluating s
 * whether the statements were jokes or obvious exaggerations (including [**puffery**](../../../../glossary.md#puffery-puffing))**;**
 * whether the setting was purely social in nature (e.g., telling a friend, “I’ll pay you back next week”);
 * whether the statements were part of early-stage negotiations identified as non-binding or “subject to contract”;
-* whether the terms were written, clear, and/or definite;&#x20;
+* whether the terms were written, clear, and/or definite;
 * whether the language was formal (“agree,” “shall,” deadlines, remedies); and
 * whether money was paid, a party relied on the statements, or performance started;
 
@@ -106,10 +106,8 @@ When a bidder makes a bid, they are essentially making an offer to purchase the 
 Except where otherwise noted, this page's content is adapted from:
 
 * [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-* [Objective Theory of Contracts](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/5-3-objective-theory-of-contracts/) and [The Offer](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/6-2-the-offer/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+* [Objective Theory of Contracts](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/5-3-objective-theory-of-contracts/) and [The Offer](https://rvcc.pressbooks.pub/businesslaw131interactive/chapter/6-2-the-offer/) in [_Business Law I - Interactive_](https://rvcc.pressbooks.pub/businesslaw131interactive/) by Melanie Morris (2024), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) <img src="../../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
-This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
-
-[^1]: See Wayne Barnes, _The Objective Theory of Contracts_, [76 U. Cin. L. Rev. 1119](https://scholarship.law.tamu.edu/facscholar/302?utm_source=scholarship.law.tamu.edu%2Ffacscholar%2F302\&utm_medium=PDF\&utm_campaign=PDFCoverPages), 1120 (2008) (internal quotes omitted).

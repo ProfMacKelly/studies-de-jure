@@ -21,8 +21,8 @@ The government’s power to regulate comes from the U.S. Constitution. The _fede
 #### 🎞️Watch and Learn: The Necessary and Proper Clause
 
 {% embed url="https://youtu.be/xpVZ_hZhdPM" %}
-[_Enumerated Powers, the Necessary and Proper Clause, and Prigg v. Pennsylvania_](https://youtu.be/xpVZ_hZhdPM) by [The Federalist Society](https://www.youtube.com/@TheFederalistSociety). \
-&#xNAN;_(Learn how to access the_ [_transcript._](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/)_)_
+[_Enumerated Powers, the Necessary and Proper Clause, and Prigg v. Pennsylvania_](https://youtu.be/xpVZ_hZhdPM) by [The Federalist Society](https://www.youtube.com/@TheFederalistSociety).\
+\&#xNAN;_(Learn how to access the_ [_transcript._](https://ecampusontario.pressbooks.pub/3rdpartytoolsaccessibility/chapter/youtube-transcript-instructions/)_)_
 {% endembed %}
 
 To simplify and summarize precedent defining federal regulatory authority, federal laws are meant to regulate in two areas. First, federal laws regulate issues that concern the _country_, rather than just one city, county, or state. The federal government regulates foreign affairs, for example, because this affects the United States of America, not just one particular region. Second, federal laws regulate commerce, which is economic activity, that _crosses from state to state_. Some common examples are television broadcasts, the Internet, and any form of transportation such as airlines.
@@ -44,7 +44,7 @@ Federal laws are _the same_ in every state, but state laws _differ_ from state t
 The power to enact criminal laws belongs almost _exclusively_ to the states. This is because of the [Tenth Amendment](https://constitution.congress.gov/constitution/amendment-10/), which vests in states a [**police power**](https://www.law.cornell.edu/wex/police_powers) to provide for the health, safety, and welfare of state citizens. Approximately 90 percent of all criminal laws are state, rather than federal. Often, federal crimes are also state crimes and can be prosecuted and punished by both the state and federal government without violating the principle of double jeopardy.
 
 {% hint style="info" %}
-#### 🔍 **Example: Diversity Among State Laws**
+**🔍 Example: Diversity Among State Laws**
 
 In Nevada, prostitution is legal under certain circumstances. [N.R.S. § 201.354](http://www.leg.state.nv.us/nrs/NRS-201.html#NRS201Sec354). An individual who engages in prostitution inside a licensed “house of prostitution” in Nevada is not exposed to criminal liability. However, if the _same individual_ engages in prostitution in a _different state_, they may be subject to a criminal prosecution. (Prostitution will be discussed in detail in [Chapter 12](https://biz.libretexts.org/Courses/Concordia_University_Wisconsin/JPP_207_Substantive_Criminal_Law/12%3A_Crimes_against_the_Public/12.03%3A_Vice_Crimes?readerView#Crimes_Involving_Prostitution).)
 
@@ -71,7 +71,6 @@ Because of this conflict, the federal statutes may **preempt** many state laws u
 
 <summary>Attributions and Licensing</summary>
 
-Except where otherwise noted, this page's content is adapted from [2.1 Federalism](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s06-01-federalism.html) in [_Introduction to Criminal Law_](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) by Tara Storm, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en) <img src="../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+Except where otherwise noted, this page's content is adapted from [2.1 Federalism](https://2012books.lardbucket.org/books/introduction-to-criminal-law/s06-01-federalism.html) in [_Introduction to Criminal Law_](https://2012books.lardbucket.org/books/introduction-to-criminal-law/index.html) by Tara Storm, used under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en) <img src="../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
-

@@ -7,7 +7,7 @@
 {% hint style="info" %}
 📜 The freedom to contract is one of the few individual freedoms identified in the U.S. Constitution proper (i.e., not in an Amendment):
 
-> No State shall ... pass any ... Law impairing the Obligation of Contracts ....&#x20;
+> No State shall ... pass any ... Law impairing the Obligation of Contracts ....
 
 See [Article I, Section 10, Clause 1](https://constitution.congress.gov/browse/essay/artI-S10-C1-6-1/ALDE_00013037/)
 {% endhint %}
@@ -29,10 +29,10 @@ Although businesses tend to use the terms “agreement” and “contract” int
 On the other hand, as a practical matter, a **contract** is a [**promise**](../../../glossary.md#promise) that is _**legally enforceable**_ in court. More specifically, the legal definition of a contract is "a promise or a set of promises for **\[1]** the breach of which the law gives a remedy, or **\[2]** the performance of which [the law in some way recognizes as a duty](#user-content-fn-1)[^1]." Accordingly, it is correct to infer that not all promises are enforceable. The law takes into account the way in which contracts are made, by whom they are made, and for [what purposes they are made](#user-content-fn-2)[^2].
 
 {% hint style="success" %}
-📝 All contracts are agreements, _**but**_ not all agreements are contracts.&#x20;
+📝 All contracts are agreements, _**but**_ not all agreements are contracts.
 {% endhint %}
 
-When contracts are [**breached**](#user-content-fn-3)[^3] the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.&#x20;
+When contracts are [**breached**](#user-content-fn-3)[^3] the injured party can seek damages. In contracts, the concept of damages usually refers to an amount that would make that party whole again.
 
 Generally speaking, contracts are a form of **private law**, because the terms of the contract are binding on the parties to the contract and no one else. Parties may enter into contracts for whatever they wish and under any terms that they agree on. In other words, parties may assent to agreements even if those agreements represent a "bad" bargain for one or more parties.
 
@@ -69,7 +69,7 @@ Together, the answers to these questions determine the rights and obligations of
 
 We live in a world of contracts, which are the bread and butter of business transactions. However, many consumers, employees, and small businesses are afraid to read and understand contracts. That fear allows others to take advantage of them. Take the time to read contracts provided to you. Ask questions about anything you don’t understand _before_ you sign. Have the courage to revise and edit contracts to ensure your interests are protected. Or even write your own. It’s not hard and the more you do it, the more confidence you will have to negotiate business transactions and protect your interests.
 
-<p align="right">     ~ Darnell T., attorney</p>
+<p align="right">~ Darnell T., attorney</p>
 {% endhint %}
 
 ***
@@ -80,10 +80,10 @@ We live in a world of contracts, which are the bread and butter of business tran
 
 Except where otherwise noted, this page's content is adapted from:
 
-* [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
-* [General Perspectives on Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-01-general-perspectives-on-contra.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+* [Contracts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-10/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+* [General Perspectives on Contracts](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/s11-01-general-perspectives-on-contra.html) in [_The Legal Environment and Foundations of Business Law_](https://2012books.lardbucket.org/books/the-legal-environment-and-foundations-of-business-law/index.html) by Mayer, D., Warner, D. M., Siedel, G. J., Lieberman, J. K., & Martina, A. R., used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
-This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge (1).png" alt="" data-size="line">
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
 
 </details>
 

@@ -792,83 +792,83 @@ This free and open casebook is Creative Commons licensed. [Learn more](https://a
 
 1.  1
 
-    ### [Introduction to Constitutional Foundations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/1/#introduction-to-constitutional-foundations)
+    #### [Introduction to Constitutional Foundations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/1/#introduction-to-constitutional-foundations)
 2.  2
 
-    ### [Consensual Encounters — Investigative Contacts](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/2/#consensual-encounters-investigative-contacts)
+    #### [Consensual Encounters — Investigative Contacts](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/2/#consensual-encounters-investigative-contacts)
 3.  3
 
-    ### [Investigative Detensions](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detensions)
+    #### [Investigative Detensions](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detensions)
 
     1.  3.1
 
-        #### [Introductory Basics](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#introductory-basics)
+        [**Introductory Basics**](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#introductory-basics)
     2.  3.2
 
-        #### [Investigative Detentions (by Alvarez)](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detentions-by-alvarez)
+        [**Investigative Detentions (by Alvarez)**](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#investigative-detentions-by-alvarez)
     3.  3.3
 
-        #### [Untitled](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#untitled)
+        [**Untitled**](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#untitled)
     4.  3.4
 
-        #### [Terry v. Ohio](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#terry-v-ohio)
+        [**Terry v. Ohio**](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#terry-v-ohio)
     5.  3.5
 
-        #### [Minnesota v. Dickerson](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#minnesota-v-dickerson)
+        [**Minnesota v. Dickerson**](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#minnesota-v-dickerson)
     6.  3.6
 
-        #### [United States v. Place](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#united-states-v-place)
+        [**United States v. Place**](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/3/#united-states-v-place)
 4.  4
 
-    ### [Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/4/#arrests)
+    #### [Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/4/#arrests)
 5.  5
 
-    ### [Searches and Seizures of Things](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/5/#searches-and-seizures-of-things)
+    #### [Searches and Seizures of Things](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/5/#searches-and-seizures-of-things)
 6.  6
 
-    ### [The Exclusionary Rule](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/6/#the-exclusionary-rule)
+    #### [The Exclusionary Rule](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/6/#the-exclusionary-rule)
 7.  7
 
-    ### [The Plain View Doctrine](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/7/#the-plain-view-doctrine)
+    #### [The Plain View Doctrine](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/7/#the-plain-view-doctrine)
 8.  8
 
-    ### [Abandonment, Open Fields, and Border Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/8/#abandonment-open-fields-and-border-searches)
+    #### [Abandonment, Open Fields, and Border Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/8/#abandonment-open-fields-and-border-searches)
 9.  9
 
-    ### [Vehicle Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/9/#vehicle-searches)
+    #### [Vehicle Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/9/#vehicle-searches)
 10. 10
 
-    ### [Probation and Parole Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/10/#probation-and-parole-searches)
+    #### [Probation and Parole Searches](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/10/#probation-and-parole-searches)
 11. 11
 
-    ### [Exigency and Community Caretaking](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/11/#exigency-and-community-caretaking)
+    #### [Exigency and Community Caretaking](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/11/#exigency-and-community-caretaking)
 12. 12
 
-    ### [The Warrant Process](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/12/#the-warrant-process)
+    #### [The Warrant Process](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/12/#the-warrant-process)
 13. 13
 
-    ### [Use of Force](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/13/#use-of-force)
+    #### [Use of Force](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/13/#use-of-force)
 14. 14
 
-    ### [5th Amendment Protections](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/14/#5th-amendment-protections)
+    #### [5th Amendment Protections](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/14/#5th-amendment-protections)
 15. 15
 
-    ### [Suspect Identification](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/15/#suspect-identification)
+    #### [Suspect Identification](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/15/#suspect-identification)
 16. 16
 
-    ### [Jailhouse Undercover Operations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/16/#jailhouse-undercover-operations)
+    #### [Jailhouse Undercover Operations](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/16/#jailhouse-undercover-operations)
 17. 17
 
-    ### [Constitutional Rights of the Accused](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/17/#constitutional-rights-of-the-accused)
+    #### [Constitutional Rights of the Accused](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/17/#constitutional-rights-of-the-accused)
 18. 18
 
-    ### [Sentencing](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/18/#sentencing)
+    #### [Sentencing](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/18/#sentencing)
 19. 19
 
-    ### [Victims Rights](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/19/#victims-rights)
+    #### [Victims Rights](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/19/#victims-rights)
 20. 20
 
-    ### [De Facto Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/20/#de-facto-arrests)
+    #### [De Facto Arrests](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/20/#de-facto-arrests)
 
 [◀ Previous](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/2/) 1 of 20 sections 2 of 20 sections 3 of 20 sections 4 of 20 sections 5 of 20 sections 6 of 20 sections 7 of 20 sections 8 of 20 sections 9 of 20 sections 10 of 20 sections 11 of 20 sections 12 of 20 sections 13 of 20 sections 14 of 20 sections 15 of 20 sections 16 of 20 sections 17 of 20 sections 18 of 20 sections 19 of 20 sections 20 of 20 sections [Next ▶](https://opencasebook.org/casebooks/9358-jpp-308-in-progress/as-printable-html/4/)
 
