@@ -11,22 +11,34 @@
 
 ### Content
 
-{% stepper %} {% step %} {% content-ref url="introduction.md" %} introduction.md {% endcontent-ref %} {% endstep %}
+{% stepper %}
+{% step %}
+{% content-ref url="introduction.md" %}
+[introduction.md](introduction.md)
+{% endcontent-ref %}
+{% endstep %}
 
-{% step %} {% content-ref url="business-and-the-bill-of-rights.md" %} business-and-the-bill-of-rights.md {% endcontent-ref %} {% endstep %}
+{% step %}
+{% content-ref url="federalism-and-preemption.md" %}
+[federalism-and-preemption.md](federalism-and-preemption.md)
+{% endcontent-ref %}
+{% endstep %}
 
-{% step %} {% content-ref url="contract-elements/" %} contract-elements {% endcontent-ref %} {% endstep %}
+{% step %}
+{% content-ref url="the-commerce-clause.md" %}
+[the-commerce-clause.md](the-commerce-clause.md)
+{% endcontent-ref %}
+{% endstep %}
 
-{% step %} {% content-ref url="performance-and-breach.md" %} performance-and-breach.md {% endcontent-ref %} {% endstep %}
+{% step %}
+{% content-ref url="business-and-the-bill-of-rights.md" %}
+[business-and-the-bill-of-rights.md](business-and-the-bill-of-rights.md)
+{% endcontent-ref %}
+{% endstep %}
 
-{% step %} {% content-ref url="conditions.md" %} conditions.md {% endcontent-ref %} {% endstep %}
-
-{% step %} {% content-ref url="affirmative-defenses-to-breach-claims/" %} affirmative-defenses-to-breach-claims {% endcontent-ref %} {% endstep %}
-
-{% step %} {% content-ref url="remedies.md" %} remedies.md {% endcontent-ref %} {% endstep %}
-
-{% step %} {% content-ref url="the-parol-evidence-rule.md" %} the-parol-evidence-rule.md {% endcontent-ref %} {% endstep %}
-
-{% step %} {% content-ref url="remedies-1.md" %} remedies-1.md {% endcontent-ref %} {% endstep %}
-
-{% step %} {% content-ref url="conclusion.md" %} conclusion.md {% endcontent-ref %} {% endstep %} {% endstepper %}
+{% step %}
+{% content-ref url="conclusion.md" %}
+[conclusion.md](conclusion.md)
+{% endcontent-ref %}
+{% endstep %}
+{% endstepper %}
