@@ -70,3 +70,15 @@ The **strict scrutiny test** is used when the government discriminates against a
 | Rational Basis        | Reasonably relates    | Legitimate | Governmental action is likely constitutional                                         |
 
 There are a few cases where the Supreme Court has held that racial discrimination may be permissible even under strict scrutiny. For example, cases challenging affirmative action policies in higher education have held that admission preferences for underrepresented racial groups does not violate the Constitution. The Supreme Court has found that diversity in higher education is a compelling state interest, and that schools could consider race in deciding whether to admit students, as long as race is a “potential plus factor” considered with other factors.
+
+***
+
+<details>
+
+<summary>Attributions and Licensing</summary>
+
+Except where otherwise noted, this page's content is adapted from [Business and the Bill of Rights](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-5/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+
+</details>

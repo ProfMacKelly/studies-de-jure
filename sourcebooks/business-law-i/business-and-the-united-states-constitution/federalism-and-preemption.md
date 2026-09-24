@@ -54,3 +54,15 @@ There are several important Constitutional provisions that ensure our federalist
 
 Another important Constitutional provision is the **Full Faith and Credit Clause** in Article IV. This Clause requires states to “respect the public acts, records, and judicial proceedings of every other state.” This is important for businesses because it ensures that state courts respect the judgments of courts from other states. Therefore, a judgment won in Colorado may be enforced in another state, without relitigating the underlying issues. This facilitates business because litigation can be finalized without subjecting a company to endless liability across states.
 
+***
+
+<details>
+
+<summary>Attributions and Licensing</summary>
+
+Except where otherwise noted, this page's content is adapted from [Federalism and Preemption](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-5/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+
+</details>
+

@@ -9,3 +9,15 @@ The Bill of Rights provides key civil liberties to all people on US soil. These 
 The First Amendment prohibits the government from establishing religion and from restricting the free exercise thereof. The First Amendment also prohibits the government from restricting the freedom of speech. Political speech is protected to the fullest extent by the First Amendment, while obscene and defamatory speech is not protected at all but subject to the doctrine of prior restraint. Generally speaking, the government may impose reasonable time, place, and manner restrictions on the delivery of speech.
 
 Procedural due process requires that the government use fair procedures anytime it seeks to deprive a citizen of life, liberty, or property. Substantive due process requires the government to articulate a rational basis for passing laws or, when fundamental rights are involved, to articulate a compelling reason to do so.
+
+***
+
+<details>
+
+<summary>Attributions and Licensing</summary>
+
+Except where otherwise noted, this page's content is adapted from [Concluding Thoughts](https://pressbooks.pub/introductiontobusinesslaw/chapter/chapter-5/) in [_Fundamentals of Business Law_ ](https://pressbooks.pub/introductiontobusinesslaw/)by Melissa Randall (2020), used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This page is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). <img src="../../../.gitbook/assets/CC BY NC SA badge.png" alt="" data-size="line">
+
+</details>
