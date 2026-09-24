@@ -11,7 +11,7 @@
 
 ### Content
 
-{% stepper %} {% step %} {% content-ref url="essential-contractual-issues.md" %} essential-contractual-issues.md {% endcontent-ref %} {% endstep %}
+{% stepper %} {% step %} {% content-ref url="introduction.md" %} introduction.md {% endcontent-ref %} {% endstep %}
 
 {% step %} {% content-ref url="business-and-the-bill-of-rights.md" %} business-and-the-bill-of-rights.md {% endcontent-ref %} {% endstep %}
 
