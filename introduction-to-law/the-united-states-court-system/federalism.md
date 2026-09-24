@@ -8,7 +8,7 @@ Figure 2.3 Federalism Between Federal and State Governments
 
 ### Jurisdiction
 
-The authority of a court to hear a particular type of case is called **jurisdiction**. State and federal courts hear different types of cases, involving different laws, different law enforcement agencies, and different judicial systems. The rules governing the procedures used in these courts are known as civil procedure or criminal procedure. The rules of [**subject matter jurisdiction**](../litigation/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction) dictate whether a case is heard in federal or state court. This is discussed more [here](../litigation/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction).
+The authority of a court to hear a particular type of case is called **jurisdiction**. State and federal courts hear different types of cases, involving different laws, different law enforcement agencies, and different judicial systems. The rules governing the procedures used in these courts are known as civil procedure or criminal procedure. The rules of [**subject matter jurisdiction**](https://github.com/ProfMacKelly/studies-de-jure/blob/main/introduction-to-law/litigation/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction) dictate whether a case is heard in federal or state court. This is discussed more [here](https://github.com/ProfMacKelly/studies-de-jure/blob/main/introduction-to-law/litigation/subject-matter-and-personal-jurisdiction.md#subject-matter-jurisdiction).
 
 ***
 

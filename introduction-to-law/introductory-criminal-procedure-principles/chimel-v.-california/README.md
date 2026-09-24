@@ -16,11 +16,11 @@ At the petitioner’s subsequent state trial on two charges of burglary, the ite
 
 Without deciding the question, we proceed on the hypothesis that the California courts were correct in holding that the arrest of the petitioner was valid under the Constitution. This brings us directly to the question whether the warrantless search of the petitioner’s entire house can be constitutionally justified as incident to that arrest. The decisions of this Court bearing upon that question have been far from consistent, as even the most cursory review makes evident.
 
-Approval of a warrantless search incident to a lawful arrest seems first to have been articulated by the Court in 1914 as [dictum ](#user-content-fn-1)[^1]in [_Weeks v. United States_](../weeks-v.-united-states), in which the Court stated:
+Approval of a warrantless search incident to a lawful arrest seems first to have been articulated by the Court in 1914 as [dictum ](#user-content-fn-1)[^1]in [_Weeks v. United States_](https://github.com/ProfMacKelly/studies-de-jure/blob/main/introduction-to-law/introductory-criminal-procedure-principles/weeks-v.-united-states), in which the Court stated:
 
 > What then is the present case? Before answering that inquiry specifically, it may be well by a process of exclusion to state what it is not. It is not an assertion of the right on the part of the Government, always recognized under English and American law, to search the person of the accused when legally arrested to discover and seize the fruits or evidences of crime.
 
-That statement made no reference to any right to search the place where an arrest occurs, but was limited to a right to search the “person.” Eleven years later the case of [_Carroll v. United States_](../carroll-v.-united-states), brought the following embellishment of the _Weeks_ statement:
+That statement made no reference to any right to search the place where an arrest occurs, but was limited to a right to search the “person.” Eleven years later the case of [_Carroll v. United States_](https://github.com/ProfMacKelly/studies-de-jure/blob/main/introduction-to-law/introductory-criminal-procedure-principles/carroll-v.-united-states), brought the following embellishment of the _Weeks_ statement:
 
 > When a man is legally arrested for an offense, whatever is found upon his person or in his control which it is unlawful for him to have and which may be used to prove the offense may be seized and held as evidence in the prosecution.
 
