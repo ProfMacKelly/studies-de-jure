@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Business and the United States Constitution
 
 {% hint style="info" %}
@@ -17,8 +13,8 @@ hidden: true
 
 {% stepper %}
 {% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/page-2.md" %}
-[page-2.md](../contract-law-sales-contracts-and-warranties/page-2.md)
+{% content-ref url="https://app.gitbook.com/s/X7KyXZptCmBnyJBn0ocw/business-and-the-united-states-constitution" %}
+[Business and the United States Constitution](https://app.gitbook.com/s/X7KyXZptCmBnyJBn0ocw/business-and-the-united-states-constitution)
 {% endcontent-ref %}
 {% endstep %}
 
