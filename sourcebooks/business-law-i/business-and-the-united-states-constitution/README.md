@@ -11,52 +11,22 @@
 
 ### Content
 
-{% stepper %}
-{% step %}
-###
-{% endstep %}
+{% stepper %} {% step %} {% content-ref url="essential-contractual-issues.md" %} essential-contractual-issues.md {% endcontent-ref %} {% endstep %}
 
-{% step %}
-###
+{% step %} {% content-ref url="business-and-the-bill-of-rights.md" %} business-and-the-bill-of-rights.md {% endcontent-ref %} {% endstep %}
 
-{% content-ref url="https://app.gitbook.com/s/X7KyXZptCmBnyJBn0ocw/business-and-the-united-states-constitution" %}
-[Business and the United States Constitution](https://app.gitbook.com/s/X7KyXZptCmBnyJBn0ocw/business-and-the-united-states-constitution)
-{% endcontent-ref %}
-{% endstep %}
-{% endstepper %}
+{% step %} {% content-ref url="contract-elements/" %} contract-elements {% endcontent-ref %} {% endstep %}
 
+{% step %} {% content-ref url="performance-and-breach.md" %} performance-and-breach.md {% endcontent-ref %} {% endstep %}
 
+{% step %} {% content-ref url="conditions.md" %} conditions.md {% endcontent-ref %} {% endstep %}
 
-{% stepper %}
-{% step %}
+{% step %} {% content-ref url="affirmative-defenses-to-breach-claims/" %} affirmative-defenses-to-breach-claims {% endcontent-ref %} {% endstep %}
 
-{% endstep %}
+{% step %} {% content-ref url="remedies.md" %} remedies.md {% endcontent-ref %} {% endstep %}
 
-{% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/scope-of-the-ucc.md" %}
-[scope-of-the-ucc.md](../contract-law-sales-contracts-and-warranties/scope-of-the-ucc.md)
-{% endcontent-ref %}
-{% endstep %}
+{% step %} {% content-ref url="the-parol-evidence-rule.md" %} the-parol-evidence-rule.md {% endcontent-ref %} {% endstep %}
 
-{% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/sales-contract-formation.md" %}
-[sales-contract-formation.md](../contract-law-sales-contracts-and-warranties/sales-contract-formation.md)
-{% endcontent-ref %}
-{% endstep %}
+{% step %} {% content-ref url="remedies-1.md" %} remedies-1.md {% endcontent-ref %} {% endstep %}
 
-{% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/performance.md" %}
-[performance.md](../contract-law-sales-contracts-and-warranties/performance.md)
-{% endcontent-ref %}
-{% endstep %}
-
-{% step %}
-{% content-ref url="../contract-law-sales-contracts-and-warranties/warranties/" %}
-[warranties](../contract-law-sales-contracts-and-warranties/warranties/)
-{% endcontent-ref %}
-{% endstep %}
-
-{% step %}
-
-{% endstep %}
-{% endstepper %}
+{% step %} {% content-ref url="conclusion.md" %} conclusion.md {% endcontent-ref %} {% endstep %} {% endstepper %}
